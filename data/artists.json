@@ -394,77 +394,6 @@
    }
   ]
  },
- "Doobie Brothers": {
-  "name": "Doobie Brothers",
-  "wiki_url": "https://en.wikipedia.org/wiki/The_Doobie_Brothers",
-  "summary": "The Doobie Brothers formed in San Jose, California, in 1970, led at first by Tom Johnston and Patrick Simmons. After Michael McDonald joined in 1975, their sound shifted from roots rock toward soft rock and blue-eyed soul. Black Water and What a Fool Believes both reached number one, and the band entered the Rock and Roll Hall of Fame in 2020.",
-  "studio_albums": [
-   {
-    "year": 1971,
-    "title": "The Doobie Brothers"
-   },
-   {
-    "year": 1972,
-    "title": "Toulouse Street"
-   },
-   {
-    "year": 1973,
-    "title": "The Captain and Me"
-   },
-   {
-    "year": 1974,
-    "title": "What Were Once Vices Are Now Habits"
-   },
-   {
-    "year": 1975,
-    "title": "Stampede"
-   },
-   {
-    "year": 1976,
-    "title": "Takin' It to the Streets"
-   },
-   {
-    "year": 1977,
-    "title": "Livin' on the Fault Line"
-   },
-   {
-    "year": 1978,
-    "title": "Minute by Minute"
-   },
-   {
-    "year": 1980,
-    "title": "One Step Closer"
-   },
-   {
-    "year": 1989,
-    "title": "Cycles"
-   },
-   {
-    "year": 1991,
-    "title": "Brotherhood"
-   },
-   {
-    "year": 2000,
-    "title": "Sibling Rivalry"
-   },
-   {
-    "year": 2010,
-    "title": "World Gone Crazy"
-   },
-   {
-    "year": 2014,
-    "title": "Southbound"
-   },
-   {
-    "year": 2021,
-    "title": "Liberté"
-   },
-   {
-    "year": 2025,
-    "title": "Walk This Road"
-   }
-  ]
- },
  "Ohio Players": {
   "name": "Ohio Players",
   "wiki_url": "https://en.wikipedia.org/wiki/Ohio_Players",
@@ -33708,6 +33637,1780 @@
    {
     "year": 2015,
     "title": "Compton"
+   }
+  ]
+ },
+ "Public Enemy": {
+  "name": "Public Enemy",
+  "wiki_url": "https://en.wikipedia.org/wiki/Public_Enemy",
+  "summary": "Hip-hop group formed in 1985 in Roosevelt, New York, led by Chuck D and Flavor Flav, with production from the Bomb Squad. Known for politically charged lyrics and dense sonic collages, they were inducted into the Rock and Roll Hall of Fame in 2013.",
+  "studio_albums": [
+   {
+    "year": 1987,
+    "title": "Yo! Bum Rush the Show"
+   },
+   {
+    "year": 1988,
+    "title": "It Takes a Nation of Millions to Hold Us Back"
+   },
+   {
+    "year": 1990,
+    "title": "Fear of a Black Planet"
+   },
+   {
+    "year": 1991,
+    "title": "Apocalypse 91... The Enemy Strikes Black"
+   },
+   {
+    "year": 1994,
+    "title": "Muse Sick-n-Hour Mess Age"
+   },
+   {
+    "year": 1999,
+    "title": "There's a Poison Goin' On"
+   },
+   {
+    "year": 2002,
+    "title": "Revolverlution"
+   },
+   {
+    "year": 2005,
+    "title": "New Whirl Odor"
+   },
+   {
+    "year": 2006,
+    "title": "Rebirth of a Nation"
+   },
+   {
+    "year": 2007,
+    "title": "How You Sell Soul to a Soulless People Who Sold Their Soul???"
+   },
+   {
+    "year": 2012,
+    "title": "Most of My Heroes Still Don't Appear on No Stamp"
+   },
+   {
+    "year": 2012,
+    "title": "The Evil Empire of Everything"
+   },
+   {
+    "year": 2015,
+    "title": "Man Plans God Laughs"
+   },
+   {
+    "year": 2017,
+    "title": "Nothing Is Quick in the Desert"
+   },
+   {
+    "year": 2020,
+    "title": "Loud Is Not Enough"
+   },
+   {
+    "year": 2020,
+    "title": "What You Gonna Do When the Grid Goes Down?"
+   },
+   {
+    "year": 2025,
+    "title": "Black Sky Over the Projects: Apartment 2025"
+   }
+  ]
+ },
+ "Fred Again..": {
+  "name": "Fred Again..",
+  "wiki_url": "https://en.wikipedia.org/wiki/Fred_Again",
+  "summary": "Stage name of Frederick Gibson, a London-born producer, songwriter, multi-instrumentalist and DJ born in 1993. Known for his Actual Life album series built from everyday recordings, he has won Grammys for Best Dance/Electronic Album and Recording.",
+  "studio_albums": [
+   {
+    "year": 2021,
+    "title": "Actual Life (April 14 – December 17 2020)"
+   },
+   {
+    "year": 2021,
+    "title": "Actual Life 2 (February 2 – October 15 2021)"
+   },
+   {
+    "year": 2022,
+    "title": "Actual Life 3 (January 1 – September 9 2022)"
+   },
+   {
+    "year": 2024,
+    "title": "Ten Days"
+   }
+  ]
+ },
+ "Sean Hayes": {
+  "name": "Sean Hayes",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sean_Hayes_(musician)",
+  "summary": "American folk and soul singer-songwriter born in New York City in 1969, raised in North Carolina and based in the San Francisco Bay Area. His song Powerful Stuff gained wide exposure through television and a car advertisement.",
+  "studio_albums": [
+   {
+    "year": 1999,
+    "title": "A Thousand Tiny Pieces"
+   },
+   {
+    "year": 2002,
+    "title": "Lunar Lust"
+   },
+   {
+    "year": 2003,
+    "title": "Alabama Chicken"
+   },
+   {
+    "year": 2006,
+    "title": "Big Black Hole and the Little Baby Star"
+   },
+   {
+    "year": 2007,
+    "title": "Flowering Spade"
+   },
+   {
+    "year": 2010,
+    "title": "Run Wolves Run"
+   },
+   {
+    "year": 2012,
+    "title": "Before We Turn to Dust"
+   },
+   {
+    "year": 2016,
+    "title": "Low Light"
+   },
+   {
+    "year": 2021,
+    "title": "Be Like Water"
+   }
+  ]
+ },
+ "Jimmy Smith": {
+  "name": "Jimmy Smith",
+  "wiki_url": "https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)",
+  "summary": "American jazz organist (1925–2005) who popularised the Hammond B-3 in jazz through prolific recordings for Blue Note and later Verve. His soul-jazz and funk-inflected style influenced generations of organists and was widely sampled in hip-hop.",
+  "studio_albums": [
+   {
+    "year": 1956,
+    "title": "A New Sound... A New Star..., Vol. 1"
+   },
+   {
+    "year": 1956,
+    "title": "A New Sound – A New Star, Vol. 2"
+   },
+   {
+    "year": 1956,
+    "title": "Jimmy Smith at the Organ"
+   },
+   {
+    "year": 1957,
+    "title": "A Date with Jimmy Smith, Volume One"
+   },
+   {
+    "year": 1957,
+    "title": "A Date with Jimmy Smith, Volume Two"
+   },
+   {
+    "year": 1957,
+    "title": "Jimmy Smith at the Organ, Volume 1"
+   },
+   {
+    "year": 1957,
+    "title": "Jimmy Smith at the Organ, Volume 2"
+   },
+   {
+    "year": 1957,
+    "title": "The Sounds of Jimmy Smith"
+   },
+   {
+    "year": 1957,
+    "title": "Plays Pretty Just for You"
+   },
+   {
+    "year": 1958,
+    "title": "House Party"
+   },
+   {
+    "year": 1959,
+    "title": "The Sermon!"
+   },
+   {
+    "year": 1960,
+    "title": "Crazy! Baby"
+   },
+   {
+    "year": 1961,
+    "title": "Home Cookin'"
+   },
+   {
+    "year": 1961,
+    "title": "Midnight Special"
+   },
+   {
+    "year": 1962,
+    "title": "Plays Fats Waller"
+   },
+   {
+    "year": 1962,
+    "title": "Bashin': The Unpredictable Jimmy Smith"
+   },
+   {
+    "year": 1963,
+    "title": "Back at the Chicken Shack"
+   },
+   {
+    "year": 1963,
+    "title": "Rockin' the Boat"
+   },
+   {
+    "year": 1963,
+    "title": "Hobo Flats"
+   },
+   {
+    "year": 1963,
+    "title": "Any Number Can Win"
+   },
+   {
+    "year": 1963,
+    "title": "Blue Bash!"
+   },
+   {
+    "year": 1964,
+    "title": "Prayer Meetin'"
+   },
+   {
+    "year": 1964,
+    "title": "Who's Afraid of Virginia Woolf?"
+   },
+   {
+    "year": 1964,
+    "title": "The Cat"
+   },
+   {
+    "year": 1964,
+    "title": "Christmas '64"
+   },
+   {
+    "year": 1965,
+    "title": "Softly as a Summer Breeze"
+   },
+   {
+    "year": 1965,
+    "title": "Monster"
+   },
+   {
+    "year": 1965,
+    "title": "Organ Grinder Swing"
+   },
+   {
+    "year": 1966,
+    "title": "Bucket!"
+   },
+   {
+    "year": 1966,
+    "title": "Got My Mojo Workin'"
+   },
+   {
+    "year": 1966,
+    "title": "Peter & the Wolf"
+   },
+   {
+    "year": 1966,
+    "title": "Hoochie Coochie Man"
+   },
+   {
+    "year": 1966,
+    "title": "Jimmy & Wes: The Dynamic Duo"
+   },
+   {
+    "year": 1966,
+    "title": "Swings Along with Stranger in Paradise"
+   },
+   {
+    "year": 1967,
+    "title": "I'm Movin' On"
+   },
+   {
+    "year": 1967,
+    "title": "Respect"
+   },
+   {
+    "year": 1968,
+    "title": "Open House"
+   },
+   {
+    "year": 1968,
+    "title": "Plain Talk"
+   },
+   {
+    "year": 1968,
+    "title": "Stay Loose"
+   },
+   {
+    "year": 1968,
+    "title": "Livin' It Up!"
+   },
+   {
+    "year": 1968,
+    "title": "Further Adventures of Jimmy and Wes"
+   },
+   {
+    "year": 1970,
+    "title": "Groove Drops"
+   },
+   {
+    "year": 1970,
+    "title": "I'm Gon' Git Myself Together"
+   },
+   {
+    "year": 1970,
+    "title": "The Other Side of Jimmy Smith"
+   },
+   {
+    "year": 1971,
+    "title": "In a Plain Brown Wrapper"
+   },
+   {
+    "year": 1972,
+    "title": "Bluesmith"
+   },
+   {
+    "year": 1973,
+    "title": "Portuguese Soul"
+   },
+   {
+    "year": 1974,
+    "title": "Black Smith"
+   },
+   {
+    "year": 1974,
+    "title": "Paid in Full"
+   },
+   {
+    "year": 1975,
+    "title": "Jimmy Smith '75"
+   },
+   {
+    "year": 1977,
+    "title": "Sit on It!"
+   },
+   {
+    "year": 1978,
+    "title": "Unfinished Business"
+   },
+   {
+    "year": 1979,
+    "title": "Confirmation"
+   },
+   {
+    "year": 1979,
+    "title": "Jimmy Smith Plays for the People"
+   },
+   {
+    "year": 1980,
+    "title": "The Cat Strikes Again"
+   },
+   {
+    "year": 1981,
+    "title": "On the Sunny Side"
+   },
+   {
+    "year": 1981,
+    "title": "Second Coming"
+   },
+   {
+    "year": 1982,
+    "title": "Off the Top"
+   },
+   {
+    "year": 1984,
+    "title": "Special Guests"
+   },
+   {
+    "year": 1985,
+    "title": "Jimmy Smith Trio + LD"
+   },
+   {
+    "year": 1986,
+    "title": "Go for Whatcha Know"
+   },
+   {
+    "year": 1989,
+    "title": "Prime Time"
+   },
+   {
+    "year": 1993,
+    "title": "Sum Serious Blues"
+   },
+   {
+    "year": 1995,
+    "title": "Damn!"
+   },
+   {
+    "year": 1996,
+    "title": "Cherokee"
+   },
+   {
+    "year": 1996,
+    "title": "Lonesome Road"
+   },
+   {
+    "year": 1996,
+    "title": "Angel Eyes: Ballads & Slow Jams"
+   },
+   {
+    "year": 1998,
+    "title": "Standards"
+   },
+   {
+    "year": 1999,
+    "title": "Six Views of the Blues"
+   },
+   {
+    "year": 2001,
+    "title": "Dot Com Blues"
+   },
+   {
+    "year": 2002,
+    "title": "Daybreak"
+   },
+   {
+    "year": 2007,
+    "title": "Straight Life"
+   }
+  ]
+ },
+ "Eddie Hazel": {
+  "name": "Eddie Hazel",
+  "wiki_url": "https://en.wikipedia.org/wiki/Eddie_Hazel",
+  "summary": "American guitarist (1950–1992) and early member of Parliament-Funkadelic, best known for his extended solo on Funkadelic's Maggot Brain. He was posthumously inducted into the Rock and Roll Hall of Fame with the collective in 1997.",
+  "studio_albums": [
+   {
+    "year": 1977,
+    "title": "Game, Dames and Guitar Thangs"
+   }
+  ]
+ },
+ "Katie Skene": {
+  "name": "Katie Skene",
+  "wiki_url": null,
+  "summary": "Blues and Americana singer, guitarist and songwriter from Tallahassee, Florida, now based in Ventura, California. She leads the Katie Skene Band, which mixes swamp blues and Southern rock with jam-band psychedelia, and released the EP Toward the Tide in 2023.",
+  "studio_albums": [
+   {
+    "year": 2025,
+    "title": "Symmetry of Wildflowers"
+   }
+  ]
+ },
+ "Otis Redding": {
+  "name": "Otis Redding",
+  "wiki_url": "https://en.wikipedia.org/wiki/Otis_Redding",
+  "summary": "American soul singer (1941–1967) from Georgia who recorded for Stax and its Volt imprint. After a celebrated Monterey Pop set, he died in a plane crash in 1967; (Sittin' On) The Dock of the Bay then became the first posthumous US number-one single.",
+  "studio_albums": [
+   {
+    "year": 1964,
+    "title": "Pain in My Heart"
+   },
+   {
+    "year": 1965,
+    "title": "The Great Otis Redding Sings Soul Ballads"
+   },
+   {
+    "year": 1965,
+    "title": "Otis Blue/Otis Redding Sings Soul"
+   },
+   {
+    "year": 1966,
+    "title": "The Soul Album"
+   },
+   {
+    "year": 1966,
+    "title": "Complete & Unbelievable: The Otis Redding Dictionary of Soul"
+   },
+   {
+    "year": 1967,
+    "title": "King & Queen"
+   },
+   {
+    "year": 1968,
+    "title": "The Dock of the Bay"
+   },
+   {
+    "year": 1968,
+    "title": "The Immortal Otis Redding"
+   },
+   {
+    "year": 1969,
+    "title": "Love Man"
+   },
+   {
+    "year": 1970,
+    "title": "Tell the Truth"
+   }
+  ]
+ },
+ "Iggy Pop": {
+  "name": "Iggy Pop",
+  "wiki_url": "https://en.wikipedia.org/wiki/Iggy_Pop",
+  "summary": "American singer born James Osterberg in Michigan in 1947, who fronted the proto-punk band the Stooges and is often called the godfather of punk. His solo career began with two 1977 albums co-produced by David Bowie, and he received a Grammy Lifetime Achievement Award in 2020.",
+  "studio_albums": [
+   {
+    "year": 1977,
+    "title": "The Idiot"
+   },
+   {
+    "year": 1977,
+    "title": "Lust for Life"
+   },
+   {
+    "year": 1977,
+    "title": "Kill City"
+   },
+   {
+    "year": 1979,
+    "title": "New Values"
+   },
+   {
+    "year": 1980,
+    "title": "Soldier"
+   },
+   {
+    "year": 1981,
+    "title": "Party"
+   },
+   {
+    "year": 1982,
+    "title": "Zombie Birdhouse"
+   },
+   {
+    "year": 1986,
+    "title": "Blah-Blah-Blah"
+   },
+   {
+    "year": 1988,
+    "title": "Instinct"
+   },
+   {
+    "year": 1990,
+    "title": "Brick by Brick"
+   },
+   {
+    "year": 1993,
+    "title": "American Caesar"
+   },
+   {
+    "year": 1996,
+    "title": "Naughty Little Doggie"
+   },
+   {
+    "year": 1999,
+    "title": "Avenue B"
+   },
+   {
+    "year": 2001,
+    "title": "Beat 'Em Up"
+   },
+   {
+    "year": 2003,
+    "title": "Skull Ring"
+   },
+   {
+    "year": 2009,
+    "title": "Préliminaires"
+   },
+   {
+    "year": 2012,
+    "title": "Après"
+   },
+   {
+    "year": 2016,
+    "title": "Post Pop Depression"
+   },
+   {
+    "year": 2019,
+    "title": "Free"
+   },
+   {
+    "year": 2023,
+    "title": "Every Loser"
+   }
+  ]
+ },
+ "Sorcha Richardson": {
+  "name": "Sorcha Richardson",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sorcha_Richardson",
+  "summary": "Irish singer-songwriter born in Dublin in 1990, working across indie pop, lo-fi and folk-influenced styles. After several EPs she released her debut album First Prize Bravery in 2019.",
+  "studio_albums": [
+   {
+    "year": 2019,
+    "title": "First Prize Bravery"
+   },
+   {
+    "year": 2022,
+    "title": "Smiling Like an Idiot"
+   },
+   {
+    "year": 2026,
+    "title": "Draw the Outline"
+   }
+  ]
+ },
+ "Snow Patrol": {
+  "name": "Snow Patrol",
+  "wiki_url": "https://en.wikipedia.org/wiki/Snow_Patrol",
+  "summary": "Alternative rock band from Northern Ireland and Scotland, formed in 1994 by Gary Lightbody and friends. They broke through with Final Straw and the single Run, and Chasing Cars became a major international hit; the band has sold over ten million albums.",
+  "studio_albums": [
+   {
+    "year": 1998,
+    "title": "Songs for Polarbears"
+   },
+   {
+    "year": 2001,
+    "title": "When It's All Over We Still Have to Clear Up"
+   },
+   {
+    "year": 2003,
+    "title": "Final Straw"
+   },
+   {
+    "year": 2006,
+    "title": "Eyes Open"
+   },
+   {
+    "year": 2008,
+    "title": "A Hundred Million Suns"
+   },
+   {
+    "year": 2011,
+    "title": "Fallen Empires"
+   },
+   {
+    "year": 2018,
+    "title": "Wildness"
+   },
+   {
+    "year": 2024,
+    "title": "The Forest Is the Path"
+   }
+  ]
+ },
+ "Byland": {
+  "name": "Byland",
+  "wiki_url": null,
+  "summary": "Indie rock project of singer, songwriter and multi-instrumentalist Alie Byland, who grew up in New Mexico and is based in Seattle, working with her husband Jake Byland. Their cinematic sound has earned film and TV placements through Mother West.",
+  "studio_albums": [
+   {
+    "year": 2018,
+    "title": "Desert Days"
+   },
+   {
+    "year": 2020,
+    "title": "Gray"
+   },
+   {
+    "year": 2024,
+    "title": "Heavy For A While"
+   }
+  ]
+ },
+ "Wang Chung": {
+  "name": "Wang Chung",
+  "wiki_url": "https://en.wikipedia.org/wiki/Wang_Chung_(band)",
+  "summary": "English new wave band formed in London in 1980 by Jack Hues, Nick Feldman and Darren Costin, originally spelled Huang Chung. They scored 1980s US hits including Dance Hall Days and Everybody Have Fun Tonight.",
+  "studio_albums": [
+   {
+    "year": 1982,
+    "title": "Huang Chung"
+   },
+   {
+    "year": 1984,
+    "title": "Points on the Curve"
+   },
+   {
+    "year": 1985,
+    "title": "To Live and Die in L.A."
+   },
+   {
+    "year": 1986,
+    "title": "Mosaic"
+   },
+   {
+    "year": 1989,
+    "title": "The Warmer Side of Cool"
+   },
+   {
+    "year": 2012,
+    "title": "Tazer Up!"
+   },
+   {
+    "year": 2019,
+    "title": "Orchesography"
+   }
+  ]
+ },
+ "Sheer Mag": {
+  "name": "Sheer Mag",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sheer_Mag",
+  "summary": "Philadelphia rock band formed in 2014, fronted by singer Tina Halladay with Kyle Seely, Hart Seely and Matt Palmer. Their sound blends 1970s hard rock and power pop with a punk, DIY approach.",
+  "studio_albums": [
+   {
+    "year": 2017,
+    "title": "Need to Feel Your Love"
+   },
+   {
+    "year": 2019,
+    "title": "A Distant Call"
+   },
+   {
+    "year": 2024,
+    "title": "Playing Favorites"
+   }
+  ]
+ },
+ "Berlin": {
+  "name": "Berlin",
+  "wiki_url": "https://en.wikipedia.org/wiki/Berlin_(band)",
+  "summary": "American new wave and synth-pop band from Los Angeles fronted by singer Terri Nunn. They had early 1980s hits such as The Metro and Sex (I'm a...), and reached No. 1 with Take My Breath Away from the Top Gun soundtrack.",
+  "studio_albums": [
+   {
+    "year": 1980,
+    "title": "Information"
+   },
+   {
+    "year": 1982,
+    "title": "Pleasure Victim"
+   },
+   {
+    "year": 1984,
+    "title": "Love Life"
+   },
+   {
+    "year": 1986,
+    "title": "Count Three & Pray"
+   },
+   {
+    "year": 2002,
+    "title": "Voyeur"
+   },
+   {
+    "year": 2005,
+    "title": "4play"
+   },
+   {
+    "year": 2013,
+    "title": "Animal"
+   },
+   {
+    "year": 2019,
+    "title": "Transcendance"
+   },
+   {
+    "year": 2020,
+    "title": "Strings Attached"
+   }
+  ]
+ },
+ "Thompson Twins": {
+  "name": "Thompson Twins",
+  "wiki_url": "https://en.wikipedia.org/wiki/Thompson_Twins",
+  "summary": "British pop and new wave group formed in Sheffield in 1977, best known as the trio of Tom Bailey, Alannah Currie and Joe Leeway. Their mid-1980s hits included Hold Me Now, Doctor! Doctor! and You Take Me Up; they later became Babble.",
+  "studio_albums": [
+   {
+    "year": 1981,
+    "title": "A Product Of... (Participation)"
+   },
+   {
+    "year": 1982,
+    "title": "Set"
+   },
+   {
+    "year": 1983,
+    "title": "Quick Step & Side Kick"
+   },
+   {
+    "year": 1984,
+    "title": "Into the Gap"
+   },
+   {
+    "year": 1985,
+    "title": "Here's to Future Days"
+   },
+   {
+    "year": 1987,
+    "title": "Close to the Bone"
+   },
+   {
+    "year": 1989,
+    "title": "Big Trash"
+   },
+   {
+    "year": 1991,
+    "title": "Queer"
+   }
+  ]
+ },
+ "Snoop Dogg": {
+  "name": "Snoop Dogg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Snoop_Dogg",
+  "summary": "American rapper born Calvin Broadus Jr. in Long Beach, California, who rose to fame through Dr. Dre's The Chronic before his 1993 debut Doggystyle. He has released a long run of albums, briefly recording reggae as Snoop Lion, and is a prominent media personality.",
+  "studio_albums": [
+   {
+    "year": 1993,
+    "title": "Doggystyle"
+   },
+   {
+    "year": 1996,
+    "title": "Tha Doggfather"
+   },
+   {
+    "year": 1998,
+    "title": "Da Game Is to Be Sold, Not to Be Told"
+   },
+   {
+    "year": 1999,
+    "title": "No Limit Top Dogg"
+   },
+   {
+    "year": 2000,
+    "title": "Tha Last Meal"
+   },
+   {
+    "year": 2002,
+    "title": "Paid tha Cost to Be da Boss"
+   },
+   {
+    "year": 2004,
+    "title": "R&G (Rhythm & Gangsta): The Masterpiece"
+   },
+   {
+    "year": 2006,
+    "title": "Tha Blue Carpet Treatment"
+   },
+   {
+    "year": 2008,
+    "title": "Ego Trippin'"
+   },
+   {
+    "year": 2009,
+    "title": "Malice n Wonderland"
+   },
+   {
+    "year": 2011,
+    "title": "Doggumentary"
+   },
+   {
+    "year": 2013,
+    "title": "Reincarnated"
+   },
+   {
+    "year": 2015,
+    "title": "Bush"
+   },
+   {
+    "year": 2016,
+    "title": "Coolaid"
+   },
+   {
+    "year": 2017,
+    "title": "Neva Left"
+   },
+   {
+    "year": 2018,
+    "title": "Bible of Love"
+   },
+   {
+    "year": 2019,
+    "title": "I Wanna Thank Me"
+   },
+   {
+    "year": 2021,
+    "title": "From tha Streets 2 tha Suites"
+   },
+   {
+    "year": 2022,
+    "title": "BODR"
+   },
+   {
+    "year": 2024,
+    "title": "Missionary"
+   },
+   {
+    "year": 2025,
+    "title": "Iz It a Crime?"
+   },
+   {
+    "year": 2026,
+    "title": "10 Til' Midnight"
+   }
+  ]
+ },
+ "Bad Brains": {
+  "name": "Bad Brains",
+  "wiki_url": "https://en.wikipedia.org/wiki/Bad_Brains",
+  "summary": "Washington, D.C. band formed in the late 1970s and regarded as hardcore punk pioneers. Fronted by singer H.R., they combined extremely fast punk with reggae and later added funk and metal elements.",
+  "studio_albums": [
+   {
+    "year": 1982,
+    "title": "Bad Brains"
+   },
+   {
+    "year": 1983,
+    "title": "Rock for Light"
+   },
+   {
+    "year": 1986,
+    "title": "I Against I"
+   },
+   {
+    "year": 1989,
+    "title": "Quickness"
+   },
+   {
+    "year": 1993,
+    "title": "Rise"
+   },
+   {
+    "year": 1995,
+    "title": "God of Love"
+   },
+   {
+    "year": 2002,
+    "title": "I & I Survived"
+   },
+   {
+    "year": 2007,
+    "title": "Build a Nation"
+   },
+   {
+    "year": 2012,
+    "title": "Into the Future"
+   }
+  ]
+ },
+ "X": {
+  "name": "X",
+  "wiki_url": "https://en.wikipedia.org/wiki/X_(American_band)",
+  "summary": "Los Angeles punk band formed in 1977 by John Doe and Billy Zoom with singer Exene Cervenka and drummer D. J. Bonebrake. Known for early albums such as Los Angeles and Wild Gift, they reunited for later records, with Smoke & Fiction billed as their last.",
+  "studio_albums": [
+   {
+    "year": 1980,
+    "title": "Los Angeles"
+   },
+   {
+    "year": 1981,
+    "title": "Wild Gift"
+   },
+   {
+    "year": 1982,
+    "title": "Under the Big Black Sun"
+   },
+   {
+    "year": 1983,
+    "title": "More Fun in the New World"
+   },
+   {
+    "year": 1985,
+    "title": "Ain't Love Grand!"
+   },
+   {
+    "year": 1987,
+    "title": "See How We Are"
+   },
+   {
+    "year": 1993,
+    "title": "Hey Zeus!"
+   },
+   {
+    "year": 2020,
+    "title": "Alphabetland"
+   },
+   {
+    "year": 2024,
+    "title": "Smoke & Fiction"
+   }
+  ]
+ },
+ "Viagra Boys": {
+  "name": "Viagra Boys",
+  "wiki_url": "https://en.wikipedia.org/wiki/Viagra_Boys",
+  "summary": "Stockholm post-punk band formed in 2015 and fronted by American-born singer Sebastian Murphy. Their sardonic, saxophone-laced mix of punk, garage and dance rhythms has drawn a growing international following.",
+  "studio_albums": [
+   {
+    "year": 2018,
+    "title": "Street Worms"
+   },
+   {
+    "year": 2021,
+    "title": "Welfare Jazz"
+   },
+   {
+    "year": 2022,
+    "title": "Cave World"
+   },
+   {
+    "year": 2025,
+    "title": "Viagr Aboys"
+   }
+  ]
+ },
+ "Remi Wolf": {
+  "name": "Remi Wolf",
+  "wiki_url": "https://en.wikipedia.org/wiki/Remi_Wolf",
+  "summary": "American singer-songwriter born in 1996 and raised in Palo Alto, California, now based in Los Angeles. Signed to Island Records, she makes colourful pop mixing funk and soul, and gained attention with Hello Hello Hello before releasing full-length albums.",
+  "studio_albums": [
+   {
+    "year": 2021,
+    "title": "Juno"
+   },
+   {
+    "year": 2024,
+    "title": "Big Ideas"
+   },
+   {
+    "year": 2026,
+    "title": "Mud"
+   }
+  ]
+ },
+ "Regina Spektor": {
+  "name": "Regina Spektor",
+  "wiki_url": "https://en.wikipedia.org/wiki/Regina_Spektor",
+  "summary": "Moscow-born singer-songwriter and pianist who moved to New York as a child and emerged from the East Village anti-folk scene. Signed to Sire in 2004, she is known for idiosyncratic vocals and story-like lyrics, with Far and What We Saw from the Cheap Seats both reaching the US top three.",
+  "studio_albums": [
+   {
+    "year": 2001,
+    "title": "11:11"
+   },
+   {
+    "year": 2002,
+    "title": "Songs"
+   },
+   {
+    "year": 2003,
+    "title": "Soviet Kitsch"
+   },
+   {
+    "year": 2006,
+    "title": "Begin to Hope"
+   },
+   {
+    "year": 2009,
+    "title": "Far"
+   },
+   {
+    "year": 2012,
+    "title": "What We Saw from the Cheap Seats"
+   },
+   {
+    "year": 2016,
+    "title": "Remember Us to Life"
+   },
+   {
+    "year": 2022,
+    "title": "Home, Before and After"
+   }
+  ]
+ },
+ "Sofi Tukker": {
+  "name": "Sofi Tukker",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sofi_Tukker",
+  "summary": "New York dance-music duo of Sophie Hawley-Weld and Tucker Halpern, who met at Brown University around 2014. Their house-influenced songs have earned Grammy nominations, including for the single Drinkee and the album Treehouse.",
+  "studio_albums": [
+   {
+    "year": 2018,
+    "title": "Treehouse"
+   },
+   {
+    "year": 2022,
+    "title": "Wet Tennis"
+   },
+   {
+    "year": 2024,
+    "title": "Bread"
+   },
+   {
+    "year": 2025,
+    "title": "butter"
+   }
+  ]
+ },
+ "Turnstile": {
+  "name": "Turnstile",
+  "wiki_url": "https://en.wikipedia.org/wiki/Turnstile_(band)",
+  "summary": "Hardcore band formed in Baltimore in 2010, fronted by Brendan Yates. Their genre-stretching approach reached a broad audience with Glow On, whose songs drew several Grammy nominations.",
+  "studio_albums": [
+   {
+    "year": 2015,
+    "title": "Nonstop Feeling"
+   },
+   {
+    "year": 2018,
+    "title": "Time & Space"
+   },
+   {
+    "year": 2021,
+    "title": "Glow On"
+   },
+   {
+    "year": 2025,
+    "title": "Never Enough"
+   }
+  ]
+ },
+ "Deborah Harry": {
+  "name": "Deborah Harry",
+  "wiki_url": "https://en.wikipedia.org/wiki/Debbie_Harry",
+  "summary": "American singer and actress, also credited as Debbie Harry, best known as the lead vocalist of New York band Blondie. Alongside the band she has made several solo albums from the 1980s onward and appeared in numerous films.",
+  "studio_albums": [
+   {
+    "year": 1981,
+    "title": "KooKoo"
+   },
+   {
+    "year": 1986,
+    "title": "Rockbird"
+   },
+   {
+    "year": 1989,
+    "title": "Def, Dumb & Blonde"
+   },
+   {
+    "year": 1993,
+    "title": "Debravation"
+   },
+   {
+    "year": 2007,
+    "title": "Necessary Evil"
+   }
+  ]
+ },
+ "Haim": {
+  "name": "Haim",
+  "wiki_url": "https://en.wikipedia.org/wiki/Haim_(band)",
+  "summary": "Los Angeles rock band formed in 2007 by sisters Este, Danielle and Alana Haim. Their pop rock and soft rock sound, with R&B influences, has earned Grammy nominations including Best New Artist and Album of the Year.",
+  "studio_albums": [
+   {
+    "year": 2013,
+    "title": "Days Are Gone"
+   },
+   {
+    "year": 2017,
+    "title": "Something to Tell You"
+   },
+   {
+    "year": 2020,
+    "title": "Women in Music Pt. III"
+   },
+   {
+    "year": 2025,
+    "title": "I Quit"
+   }
+  ]
+ },
+ "Lorde": {
+  "name": "Lorde",
+  "wiki_url": "https://en.wikipedia.org/wiki/Lorde",
+  "summary": "New Zealand singer-songwriter born Ella Yelich-O'Connor in 1996 in Auckland. She broke through as a teenager with Royals, which topped the US chart and won two Grammys, and has since released several acclaimed albums.",
+  "studio_albums": [
+   {
+    "year": 2013,
+    "title": "Pure Heroine"
+   },
+   {
+    "year": 2017,
+    "title": "Melodrama"
+   },
+   {
+    "year": 2021,
+    "title": "Solar Power"
+   },
+   {
+    "year": 2025,
+    "title": "Virgin"
+   }
+  ]
+ },
+ "Misfits": {
+  "name": "Misfits",
+  "wiki_url": "https://en.wikipedia.org/wiki/Misfits_(band)",
+  "summary": "American punk band formed in Lodi, New Jersey, in 1977 by Glenn Danzig. They are credited with pioneering horror punk, and after splitting in 1983 the group was revived in the 1990s with a different lineup.",
+  "studio_albums": [
+   {
+    "year": 1982,
+    "title": "Walk Among Us"
+   },
+   {
+    "year": 1983,
+    "title": "Earth A.D./Wolfs Blood"
+   },
+   {
+    "year": 1997,
+    "title": "American Psycho"
+   },
+   {
+    "year": 1997,
+    "title": "Static Age"
+   },
+   {
+    "year": 1999,
+    "title": "Famous Monsters"
+   },
+   {
+    "year": 2003,
+    "title": "Project 1950"
+   },
+   {
+    "year": 2011,
+    "title": "The Devil's Rain"
+   }
+  ]
+ },
+ "Hozier": {
+  "name": "Hozier",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hozier",
+  "summary": "Stage name of Andrew Hozier-Byrne, an Irish singer-songwriter from County Wicklow. He rose to international fame in 2013 with Take Me to Church and has since released three studio albums blending soul, blues and folk.",
+  "studio_albums": [
+   {
+    "year": 2014,
+    "title": "Hozier"
+   },
+   {
+    "year": 2019,
+    "title": "Wasteland, Baby!"
+   },
+   {
+    "year": 2023,
+    "title": "Unreal Unearth"
+   }
+  ]
+ },
+ "BØRNS": {
+  "name": "BØRNS",
+  "wiki_url": "https://en.wikipedia.org/wiki/B%C3%B8rns",
+  "summary": "Project of American singer and multi-instrumentalist Garrett Borns from Michigan. He gained attention with the single Electric Love and has released two studio albums of glam-tinged indie pop.",
+  "studio_albums": [
+   {
+    "year": 2015,
+    "title": "Dopamine"
+   },
+   {
+    "year": 2018,
+    "title": "Blue Madonna"
+   }
+  ]
+ },
+ "Hüsker Dü": {
+  "name": "Hüsker Dü",
+  "wiki_url": "https://en.wikipedia.org/wiki/H%C3%BCsker_D%C3%BC",
+  "summary": "Hardcore punk trio from Saint Paul, Minnesota, consisting of Bob Mould, Grant Hart and Greg Norton. Active from 1979 to 1988, they moved toward melodic rock and strongly influenced later alternative music.",
+  "studio_albums": [
+   {
+    "year": 1983,
+    "title": "Everything Falls Apart"
+   },
+   {
+    "year": 1984,
+    "title": "Zen Arcade"
+   },
+   {
+    "year": 1985,
+    "title": "New Day Rising"
+   },
+   {
+    "year": 1985,
+    "title": "Flip Your Wig"
+   },
+   {
+    "year": 1986,
+    "title": "Candy Apple Grey"
+   },
+   {
+    "year": 1987,
+    "title": "Warehouse: Songs and Stories"
+   }
+  ]
+ },
+ "X-Ray Spex": {
+  "name": "X-Ray Spex",
+  "wiki_url": "https://en.wikipedia.org/wiki/X-Ray_Spex",
+  "summary": "London punk band formed in 1976 and fronted by singer Poly Styrene, known for saxophone-driven songs critiquing consumerism. They split in 1979 and reunited briefly in the 1990s and in 2008.",
+  "studio_albums": [
+   {
+    "year": 1978,
+    "title": "Germfree Adolescents"
+   },
+   {
+    "year": 1995,
+    "title": "Conscious Consumer"
+   }
+  ]
+ },
+ "David Byrne": {
+  "name": "David Byrne",
+  "wiki_url": "https://en.wikipedia.org/wiki/David_Byrne",
+  "summary": "Scottish-born American musician and artist who co-founded and led Talking Heads. His solo career spans world-music-influenced records, film scores, theater work and collaborations with Brian Eno, St. Vincent and Ghost Train Orchestra.",
+  "studio_albums": [
+   {
+    "year": 1981,
+    "title": "My Life in the Bush of Ghosts"
+   },
+   {
+    "year": 1989,
+    "title": "Rei Momo"
+   },
+   {
+    "year": 1992,
+    "title": "Uh-Oh"
+   },
+   {
+    "year": 1994,
+    "title": "David Byrne"
+   },
+   {
+    "year": 1997,
+    "title": "Feelings"
+   },
+   {
+    "year": 2001,
+    "title": "Look into the Eyeball"
+   },
+   {
+    "year": 2004,
+    "title": "Grown Backwards"
+   },
+   {
+    "year": 2008,
+    "title": "Everything That Happens Will Happen Today"
+   },
+   {
+    "year": 2012,
+    "title": "Love This Giant"
+   },
+   {
+    "year": 2018,
+    "title": "American Utopia"
+   },
+   {
+    "year": 2025,
+    "title": "Who Is the Sky?"
+   }
+  ]
+ },
+ "Jungle": {
+  "name": "Jungle",
+  "wiki_url": "https://en.wikipedia.org/wiki/Jungle_(band)",
+  "summary": "London electronic and soul collective founded in 2013 by Josh Lloyd-Watson and Tom McFarland, with Lydia Kitto joining as a full member in 2023. They are known for falsetto-led funk grooves and choreographed videos.",
+  "studio_albums": [
+   {
+    "year": 2014,
+    "title": "Jungle"
+   },
+   {
+    "year": 2018,
+    "title": "For Ever"
+   },
+   {
+    "year": 2021,
+    "title": "Loving in Stereo"
+   },
+   {
+    "year": 2023,
+    "title": "Volcano"
+   },
+   {
+    "year": 2026,
+    "title": "Sunshine"
+   }
+  ]
+ },
+ "The Bangles": {
+  "name": "The Bangles",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_Bangles",
+  "summary": "All-female rock band from Los Angeles, formed in 1981 and associated with the Paisley Underground scene. They had major 1980s hits including Manic Monday, Walk Like an Egyptian and Eternal Flame, later reuniting to record new material.",
+  "studio_albums": [
+   {
+    "year": 1984,
+    "title": "All Over the Place"
+   },
+   {
+    "year": 1986,
+    "title": "Different Light"
+   },
+   {
+    "year": 1988,
+    "title": "Everything"
+   },
+   {
+    "year": 2003,
+    "title": "Doll Revolution"
+   },
+   {
+    "year": 2011,
+    "title": "Sweetheart of the Sun"
+   }
+  ]
+ },
+ "Steve Miller Band": {
+  "name": "Steve Miller Band",
+  "wiki_url": "https://en.wikipedia.org/wiki/Steve_Miller_Band",
+  "summary": "An American rock group founded in San Francisco in 1966 and led by guitarist and singer Steve Miller. Starting in blues and psychedelic rock before moving toward pop rock, it scored hits such as The Joker, Fly Like an Eagle, Rock'n Me and Abracadabra.",
+  "studio_albums": [
+   {
+    "year": 1968,
+    "title": "Children of the Future"
+   },
+   {
+    "year": 1968,
+    "title": "Sailor"
+   },
+   {
+    "year": 1969,
+    "title": "Brave New World"
+   },
+   {
+    "year": 1969,
+    "title": "Your Saving Grace"
+   },
+   {
+    "year": 1970,
+    "title": "Number 5"
+   },
+   {
+    "year": 1971,
+    "title": "Rock Love"
+   },
+   {
+    "year": 1972,
+    "title": "Recall the Beginning...A Journey from Eden"
+   },
+   {
+    "year": 1973,
+    "title": "The Joker"
+   },
+   {
+    "year": 1976,
+    "title": "Fly Like an Eagle"
+   },
+   {
+    "year": 1977,
+    "title": "Book of Dreams"
+   },
+   {
+    "year": 1981,
+    "title": "Circle of Love"
+   },
+   {
+    "year": 1982,
+    "title": "Abracadabra"
+   },
+   {
+    "year": 1984,
+    "title": "Italian X Rays"
+   },
+   {
+    "year": 1986,
+    "title": "Living in the 20th Century"
+   },
+   {
+    "year": 1988,
+    "title": "Born 2 B Blue"
+   },
+   {
+    "year": 1993,
+    "title": "Wide River"
+   },
+   {
+    "year": 2010,
+    "title": "Bingo!"
+   },
+   {
+    "year": 2011,
+    "title": "Let Your Hair Down"
+   }
+  ]
+ },
+ "Billie Eilish": {
+  "name": "Billie Eilish",
+  "wiki_url": "https://en.wikipedia.org/wiki/Billie_Eilish",
+  "summary": "An American singer-songwriter born in Los Angeles in 2001 who writes and records with her brother Finneas O'Connell. Bad Guy made her the first artist born this century to top the Hot 100, and she has won multiple Grammys and two Academy Awards.",
+  "studio_albums": [
+   {
+    "year": 2019,
+    "title": "When We All Fall Asleep, Where Do We Go?"
+   },
+   {
+    "year": 2021,
+    "title": "Happier Than Ever"
+   },
+   {
+    "year": 2024,
+    "title": "Hit Me Hard and Soft"
+   }
+  ]
+ },
+ "Scorpions": {
+  "name": "Scorpions",
+  "wiki_url": "https://en.wikipedia.org/wiki/Scorpions_(band)",
+  "summary": "A German hard rock and heavy metal band started in Hanover in 1965 by guitarist Rudolf Schenker. Known for Rock You Like a Hurricane, Still Loving You and Wind of Change, the group is estimated to have sold more than 100 million records.",
+  "studio_albums": [
+   {
+    "year": 1972,
+    "title": "Lonesome Crow"
+   },
+   {
+    "year": 1974,
+    "title": "Fly to the Rainbow"
+   },
+   {
+    "year": 1975,
+    "title": "In Trance"
+   },
+   {
+    "year": 1976,
+    "title": "Virgin Killer"
+   },
+   {
+    "year": 1977,
+    "title": "Taken by Force"
+   },
+   {
+    "year": 1979,
+    "title": "Lovedrive"
+   },
+   {
+    "year": 1980,
+    "title": "Animal Magnetism"
+   },
+   {
+    "year": 1982,
+    "title": "Blackout"
+   },
+   {
+    "year": 1984,
+    "title": "Love at First Sting"
+   },
+   {
+    "year": 1988,
+    "title": "Savage Amusement"
+   },
+   {
+    "year": 1990,
+    "title": "Crazy World"
+   },
+   {
+    "year": 1993,
+    "title": "Face the Heat"
+   },
+   {
+    "year": 1996,
+    "title": "Pure Instinct"
+   },
+   {
+    "year": 1999,
+    "title": "Eye II Eye"
+   },
+   {
+    "year": 2004,
+    "title": "Unbreakable"
+   },
+   {
+    "year": 2007,
+    "title": "Humanity: Hour I"
+   },
+   {
+    "year": 2010,
+    "title": "Sting in the Tail"
+   },
+   {
+    "year": 2015,
+    "title": "Return to Forever"
+   },
+   {
+    "year": 2022,
+    "title": "Rock Believer"
+   }
+  ]
+ },
+ "George Michael": {
+  "name": "George Michael",
+  "wiki_url": "https://en.wikipedia.org/wiki/George_Michael",
+  "summary": "An English singer and songwriter (1963-2016) born Georgios Kyriacos Panayiotou in London. He first found fame in the duo Wham! with Andrew Ridgeley, then launched a hugely successful solo career with Faith in 1987, selling well over 100 million records overall.",
+  "studio_albums": [
+   {
+    "year": 1987,
+    "title": "Faith"
+   },
+   {
+    "year": 1990,
+    "title": "Listen Without Prejudice Vol. 1"
+   },
+   {
+    "year": 1996,
+    "title": "Older"
+   },
+   {
+    "year": 1999,
+    "title": "Songs from the Last Century"
+   },
+   {
+    "year": 2004,
+    "title": "Patience"
+   }
+  ]
+ },
+ "Nicole Zuraitis": {
+  "name": "Nicole Zuraitis",
+  "wiki_url": "https://en.wikipedia.org/wiki/Nicole_Zuraitis",
+  "summary": "An American jazz singer, pianist, composer and arranger from Waterbury, Connecticut, active since 2007. She won the Grammy for Best Jazz Vocal Album with How Love Begins and a second Grammy for a large-ensemble record with her husband, drummer Dan Pugach.",
+  "studio_albums": [
+   {
+    "year": 2008,
+    "title": "Spread the Word"
+   },
+   {
+    "year": 2012,
+    "title": "Pariah Anthem"
+   },
+   {
+    "year": 2017,
+    "title": "Hive Mind"
+   },
+   {
+    "year": 2020,
+    "title": "All Wandering Hearts"
+   },
+   {
+    "year": 2023,
+    "title": "How Love Begins"
+   }
+  ]
+ },
+ "Cyndi Lauper": {
+  "name": "Cyndi Lauper",
+  "wiki_url": "https://en.wikipedia.org/wiki/Cyndi_Lauper",
+  "summary": "An American singer, songwriter and actress born in Brooklyn in 1953, famous for her wide vocal range and colorful image. After her 1983 breakthrough she won Grammys, an Emmy and a Tony for the Kinky Boots score, and joined the Rock and Roll Hall of Fame in 2025.",
+  "studio_albums": [
+   {
+    "year": 1983,
+    "title": "She's So Unusual"
+   },
+   {
+    "year": 1986,
+    "title": "True Colors"
+   },
+   {
+    "year": 1989,
+    "title": "A Night to Remember"
+   },
+   {
+    "year": 1993,
+    "title": "Hat Full of Stars"
+   },
+   {
+    "year": 1996,
+    "title": "Sisters of Avalon"
+   },
+   {
+    "year": 1998,
+    "title": "Merry Christmas ... Have a Nice Life"
+   },
+   {
+    "year": 2003,
+    "title": "At Last"
+   },
+   {
+    "year": 2004,
+    "title": "Shine"
+   },
+   {
+    "year": 2005,
+    "title": "The Body Acoustic"
+   },
+   {
+    "year": 2008,
+    "title": "Bring Ya to the Brink"
+   },
+   {
+    "year": 2010,
+    "title": "Memphis Blues"
+   },
+   {
+    "year": 2016,
+    "title": "Detour"
+   }
+  ]
+ },
+ "Eminem": {
+  "name": "Eminem",
+  "wiki_url": "https://en.wikipedia.org/wiki/Eminem",
+  "summary": "Marshall Mathers, an American rapper raised in Detroit, who broke through in 1999 with his Slim Shady persona under Dr. Dre's guidance. He is among the best-selling musicians ever, with more than 220 million records sold and numerous Grammy wins.",
+  "studio_albums": [
+   {
+    "year": 1996,
+    "title": "Infinite"
+   },
+   {
+    "year": 1999,
+    "title": "The Slim Shady LP"
+   },
+   {
+    "year": 2000,
+    "title": "The Marshall Mathers LP"
+   },
+   {
+    "year": 2002,
+    "title": "The Eminem Show"
+   },
+   {
+    "year": 2004,
+    "title": "Encore"
+   },
+   {
+    "year": 2009,
+    "title": "Relapse"
+   },
+   {
+    "year": 2010,
+    "title": "Recovery"
+   },
+   {
+    "year": 2013,
+    "title": "The Marshall Mathers LP 2"
+   },
+   {
+    "year": 2017,
+    "title": "Revival"
+   },
+   {
+    "year": 2018,
+    "title": "Kamikaze"
+   },
+   {
+    "year": 2020,
+    "title": "Music to Be Murdered By"
+   },
+   {
+    "year": 2024,
+    "title": "The Death of Slim Shady (Coup de Grâce)"
+   }
+  ]
+ },
+ "Les Nubians": {
+  "name": "Les Nubians",
+  "wiki_url": "https://en.wikipedia.org/wiki/Les_Nubians",
+  "summary": "A French duo made up of sisters Hélène and Célia Faussart, who spent part of their youth in Chad. Mixing R&B, neo soul and African sounds mostly sung in French, they gained US success with the single Makeda from their 1998 debut.",
+  "studio_albums": [
+   {
+    "year": 1998,
+    "title": "Princesses Nubiennes"
+   },
+   {
+    "year": 2003,
+    "title": "One Step Forward"
+   },
+   {
+    "year": 2005,
+    "title": "Echos, Chapter One"
+   },
+   {
+    "year": 2011,
+    "title": "Nü Revolution"
    }
   ]
  }
