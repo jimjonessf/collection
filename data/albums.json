@@ -2239,17 +2239,24 @@
   "edition": "Original",
   "reissue": "",
   "type": "2nd Studio Album",
-  "personnel": [],
+  "personnel": [
+   "Taylor Johnson – producer",
+   "Thunder Jackson – producer"
+  ],
   "discs": "",
   "acquired": "2026-07-26",
   "discogs": "https://www.discogs.com/release/34601308-Thunder-Jackson-Hello-Stranger-",
   "genres": [
    "Electronic",
-   "Pop"
+   "Pop",
+   "Rock",
+   "Funk / Soul"
   ],
   "styles": [
    "Synth-pop",
-   "Dance-pop"
+   "Dance-pop",
+   "Pop Rock",
+   "Soul"
   ],
   "notes": "",
   "cover": "covers/ALB0021.jpg",
@@ -2341,11 +2348,35 @@
   ],
   "released": "2024-10-25",
   "wiki": "",
-  "about": "",
+  "about": "The second album by Oklahoma singer-songwriter Thunder Jackson, released on VERO Music as the follow-up to his self-titled debut. A supporting tour followed in 2025.",
   "artistKey": "Thunder Jackson",
   "spAlbum": "3lbAEBJZ3jhUSiWlkgPzpr",
   "vinylColor": "White",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/e9/1f/8be91fed-0a3f-f58e-ee20-7293d7c39809/198622792332_cover.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/e9/1f/8be91fed-0a3f-f58e-ee20-7293d7c39809/198622792332_cover.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0021",
+    "catno": "VERO2406",
+    "discogs": "https://www.discogs.com/release/34601308-Thunder-Jackson-Hello-Stranger-",
+    "acquired": "2026-07-26",
+    "label": "Vero Music",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB1191",
+    "catno": "VERO2406",
+    "discogs": "https://www.discogs.com/release/34601308-Thunder-Jackson-Hello-Stranger-",
+    "acquired": "2026-07-26",
+    "label": "Vero Music",
+    "edition": "Original",
+    "reissue": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB1191"
+  ],
+  "medium": "Vinyl"
  },
  {
   "id": "ALB0022",
@@ -2758,10 +2789,18 @@
   "reissue": "",
   "type": "5th Studio Album",
   "personnel": [
-   "Lou Gramm – lead vocals, percussion",
-   "Mick Jones – guitars, bass, keyboards, synthesizers, backing vocals",
+   "Mick Jones – lead guitar, bass, keyboards, synthesizer, backing vocals, producer",
+   "Alex Sadkin – producer",
+   "Ian Lloyd – backing vocals",
    "Rick Wills – bass, backing vocals",
-   "Dennis Elliott – drums"
+   "Lou Gramm – lead vocals, percussion",
+   "Dennis Elliott – drums",
+   "Bob Mayo – piano, synthesizer",
+   "Brian Eddolls – synthesizer",
+   "David LeBolt – synthesizer",
+   "Jack Waldman – synthesizer",
+   "Larry Fast – synthesizer",
+   "Wally Badarou – synthesizer"
   ],
   "discs": "",
   "acquired": "2026-10-03",
@@ -2853,7 +2892,31 @@
   "artistKey": "Foreigner",
   "spAlbum": "4oQhDQDKMeI6IMlwpXt3j8",
   "vinylColor": "",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/17/49/eb1749a8-29a1-83ef-5d0e-ec3394d3d057/075678279669.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/17/49/eb1749a8-29a1-83ef-5d0e-ec3394d3d057/075678279669.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0027",
+    "catno": "81999-1-E",
+    "discogs": "https://www.discogs.com/release/10993057-Foreigner-Agent-Provocateur",
+    "acquired": "2026-10-03",
+    "label": "Atlantic",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB1192",
+    "catno": "81999-1-E",
+    "discogs": "https://www.discogs.com/release/6182787-Foreigner-Agent-Provocateur",
+    "acquired": "2026-10-03",
+    "label": "Atlantic",
+    "edition": "Original",
+    "reissue": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB1192"
+  ],
+  "medium": "Vinyl"
  },
  {
   "id": "ALB0028",
@@ -3155,11 +3218,35 @@
    }
   ],
   "released": "2026-04-24",
-  "wiki": "",
-  "about": "",
+  "wiki": "https://en.wikipedia.org/wiki/Romanticize_the_Dive",
+  "about": "Metric's tenth studio album, again produced by Gavin Brown and released with Thirty Tigers. Victim of Luck, Time Is a Bomb and Crush Forever were issued as singles ahead of it.",
   "artistKey": "Metric",
   "spAlbum": "75oefoG5Cn2MbBc32uNPnu",
-  "vinylColor": "Silver Metallic"
+  "vinylColor": "Silver Metallic",
+  "versions": [
+   {
+    "id": "ALB0029",
+    "catno": "MET21789",
+    "discogs": "https://www.discogs.com/release/37156269-Metric-Romanticize-The-Dive",
+    "acquired": "2026-10-03",
+    "label": "Metric Music International",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB1193",
+    "catno": "BLOOD587",
+    "discogs": "https://www.discogs.com/release/37163484-Metric-Romanticize-The-Dive",
+    "acquired": "2026-10-03",
+    "label": "Metric Music International",
+    "edition": "Original",
+    "reissue": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB1193"
+  ],
+  "medium": "Vinyl"
  },
  {
   "id": "ALB0030",
@@ -7886,8 +7973,31 @@
   "artistKey": "U2",
   "spAlbum": "5n52kyQKeUZs5ObZJejLQd",
   "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/5e/4f/fe5e4f79-c74f-c39e-39dc-4c8a952b9665/17UMGIM98829.rgb.jpg/1400x1400bb.jpg"
+  "medium": "Vinyl & CD",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/5e/4f/fe5e4f79-c74f-c39e-39dc-4c8a952b9665/17UMGIM98829.rgb.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0037",
+    "catno": "00602557970098",
+    "discogs": "https://www.discogs.com/release/12298689-U2-Achtung-Baby",
+    "acquired": "2021-05-27",
+    "label": "Island Records",
+    "edition": "Reissue",
+    "reissue": 2018
+   },
+   {
+    "id": "ALB0655",
+    "catno": "U28AB30",
+    "discogs": "https://www.discogs.com/release/21055915-U2-Achtung-Baby",
+    "acquired": "2022-02-04",
+    "label": "Island Records",
+    "edition": "Reissue",
+    "reissue": 2021
+   }
+  ],
+  "alsoIds": [
+   "ALB0655"
+  ]
  },
  {
   "id": "ALB0038",
@@ -8268,11 +8378,13 @@
   "acquired": "2021-05-28",
   "discogs": "https://www.discogs.com/release/25563430-Blur-The-Magic-Whip",
   "genres": [
-   "Rock"
+   "Rock",
+   "Pop"
   ],
   "styles": [
    "Indie Rock",
-   "Alternative Rock"
+   "Alternative Rock",
+   "Britpop"
   ],
   "notes": "",
   "cover": "covers/ALB0041.jpg",
@@ -8369,7 +8481,30 @@
   "spAlbum": "0nSzBICzQHea8grwfqa5Gb",
   "vinylColor": "",
   "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/97/2c/26/972c2611-d141-f970-43b3-bb93be4a5dee/825646132881.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/97/2c/26/972c2611-d141-f970-43b3-bb93be4a5dee/825646132881.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0041",
+    "catno": "0825646141715",
+    "discogs": "https://www.discogs.com/release/25563430-Blur-The-Magic-Whip",
+    "acquired": "2021-05-28",
+    "label": "Parlophone",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB1123",
+    "catno": "5021732544568",
+    "discogs": "https://www.discogs.com/release/33805638-Blur-The-Magic-Whip",
+    "acquired": "2025-08-11",
+    "label": "Parlophone",
+    "edition": "Reissue",
+    "reissue": 2025
+   }
+  ],
+  "alsoIds": [
+   "ALB1123"
+  ]
  },
  {
   "id": "ALB0042",
@@ -22914,21 +23049,28 @@
   "reissue": "",
   "type": "4th Studio Album",
   "personnel": [
-   "Roberta Flack – vocals, pianos, rhythm track arrangements",
-   "Eric Gale – guitars",
-   "Ron Carter – bass",
+   "Roberta Flack – vocals, piano, rhythm track arrangements",
+   "Eric Gale – guitar",
+   "Ron Carter – bass guitar",
    "Grady Tate – drums",
-   "Ralph MacDonald – congas, percussion, tambourine"
+   "Ralph MacDonald – congas, percussion, tambourine",
+   "Kermit Moore – cello (4), cello arrangements (4)",
+   "Eumir Deodato – string arrangements and conductor (2, 8)",
+   "Alfred \"Pee Wee\" Ellis – brass arrangements and conductor (3)",
+   "Joel Dorn – producer",
+   "Jack Shaw – producer"
   ],
   "discs": "",
   "acquired": "2021-05-31",
   "discogs": "https://www.discogs.com/release/4912075-Roberta-Flack-Killing-Me-Softly",
   "genres": [
    "Funk / Soul",
-   "Pop"
+   "Pop",
+   "Jazz"
   ],
   "styles": [
-   "Soul"
+   "Soul",
+   "Ballad"
   ],
   "notes": "",
   "cover": "covers/ALB0163.jpg",
@@ -22997,7 +23139,30 @@
   "spAlbum": "4GxrvKiysSiDU1HHifh1PA",
   "vinylColor": "",
   "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/e4/71/97/mzi.mgwzviyu.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/e4/71/97/mzi.mgwzviyu.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0163",
+    "catno": "SD 7271",
+    "discogs": "https://www.discogs.com/release/4912075-Roberta-Flack-Killing-Me-Softly",
+    "acquired": "2021-05-31",
+    "label": "Atlantic Records",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB1154",
+    "catno": "APA 054-45",
+    "discogs": "https://www.discogs.com/release/9402962-Roberta-Flack-Killing-Me-Softly",
+    "acquired": "2025-12-16",
+    "label": "Analogue Productions",
+    "edition": "Reissue",
+    "reissue": 2025
+   }
+  ],
+  "alsoIds": [
+   "ALB1154"
+  ]
  },
  {
   "id": "ALB0164",
@@ -47414,7 +47579,30 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0363",
+    "catno": "88875143731",
+    "discogs": "https://www.discogs.com/release/15488630-Michael-Jackson-Thriller",
+    "acquired": "2021-08-03",
+    "label": "Epic",
+    "edition": "Reissue",
+    "reissue": 2019
+   },
+   {
+    "id": "ALB0830",
+    "catno": "UD1S 1-042",
+    "discogs": "https://www.discogs.com/release/32338962-Michael-Jackson-Thriller",
+    "acquired": "2023-02-03",
+    "label": "Mobile Fidelity Sound Lab",
+    "edition": "Reissue",
+    "reissue": 2022
+   }
+  ],
+  "alsoIds": [
+   "ALB0830"
+  ]
  },
  {
   "id": "ALB0364",
@@ -52933,7 +53121,30 @@
   "vinylColor": "",
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/67/45/006745f5-95d5-5a06-35ed-d515e9cfd7d8/dj.tbwlxwoh.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/67/45/006745f5-95d5-5a06-35ed-d515e9cfd7d8/dj.tbwlxwoh.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0411",
+    "catno": "RS6261",
+    "discogs": "https://www.discogs.com/release/12715885-The-Jimi-Hendrix-Experience-Are-You-Experienced",
+    "acquired": "2021-08-20",
+    "label": "Reprise Records",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB0768",
+    "catno": "UHQR 0005",
+    "discogs": "https://www.discogs.com/release/22748618-The-Jimi-Hendrix-Experience-Are-You-Experienced",
+    "acquired": "2022-07-01",
+    "label": "Analogue Productions",
+    "edition": "Reissue",
+    "reissue": 2022
+   }
+  ],
+  "alsoIds": [
+   "ALB0768"
+  ]
  },
  {
   "id": "ALB0412",
@@ -53437,7 +53648,30 @@
   "spAlbum": "2ARWEOvaUgm4FSj25MpY6F",
   "vinylColor": "Brown Cover, MO - Monarch Pressing",
   "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/92/92/21929237-dc83-f6a8-05ff-d2808530e226/603497844142.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/92/92/21929237-dc83-f6a8-05ff-d2808530e226/603497844142.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0416",
+    "catno": "SD 8230",
+    "discogs": "https://www.discogs.com/release/3486783-Roberta-Flack-First-Take",
+    "acquired": "2021-08-22",
+    "label": "Atlantic Records",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB0833",
+    "catno": "SD 8230",
+    "discogs": "https://www.discogs.com/release/3277135-Roberta-Flack-First-Take",
+    "acquired": "2023-02-03",
+    "label": "Capitol Records",
+    "edition": "Original",
+    "reissue": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB0833"
+  ]
  },
  {
   "id": "ALB0417",
@@ -53751,7 +53985,8 @@
   "styles": [
    "Rhythm & Blues",
    "Soul",
-   "Funk"
+   "Funk",
+   "Psychedelic"
   ],
   "notes": "",
   "cover": "covers/ALB0420.jpg",
@@ -53848,7 +54083,30 @@
   "spAlbum": "29f2cOueckYE8Nc1pkJjrU",
   "vinylColor": "red Translucent, Gatefold",
   "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/9f/91019f68-fbc9-5620-d49a-88043d75371e/828767591124.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/9f/91019f68-fbc9-5620-d49a-88043d75371e/828767591124.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0420",
+    "catno": "LP 5147",
+    "discogs": "https://www.discogs.com/release/11873565-Sly-The-Family-Stone-Theres-A-Riot-Goin-On",
+    "acquired": "2021-08-22",
+    "label": "Sundazed Music",
+    "edition": "Reissue",
+    "reissue": 2007
+   },
+   {
+    "id": "ALB0872",
+    "catno": "30986",
+    "discogs": "https://www.discogs.com/release/23777726-Sly-The-Family-Stone-Theres-A-Riot-Goin-On",
+    "acquired": "2023-07-10",
+    "label": "Epic",
+    "edition": "Reissue",
+    "reissue": 1986
+   }
+  ],
+  "alsoIds": [
+   "ALB0872"
+  ]
  },
  {
   "id": "ALB0421",
@@ -76253,7 +76511,8 @@
    "Lovers Rock",
    "Euro-Disco",
    "Acoustic",
-   "Ballad"
+   "Ballad",
+   "Reggae-Pop"
   ],
   "notes": "",
   "cover": "covers/ALB0615.jpg",
@@ -76363,7 +76622,30 @@
   "artistKey": "Bob Marley & The Wailers",
   "spAlbum": "",
   "vinylColor": "",
-  "medium": "Vinyl"
+  "medium": "Vinyl & CD",
+  "versions": [
+   {
+    "id": "ALB0615",
+    "catno": "7 90169-1",
+    "discogs": "https://www.discogs.com/release/12661649-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers",
+    "acquired": "2021-12-07",
+    "label": "Island Records",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB1094",
+    "catno": "00602435172972",
+    "discogs": "https://www.discogs.com/release/16242573-Bob-Marley-The-Wailers-Legend",
+    "acquired": "2025-03-19",
+    "label": "Island Records",
+    "edition": "Reissue",
+    "reissue": 2020
+   }
+  ],
+  "alsoIds": [
+   "ALB1094"
+  ]
  },
  {
   "id": "ALB0616",
@@ -80077,11 +80359,14 @@
   "reissue": "",
   "type": "7th Studio Album",
   "personnel": [
-   "Mick Jagger – vocals, harmonica, maracas",
-   "Keith Richards – guitar, bass, vocals",
-   "Brian Jones – guitar, harmonica, Mellotron, sitar, tambura, vocals",
-   "Bill Wyman – bass, vocals, shekere, maracas",
-   "Charlie Watts – drums, claves, tambourine, tabla, vocals"
+   "Mick Jagger – lead vocals (all tracks), hand drum (1), backing vocals (3, 6), harmonica (4), maracas (6, 8)",
+   "Keith Richards – electric guitars (1, 4, 8), acoustic guitars (2–3, 6–7, 9–10), electric slide guitar (5, 10), bass guitar (1, 6, 8), backing vocals (1, 3, 10), opening lead vocals (10)",
+   "Brian Jones – acoustic slide guitar (2), acoustic guitar (1, 4), harmonica (3–4, 7), Mellotron (5, 8), sitar (6), tambura (6), backing vocals (1)",
+   "Bill Wyman – bass guitar (2, 4–5, 10), double bass (3), backing vocals (1), shekere (1)",
+   "Charlie Watts – drums (1, 3–8, 10), claves (2), tambourine (3), tabla (9), backing vocals (1)",
+   "Nicky Hopkins – piano (1–3, 5–6, 8, 10), Mellotron, Farfisa organ (2)",
+   "Rocky Dzidzornu – congas (1, 8–9), cowbell (1)",
+   "Ric Grech – fiddle (9)"
   ],
   "discs": "",
   "acquired": "2022-01-27",
@@ -80175,7 +80460,30 @@
   "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0650",
+    "catno": "PS 539",
+    "discogs": "https://www.discogs.com/release/17389726-Rolling-Stones-Beggars-Banquet",
+    "acquired": "2022-01-27",
+    "label": "London Records",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB0844",
+    "catno": "L20P 1204",
+    "discogs": "https://www.discogs.com/release/3607618-The-Rolling-Stones-Beggars-Banquet",
+    "acquired": "2023-03-03",
+    "label": "London Records",
+    "edition": "Reissue",
+    "reissue": 1985
+   }
+  ],
+  "alsoIds": [
+   "ALB0844"
+  ]
  },
  {
   "id": "ALB0651",
@@ -80658,136 +80966,6 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/b4/9a/83b49a32-35ec-16b1-b933-9a895824cad8/s07.uqusdlxc.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "ALB0655",
-  "artist": "U2",
-  "title": "Achtung Baby",
-  "year": 1991,
-  "label": "Island Records",
-  "catno": "U28AB30",
-  "edition": "Reissue",
-  "reissue": 2021,
-  "type": "7th Studio Album",
-  "personnel": [
-   "Bono – lead vocals, guitar",
-   "The Edge – guitar, keyboards, vocals",
-   "Adam Clayton – bass guitar",
-   "Larry Mullen Jr. – drums, percussion"
-  ],
-  "discs": "",
-  "acquired": "2022-02-04",
-  "discogs": "https://www.discogs.com/release/21055915-U2-Achtung-Baby",
-  "genres": [
-   "Electronic",
-   "Rock",
-   "Pop"
-  ],
-  "styles": [
-   "Pop Rock",
-   "Alternative Rock",
-   "Downtempo",
-   "Synth-pop",
-   "Acoustic",
-   "Ballad"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0655.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Zoo Station ",
-    "d": "4:36",
-    "sp": "75DKbWGsID7CBKRi8TruJw",
-    "src": "Your label"
-   },
-   {
-    "p": "A2",
-    "t": "Even Better Than The Real Thing",
-    "d": "3:41",
-    "sp": "0iCIuPjPT5GKVtd6hDyzhO",
-    "src": "Your label"
-   },
-   {
-    "p": "A3",
-    "t": "One",
-    "d": "4:34",
-    "sp": "3vmGLMqc4JWO9ibyJRs8Zo",
-    "src": "Your label"
-   },
-   {
-    "p": "B1",
-    "t": " Until The End Of The World",
-    "d": "4:38",
-    "sp": "04i90Qo67c3MKp9OBtR48I",
-    "src": "Your label"
-   },
-   {
-    "p": "B2",
-    "t": "Who's Gonna Ride Your Wild Horses ",
-    "d": "5:16",
-    "sp": "0JMrNW4xBb47f7AxBetgOf",
-    "src": "Your label"
-   },
-   {
-    "p": "B3",
-    "t": "So Cruel ",
-    "d": "5:47",
-    "sp": "6CMkU4c1wSF5bxP2iokkCb",
-    "src": "Your label"
-   },
-   {
-    "p": "C1",
-    "t": "The Fly",
-    "d": "4:28",
-    "sp": "5xl8DM7RhTRYAa9i18lYGf",
-    "src": "Your label"
-   },
-   {
-    "p": "C2",
-    "t": "Mysterious Ways ",
-    "d": "4:03",
-    "sp": "3KsBkosKDPSB235IeoHOby",
-    "src": "Your label"
-   },
-   {
-    "p": "C3",
-    "t": "Tryin' To Throw Your Arms Around The World ",
-    "d": "3:51",
-    "sp": "1uTLL7pFKdJRGGNhv94ZKg",
-    "src": "Your label"
-   },
-   {
-    "p": "D1",
-    "t": "Ultra Violet (Light My Way)",
-    "d": "5:30",
-    "sp": "5mDKmJHbufNGVlZUaV1lgX",
-    "src": "Your label"
-   },
-   {
-    "p": "D2",
-    "t": "Acrobat",
-    "d": "4:30",
-    "sp": "259FZXq0YL1cRIGPBuSOfO",
-    "src": "Your label"
-   },
-   {
-    "p": "D3",
-    "t": "Love Is Blindness",
-    "d": "4:23",
-    "sp": "64KfTlXnYE7ay6zGKqJ9wn",
-    "src": "Your label"
-   }
-  ],
-  "released": "1991-11-18",
-  "wiki": "https://en.wikipedia.org/wiki/Achtung_Baby",
-  "about": "Produced by Daniel Lanois and Brian Eno, this release saw U2 reinvent their sound with industrial, electronic and alternative influences. It debuted at the top of the Billboard 200, sold roughly 18 million copies and earned a Grammy.",
-  "artistKey": "U2",
-  "spAlbum": "5n52kyQKeUZs5ObZJejLQd",
-  "vinylColor": "Red Translucent, 180 Gram / Blue Translucent. 180 Gram",
-  "medium": "Vinyl & CD",
-  "cdId": "CD0146",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/5e/4f/fe5e4f79-c74f-c39e-39dc-4c8a952b9665/17UMGIM98829.rgb.jpg/1400x1400bb.jpg"
  },
  {
   "id": "ALB0656",
@@ -83442,7 +83620,30 @@
   "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/9a/65/18/9a6518c2-850f-f40a-5bad-540a9ef4ad70/093624924708.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/9a/65/18/9a6518c2-850f-f40a-5bad-540a9ef4ad70/093624924708.jpg/1400x1400bb.jpg",
+  "versions": [
+   {
+    "id": "ALB0674",
+    "catno": "REP 54 105",
+    "discogs": "https://www.discogs.com/release/13387131-Neil-Young-Crazy-Horse-Rust-Never-Sleeps",
+    "acquired": "2022-02-28",
+    "label": "Reprise Records",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB0795",
+    "catno": "HS 2295",
+    "discogs": "https://www.discogs.com/release/30829167-Neil-Young-Crazy-Horse-Rust-Never-Sleeps",
+    "acquired": "2022-10-29",
+    "label": "Reprise Records",
+    "edition": "Original",
+    "reissue": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB0795"
+  ]
  },
  {
   "id": "ALB0675",
@@ -95145,123 +95346,6 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/bc/df/f3bcdf5e-4a18-d699-b47e-3cfe9fb2684d/190296242441.jpg/1400x1400bb.jpg"
  },
  {
-  "id": "ALB0768",
-  "artist": "The Jimi Hendrix Experience",
-  "title": "Are You Experienced?",
-  "year": 1967,
-  "label": "Analogue Productions",
-  "catno": "UHQR 0005",
-  "edition": "Reissue",
-  "reissue": 2022,
-  "type": "Debut Album",
-  "personnel": [
-   "Jimi Hendrix – guitars, vocals; piano",
-   "Noel Redding – bass guitar; backing vocals; rhythm guitar",
-   "Mitch Mitchell – drums; percussion; backing vocals"
-  ],
-  "discs": "",
-  "acquired": "2022-07-01",
-  "discogs": "https://www.discogs.com/release/22748618-The-Jimi-Hendrix-Experience-Are-You-Experienced",
-  "genres": [
-   "Rock",
-   "Blues"
-  ],
-  "styles": [
-   "Psychedelic Rock",
-   "Blues Rock",
-   "Acid Rock"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0768.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Purple Haze",
-    "d": "2:50",
-    "sp": "0wJoRiX5K5BxlqZTolB2LD",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "Manic Depression",
-    "d": "3:42",
-    "sp": "3f5JtAsGRIXN8pSAeTi6vA",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Hey Joe",
-    "d": "3:30",
-    "sp": "0NWPxcsf5vdjdiFUI8NgkP",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Love Or Confusion",
-    "d": "3:12",
-    "sp": "46omDVahYovje7GLtFKFz9",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "May This Be Love",
-    "d": "3:10",
-    "sp": "1Y6Dv0tWYUP3Za2Es9FUL2",
-    "src": "Discogs"
-   },
-   {
-    "p": "A6",
-    "t": "I Don't Live Today",
-    "d": "3:54",
-    "sp": "4oGRZ3J9o56fPaL96y2NEH",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "The Wind Cries Mary",
-    "d": "3:20",
-    "sp": "5H6Jp0syB5yEPk7SWYdlmk",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "Fire",
-    "d": "2:43",
-    "sp": "5LI7PoHEolR8plrf3I16sq",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "3rd Stone From The Sun",
-    "d": "6:44",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Foxey Lady",
-    "d": "3:18",
-    "sp": "23MrkN7g6Q5U7GLIxNHN1B",
-    "src": "Discogs"
-   },
-   {
-    "p": "B5",
-    "t": "Are You Experienced?",
-    "d": "4:14",
-    "sp": "02POyqtbrdmYQ3RxsTrYMD",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1967-05-12",
-  "wiki": "https://en.wikipedia.org/wiki/Are_You_Experienced",
-  "about": "The first album by the Jimi Hendrix Experience, issued in the UK by Track Records in May 1967 and in the US that August. Produced by Chas Chandler, it reached number 2 in Britain and became a landmark of psychedelic rock.",
-  "artistKey": "The Jimi Hendrix Experience",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/67/45/006745f5-95d5-5a06-35ed-d515e9cfd7d8/dj.tbwlxwoh.jpg/1400x1400bb.jpg"
- },
- {
   "id": "ALB0769",
   "artist": "Electric Light Orchestra",
   "title": "Time",
@@ -97536,7 +97620,30 @@
   "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl",
-  "persSrc": "Wikipedia"
+  "persSrc": "Wikipedia",
+  "versions": [
+   {
+    "id": "ALB0786",
+    "catno": "RR1 285201",
+    "discogs": "https://www.discogs.com/release/4868120-The-Notorious-BIG-Ready-To-Die",
+    "acquired": "2022-09-30",
+    "label": "Bad Boy Entertainment",
+    "edition": "Reissue",
+    "reissue": 2013
+   },
+   {
+    "id": "ALB0876",
+    "catno": "R1-562969",
+    "discogs": "https://www.discogs.com/release/22089481-The-Notorious-BIG-Ready-To-Die",
+    "acquired": "2023-07-24",
+    "label": "Bad Boy Entertainment",
+    "edition": "Reissue",
+    "reissue": 2022
+   }
+  ],
+  "alsoIds": [
+   "ALB0876"
+  ]
  },
  {
   "id": "ALB0787",
@@ -98806,110 +98913,6 @@
   "spAlbum": "",
   "vinylColor": "Blue Opaque",
   "medium": "Vinyl"
- },
- {
-  "id": "ALB0795",
-  "artist": "Neil Young & Crazy Horse",
-  "title": "Rust Never Sleeps",
-  "year": 1979,
-  "label": "Reprise Records",
-  "catno": "HS 2295",
-  "edition": "Original",
-  "reissue": "",
-  "type": "10th Studio Album",
-  "personnel": [
-   "Neil Young – performer, producer",
-   "David Briggs – producer",
-   "Tim Mulligan – producer"
-  ],
-  "discs": "",
-  "acquired": "2022-10-29",
-  "discogs": "https://www.discogs.com/release/30829167-Neil-Young-Crazy-Horse-Rust-Never-Sleeps",
-  "genres": [
-   "Rock"
-  ],
-  "styles": [
-   "Acoustic",
-   "Folk Rock",
-   "Hard Rock",
-   "Classic Rock",
-   "Arena Rock"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0795.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "My My, Hey Hey (Out Of The Blue)",
-    "d": "3:45",
-    "sp": "6VltRkmJbCTqgKrTHk4Ulw",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "Thrasher",
-    "d": "5:38",
-    "sp": "5vqPaQXtqPtLolcDPcWuWH",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Ride My Llama",
-    "d": "2:29",
-    "sp": "3yHcaItF9KhgB1eDjCPFwA",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Pocahontas",
-    "d": "3:22",
-    "sp": "2fxp8KuyxjwEfsFo8bTSuE",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "Sail Away",
-    "d": "3:46",
-    "sp": "2Cid2YVl8VKip1q81uQ5KG",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "Powderfinger",
-    "d": "5:30",
-    "sp": "5F1CxsOXX6altKaKlEPuox",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "Welfare Mothers",
-    "d": "3:48",
-    "sp": "1eZUrU6VDISJcFDSVdeGDJ",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Sedan Delivery",
-    "d": "4:40",
-    "sp": "5WYAtVA53iEaOydvmRHncu",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Hey Hey, My My (Into The Black)",
-    "d": "5:18",
-    "sp": "5sy3FriCrKYGJp6JBOnlOo",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1979-06-22",
-  "wiki": "https://en.wikipedia.org/wiki/Rust_Never_Sleeps",
-  "about": "Neil Young's tenth studio album and his third with Crazy Horse, mixing concert recordings with studio overdubs and new studio tracks. One side is mostly acoustic and the other loud and electric; it reached number eight in the US and includes Powderfinger.",
-  "artistKey": "Neil Young & Crazy Horse",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/9a/65/18/9a6518c2-850f-f40a-5bad-540a9ef4ad70/093624924708.jpg/1400x1400bb.jpg"
  },
  {
   "id": "ALB0796",
@@ -103405,121 +103408,6 @@
   "medium": "Vinyl"
  },
  {
-  "id": "ALB0830",
-  "artist": "Michael Jackson",
-  "title": "Thriller",
-  "year": 1982,
-  "label": "Mobile Fidelity Sound Lab",
-  "catno": "UD1S 1-042",
-  "edition": "Reissue",
-  "reissue": 2022,
-  "type": "6th Studio Album",
-  "personnel": [
-   "Quincy Jones – producer (all tracks), rhythm arrangements (1, 3, 5), vocal arrangements (3), musical arrangements (8)",
-   "Bruce Swedien – recording engineer and audio mixer (all tracks), effects (4)",
-   "Matt Forger – engineer (2, 3, 7–9)",
-   "Humberto Gatica – engineer (3, 7–9)",
-   "Bernie Grundman – mastering engineer (2, 3, 7–9)",
-   "Steve Bates – assistant engineer (3, 7–9)",
-   "Mark Ettel – assistant engineer (3, 7–9)",
-   "Donn Landee – engineer",
-   "(5 – guitar solo)",
-   "Quincy Jones – producer"
-  ],
-  "discs": "",
-  "acquired": "2023-02-03",
-  "discogs": "https://www.discogs.com/release/32338962-Michael-Jackson-Thriller",
-  "genres": [
-   "Rock",
-   "Funk / Soul",
-   "Pop"
-  ],
-  "styles": [
-   "Disco",
-   "Funk",
-   "Soft Rock",
-   "Soul",
-   "Contemporary R&B",
-   "Pop Rock"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0830.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Wanna Be Startin' Somethin'",
-    "d": "6:03",
-    "sp": "1hu2s7qkm5bo03eODpRQO3",
-    "src": "Your label"
-   },
-   {
-    "p": "A2",
-    "t": "Baby Be Mine",
-    "d": "4:20",
-    "sp": "6XYbMGvtl6tlPoGWaiH7EY",
-    "src": "Your label"
-   },
-   {
-    "p": "A3",
-    "t": "The Girl Is Mine",
-    "d": "3:42",
-    "sp": "4IT6vDuKprKl6jyVndlY8V",
-    "src": "Your label"
-   },
-   {
-    "p": "A4",
-    "t": "Thriller",
-    "d": "5:58",
-    "sp": "2LlQb7Uoj1kKyGhlkBf9aC",
-    "src": "Your label"
-   },
-   {
-    "p": "B1",
-    "t": "Beat It",
-    "d": "4:17",
-    "sp": "3BovdzfaX4jb5KFQwoPfAw",
-    "src": "Your label"
-   },
-   {
-    "p": "B2",
-    "t": "Billie Jean",
-    "d": "4:57",
-    "sp": "7J1uxwnxfQLu4APicE5Rnj",
-    "src": "Your label"
-   },
-   {
-    "p": "B3",
-    "t": "Human Nature",
-    "d": "4:06",
-    "sp": "4cgjA7B4fJBHyB9Ya2bu0t",
-    "src": "Your label"
-   },
-   {
-    "p": "B4",
-    "t": "P.Y.T. (Pretty Young Thing)",
-    "d": "3:58",
-    "sp": "1CgmY8fVN7kstVDZmsdM5k",
-    "src": "Your label"
-   },
-   {
-    "p": "B5",
-    "t": "The Lady In My Life",
-    "d": "5:00",
-    "sp": "07L1pzoVerhRSSaDGZHrKy",
-    "src": "Your label"
-   }
-  ],
-  "released": "1982-11-29",
-  "wiki": "https://en.wikipedia.org/wiki/Thriller_(album)",
-  "about": "Michael Jackson's sixth studio album, co-produced with Quincy Jones, blended pop, funk, rock and post-disco. It spawned seven singles, won eight Grammy Awards including Album of the Year, and is widely cited as the best-selling album of all time.",
-  "artistKey": "Michael Jackson",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/1400x1400bb.jpg"
- },
- {
   "id": "ALB0831",
   "artist": "Madlib",
   "title": "Piñata Beats",
@@ -103791,102 +103679,6 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "persSrc": "Wikipedia"
- },
- {
-  "id": "ALB0833",
-  "artist": "Roberta Flack",
-  "title": "First Take",
-  "year": 1969,
-  "label": "Capitol Records",
-  "catno": "SD 8230",
-  "edition": "Original",
-  "reissue": "",
-  "type": "Debut Album",
-  "personnel": [
-   "Joel Dorn – producer",
-   "Roberta Flack – piano, vocals",
-   "John Pizzarelli – guitar",
-   "Ron Carter – bass",
-   "Ray Lucas – drums"
-  ],
-  "discs": "",
-  "acquired": "2023-02-03",
-  "discogs": "https://www.discogs.com/release/3277135-Roberta-Flack-First-Take",
-  "genres": [
-   "Funk / Soul",
-   "Jazz"
-  ],
-  "styles": [
-   "Soul"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0833.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Compared To What",
-    "d": "5:15",
-    "sp": "3ZTEMmFm3FzfEtjqJN32c1",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "Angelitos Negros",
-    "d": "6:55",
-    "sp": "3LZyurIWMyzsZgsaM8kuco",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Our Ages Or Our Hearts",
-    "d": "6:09",
-    "sp": "0N9yKELMzgHs9A3zEBzj47",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "I Told Jesus",
-    "d": "6:08",
-    "sp": "7bmtqJ0psGM3x27hkyAC8E",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "Hey, That's No Way To Say Goodbye",
-    "d": "4:07",
-    "sp": "130dKZhza6XRe8WSBl1nsu",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "The First Time I Ever Saw Your Face",
-    "d": "5:21",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Tryin' Times",
-    "d": "5:07",
-    "sp": "5wNo8LEPPEs9HSYh0A63CB",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Ballad Of The Sad Young Men",
-    "d": "7:03",
-    "sp": "5ehP3X3sgOdPnsYDqBIjpF",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1969-06-20",
-  "wiki": "https://en.wikipedia.org/wiki/First_Take_(album)",
-  "about": "Roberta Flack's debut, produced by Joel Dorn and recorded in New York for Atlantic. It became a belated hit after The First Time Ever I Saw Your Face featured in the 1971 film Play Misty for Me, sending both song and album to number one in the US.",
-  "artistKey": "Roberta Flack",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/92/92/21929237-dc83-f6a8-05ff-d2808530e226/603497844142.jpg/1400x1400bb.jpg"
  },
  {
   "id": "ALB0834",
@@ -105389,121 +105181,6 @@
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c8/69/e5/c869e55c-2e3a-0fa5-7482-89572047d2e6/078221882927.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "ALB0844",
-  "artist": "The Rolling Stones",
-  "title": "Beggars Banquet",
-  "year": 1968,
-  "label": "London Records",
-  "catno": "L20P 1204",
-  "edition": "Reissue",
-  "reissue": 1985,
-  "type": "7th Studio Album",
-  "personnel": [
-   "Mick Jagger – lead vocals (all tracks), hand drum (1), backing vocals (3, 6), harmonica (4), maracas (6, 8)",
-   "Keith Richards – electric guitars (1, 4, 8), acoustic guitars (2–3, 6–7, 9–10), electric slide guitar (5, 10), bass guitar (1, 6, 8), backing vocals (1, 3, 10), opening lead vocals (10)",
-   "Brian Jones – acoustic slide guitar (2), acoustic guitar (1, 4), harmonica (3–4, 7), Mellotron (5, 8), sitar (6), tambura (6), backing vocals (1)",
-   "Bill Wyman – bass guitar (2, 4–5, 10), double bass (3), backing vocals (1), shekere (1)",
-   "Charlie Watts – drums (1, 3–8, 10), claves (2), tambourine (3), tabla (9), backing vocals (1)",
-   "Nicky Hopkins – piano (1–3, 5–6, 8, 10), Mellotron, Farfisa organ (2)",
-   "Rocky Dzidzornu – congas (1, 8–9), cowbell (1)",
-   "Ric Grech – fiddle (9)"
-  ],
-  "discs": "",
-  "acquired": "2023-03-03",
-  "discogs": "https://www.discogs.com/release/3607618-The-Rolling-Stones-Beggars-Banquet",
-  "genres": [
-   "Rock"
-  ],
-  "styles": [
-   "Blues Rock",
-   "Rock & Roll",
-   "Classic Rock"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0844.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Sympathy For The Devil",
-    "d": "",
-    "sp": "1Ud6moTC0KyXMq1Oxfien0",
-    "src": "not found"
-   },
-   {
-    "p": "A2",
-    "t": "No Expectations",
-    "d": "",
-    "sp": "49ScE2M6RIqfeHnnP4v94B",
-    "src": "not found"
-   },
-   {
-    "p": "A3",
-    "t": "Dear Doctor",
-    "d": "",
-    "sp": "3oxqLl1TcDNYgAaAxct3jK",
-    "src": "not found"
-   },
-   {
-    "p": "A4",
-    "t": "Parachute Woman",
-    "d": "",
-    "sp": "2t95lca5RT63G2J988AorQ",
-    "src": "not found"
-   },
-   {
-    "p": "A5",
-    "t": "Jig Saw Puzzle",
-    "d": "",
-    "sp": "4FzDrD5KndBVrFaVwZToen",
-    "src": "not found"
-   },
-   {
-    "p": "B1",
-    "t": "Street Fighting Man",
-    "d": "",
-    "sp": "7EXgO1bRnEArE58rtrgMWB",
-    "src": "not found"
-   },
-   {
-    "p": "B2",
-    "t": "Prodigal Son",
-    "d": "",
-    "sp": "294YjFlURvve9qm23KZCqP",
-    "src": "not found"
-   },
-   {
-    "p": "B3",
-    "t": "Stray Cat Blues",
-    "d": "",
-    "sp": "0mynYmSfl8q2KhjSp96G3w",
-    "src": "not found"
-   },
-   {
-    "p": "B4",
-    "t": "Factory Girl",
-    "d": "",
-    "sp": "5DZPlkknHAi3JxcpMFlJ69",
-    "src": "not found"
-   },
-   {
-    "p": "B5",
-    "t": "Salt Of The Earth",
-    "d": "",
-    "sp": "5FTPD9wSP9IjYBeivNE7cU",
-    "src": "not found"
-   }
-  ],
-  "released": "1968-12-06",
-  "wiki": "https://en.wikipedia.org/wiki/Beggars_Banquet",
-  "about": "The Rolling Stones' seventh studio album and their first produced by Jimmy Miller, released by Decca and London. It moved the band from psychedelia back toward blues and roots rock and was the final Stones album issued while Brian Jones was alive.",
-  "artistKey": "The Rolling Stones",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/1400x1400bb.jpg"
  },
  {
   "id": "ALB0845",
@@ -109387,135 +109064,6 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e7/41/db/e741dbd4-3795-8eef-969c-546ff7c5b1a8/00602537429806.rgb.jpg/1400x1400bb.jpg"
  },
  {
-  "id": "ALB0872",
-  "artist": "Sly & The Family Stone",
-  "title": "There's A Riot Goin' On",
-  "year": 1971,
-  "label": "Epic",
-  "catno": "30986",
-  "edition": "Reissue",
-  "reissue": 1986,
-  "type": "5th Studio Album",
-  "personnel": [
-   "Sly Stone – guitar, producer, keyboards, vocals",
-   "Larry Graham – bass, backing vocals",
-   "Rose Stone – vocals",
-   "Bobby Womack – guitar",
-   "Freddie Stone – guitar",
-   "Greg Errico – drums",
-   "Jerry Martini – tenor saxophone",
-   "Cynthia Robinson – trumpet"
-  ],
-  "discs": "",
-  "acquired": "2023-07-10",
-  "discogs": "https://www.discogs.com/release/23777726-Sly-The-Family-Stone-Theres-A-Riot-Goin-On",
-  "genres": [
-   "Funk / Soul"
-  ],
-  "styles": [
-   "Funk",
-   "Soul",
-   "Psychedelic",
-   "Rhythm & Blues"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0872.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Luv N' Haight",
-    "d": "4:01",
-    "sp": "2SNjUokqJifysK3qsjyK4F",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "Just Like A Baby",
-    "d": "5:12",
-    "sp": "1aPFLpNNczxjY34qdKVJLg",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Poet",
-    "d": "3:01",
-    "sp": "6rQ7RXlfojwjHnUbAseB7D",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Family Affair",
-    "d": "3:06",
-    "sp": "4f3u4Oy0JqJRIhMmTqRcxj",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "Africa Talks To You \"The Asphalt Jungle\"",
-    "d": "8:45",
-    "sp": "165hDpLkqy2tr1mQ9KPEc6",
-    "src": "Discogs"
-   },
-   {
-    "p": "A6",
-    "t": "There's A Riot Goin' On",
-    "d": "0:00",
-    "sp": "7chfEwFA6PrQzH7hc3gn9c",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "Brave & Strong",
-    "d": "3:28",
-    "sp": "2ONfhlZHOklTZHkhPkMpNF",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "(You Caught Me) Smilin'",
-    "d": "2:53",
-    "sp": "2Q2RWHHUWlrOcot38Q3OPI",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Time",
-    "d": "3:03",
-    "sp": "61gONQzQueaaFrNE2aK8LP",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Spaced Cowboy",
-    "d": "3:57",
-    "sp": "170vA90PMD8UK1Vkx7G2LP",
-    "src": "Discogs"
-   },
-   {
-    "p": "B5",
-    "t": "Runnin' Away",
-    "d": "2:51",
-    "sp": "2clHc3VGk2bITHsgPY7atj",
-    "src": "Discogs"
-   },
-   {
-    "p": "B6",
-    "t": "Thank You For Talkin' To Me Africa",
-    "d": "7:14",
-    "sp": "46WP0OdSspEBfJpHBFrcM0",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1971-11",
-  "wiki": "https://en.wikipedia.org/wiki/There%27s_a_Riot_Goin%27_On",
-  "about": "Fifth studio album by Sly and the Family Stone, released by Epic. Darker and murkier than the band's earlier work, it topped the Billboard album chart and includes the number-one single Family Affair.",
-  "artistKey": "Sly & The Family Stone",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/9f/91019f68-fbc9-5620-d49a-88043d75371e/828767591124.jpg/1400x1400bb.jpg"
- },
- {
   "id": "ALB0873",
   "artist": "Everything But The Girl",
   "title": "Fuse",
@@ -109913,176 +109461,6 @@
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "ALB0876",
-  "artist": "The Notorious B.I.G.",
-  "title": "Ready To Die",
-  "year": 1994,
-  "label": "Bad Boy Entertainment",
-  "catno": "R1-562969",
-  "edition": "Reissue",
-  "reissue": 2022,
-  "type": "Debut Album",
-  "personnel": [
-   "Notorious B.I.G. – writer, performer",
-   "Sean \"Puffy\" Combs – executive producer, additional vocals, producer",
-   "Mister Cee – associate executive producer",
-   "Method Man – featured performer",
-   "Lil' Kim – additional vocals",
-   "Total – additional vocals",
-   "Chucky Thompson – instruments, producer",
-   "Nashiem Myrick – additional programming, producer"
-  ],
-  "discs": "",
-  "acquired": "2023-07-24",
-  "discogs": "https://www.discogs.com/release/22089481-The-Notorious-BIG-Ready-To-Die",
-  "genres": [
-   "Hip Hop"
-  ],
-  "styles": [
-   "Gangsta",
-   "Hardcore Hip-Hop",
-   "Boom Bap"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0876.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Intro",
-    "d": "3:24",
-    "sp": "7oYlZ3vB5yxiKMrbHeFV9v",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "Things Done Changed",
-    "d": "3:58",
-    "sp": "7hdOchAKFm6FwzyevcQ56y",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Gimme The Loot",
-    "d": "4:46",
-    "sp": "1xIxMz1sNQ4b6svH1GuTtF",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Machine Gun Funk",
-    "d": "4:16",
-    "sp": "2bXI4Rbw1D7aVeHWLjn1Lb",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "Warning",
-    "d": "3:40",
-    "sp": "33rsCCLHklTQav9klbpnAi",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "Ready To Die",
-    "d": "4:24",
-    "sp": "3UQAKY0SUEonxneROvv4jy",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "One More Chance",
-    "d": "4:43",
-    "sp": "5onGESUxi3P9xLt311oS59",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "#!*@ Me (Interlude)",
-    "d": "1:31",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "The What",
-    "d": "3:57",
-    "sp": "4dTtYVQzlwBMpVyQ4h3wy2",
-    "src": "Discogs"
-   },
-   {
-    "p": "B5",
-    "t": "Juicy",
-    "d": "5:03",
-    "sp": "5ByAIlEEnxYdvpnezg7HTX",
-    "src": "Discogs"
-   },
-   {
-    "p": "C1",
-    "t": "Everyday Struggle",
-    "d": "5:19",
-    "sp": "3bOvAqhaZNSWpGVIvHEx8B",
-    "src": "Discogs"
-   },
-   {
-    "p": "C2",
-    "t": "Me & My B*tch",
-    "d": "4:00",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "C3",
-    "t": "Big Poppa",
-    "d": "4:13",
-    "sp": "2g8HN35AnVGIk7B8yMucww",
-    "src": "Discogs"
-   },
-   {
-    "p": "C4",
-    "t": "Respect",
-    "d": "5:21",
-    "sp": "13N31D8yFuN4JeYYR7veY6",
-    "src": "Discogs"
-   },
-   {
-    "p": "D1",
-    "t": "Friend Of Mine",
-    "d": "3:28",
-    "sp": "0TibDQQ58jAlr6jnl5AORf",
-    "src": "Discogs"
-   },
-   {
-    "p": "D2",
-    "t": "Unbelievable",
-    "d": "3:44",
-    "sp": "4heC6SnTBxTZZDef4AIBOk",
-    "src": "Discogs"
-   },
-   {
-    "p": "D3",
-    "t": "Suicidal Thoughts",
-    "d": "2:50",
-    "sp": "5k8VqtBhkbAYakV5ZEFYNo",
-    "src": "Discogs"
-   },
-   {
-    "p": "D4",
-    "t": "Who Shot Ya",
-    "d": "5:19",
-    "sp": "2KFg8kjYy0rYjWsXGhEQHN",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1994-09-13",
-  "wiki": "https://en.wikipedia.org/wiki/Ready_to_Die",
-  "about": "Debut studio album by the Brooklyn rapper the Notorious B.I.G., released on Bad Boy Records. Featuring Juicy and Big Poppa, it helped revive East Coast hip hop and is regarded as a genre landmark.",
-  "artistKey": "The Notorious B.I.G.",
-  "spAlbum": "",
-  "vinylColor": "Red w/ White + Black Splatter / White w/ Red + Black Splatter",
-  "medium": "Vinyl",
-  "persSrc": "Wikipedia"
  },
  {
   "id": "ALB0877",
@@ -127328,7 +126706,8 @@
    "Pop"
   ],
   "styles": [
-   "Synth-pop"
+   "Synth-pop",
+   "Electro"
   ],
   "notes": "",
   "cover": "covers/ALB1017.jpg",
@@ -127411,116 +126790,30 @@
   "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/19/e8/14/19e814d4-fdf1-1df5-f0cb-d1a5182169ed/00724358150551.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "ALB1018",
-  "artist": "Orchestral Manoeuvres In The Dark",
-  "title": "Orchestral Manoeuvres In The Dark",
-  "year": 1980,
-  "label": "Virgin",
-  "catno": "201 653",
-  "edition": "Original",
-  "reissue": "",
-  "type": "Debut Album",
-  "personnel": [
-   "Chester Valentino – producer",
-   "Orchestral Manoeuvres – producer",
-   "Andy McCluskey – voice, bass, keyboards, percussion, drum programming",
-   "Paul Humphreys – voice, keyboards, percussion, drum programming"
-  ],
-  "discs": "",
-  "acquired": "2024-07-23",
-  "discogs": "https://www.discogs.com/release/26398337-Orchestral-Manoeuvres-In-The-Dark-Orchestral-Manoeuvres-In-The-Dark",
-  "genres": [
-   "Electronic"
-  ],
-  "styles": [
-   "Electro",
-   "Synth-pop"
-  ],
-  "notes": "",
-  "cover": "covers/ALB1018.jpg",
-  "tracks": [
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/19/e8/14/19e814d4-fdf1-1df5-f0cb-d1a5182169ed/00724358150551.jpg/1400x1400bb.jpg",
+  "versions": [
    {
-    "p": "A1",
-    "t": "Bunker Soldiers",
-    "d": "2:50",
-    "sp": "4O7H0c3K8sB3SgMfEA927o",
-    "src": "Discogs"
+    "id": "ALB1017",
+    "catno": "DID 2",
+    "discogs": "https://www.discogs.com/release/32190273-Orchestral-Manoeuvres-In-The-Dark-Orchestral-Manoeuvres-In-The-Dark",
+    "acquired": "2024-07-23",
+    "label": "Dindisc",
+    "edition": "Reissue",
+    "reissue": 1981
    },
    {
-    "p": "A2",
-    "t": "Almost",
-    "d": "3:40",
-    "sp": "332nndRRJO6hpcAtm73ySE",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Mystereality",
-    "d": "2:42",
-    "sp": "5zTwEuB6YyrF1dyi8B4Gm8",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Electricity",
-    "d": "3:32",
-    "sp": "60TmG8cFPMBo7kTTFOLiAB",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "The Messerschmitt Twins",
-    "d": "5:38",
-    "sp": "6Vp8BTbrPhvXpw2EnjsirL",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "Messages",
-    "d": "4:06",
-    "sp": "4QeM8yeUPd31gl9c3KtoYN",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "Julia's Song",
-    "d": "4:39",
-    "sp": "55r6TtYLFyts8Egr5xobEn",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Red Frame / White Light?",
-    "d": "3:10",
-    "sp": "0P19NrR3xzELtF04rtV0qG",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Dancing",
-    "d": "2:58",
-    "sp": "1dobMoG2zqnBjL2zWQNWJP",
-    "src": "Discogs"
-   },
-   {
-    "p": "B5",
-    "t": "Pretending To See The Future",
-    "d": "3:45",
-    "sp": "4Z3iE1mxwQzzo7Qx4kuqXP",
-    "src": "Discogs"
+    "id": "ALB1018",
+    "catno": "201 653",
+    "discogs": "https://www.discogs.com/release/26398337-Orchestral-Manoeuvres-In-The-Dark-Orchestral-Manoeuvres-In-The-Dark",
+    "acquired": "2024-07-23",
+    "label": "Virgin",
+    "edition": "Original",
+    "reissue": ""
    }
   ],
-  "released": "1980-02-22",
-  "wiki": "https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark_(album)",
-  "about": "Debut LP by Liverpool synth-pop duo OMD, recorded in their own studio and released on Dindisc. A re-recorded Messages gave them a first UK hit, and the Peter Saville and Ben Kelly die-cut sleeve won a design award.",
-  "artistKey": "Orchestral Manoeuvres in the Dark",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/19/e8/14/19e814d4-fdf1-1df5-f0cb-d1a5182169ed/00724358150551.jpg/1400x1400bb.jpg"
+  "alsoIds": [
+   "ALB1018"
+  ]
  },
  {
   "id": "ALB1019",
@@ -133129,139 +132422,6 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/e1/67/50/e1675076-60b8-de04-3b20-0698027be6a2/886444593083.jpg/1400x1400bb.jpg"
  },
  {
-  "id": "ALB1094",
-  "artist": "Bob Marley & The Wailers",
-  "title": "Legend",
-  "year": 1984,
-  "label": "Island Records",
-  "catno": "00602435172972",
-  "edition": "Reissue",
-  "reissue": 2020,
-  "type": "Compilation",
-  "personnel": [],
-  "discs": "",
-  "acquired": "2025-03-19",
-  "discogs": "https://www.discogs.com/release/16242573-Bob-Marley-The-Wailers-Legend",
-  "genres": [
-   "Reggae"
-  ],
-  "styles": [
-   "Roots Reggae",
-   "Reggae-Pop",
-   "Reggae"
-  ],
-  "notes": "",
-  "cover": "covers/ALB1094.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Is This Love",
-    "d": "3:55",
-    "sp": "2sevvnMrqH607r5lwk3kFT",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "No Woman No Cry",
-    "d": "4:05",
-    "sp": "5rPnv4gceOGKCqbN06F2aJ",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Could You Be Loved",
-    "d": "3:35",
-    "sp": "6ZXmTH4DpP07a2TvHx1EF9",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Three Little Birds",
-    "d": "3:00",
-    "sp": "7vggqxNKwd6xdRoYS0pQtM",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "Buffalo Soldier",
-    "d": "2:44",
-    "sp": "0QyBdoz2JktWEo111DBEx9",
-    "src": "Discogs"
-   },
-   {
-    "p": "A6",
-    "t": "Get Up Stand Up",
-    "d": "3:15",
-    "sp": "0q5giEtY4wsFTwjWqswLwx",
-    "src": "Discogs"
-   },
-   {
-    "p": "A7",
-    "t": "Stir It Up",
-    "d": "3:40",
-    "sp": "4FNm4ZJaUVLDCMXcqwS6zY",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "One Love / People Get Ready",
-    "d": "2:53",
-    "sp": "2BSwGHTh4kmckqXQfaCaAp",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "I Shot The Sheriff",
-    "d": "3:49",
-    "sp": "60e5PcqGmlVFQ0HHgUagCJ",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Waiting In Vain",
-    "d": "4:10",
-    "sp": "1waOqfmEVkVC8WhaIP6uGI",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Redemption Song",
-    "d": "3:48",
-    "sp": "7MKcM6TfaGKQVFfhstCbOw",
-    "src": "Discogs"
-   },
-   {
-    "p": "B5",
-    "t": "Satisfy My Soul",
-    "d": "3:54",
-    "sp": "6dzrCHBBKutQezMkeWaOEY",
-    "src": "Discogs"
-   },
-   {
-    "p": "B6",
-    "t": "Exodus",
-    "d": "4:18",
-    "sp": "5MRQvbpvXejJJy0OWciP8G",
-    "src": "Discogs"
-   },
-   {
-    "p": "B7",
-    "t": "Jamming",
-    "d": "3:17",
-    "sp": "4aUCPal9bxTnQkEfdIY6sG",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1984-05-07",
-  "wiki": "https://en.wikipedia.org/wiki/Legend_(Bob_Marley_and_the_Wailers_album)",
-  "about": "A posthumous greatest-hits collection of Bob Marley and the Wailers released by Island Records. It topped the UK chart, is regarded as the best-selling reggae album ever, and has spent an exceptionally long run on both the US and UK album charts.",
-  "artistKey": "Bob Marley & The Wailers",
-  "spAlbum": "",
-  "vinylColor": "Half Speed Mastered",
-  "medium": "Vinyl & CD",
-  "cdId": "CD0253"
- },
- {
   "id": "ALB1095",
   "artist": "Kendrick Lamar",
   "title": "GNX",
@@ -136536,130 +135696,6 @@
   "vinylColor": "Red",
   "medium": "Vinyl",
   "persSrc": "Wikipedia"
- },
- {
-  "id": "ALB1123",
-  "artist": "Blur",
-  "title": "The Magic Whip",
-  "year": 2015,
-  "label": "Parlophone",
-  "catno": "5021732544568",
-  "edition": "Reissue",
-  "reissue": 2025,
-  "type": "8th Studio Album",
-  "personnel": [
-   "Damon Albarn – producer",
-   "Graham Coxon – producer",
-   "Stephen Street – producer"
-  ],
-  "discs": "",
-  "acquired": "2025-08-11",
-  "discogs": "https://www.discogs.com/release/33805638-Blur-The-Magic-Whip",
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "styles": [
-   "Indie Rock",
-   "Alternative Rock",
-   "Britpop"
-  ],
-  "notes": "",
-  "cover": "covers/ALB1123.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Lonesome Street",
-    "d": "",
-    "sp": "2BSDAVUzzQP7wpvcDybmsP",
-    "src": "not found"
-   },
-   {
-    "p": "A2",
-    "t": "New World Towers",
-    "d": "",
-    "sp": "0VNLvVaS0Njds7K6kD1iss",
-    "src": "not found"
-   },
-   {
-    "p": "A3",
-    "t": "Go Out",
-    "d": "",
-    "sp": "5b8FvZT5IGWi2ilQZxXkZR",
-    "src": "not found"
-   },
-   {
-    "p": "A4",
-    "t": "Ice Cream Man",
-    "d": "",
-    "sp": "3nFmJyWPkhZuweqj1WkTCm",
-    "src": "not found"
-   },
-   {
-    "p": "A5",
-    "t": "Thought I Was A Spaceman",
-    "d": "",
-    "sp": "1YXGC7MQQCuPcyAfnSbK2p",
-    "src": "not found"
-   },
-   {
-    "p": "A6",
-    "t": "I Broadcast",
-    "d": "",
-    "sp": "3ALyID6n3ZmzxchhiYA4o2",
-    "src": "not found"
-   },
-   {
-    "p": "B1",
-    "t": "My Terracotta Heart",
-    "d": "",
-    "sp": "5Z5noK2zThdqltHpmTyxSH",
-    "src": "not found"
-   },
-   {
-    "p": "B2",
-    "t": "There Are Too Many Of Us",
-    "d": "",
-    "sp": "44PQEofvkk0Ul7M6ZDsOGS",
-    "src": "not found"
-   },
-   {
-    "p": "B3",
-    "t": "Ghost Ship",
-    "d": "",
-    "sp": "61JDaStnXY3vbaEjliB5WA",
-    "src": "not found"
-   },
-   {
-    "p": "B4",
-    "t": "Pyongyang",
-    "d": "",
-    "sp": "1IJvO4FVyfi7SenbjCwJ26",
-    "src": "not found"
-   },
-   {
-    "p": "B5",
-    "t": "Ong Ong",
-    "d": "",
-    "sp": "0lWu1wRAegvbC6Wb0jYKfA",
-    "src": "not found"
-   },
-   {
-    "p": "B6",
-    "t": "Mirrorball",
-    "d": "",
-    "sp": "0pvCNOtn1OEQjHYwo0d7PY",
-    "src": "not found"
-   }
-  ],
-  "released": "2015-04-27",
-  "wiki": "https://en.wikipedia.org/wiki/The_Magic_Whip",
-  "about": "Eighth studio album by Blur and their first in twelve years. Writing began in Hong Kong in 2013 after a cancelled festival left the band with free days, and it was completed in London. The album went to No. 1 in the UK.",
-  "artistKey": "Blur",
-  "spAlbum": "",
-  "vinylColor": "10th Anniversary, Half-Speed Master, Alt. Cover, Gold",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/97/2c/26/972c2611-d141-f970-43b3-bb93be4a5dee/825646132881.jpg/1400x1400bb.jpg"
  },
  {
   "id": "ALB1124",
@@ -140791,110 +139827,6 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/e0/ff/c5e0ff15-3f84-b12b-6327-76bcf6ad37f5/886444593168.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "ALB1154",
-  "artist": "Roberta Flack",
-  "title": "Killing Me Softly",
-  "year": 1973,
-  "label": "Analogue Productions",
-  "catno": "APA 054-45",
-  "edition": "Reissue",
-  "reissue": 2025,
-  "type": "4th Studio Album",
-  "personnel": [
-   "Roberta Flack – vocals, piano, rhythm track arrangements",
-   "Eric Gale – guitar",
-   "Ron Carter – bass guitar",
-   "Grady Tate – drums",
-   "Ralph MacDonald – congas, percussion, tambourine",
-   "Kermit Moore – cello (4), cello arrangements (4)",
-   "Eumir Deodato – string arrangements and conductor (2, 8)",
-   "Alfred \"Pee Wee\" Ellis – brass arrangements and conductor (3)",
-   "Joel Dorn – producer",
-   "Jack Shaw – producer"
-  ],
-  "discs": "",
-  "acquired": "2025-12-16",
-  "discogs": "https://www.discogs.com/release/9402962-Roberta-Flack-Killing-Me-Softly",
-  "genres": [
-   "Jazz",
-   "Funk / Soul",
-   "Pop"
-  ],
-  "styles": [
-   "Soul",
-   "Ballad"
-  ],
-  "notes": "",
-  "cover": "covers/ALB1154.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Killing Me Softly",
-    "d": "4:46",
-    "sp": "3gsCAGsWr6pUm1Vy7CPPob",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "Jesse",
-    "d": "4:00",
-    "sp": "3OepQ3fQXOa0Tr6H7RKHn6",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "No Tears (In The End)",
-    "d": "4:56",
-    "sp": "1JQTXexqzRiUA2mVjGeem3",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "I'm The Girl",
-    "d": "4:52",
-    "sp": "09qgbK845V0zWKwXmhviR5",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "River",
-    "d": "5:00",
-    "sp": "6rDR6Z8fBLhErGiDjmfOp3",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "Conversation",
-    "d": "3:38",
-    "sp": "162efqDKV58JMKQgKVsGE2",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "When You Smile",
-    "d": "3:42",
-    "sp": "460ysTfMygkMjaes74RdU3",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Suzanne",
-    "d": "9:45",
-    "sp": "4mOkaOrRaVOueLEVDRZluS",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1973-08-01",
-  "wiki": "https://en.wikipedia.org/wiki/Killing_Me_Softly_(Roberta_Flack_album)",
-  "about": "Roberta Flack's fourth studio album, produced by Joel Dorn for Atlantic Records. Its title track became a major hit and won Grammy recognition.",
-  "artistKey": "Roberta Flack",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/e4/71/97/mzi.mgwzviyu.jpg/1400x1400bb.jpg"
  },
  {
   "id": "ALB1155",
@@ -145999,364 +144931,6 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2a/2d/5a/2a2d5a85-5948-84f9-130d-6423d4b2b004/098787077568.png/1400x1400bb.jpg"
- },
- {
-  "id": "ALB1191",
-  "artist": "Thunder Jackson",
-  "title": "Hello Stranger",
-  "year": 2024,
-  "label": "Vero Music",
-  "catno": "VERO2406",
-  "edition": "Original",
-  "reissue": "",
-  "type": "2nd Studio Album",
-  "personnel": [
-   "Taylor Johnson – producer",
-   "Thunder Jackson – producer"
-  ],
-  "discs": "",
-  "acquired": "2026-07-26",
-  "discogs": "https://www.discogs.com/release/34601308-Thunder-Jackson-Hello-Stranger-",
-  "genres": [
-   "Electronic",
-   "Pop",
-   "Rock",
-   "Funk / Soul"
-  ],
-  "styles": [
-   "Synth-pop",
-   "Dance-pop",
-   "Pop Rock",
-   "Soul"
-  ],
-  "notes": "",
-  "cover": "covers/ALB1191.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Spoonfed Desire ",
-    "d": "",
-    "sp": "78uG3sxepUtBw4jKlm2wMp",
-    "src": "not found"
-   },
-   {
-    "p": "A2",
-    "t": "Hello Stranger",
-    "d": "",
-    "sp": "0fnFswOjUpFddzIfy2CY3P",
-    "src": "not found"
-   },
-   {
-    "p": "A3",
-    "t": "The Fever & The Dream",
-    "d": "",
-    "sp": "3HARovnVQW2dLUrYqEVocq",
-    "src": "not found"
-   },
-   {
-    "p": "A4",
-    "t": "Steady Freddy",
-    "d": "",
-    "sp": "3ksncVP0X9A9KPPnV9Azx4",
-    "src": "not found"
-   },
-   {
-    "p": "A5",
-    "t": "Terminal Uniqueness",
-    "d": "",
-    "sp": "6oSTnOS71atprSwYHSyOYK",
-    "src": "not found"
-   },
-   {
-    "p": "A6",
-    "t": "Grace Kelly",
-    "d": "",
-    "sp": "6aZD6M0zZmdeYZaLfuYzak",
-    "src": "not found"
-   },
-   {
-    "p": "B1",
-    "t": "Wasted Talent ",
-    "d": "",
-    "sp": "0GA7yo8pEkJElTiD69bqm9",
-    "src": "not found"
-   },
-   {
-    "p": "B2",
-    "t": "I Let Ghosts",
-    "d": "",
-    "sp": "17gU3PtqjhhYnKXur78Zw7",
-    "src": "not found"
-   },
-   {
-    "p": "B3",
-    "t": "Modern World",
-    "d": "",
-    "sp": "1WS8TfRGqxnAfUL3CrmyDM",
-    "src": "not found"
-   },
-   {
-    "p": "B4",
-    "t": "War & TV Dinners",
-    "d": "",
-    "sp": "0tKNJPxq6hsfyXpxR3hJ5i",
-    "src": "not found"
-   },
-   {
-    "p": "B5",
-    "t": "In The Movies",
-    "d": "",
-    "sp": "0SkqyYOOzqeklsmtWCBsHQ",
-    "src": "not found"
-   },
-   {
-    "p": "B6",
-    "t": "Ruby",
-    "d": "",
-    "sp": "3d525JmffOnTNLKGj03Qtr",
-    "src": "not found"
-   }
-  ],
-  "released": "2024-10-25",
-  "wiki": "",
-  "about": "The second album by Oklahoma singer-songwriter Thunder Jackson, released on VERO Music as the follow-up to his self-titled debut. A supporting tour followed in 2025.",
-  "artistKey": "Thunder Jackson",
-  "spAlbum": "",
-  "vinylColor": "White",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/e9/1f/8be91fed-0a3f-f58e-ee20-7293d7c39809/198622792332_cover.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "ALB1192",
-  "artist": "Foreigner",
-  "title": "Agent Provocateur",
-  "year": 1984,
-  "label": "Atlantic",
-  "catno": "81999-1-E",
-  "edition": "Original",
-  "reissue": "",
-  "type": "5th Studio Album",
-  "personnel": [
-   "Mick Jones – lead guitar, bass, keyboards, synthesizer, backing vocals, producer",
-   "Alex Sadkin – producer",
-   "Ian Lloyd – backing vocals",
-   "Rick Wills – bass, backing vocals",
-   "Lou Gramm – lead vocals, percussion",
-   "Dennis Elliott – drums",
-   "Bob Mayo – piano, synthesizer",
-   "Brian Eddolls – synthesizer",
-   "David LeBolt – synthesizer",
-   "Jack Waldman – synthesizer",
-   "Larry Fast – synthesizer",
-   "Wally Badarou – synthesizer"
-  ],
-  "discs": "",
-  "acquired": "2026-10-03",
-  "discogs": "https://www.discogs.com/release/6182787-Foreigner-Agent-Provocateur",
-  "genres": [
-   "Rock"
-  ],
-  "styles": [
-   "Pop Rock",
-   "Classic Rock"
-  ],
-  "notes": "",
-  "cover": "covers/ALB1192.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Tooth And Nail",
-    "d": "3:54",
-    "sp": "0SJ2IMAwwihmPd7NlQgsmJ",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "That Was Yesterday",
-    "d": "3:46",
-    "sp": "4nwUQZbmWMkYzKrXgWRIEw",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "I Want To Know What Love Is",
-    "d": "4:58",
-    "sp": "1JLn8RhQzHz3qDqsChcmBl",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Growing Up The Hard Way",
-    "d": "4:18",
-    "sp": "2OhL4zqGeJ1O4qLGAsCy3s",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "Reaction To Action",
-    "d": "3:57",
-    "sp": "7iXGUsbYaJddOHj9sYH8Nw",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "Stranger In My Own House",
-    "d": "4:54",
-    "sp": "1KN75zGDK2MKCOC8IjiVaD",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "A Love In Vain",
-    "d": "4:12",
-    "sp": "3zEIr9um4gCoz8iyefYFeW",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Down On Love",
-    "d": "4:08",
-    "sp": "2Y595I3I2LYhnTTXGrg2MX",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Two Different Worlds",
-    "d": "4:28",
-    "sp": "2aY357RazhpW5bq6Wykibp",
-    "src": "Discogs"
-   },
-   {
-    "p": "B5",
-    "t": "She's Too Tough",
-    "d": "3:07",
-    "sp": "3qYuycr2crL1C8i4RJUJC2",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1984-12-14",
-  "wiki": "https://en.wikipedia.org/wiki/Agent_Provocateur_(album)",
-  "about": "Foreigner's fifth studio album, produced by Mick Jones and Alex Sadkin for Atlantic. It became the band's only UK number-one album, reached number 4 in the US, and contains their biggest hit, I Want to Know What Love Is.",
-  "artistKey": "Foreigner",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/17/49/eb1749a8-29a1-83ef-5d0e-ec3394d3d057/075678279669.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "ALB1193",
-  "artist": "Metric",
-  "title": "Romanticize The Dive",
-  "year": 2026,
-  "label": "Metric Music International",
-  "catno": "BLOOD587",
-  "edition": "Original",
-  "reissue": "",
-  "type": "10th Studio Album",
-  "personnel": [
-   "Gavin Brown – producer",
-   "Jimmy Shaw – producer",
-   "Liam O'Neil – producer",
-   "John O'Mahony – producer"
-  ],
-  "discs": "",
-  "acquired": "2026-10-03",
-  "discogs": "https://www.discogs.com/release/37163484-Metric-Romanticize-The-Dive",
-  "genres": [
-   "Rock"
-  ],
-  "styles": [
-   "New Wave",
-   "Indie Rock"
-  ],
-  "notes": "",
-  "cover": "covers/ALB1193.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Victim of Luck",
-    "d": "3:23",
-    "sp": "3RD653TC0ewVZZNELdV79h",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "Wild Rut",
-    "d": "3:11",
-    "sp": "4skS0nACMaKGTPsrO4OLCO",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Time Is A Bomb",
-    "d": "4:25",
-    "sp": "2hrTEv28VPdDPnwbFMokyz",
-    "src": "Discogs"
-   },
-   {
-    "p": "A4",
-    "t": "Crush Forever",
-    "d": "4:32",
-    "sp": "75zgKpp6xeqjJs72acQ2TB",
-    "src": "Discogs"
-   },
-   {
-    "p": "A5",
-    "t": "Tremolo",
-    "d": "3:43",
-    "sp": "2fLrRiiTmJM4Gdoq7mdXV9",
-    "src": "Discogs"
-   },
-   {
-    "p": "A6",
-    "t": "Moral Compass",
-    "d": "4:28",
-    "sp": "4bNHai0BHme5TzlW5A1sF8",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "As If You’re Here",
-    "d": "3:36",
-    "sp": "2gnaY0l95mOdo5nIucGuKJ",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "Loyal",
-    "d": "3:58",
-    "sp": "4cgPhwPIcdOR03aEpCUNwb",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Antigravity",
-    "d": "3:40",
-    "sp": "6WhS6vq4SFDnyFogNSgwsc",
-    "src": "Discogs"
-   },
-   {
-    "p": "B4",
-    "t": "Clouds To Break",
-    "d": "4:39",
-    "sp": "2enwEJVN52Hm025MBOzljl",
-    "src": "Discogs"
-   },
-   {
-    "p": "B5",
-    "t": "Leave You On A High",
-    "d": "3:35",
-    "sp": "2sIvt1ZAtcvioN9rO9ZcUI",
-    "src": "Discogs"
-   }
-  ],
-  "released": "2026-04-24",
-  "wiki": "https://en.wikipedia.org/wiki/Romanticize_the_Dive",
-  "about": "Metric's tenth studio album, again produced by Gavin Brown and released with Thirty Tigers. Victim of Luck, Time Is a Bomb and Crush Forever were issued as singles ahead of it.",
-  "artistKey": "Metric",
-  "spAlbum": "",
-  "vinylColor": "Red, Silver & Green",
-  "medium": "Vinyl"
  },
  {
   "id": "ALB1194",
