@@ -939,8 +939,13 @@
   "discs": "",
   "acquired": "2026-05-14",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Rock",
+   "Folk, World, & Country"
+  ],
+  "styles": [
+   "Folk Rock"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -21967,8 +21972,13 @@
   "discs": "",
   "acquired": "2021-05-31",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Funk",
+   "Soul"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -42069,8 +42079,12 @@
   "discs": "",
   "acquired": "2021-07-06",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Jazz"
+  ],
+  "styles": [
+   "Dixieland"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -52448,8 +52462,13 @@
   "discs": "",
   "acquired": "2021-08-22",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Funk / Soul",
+   "Pop"
+  ],
+  "styles": [
+   "Soul"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -62369,8 +62388,13 @@
   "discs": "",
   "acquired": "2021-10-06",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Soul",
+   "Funk"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -64825,7 +64849,9 @@
   "discs": "",
   "acquired": "2021-10-11",
   "discogs": "",
-  "genres": [],
+  "genres": [
+   "Hip Hop"
+  ],
   "styles": [],
   "notes": "",
   "cover": "",
@@ -73285,8 +73311,12 @@
   "discs": "",
   "acquired": "2021-11-21",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Classical"
+  ],
+  "styles": [
+   "Romantic"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -131816,8 +131846,15 @@
   "discs": "",
   "acquired": "2025-04-17",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Funk / Soul",
+   "Latin"
+  ],
+  "styles": [
+   "Disco",
+   "Boogie",
+   "MPB"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
@@ -147029,8 +147066,14 @@
   "discs": "",
   "acquired": "2023-02-14",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Folk, World, & Country",
+   "Rock"
+  ],
+  "styles": [
+   "Folk Rock",
+   "Indie Rock"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -163066,8 +163109,12 @@
   "discs": "",
   "acquired": "2023-02-03",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Jazz"
+  ],
+  "styles": [
+   "Easy Listening"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
@@ -164537,8 +164584,12 @@
   "discs": "",
   "acquired": "2023-02-04",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Classical"
+  ],
+  "styles": [
+   "Opera"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -164735,8 +164786,12 @@
   "discs": "",
   "acquired": "2023-02-04",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Folk, World, & Country"
+  ],
+  "styles": [
+   "Hawaiian"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -166446,8 +166501,12 @@
   "discs": "",
   "acquired": "2023-02-04",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Brass & Military"
+  ],
+  "styles": [
+   "Marching Band"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
@@ -166594,8 +166653,12 @@
   "discs": "",
   "acquired": "2023-02-04",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Brass & Military"
+  ],
+  "styles": [
+   "Marching Band"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
@@ -171890,8 +171953,12 @@
   "discs": "",
   "acquired": "2024-02-04",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Jam Band"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
@@ -171918,8 +171985,12 @@
   "discs": "",
   "acquired": "2024-02-04",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Non-Music"
+  ],
+  "styles": [
+   "Spoken Word"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
@@ -174720,8 +174791,12 @@
   "discs": "",
   "acquired": "2023-02-05",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Pop"
+  ],
+  "styles": [
+   "A Cappella"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -177525,8 +177600,13 @@
   "discs": "",
   "acquired": "2023-02-09",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Classical"
+  ],
+  "styles": [
+   "Choral",
+   "Holiday"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
@@ -187522,8 +187602,12 @@
   "discs": "",
   "acquired": "",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Rock & Roll"
+  ],
   "notes": " Songs listed are the ones in your Spotify playlist; the full tracklist is not on Discogs.",
   "cover": "",
   "tracks": [
@@ -194283,8 +194367,14 @@
   "discs": "",
   "acquired": "",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Latin",
+   "Jazz"
+  ],
+  "styles": [
+   "Salsa",
+   "Latin Jazz"
+  ],
   "notes": " Songs listed are the ones in your Spotify playlist; the full tracklist is not on Discogs.",
   "cover": "",
   "tracks": [
