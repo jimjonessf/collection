@@ -36575,8 +36575,14 @@
   "discs": "",
   "acquired": "2021-06-07",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Funk / Soul",
+   "Blues"
+  ],
+  "styles": [
+   "Soul",
+   "Rhythm & Blues"
+  ],
   "notes": "",
   "cover": "covers/ALB0274.jpg",
   "tracks": [
@@ -43798,8 +43804,13 @@
   "discs": "",
   "acquired": "2021-07-11",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Alternative Rock",
+   "Hard Rock"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [
@@ -168239,8 +168250,15 @@
   "discs": "",
   "acquired": "2023-02-04",
   "discogs": "",
-  "genres": [],
-  "styles": [],
+  "genres": [
+   "Folk, World, & Country",
+   "Rock"
+  ],
+  "styles": [
+   "Folk",
+   "Folk Rock",
+   "Acoustic"
+  ],
   "notes": "",
   "cover": "",
   "tracks": [],
