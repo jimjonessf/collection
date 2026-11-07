@@ -16,6 +16,23 @@ UA = "TheCollection/1.0 ( https://jimjonessf.github.io/collection/ )"   # MusicB
 TODAY = dt.date.today()
 FIRST_YEAR = 2020                    # New Releases shows every year from 2020 on
 RECHECK_MISSING_DAYS = 30            # artists MusicBrainz couldn't match are tried again after a month
+# names MusicBrainz knows an artist by today (the band renamed itself)
+SEARCH_AS = {"Dixie Chicks": "The Chicks"}
+# archival releases (old recordings put out now) and classical works are left out of New Releases and Reissues
+ARCHIVAL = re.compile(r"\b(unreleased|outtakes?|rarities|from the vaults?|the vaults?|archives?|archival|broadcasts?|bbc sessions|radio sessions|"
+                      r"bootleg series|demos?|lost (?:\w+ )?(?:tapes|recordings|sessions|album|reels|concerts?|broadcasts?)|previously unissued)\b|\bcomplete\b.*\bsessions?\b", re.I)
+LIVEISH = re.compile(r"\b(live|sessions?|concerts?|recordings?|tour|at the|in concert)\b", re.I)
+CLASSICAL = re.compile(r"\b(symphon(y|ies|ic)|concertos?|sonatas?|op\.\s?\d|opus \d|bwv|requiem|cantatas?|string quartets?|oratorio|beethoven|mozart|bach|"
+                       r"chopin|brahms|vivaldi|tchaikovsky|dvo[rř][aá]k|debussy|handel|schubert|mahler|haydn|rachmaninoff|stravinsky)\b", re.I)
+
+
+def archival_title(title, year):
+    if ARCHIVAL.search(title):
+        return True
+    old = [int(y) for y in re.findall(r"\b(19\d\d|20\d\d)\b", title)]
+    return any(y <= year - 10 for y in old) and bool(LIVEISH.search(title))   # "Live in Paris (1971)" released in 2022
+
+
 SKIP = re.compile(r"various|original (broadway|london|motion|cast|soundtrack)|soundtrack|cast recording", re.I)
 
 
@@ -53,19 +70,26 @@ def bare(s):
     return fold(re.sub(r"\s*[\(\[].*?[\)\]]", "", str(s)))
 
 
+def end_year(a):
+    e = ((a or {}).get("life-span") or {}).get("end") or ""
+    return int(e[:4]) if e[:4].isdigit() else 0
+
+
 def find_artist(name, known):
-    """The MusicBrainz artist with this name who also made at least one album we know of (so a namesake isn't picked)."""
+    """The MusicBrainz artist with this name who also made at least one album we know of (so a namesake isn't picked).
+    Returns (id, year the artist ended or 0)."""
+    name = SEARCH_AS.get(name, name)
     q = str(name).replace("\\", " ").replace('"', '\\"')
     d = mb("artist/", {"query": f'artist:"{q}"', "limit": 8}) or {}
     want = fold(name)
-    cands = [a["id"] for a in d.get("artists", [])
+    cands = [a for a in d.get("artists", [])
              if int(a.get("score", 0)) >= 90 and any(fold(n) == want for n in [a.get("name", "")] + [x.get("name", "") for x in a.get("aliases", []) or []])]
-    for mbid in cands[:3]:
-        g = mb("release-group", {"artist": mbid, "limit": 100}) or {}
+    for a in cands[:3]:
+        g = mb("release-group", {"artist": a["id"], "limit": 100}) or {}
         titles = {bare(x.get("title", "")) for x in g.get("release-groups", [])} | {fold(x.get("title", "")) for x in g.get("release-groups", [])}
         if titles & known:
-            return mbid
-    return None
+            return a["id"], end_year(a)
+    return None, 0
 
 
 def kind_ok(g):
@@ -165,6 +189,13 @@ def main():
     known = {}
     for a in json.load(open(os.path.join(ROOT, "data", "albums.json"))):
         known.setdefault(a.get("artistKey") or a.get("artist"), set()).update({fold(a["title"]), bare(a["title"])})
+    # artists whose albums in the collection are mostly classical (composers, orchestras, Yo-Yo Ma ...)
+    cl, tot = {}, {}
+    for a in json.load(open(os.path.join(ROOT, "data", "albums.json"))):
+        k = a.get("artistKey") or a.get("artist")
+        tot[k] = tot.get(k, 0) + 1
+        cl[k] = cl.get(k, 0) + ("Classical" in (a.get("genres") or []))
+    classical = {k for k in tot if cl[k] * 2 >= tot[k] and cl[k]}
     for k, v in artists.items():
         for x in v.get("studio_albums") or []:
             known.setdefault(k, set()).update({fold(x["title"]), bare(x["title"])})
@@ -185,23 +216,31 @@ def main():
         tracked, ri_before = bool(info.get("mbid")), bool(info.get("ri"))   # an artist checked for the first time reports nothing (it's all old news)
         if not info.get("mbid"):
             tried = info.get("tried", "")
-            if tried and (TODAY - dt.date.fromisoformat(tried)).days < RECHECK_MISSING_DAYS:
+            if tried and (TODAY - dt.date.fromisoformat(tried)).days < RECHECK_MISSING_DAYS and key not in SEARCH_AS:
                 continue
-            mbid = find_artist(artists[key].get("name") or key, known.get(key, set()) - {""})
-            info = {"mbid": mbid} if mbid else {"tried": TODAY.isoformat()}
+            mbid, ended = find_artist(artists[key].get("name") or key, known.get(key, set()) - {""})
+            info = {"mbid": mbid, "end": ended} if mbid else {"tried": TODAY.isoformat()}
             found_ids[key] = info
             if not mbid:
                 continue
+        if "end" not in info:          # artists matched before this was tracked: look up once when they stopped
+            info["end"] = end_year(mb("artist/" + info["mbid"], {}))
+        if key in classical:
+            albums.pop(key, None); reissues.pop(key, None)
+            continue                      # classical composers and orchestras: not part of New Releases
         got = albums_of(info["mbid"])
         if got is None:
             continue                      # MusicBrainz didn't answer: keep last week's list
         old = {a["mb"]: a for a in albums.get(key, [])}
         for a in got:
+            # archival: put out after the artist died or broke up, or an old recording by its title ("Live in Paris (1971)", "The Lost Tapes")
+            if (info.get("end") and a["year"] > info["end"]) or archival_title(a["title"], a["year"]) or CLASSICAL.search(a["title"]):
+                a["archival"] = True
             prev = old.get(a["mb"])
             if prev is None:
                 new_count += 1
                 print(f"  new: {key} - {a['title']} ({a['date']})")
-                if had_state and tracked and a["date"] >= recent and (v2 or not a.get("live")):
+                if had_state and tracked and a["date"] >= recent and (v2 or not a.get("live")) and not a.get("archival"):
                     report["live" if a.get("live") else "new"].append((key, a))
             if prev and prev.get("vinyl"):
                 a["vinyl"] = True
@@ -228,8 +267,13 @@ def main():
             if ri is not None:
                 info["ri"] = TODAY.isoformat()
                 seen = {(e["mb"], e["year"]) for e in reissues.get(key, [])}
-                if ri_before and v2:
-                    report["reissue"] += [(key, e) for e in ri if (e["mb"], e["year"]) not in seen and e["date"] >= recent]
+                for e in ri:
+                    if archival_title(e["title"], e["year"]) or CLASSICAL.search(e["title"]):
+                        e["archival"] = True
+                    elif info.get("end") and e["orig"] > info["end"]:
+                        e["archival"] = True          # first put out after the artist was gone: archival, then reissued
+                    elif ri_before and v2 and (e["mb"], e["year"]) not in seen and e["date"] >= recent:
+                        report["reissue"].append((key, e))
                 if ri:
                     reissues[key] = ri
                 else:
