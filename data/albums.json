@@ -82802,7 +82802,7 @@
   "wiki": "https://en.wikipedia.org/wiki/October_(U2_album)",
   "about": "U2's follow-up to Boy, produced by Steve Lillywhite, reflects members' involvement with a Christian fellowship. Recording was rushed after Bono lost a case of draft lyrics on tour, and reviews on release were mixed.",
   "artistKey": "U2",
-  "spAlbum": "",
+  "spAlbum": "1CZ5aEhYDBEU0HdIdqLMo6",
   "vinylColor": "",
   "medium": "Vinyl & CD",
   "cdId": "CD0255",
@@ -92725,7 +92725,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Come_Away_with_Me",
   "about": "Norah Jones's first album, released on Blue Note Records. A slow-building success, it eventually topped the US chart, sold more than 27 million copies worldwide and won several Grammys in 2003, including Album of the Year.",
   "artistKey": "Norah Jones",
-  "spAlbum": "",
+  "spAlbum": "3ul9GmXlTkmRMh3OciXxFR",
   "vinylColor": "",
   "medium": "Vinyl & CD",
   "cdId": "CD0292",
@@ -111075,7 +111075,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Stop_Making_Sense_(album)",
   "about": "Live record by Talking Heads that served as the soundtrack to Jonathan Demme's concert film of the same name, taken from their 1983 Hollywood Pantages Theatre shows.",
   "artistKey": "Talking Heads",
-  "spAlbum": "",
+  "spAlbum": "4FR8Z6TvIsC56NLyNomNRE",
   "vinylColor": "",
   "medium": "Vinyl & CD",
   "cdId": "CD0261",
@@ -112702,7 +112702,7 @@
   "wiki": "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas_(soundtrack)",
   "about": "The Vince Guaraldi Trio's jazz score for the animated television special A Charlie Brown Christmas, issued by Fantasy Records. Recorded in San Francisco, it includes Linus and Lucy and Christmas Time Is Here and became a perennial holiday favorite.",
   "artistKey": "Vince Guaraldi Trio",
-  "spAlbum": "",
+  "spAlbum": "5wfBADzclptjjYLFMyvazA",
   "vinylColor": "Rainbo Pressing, Blue Labels",
   "medium": "Vinyl & CD",
   "cdId": "CD0214",
@@ -150492,170 +150492,6 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/db/a2/7a/dba27a46-3685-508d-d32e-a0e73cc82251/00602567713296.rgb.jpg/1400x1400bb.jpg"
  },
  {
-  "id": "CD0079",
-  "artist": "Various Artists",
-  "title": "The Namesake (Original Motion Picture Soundtrack)",
-  "year": 2006,
-  "label": "Substandard Records",
-  "catno": "SUB1022",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Soundtrack",
-  "personnel": [
-   "Jon Fee – compilation producer"
-  ],
-  "discs": "",
-  "acquired": "2023-02-14",
-  "discogs": "https://www.discogs.com/release/885534-Various-Translation-Music-3",
-  "genres": [
-   "Rock"
-  ],
-  "styles": [
-   "Alternative Rock",
-   "Post Rock",
-   "Indie Rock"
-  ],
-  "notes": "",
-  "cover": "covers/CD0079.jpg",
-  "tracks": [
-   {
-    "p": "1",
-    "t": "Broken Ballad",
-    "d": "3:44",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "2",
-    "t": "One Horse Town",
-    "d": "4:03",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "3",
-    "t": "Prog In Prague (Demo)",
-    "d": "3:53",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "4",
-    "t": "Stella",
-    "d": "4:52",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "5",
-    "t": "Plane",
-    "d": "3:25",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "6",
-    "t": "Siamese Twins",
-    "d": "3:52",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "7",
-    "t": "My Hell",
-    "d": "3:07",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "8",
-    "t": "Always Looka Eye",
-    "d": "3:07",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "9",
-    "t": "Fading In And Out Of A Nic Fit",
-    "d": "8:15",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "10",
-    "t": "Metal Box (Version 2)",
-    "d": "3:27",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "11",
-    "t": "There's A Little Donkey In Every Burrito",
-    "d": "5:45",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "12",
-    "t": "Mouth Full",
-    "d": "3:55",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "13",
-    "t": "A True Theory",
-    "d": "3:29",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "14",
-    "t": "Don Diasco (Acoustic)",
-    "d": "2:10",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "15",
-    "t": "Indubious Battle",
-    "d": "2:52",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "16",
-    "t": "Remedy",
-    "d": "2:40",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "17",
-    "t": "Possibly Maybe",
-    "d": "5:31",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "18",
-    "t": "Axel Foley",
-    "d": "3:32",
-    "sp": "",
-    "src": "Discogs"
-   }
-  ],
-  "released": "",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Various Artists",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "2003",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4e/cf/db/4ecfdbb4-2be9-c718-60af-fff78e99183f/20UMGIM35290.rgb.jpg/1400x1400bb.jpg"
- },
- {
   "id": "CD0080",
   "artist": "Aimee Mann",
   "title": "Bachelor No. 2 or, The Last Remains Of The Dodo",
@@ -163695,7 +163531,7 @@
     "p": "2",
     "t": "Go West",
     "d": "3:33",
-    "sp": "",
+    "sp": "7dnJc4jKcpZFYxNDc22NeA",
     "src": "Discogs"
    },
    {
@@ -163716,7 +163552,7 @@
     "p": "5",
     "t": "I Love The Nightlife (Disco 'Round) (Original Version)",
     "d": "3:25",
-    "sp": "",
+    "sp": "2815F4NimlcywqzjV10PLw",
     "src": "Discogs"
    },
    {
@@ -163730,21 +163566,21 @@
     "p": "7",
     "t": "I Will Survive",
     "d": "3:18",
-    "sp": "",
+    "sp": "53mXcdi9CNhe9oStRmUbdf",
     "src": "Discogs"
    },
    {
     "p": "8",
     "t": "A Fine Romance",
     "d": "3:12",
-    "sp": "",
+    "sp": "4tcKahf7XOD5DZw8lqHSb2",
     "src": "Discogs"
    },
    {
     "p": "9",
     "t": "Shake Your Groove Thing (Original Mix)",
     "d": "5:32",
-    "sp": "",
+    "sp": "7CzEy5MCpJCjPNZbtvmMxM",
     "src": "Discogs"
    },
    {
@@ -163758,7 +163594,7 @@
     "p": "11",
     "t": "Finally (7\" Choice Mix)",
     "d": "4:08",
-    "sp": "",
+    "sp": "4NF3lJzEBjgfrITFpndDq5",
     "src": "Discogs"
    },
    {
@@ -163822,7 +163658,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert_(soundtrack)",
   "about": "The song soundtrack to the 1994 Australian road film about drag performers crossing the outback, released by Polydor. It gathers the disco and pop hits used in the film; a separate album held Guy Gross's score.",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "1Nmi3oTecQvCYaVlB0k5Yi",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1994"
@@ -163958,7 +163794,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Red_Hot_%2B_Dance",
   "about": "A dance-music benefit compilation from the Red Hot Organization raising money for HIV/AIDS causes. George Michael contributed three new songs, including the charity single Too Funky.",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "4VDVJmLfBjjvBNutlovSmF",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992"
@@ -164108,7 +163944,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Holiday_Songs_and_Lullabies",
   "about": "A Shawn Colvin album combining Christmas songs and lullabies in a gentle folk style, made after the birth of her daughter. It reached number 181 on the Billboard 200.",
   "artistKey": "Shawn Colvin",
-  "spAlbum": "",
+  "spAlbum": "2SJNPdvhhgpZNbqO0KL8Ei",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1998",
@@ -164140,14 +163976,14 @@
     "p": "1",
     "t": "The Christmas Song (Merry Christmas To You)",
     "d": "3:11",
-    "sp": "",
+    "sp": "6dz8NY0naymXSUhohYMwZx",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "Winter Wonderland",
     "d": "1:54",
-    "sp": "",
+    "sp": "6xM7UzZr9dJ5a7QGF95LxE",
     "src": "Discogs"
    },
    {
@@ -164161,7 +163997,7 @@
     "p": "4",
     "t": "Do You Hear What I Hear",
     "d": "3:18",
-    "sp": "",
+    "sp": "0cNYaxJ5AJKYeWXdycNHe6",
     "src": "Discogs"
    },
    {
@@ -164175,7 +164011,7 @@
     "p": "6",
     "t": "I Like A Sleighride (Jingle Bells)",
     "d": "2:06",
-    "sp": "",
+    "sp": "20vFKVVmV9gpoRAoduleUd",
     "src": "Discogs"
    },
    {
@@ -164203,14 +164039,14 @@
     "p": "10",
     "t": "Mary's Boy Child",
     "d": "4:24",
-    "sp": "",
+    "sp": "54wB6BXTxYaa2XlUWqdMRo",
     "src": "Discogs"
    },
    {
     "p": "11",
     "t": "The Christmas Waltz",
     "d": "5:02",
-    "sp": "",
+    "sp": "3a6me2rfyRoQ0wGsundKvs",
     "src": "Discogs"
    },
    {
@@ -164225,7 +164061,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "3B79HU31VUnyF8Vo1KKqCw",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2000"
@@ -164347,7 +164183,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Marc_Cohn_(album)",
   "about": "Marc Cohn's first album, which includes his signature song Walking in Memphis. It peaked at number 38 on the Billboard 200, and Cohn went on to win the Grammy for Best New Artist.",
   "artistKey": "Marc Cohn",
-  "spAlbum": "",
+  "spAlbum": "0Zndfz8u9OTb8sXDkve96m",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1991",
@@ -164448,7 +164284,7 @@
     "p": "10",
     "t": "She's Becoming Gold",
     "d": "5:29",
-    "sp": "",
+    "sp": "5ZWG9zCO8KlcKLQQLTWIhB",
     "src": "Discogs"
    },
    {
@@ -164463,7 +164299,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Rainy_Season",
   "about": "Marc Cohn's second album, recorded in New York and released by Atlantic. It reached number 63 in the US and number 24 in the UK.",
   "artistKey": "Marc Cohn",
-  "spAlbum": "",
+  "spAlbum": "4IalJIayyVctakxaxqWtdU",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1993",
@@ -164640,7 +164476,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Juno_(soundtrack)",
   "about": "The soundtrack to the 2007 film Juno, built largely on indie and folk songs including several by Kimya Dawson. Released by Rhino, it rose to number one on the Billboard 200 in early 2008.",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "3Dm3Kc5oOFtesVJe5TF1HG",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2008"
@@ -164759,7 +164595,7 @@
   "wiki": "https://en.wikipedia.org/wiki/When_Harry_Met_Sally..._(soundtrack)",
   "about": "Harry Connick Jr.'s album of jazz standards made for the romantic comedy When Harry Met Sally. It topped Billboard's jazz chart and brought him his first Grammy, for Best Jazz Male Vocal Performance.",
   "artistKey": "Harry Connick, Jr.",
-  "spAlbum": "",
+  "spAlbum": "3ENgsXeS6nDq8F5YtSmiMv",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1989",
@@ -164796,14 +164632,14 @@
     "p": "1",
     "t": "I Heard It Through The Grapevine",
     "d": "5:00",
-    "sp": "",
+    "sp": "1y7mchVmPtLbRAhWCIGDL6",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "My Girl",
     "d": "2:42",
-    "sp": "",
+    "sp": "0iBJ2O6MoQBKEz7ujtYzkc",
     "src": "Discogs"
    },
    {
@@ -164817,42 +164653,42 @@
     "p": "4",
     "t": "The Tracks Of My Tears",
     "d": "2:28",
-    "sp": "",
+    "sp": "3OHdF2RFGMObvRc3dztYou",
     "src": "Discogs"
    },
    {
     "p": "5",
     "t": "Joy To The World",
     "d": "3:50",
-    "sp": "",
+    "sp": "1juyGCItoK8gYro94faicl",
     "src": "Discogs"
    },
    {
     "p": "6",
     "t": "Ain't Too Proud To Beg",
     "d": "2:30",
-    "sp": "",
+    "sp": "4iu0tXjFm8N4dAr5ZMPxhg",
     "src": "Discogs"
    },
    {
     "p": "7",
     "t": "(You Make Me Feel Like) A Natural Woman",
     "d": "2:40",
-    "sp": "",
+    "sp": "30arFllyBbulrYxoM69mki",
     "src": "Discogs"
    },
    {
     "p": "8",
     "t": "I Second That Emotion",
     "d": "2:45",
-    "sp": "",
+    "sp": "2L3ZFvKLByV5wbeunggPiQ",
     "src": "Discogs"
    },
    {
     "p": "9",
     "t": "A Whiter Shade Of Pale",
     "d": "4:02",
-    "sp": "",
+    "sp": "4510fwVsbJj3NiDMEQOCQc",
     "src": "Discogs"
    },
    {
@@ -164867,7 +164703,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Big_Chill_(soundtrack)",
   "about": "The soundtrack to the 1983 film The Big Chill, made up of 1960s soul and rock hits by artists such as Marvin Gaye and the Temptations. It became a big seller and was later reissued in expanded editions.",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "7FpuzqLwNLcdJdoOz0Oq9m",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1998",
@@ -165116,7 +164952,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Vivaldi & Handel",
-  "spAlbum": "",
+  "spAlbum": "4VxHotef0Uc6GyWHrteodS",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1997"
@@ -165158,7 +164994,7 @@
     "p": "2",
     "t": "Old King (Album Version)",
     "d": "2:57",
-    "sp": "",
+    "sp": "5qjPzS2AyTMGRKLH9Iv6Pk",
     "src": "Discogs"
    }
   ],
@@ -165166,7 +165002,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Harvest_Moon_(Neil_Young_album)",
   "about": "Neil Young's acoustic-leaning album conceived as a return to the mood of his 1972 record Harvest, reuniting some of the same musicians. The title song became one of his best-known later works.",
   "artistKey": "Neil Young",
-  "spAlbum": "",
+  "spAlbum": "0tdm853TNWjVVChbJRbu3Q",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992",
@@ -165386,7 +165222,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Michael Feinstein",
-  "spAlbum": "",
+  "spAlbum": "5Ut61U9SrCorqjlIxjX0MM",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992",
@@ -165448,35 +165284,35 @@
     "p": "3",
     "t": "Jungle Boogie",
     "d": "3:05",
-    "sp": "",
+    "sp": "25lQDEclLoUa0dZD25VRXV",
     "src": "Discogs"
    },
    {
     "p": "4",
     "t": "Let's Stay Together",
     "d": "3:15",
-    "sp": "",
+    "sp": "2LVa4BViaEHkftFhhQaocB",
     "src": "Discogs"
    },
    {
     "p": "5",
     "t": "Bustin' Surfboards",
     "d": "2:26",
-    "sp": "",
+    "sp": "48jm3rEZ2gR6mlBDb5aq8k",
     "src": "Discogs"
    },
    {
     "p": "6",
     "t": "Lonesome Town",
     "d": "2:13",
-    "sp": "",
+    "sp": "5roylzN2vdoWNNOSCc8HsI",
     "src": "Discogs"
    },
    {
     "p": "7",
     "t": "Son Of A Preacher Man",
     "d": "2:25",
-    "sp": "",
+    "sp": "6W4o3QtXuiJGgw0fFwvLf3",
     "src": "Discogs"
    },
    {
@@ -165490,7 +165326,7 @@
     "p": "8b",
     "t": "Bullwinkle Part II",
     "d": "2:27",
-    "sp": "",
+    "sp": "1nys6co0QuLuCifsJb3Xna",
     "src": "Discogs"
    },
    {
@@ -165504,14 +165340,14 @@
     "p": "9b",
     "t": "You Never Can Tell",
     "d": "2:40",
-    "sp": "",
+    "sp": "7p6ZGUXjUe0ctAu5RNnghu",
     "src": "Discogs"
    },
    {
     "p": "10",
     "t": "Girl, You'll Be A Woman Soon",
     "d": "3:09",
-    "sp": "",
+    "sp": "56qx6OC90grYNnqIZ81Wh1",
     "src": "Discogs"
    },
    {
@@ -165532,14 +165368,14 @@
     "p": "12b",
     "t": "Comanche",
     "d": "2:02",
-    "sp": "",
+    "sp": "5G00mcWfv8kUT6Q9SZfYAb",
     "src": "Discogs"
    },
    {
     "p": "13",
     "t": "Flowers On The Wall",
     "d": "2:23",
-    "sp": "",
+    "sp": "6FPcMtq0VnUvMg4XiAyOCu",
     "src": "Discogs"
    },
    {
@@ -165553,7 +165389,7 @@
     "p": "15",
     "t": "Surf Rider",
     "d": "3:18",
-    "sp": "",
+    "sp": "1Z4hQeA43LFLcgrVGfQ7CC",
     "src": "Discogs"
    },
    {
@@ -165568,7 +165404,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Pulp_Fiction_(soundtrack)",
   "about": "The soundtrack to Quentin Tarantino's 1994 film Pulp Fiction, mixing surf rock, soul and pop with snippets of film dialogue. It sold strongly and revived interest in Dick Dale's Misirlou.",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "2Rosrqy5gnHaKLrh2ctnVq",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1994",
@@ -166644,7 +166480,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Beethoven",
-  "spAlbum": "",
+  "spAlbum": "1dtHwbVEG4LAxzFQPQShgI",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1988"
@@ -166854,7 +166690,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Gershwin_Connection",
   "about": "Studio album by Dave Grusin on GRP, co-produced with Larry Rosen, offering jazz interpretations of George Gershwin pieces. It topped Billboard's jazz albums chart, and its Porgy and Bess medley earned a Grammy for instrumental arranging.",
   "artistKey": "Dave Grusin",
-  "spAlbum": "",
+  "spAlbum": "5NFOLZdGrqQ87kurbItBQg",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1991",
@@ -166930,7 +166766,7 @@
     "p": "7",
     "t": "Koula (Manowaiopuna)",
     "d": "",
-    "sp": "",
+    "sp": "7tOmxPLcSooWGgmHGU9Hkq",
     "src": "not found"
    },
    {
@@ -166965,7 +166801,7 @@
     "p": "12",
     "t": "My Dee Dee",
     "d": "",
-    "sp": "",
+    "sp": "0zsm60JCPv7aC0mmAaeAMj",
     "src": "not found"
    },
    {
@@ -166980,258 +166816,10 @@
   "wiki": "",
   "about": "",
   "artistKey": "Raiatea Helm",
-  "spAlbum": "",
+  "spAlbum": "49HLATxWXEGjWyRHEIhrij",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": ""
- },
- {
-  "id": "CD0216",
-  "artist": "Various Artists",
-  "title": "Monty Python's Spamalot (Original Broadway Cast Recording)",
-  "year": 2005,
-  "label": "Rock-it Science Records",
-  "catno": "none",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Soundtrack",
-  "personnel": [
-   "Lynn Pinto – producer",
-   "Lisa Yaeger – producer"
-  ],
-  "discs": "",
-  "acquired": "2023-02-04",
-  "discogs": "https://www.discogs.com/release/12920639-Various-Broadways-Greatest-Gifts-Carols-For-A-Cure-Volume-9",
-  "genres": [
-   "Stage & Screen"
-  ],
-  "styles": [
-   "Musical",
-   "Holiday"
-  ],
-  "notes": "",
-  "cover": "covers/CD0216.jpg",
-  "tracks": [
-   {
-    "p": "1-1",
-    "t": "Joy To The World",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-2",
-    "t": "Jolly Old St. Nicholas / Up On The Housetop",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-3",
-    "t": "It Was Simple Then",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-4",
-    "t": "My Gift",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-5",
-    "t": "Drowsy On Christmas Day",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-6",
-    "t": "Tracy Turnblad's Big, Bad Holiday Rap",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-7",
-    "t": "Angels We Have Heard On High",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-8",
-    "t": "O Come All Ye Faithful",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-9",
-    "t": "This Little Light Of Mine",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-10",
-    "t": "Christmas Makes The Whole World Warmer",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-11",
-    "t": "Hark! The Herald Angels Sing",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-12",
-    "t": "Following A Star",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-13",
-    "t": "Mary's Lullaby",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-14",
-    "t": "The First Noel",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-15",
-    "t": "'Twas The Night Before The Spelling Bee",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-1",
-    "t": "What Child Is This?",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-2",
-    "t": "(At The) North Pole Global Warming Surfin' Party",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-3",
-    "t": "The Monotone Angel",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-4",
-    "t": "Dominick The Donkey",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-5",
-    "t": "Two English Carols",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-6",
-    "t": "Away In A Manger",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-7",
-    "t": "The Innkeeper's Lament",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-8",
-    "t": "Jingle Bells",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-9",
-    "t": "Deck The Halls",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-10",
-    "t": "The Coventry Carol / God Rest Ye Merry Gentlemen",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-11",
-    "t": "Alleluia",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-12",
-    "t": "Broadway Holiday",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-13",
-    "t": "Go Tell It On The Mountain",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-14",
-    "t": "The 12 Days Of Christ-Miz",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-15",
-    "t": "O Holy Night",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   }
-  ],
-  "released": "2005-05-03",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Various Artists",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "2007",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/06/ec/7c06ec35-a788-d703-92b1-f34f0141f674/06UMGIM18289.rgb.jpg/1400x1400bb.jpg"
  },
  {
   "id": "CD0217",
@@ -167489,7 +167077,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Yo-Yo Ma",
-  "spAlbum": "",
+  "spAlbum": "1piQz7ibzPa7LzguBHFwGP",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2001",
@@ -167612,287 +167200,11 @@
   "wiki": "https://en.wikipedia.org/wiki/Happy_Anniversary,_Charlie_Brown!",
   "about": "GRP Records album marking the 40th anniversary of the Peanuts strip, with jazz artists including Dave Brubeck, David Benoit, Dave Grusin, Lee Ritenour and Kenny G reworking Vince Guaraldi themes alongside new pieces. It reached number one on Billboard's contemporary jazz chart.",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "3YvnvjgTPB3ySgSd7sjm6v",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1989",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4d/66/f7/4d66f737-d9f7-4cc2-9133-5988ac45b15c/00011105959629.rgb.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "CD0220",
-  "artist": "Various Artists",
-  "title": "Les Misérables (Original Broadway Cast Recording)",
-  "year": 1987,
-  "label": "Rock-it Science Records",
-  "catno": "none",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Soundtrack",
-  "personnel": [
-   "Lynn Pinto – producer",
-   "Lisa Yaeger – producer"
-  ],
-  "discs": "",
-  "acquired": "2023-02-04",
-  "discogs": "https://www.discogs.com/release/12920639-Various-Broadways-Greatest-Gifts-Carols-For-A-Cure-Volume-9",
-  "genres": [
-   "Stage & Screen"
-  ],
-  "styles": [
-   "Musical",
-   "Holiday"
-  ],
-  "notes": "",
-  "cover": "covers/CD0220.jpg",
-  "tracks": [
-   {
-    "p": "1-1",
-    "t": "In My Life",
-    "d": "5:15",
-    "sp": "4q8Hw7k5tpe1AALlTVgKyS",
-    "src": "Your label"
-   },
-   {
-    "p": "1-2",
-    "t": "A Heart Full Of Love",
-    "d": "2:22",
-    "sp": "4q8Hw7k5tpe1AALlTVgKyS",
-    "src": "Your label"
-   },
-   {
-    "p": "1-3",
-    "t": "Plumet Attack",
-    "d": "1:59",
-    "sp": "1cHv0FqSU4yaOY0QzZayuX",
-    "src": "Your label"
-   },
-   {
-    "p": "1-4",
-    "t": "One Day More!",
-    "d": "3:29",
-    "sp": "6cdcZzuQzUhspZo2aJfKaH",
-    "src": "Your label"
-   },
-   {
-    "p": "1-5",
-    "t": "Upon These Stones (Building The Barricade)",
-    "d": "2:09",
-    "sp": "",
-    "src": "Your label"
-   },
-   {
-    "p": "1-6",
-    "t": "On My Own",
-    "d": "4:11",
-    "sp": "6cs44cWPd4652NlIrzRqNx",
-    "src": "Your label"
-   },
-   {
-    "p": "1-7",
-    "t": "Upon These Stones (Building The Barricade)",
-    "d": "2:09",
-    "sp": "",
-    "src": "Your label"
-   },
-   {
-    "p": "1-8",
-    "t": "Javert At The Barricade / Little People",
-    "d": "1:30",
-    "sp": "5fbFyzSoU80kwqUF7JlV2F",
-    "src": "Your label"
-   },
-   {
-    "p": "1-9",
-    "t": "The First Attack",
-    "d": "0:39",
-    "sp": "",
-    "src": "Your label"
-   },
-   {
-    "p": "1-10",
-    "t": "A Little Fall Of Rain",
-    "d": "3:23",
-    "sp": "3SeYUKgbfYg6ZLLbhwzF9t",
-    "src": "Your label"
-   },
-   {
-    "p": "1-11",
-    "t": "Drink With Me",
-    "d": "2:39",
-    "sp": "5D2mHuaTpubjIGtrtQ0uQ1",
-    "src": "Your label"
-   },
-   {
-    "p": "1-12",
-    "t": "Bring Him Home",
-    "d": "3:16",
-    "sp": "5kWVIa5k3M3kt5MBcayVMb",
-    "src": "Your label"
-   },
-   {
-    "p": "1-13",
-    "t": "Dog Eats Dog",
-    "d": "2:15",
-    "sp": "7sOTi9bOYSHCGqy0KClraf",
-    "src": "Your label"
-   },
-   {
-    "p": "1-14",
-    "t": "Javert's Suicide",
-    "d": "3:30",
-    "sp": "5VxaHVcDLbRKn4jMa5kKKc",
-    "src": "Your label"
-   },
-   {
-    "p": "1-15",
-    "t": "Turning",
-    "d": "2:04",
-    "sp": "7dytzjO9B0BYQAVQ4fu8qf",
-    "src": "Your label"
-   },
-   {
-    "p": "1-16",
-    "t": "Empty Chairs At Empty Tables",
-    "d": "3:00",
-    "sp": "7gEEBjoa8kbp8NJnXuLVf6",
-    "src": "Your label"
-   },
-   {
-    "p": "1-17",
-    "t": "Wedding Chorale / Beggars At The Feast",
-    "d": "2:14",
-    "sp": "4yuixCIFG0VguSqw5uLnHN",
-    "src": "Your label"
-   },
-   {
-    "p": "1-18",
-    "t": "Finale",
-    "d": "4:50",
-    "sp": "2J6cFPp3jlASjitfkSzA9W",
-    "src": "Your label"
-   },
-   {
-    "p": "2-1",
-    "t": "Overture / Work Song",
-    "d": "3:33",
-    "sp": "",
-    "src": "Your label"
-   },
-   {
-    "p": "2-2",
-    "t": "Valjean Arrested / Valjean Forgiven",
-    "d": "1:52",
-    "sp": "3gBGCemEeXMqeC5Rw2EL6m",
-    "src": "Your label"
-   },
-   {
-    "p": "2-3",
-    "t": "What Have I Done?",
-    "d": "3:21",
-    "sp": "6zib19PK2PEwAcBxESP0WD",
-    "src": "Your label"
-   },
-   {
-    "p": "2-4",
-    "t": "At The End Of The Day",
-    "d": "4:43",
-    "sp": "2wYXLVWNcqC7Cxlw92aCtK",
-    "src": "Your label"
-   },
-   {
-    "p": "2-5",
-    "t": "I Dreamed A Dream",
-    "d": "4:13",
-    "sp": "13LT9Y0RP7C9KhNIvroXLi",
-    "src": "Your label"
-   },
-   {
-    "p": "2-6",
-    "t": "Lovely Ladies",
-    "d": "3:50",
-    "sp": "6mMiGHG6JuMrowGkafuXls",
-    "src": "Your label"
-   },
-   {
-    "p": "2-7",
-    "t": "Who Am I?",
-    "d": "2:49",
-    "sp": "40KBTAVPWIYUBwELheOZ1C",
-    "src": "Your label"
-   },
-   {
-    "p": "2-8",
-    "t": "1B",
-    "d": "3:59",
-    "sp": "",
-    "src": "Your label"
-   },
-   {
-    "p": "2-9",
-    "t": "Confrontation",
-    "d": "2:31",
-    "sp": "4B8kmpqV18wXTI07q0m1Bc",
-    "src": "Your label"
-   },
-   {
-    "p": "2-10",
-    "t": "Castle On A Cloud",
-    "d": "1:40",
-    "sp": "5CQaqSeXCgHbhfsQg5Nctj",
-    "src": "Your label"
-   },
-   {
-    "p": "2-11",
-    "t": "Master Of The House",
-    "d": "4:54",
-    "sp": "6cX9HbjCK20dfd5C1fftUE",
-    "src": "Your label"
-   },
-   {
-    "p": "2-12",
-    "t": "The Thénardier Waltz Of Treachery",
-    "d": "2:59",
-    "sp": "3Uftn3QCsD3lg79FuKcbE1",
-    "src": "Your label"
-   },
-   {
-    "p": "2-13",
-    "t": "Look Down",
-    "d": "2:55",
-    "sp": "2koYHPmR7nERQx7JQgrcii",
-    "src": "Your label"
-   },
-   {
-    "p": "2-14",
-    "t": "Stars",
-    "d": "2:58",
-    "sp": "2bQI6Wh9v6SoOjfiKb18G5",
-    "src": "Your label"
-   },
-   {
-    "p": "2-15",
-    "t": "Red And Black",
-    "d": "4:31",
-    "sp": "1lhdGCE8MgiUi7sMoSZi82",
-    "src": "Your label"
-   },
-   {
-    "p": "2-16",
-    "t": "Do You Hear The People Sing?",
-    "d": "2:06",
-    "sp": "1SFSlwDclv0wT7p8aMsBM1",
-    "src": "Your label"
-   }
-  ],
-  "released": "1987",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Various Artists",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "2007",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/a4/11/9fa411eb-ee1f-9a67-101c-3197a9637244/00602537250028.rgb.jpg/1400x1400bb.jpg"
  },
  {
   "id": "CD0221",
@@ -168247,7 +167559,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Tuck Andress",
-  "spAlbum": "",
+  "spAlbum": "6ue4xLlO2RfOcjFMLwLuLw",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1991",
@@ -168303,14 +167615,14 @@
     "p": "4",
     "t": "The Christmas Waltz",
     "d": "",
-    "sp": "",
+    "sp": "7rCGAhr9vzmuJ2qjxqcRUa",
     "src": "not found"
    },
    {
     "p": "5",
     "t": "Rudolph The Red Nosed Reindeer",
     "d": "",
-    "sp": "",
+    "sp": "7ryAMVTfLAePhwpRJoZd8W",
     "src": "not found"
    },
    {
@@ -168331,7 +167643,7 @@
     "p": "8",
     "t": "Have Yourself A Merry Little Christmas",
     "d": "",
-    "sp": "",
+    "sp": "5Wd5sQnAK23DOEn6DT3hDm",
     "src": "not found"
    },
    {
@@ -168345,7 +167657,7 @@
     "p": "10",
     "t": "Wite Christmas",
     "d": "",
-    "sp": "",
+    "sp": "5Qicor4jFNgZQxSf6UxEzw",
     "src": "not found"
    }
   ],
@@ -168353,7 +167665,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "0lrdizCS4bdrtCImUZrdti",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1996"
@@ -168395,84 +167707,84 @@
     "p": "1",
     "t": "Where Legends Are Born",
     "d": "",
-    "sp": "",
+    "sp": "3vHnlLSY6JN4RirT2xJSsn",
     "src": "not found"
    },
    {
     "p": "2",
     "t": "Miner's Dream",
     "d": "",
-    "sp": "",
+    "sp": "2QEc08Taqb67ZU4No9TJbj",
     "src": "not found"
    },
    {
     "p": "3",
     "t": "The Iditarod Trail Song",
     "d": "",
-    "sp": "",
+    "sp": "4CXgNVliIBywz9PUD2E2Ra",
     "src": "not found"
    },
    {
     "p": "4",
     "t": "Wild And Free",
     "d": "",
-    "sp": "",
+    "sp": "21EtGenV9RY6VFl5waaWrR",
     "src": "not found"
    },
    {
     "p": "5",
     "t": "Backwoods Girl",
     "d": "",
-    "sp": "",
+    "sp": "0A4Od9dzDLzMjQOeLSsKir",
     "src": "not found"
    },
    {
     "p": "6",
     "t": "The Coyote And I",
     "d": "",
-    "sp": "",
+    "sp": "3Hkr6vef5q63dLY6nIvxZp",
     "src": "not found"
    },
    {
     "p": "7",
     "t": "Off To Dutch Harbor",
     "d": "",
-    "sp": "",
+    "sp": "24oA6d9ysfOE0jZC4kABgv",
     "src": "not found"
    },
    {
     "p": "8",
     "t": "Cannery Call",
     "d": "",
-    "sp": "",
+    "sp": "6mByDXCscrEzaF1j9j4rQo",
     "src": "not found"
    },
    {
     "p": "9",
     "t": "The F/V Mary Ann",
     "d": "",
-    "sp": "",
+    "sp": "2JHM43uUp4YsqCqesbQC3t",
     "src": "not found"
    },
    {
     "p": "10",
     "t": "On A Yankee Whaler",
     "d": "",
-    "sp": "",
+    "sp": "0TDUurzS6q7C9vJa55q0uR",
     "src": "not found"
    },
    {
     "p": "11",
     "t": "The Great Alaska Railroad",
     "d": "",
-    "sp": "",
+    "sp": "54wUJm7EuPznsMd2hSWoQA",
     "src": "not found"
    },
    {
     "p": "12",
     "t": "Athabascan Fiddler",
     "d": "",
-    "sp": "",
+    "sp": "03M2wbfZnyXeNR9jzQ0yrn",
     "src": "not found"
    }
   ],
@@ -168480,7 +167792,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Alaska's Hobo Jim",
-  "spAlbum": "",
+  "spAlbum": "5wEIdpmlTYBlXbQGqE1AlR",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": ""
@@ -168584,7 +167896,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Don Ho",
-  "spAlbum": "",
+  "spAlbum": "0VZ4r2OU4cg6JeiW0CdepY",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992"
@@ -168665,7 +167977,7 @@
     "p": "3",
     "t": "E Lei Ka Lei Lei (Beach Party Song)",
     "d": "2:26",
-    "sp": "",
+    "sp": "4w8IFpLfP5PqRo2OhL3aDf",
     "src": "Discogs"
    },
    {
@@ -168721,7 +168033,7 @@
     "p": "11",
     "t": "The Windward Side (Of The Island)",
     "d": "3:00",
-    "sp": "",
+    "sp": "3AP9d4cGf2CorChfFYNiA4",
     "src": "Discogs"
    },
    {
@@ -168736,7 +168048,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Don Ho",
-  "spAlbum": "",
+  "spAlbum": "1rcNvY7mqJ9v7eGlaToJdR",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": ""
@@ -169688,28 +169000,28 @@
     "p": "1",
     "t": "Roxanne",
     "d": "3:11",
-    "sp": "",
+    "sp": "4q3G4EHtbDH8In7A5u1xhx",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "Can't Stand Losing You",
     "d": "2:47",
-    "sp": "",
+    "sp": "6l5XnGdX73q4zuniAQgKYC",
     "src": "Discogs"
    },
    {
     "p": "3",
     "t": "Message In A Bottle",
     "d": "4:50",
-    "sp": "",
+    "sp": "7mOumax1DZTFM5zGMltrDP",
     "src": "Discogs"
    },
    {
     "p": "4",
     "t": "Walking On The Moon",
     "d": "5:01",
-    "sp": "",
+    "sp": "1FXPz36uISwPx0ZtVQiFxi",
     "src": "Discogs"
    },
    {
@@ -169723,49 +169035,49 @@
     "p": "6",
     "t": "De Do Do Do, De Da Da Da",
     "d": "4:06",
-    "sp": "",
+    "sp": "2IzpfWVI7k7DsAvAXEo4yD",
     "src": "Discogs"
    },
    {
     "p": "7",
     "t": "Every Little Thing She Does Is Magic",
     "d": "4:19",
-    "sp": "",
+    "sp": "6kEjqr7fQ51qjKDSErV4sq",
     "src": "Discogs"
    },
    {
     "p": "8",
     "t": "Invisible Sun",
     "d": "3:44",
-    "sp": "",
+    "sp": "123HVZFaCvG4cf1JdxDGVb",
     "src": "Discogs"
    },
    {
     "p": "9",
     "t": "Spirits In The Material World",
     "d": "2:58",
-    "sp": "",
+    "sp": "4OcJFFoGkCRq6OfzII5nSf",
     "src": "Discogs"
    },
    {
     "p": "10",
     "t": "Every Breath You Take",
     "d": "4:13",
-    "sp": "",
+    "sp": "0wF2zKJmgzjPTfircPJ2jg",
     "src": "Discogs"
    },
    {
     "p": "11",
     "t": "King Of Pain",
     "d": "4:57",
-    "sp": "",
+    "sp": "4XZNgSeYaccBj041nB8Xh6",
     "src": "Discogs"
    },
    {
     "p": "12",
     "t": "Wrapped Around Your Finger",
     "d": "5:14",
-    "sp": "",
+    "sp": "3sSfhzuh2n0UG45Otv19jI",
     "src": "Discogs"
    }
   ],
@@ -169773,7 +169085,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Every_Breath_You_Take:_The_Singles",
   "about": "First greatest hits collection by the Police, issued by A&M and spanning their 1978 to 1986 singles. It topped the UK albums chart and reached number seven in the US.",
   "artistKey": "The Police",
-  "spAlbum": "",
+  "spAlbum": "3s9o7LSofJfIZafUgkDe9O",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992",
@@ -169886,7 +169198,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Learning_to_Crawl",
   "about": "Third Pretenders album, produced by Chris Thomas and made after the drug deaths of two band members. Named for Chrissie Hynde's baby daughter, it became the band's highest-charting US album, peaking at number five.",
   "artistKey": "The Pretenders",
-  "spAlbum": "",
+  "spAlbum": "0pZuMQ6WJm5CWYSPvpyFfd",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1985",
@@ -170119,7 +169431,7 @@
   "wiki": "https://en.wikipedia.org/wiki/We_Too_Are_One",
   "about": "Seventh studio album by Eurythmics, produced by Dave Stewart with Jimmy Iovine. It entered the UK chart at number one and was the duo's last studio record until Peace in 1999.",
   "artistKey": "Eurythmics",
-  "spAlbum": "",
+  "spAlbum": "07GxuB87kJgj9xklkc1beN",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1989",
@@ -170232,7 +169544,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Love_Deluxe",
   "about": "Fourth studio album by Sade, issued on Epic and self-produced by the band. Featuring No Ordinary Love and Cherish the Day, it reached number three in the US and went quadruple platinum there.",
   "artistKey": "Sade",
-  "spAlbum": "",
+  "spAlbum": "2PfGKHtqEX58bHtkQxJnWG",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992",
@@ -170431,7 +169743,7 @@
     "p": "8",
     "t": "One O'Clock JUmp",
     "d": "3:24",
-    "sp": "",
+    "sp": "2BiiM47bdGzwSCKO8NuSMD",
     "src": "Discogs"
    },
    {
@@ -170446,7 +169758,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Count Basie",
-  "spAlbum": "",
+  "spAlbum": "0PG9JRnEJ0x725xlke7L5Q",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992"
@@ -170482,7 +169794,7 @@
     "p": "1",
     "t": "One O'Clock Jump",
     "d": "1:59",
-    "sp": "",
+    "sp": "3vv7vl0Swve68fIA0na05n",
     "src": "Discogs"
    },
    {
@@ -170545,35 +169857,35 @@
     "p": "10",
     "t": "Dinah",
     "d": "2:05",
-    "sp": "",
+    "sp": "1EmnQY7AAUiuJXlXiQLnMP",
     "src": "Discogs"
    },
    {
     "p": "11",
     "t": "Baby Won't You Please Come Home",
     "d": "1:31",
-    "sp": "",
+    "sp": "3dsflQS02oOunLGOpxYYAh",
     "src": "Discogs"
    },
    {
     "p": "12",
     "t": "Basie Boogie",
     "d": "2:05",
-    "sp": "",
+    "sp": "5d2W32dTAmjlSyK8x1AQuf",
     "src": "Discogs"
    },
    {
     "p": "13",
     "t": "Rock-A-Bye Basie",
     "d": "4:46",
-    "sp": "",
+    "sp": "7rKT6jzioWlEXXL1i9eBVK",
     "src": "Discogs"
    },
    {
     "p": "14",
     "t": "Call Me Darling (Call Me Sweetheart, Call Me Dear)",
     "d": "4:00",
-    "sp": "",
+    "sp": "1Wtdl64psIdQYyPIAhgP3h",
     "src": "Discogs"
    },
    {
@@ -170588,7 +169900,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Count Basie Orchestra",
-  "spAlbum": "",
+  "spAlbum": "6DrX5uVUtgNQN2GBUHu8qB",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": ""
@@ -170949,7 +170261,7 @@
     "p": "1",
     "t": "What Is This Thing Called Love?",
     "d": "2:36",
-    "sp": "",
+    "sp": "73qUlLXLUP9FJinBW7Z5sG",
     "src": "Discogs"
    },
    {
@@ -170970,7 +170282,7 @@
     "p": "4",
     "t": "My Heart Belongs To Daddy",
     "d": "5:59",
-    "sp": "",
+    "sp": "4NMBKPT6S5RZZdRnt2Gavn",
     "src": "Discogs"
    },
    {
@@ -170991,14 +170303,14 @@
     "p": "7",
     "t": "I Get A Kick Out Of You",
     "d": "7:37",
-    "sp": "",
+    "sp": "7iGwsMSHhAsaDixDkSX85t",
     "src": "Discogs"
    },
    {
     "p": "8",
     "t": "Night And Day",
     "d": "6:46",
-    "sp": "",
+    "sp": "5ydMSZTGPAALEIiAybYu0P",
     "src": "Discogs"
    },
    {
@@ -171012,14 +170324,14 @@
     "p": "10",
     "t": "You'd Be So Nice To Come Home To",
     "d": "4:16",
-    "sp": "",
+    "sp": "6M0UYzaDaGKoZZkXxQLvOY",
     "src": "Discogs"
    },
    {
     "p": "11",
     "t": "Anything Goes",
     "d": "5:09",
-    "sp": "",
+    "sp": "7MnAgYy4EEQ5qCtjcmOjv4",
     "src": "Discogs"
    },
    {
@@ -171033,7 +170345,7 @@
     "p": "13",
     "t": "I've Got You Under My Skin",
     "d": "3:22",
-    "sp": "",
+    "sp": "40g2v5Q2KNW367sDzrVq3c",
     "src": "Discogs"
    },
    {
@@ -171048,7 +170360,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Cole Porter",
-  "spAlbum": "",
+  "spAlbum": "6PNkhsKP6u3qreme9ZFPGJ",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992"
@@ -171086,21 +170398,21 @@
     "p": "1",
     "t": "I Get A Kick Out Of You",
     "d": "4:17",
-    "sp": "",
+    "sp": "7iGwsMSHhAsaDixDkSX85t",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "My Heart Belongs To Daddy",
     "d": "2:51",
-    "sp": "",
+    "sp": "4NMBKPT6S5RZZdRnt2Gavn",
     "src": "Discogs"
    },
    {
     "p": "3",
     "t": "I've Got You Under My Skin",
     "d": "3:12",
-    "sp": "",
+    "sp": "40g2v5Q2KNW367sDzrVq3c",
     "src": "Discogs"
    },
    {
@@ -171114,7 +170426,7 @@
     "p": "5",
     "t": "So In Love",
     "d": "4:24",
-    "sp": "",
+    "sp": "7L7j4JysFa5MXGxBFLCufk",
     "src": "Discogs"
    },
    {
@@ -171156,7 +170468,7 @@
     "p": "11",
     "t": "Night And Day",
     "d": "4:57",
-    "sp": "",
+    "sp": "5ydMSZTGPAALEIiAybYu0P",
     "src": "Discogs"
    },
    {
@@ -171177,7 +170489,7 @@
     "p": "14",
     "t": "Miss Otis Regrets (She's Unable To Lunch Today)",
     "d": "3:54",
-    "sp": "",
+    "sp": "6rHZOOlQsUDiXjx33Uk6T5",
     "src": "Discogs"
    },
    {
@@ -171206,7 +170518,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Cole Porter",
-  "spAlbum": "",
+  "spAlbum": "6PNkhsKP6u3qreme9ZFPGJ",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1991"
@@ -171584,7 +170896,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Kevin Mahogany",
-  "spAlbum": "",
+  "spAlbum": "3q6A1TPEN89PAzIakP615E",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1997",
@@ -171628,70 +170940,70 @@
     "p": "1",
     "t": "The Obvious Child",
     "d": "4:10",
-    "sp": "",
+    "sp": "1deWgqhgAzI6dY35TbKKh7",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "Can't Run But",
     "d": "3:37",
-    "sp": "",
+    "sp": "5gSwQihHUXvC5H4SBCo03D",
     "src": "Discogs"
    },
    {
     "p": "3",
     "t": "The Coast",
     "d": "5:00",
-    "sp": "",
+    "sp": "3rbhipSZ0E0mUfyZjiRjXJ",
     "src": "Discogs"
    },
    {
     "p": "4",
     "t": "Proof",
     "d": "4:39",
-    "sp": "",
+    "sp": "4z0j9VwgnoBKZER0dcii1Z",
     "src": "Discogs"
    },
    {
     "p": "5",
     "t": "Further To Fly",
     "d": "5:33",
-    "sp": "",
+    "sp": "2w0AzudBLFmdFYxeEUU3UX",
     "src": "Discogs"
    },
    {
     "p": "6",
     "t": "She Moves On",
     "d": "5:02",
-    "sp": "",
+    "sp": "1RxlMG0bJhJdR5H6wL2oJf",
     "src": "Discogs"
    },
    {
     "p": "7",
     "t": "Born At The Right Time",
     "d": "3:48",
-    "sp": "",
+    "sp": "21HtJyUMzWmYW1tBG2pZ5g",
     "src": "Discogs"
    },
    {
     "p": "8",
     "t": "The Cool, Cool River",
     "d": "4:33",
-    "sp": "",
+    "sp": "5nvkFf23f9ZILiX7KMWhtY",
     "src": "Discogs"
    },
    {
     "p": "9",
     "t": "Spirit Voices",
     "d": "3:54",
-    "sp": "",
+    "sp": "6bzSqq9LsvUsKwCrJh1Ls4",
     "src": "Discogs"
    },
    {
     "p": "10",
     "t": "The Rhythm Of The Saints",
     "d": "4:13",
-    "sp": "",
+    "sp": "4JUBsU2iKJ3WsQpoDSS9vJ",
     "src": "Discogs"
    }
   ],
@@ -171699,7 +171011,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Rhythm_of_the_Saints",
   "about": "Paul Simon's eighth solo studio album, built on Brazilian percussion and rhythms much as Graceland drew on South African music. It reached number four in the US, topped the UK chart and earned an Album of the Year Grammy nomination.",
   "artistKey": "Paul Simon",
-  "spAlbum": "",
+  "spAlbum": "08tZq3FDsspdU6ycn8Jl2o",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1990",
@@ -171787,7 +171099,7 @@
     "p": "7",
     "t": "(Freedom For My People)",
     "d": "0:38",
-    "sp": "",
+    "sp": "3yRZJl2bKOzKCncwEVMXMS",
     "src": "Discogs"
    },
    {
@@ -171865,7 +171177,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Rattle_and_Hum",
   "about": "A mix of new studio songs and concert recordings made during the Joshua Tree tour, released alongside a documentary film. It explores American roots music, with guest appearances from B.B. King and Bob Dylan.",
   "artistKey": "U2",
-  "spAlbum": "",
+  "spAlbum": "7hIoJcH4ObWasDFq78u1x9",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1988",
@@ -171982,7 +171294,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Tchokola",
   "about": "A jazz fusion record cut in Paris on which the French violinist works with a group of West African musicians. Kora, balafon and African percussion and vocals mix with his electric violin and keyboards.",
   "artistKey": "Jean-Luc Ponty",
-  "spAlbum": "",
+  "spAlbum": "0yPQi7v0fchTMkQWmfRBWB",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1991",
@@ -172095,7 +171407,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Unforgettable_Fire",
   "about": "The first U2 album produced by Brian Eno and Daniel Lanois marked a shift toward a more atmospheric, experimental sound. It includes Pride (In the Name of Love), a tribute to Martin Luther King Jr.",
   "artistKey": "U2",
-  "spAlbum": "",
+  "spAlbum": "3FFosIE1A9HGRrinKTcBQ3",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1984",
@@ -172233,7 +171545,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Sing-A-Longs_and_Lullabies_for_the_Film_Curious_George",
   "about": "Music written and recorded by Jack Johnson and his band for the 2006 animated Curious George film, with guests such as Ben Harper and G. Love. It reached number one on the US Billboard 200.",
   "artistKey": "Jack Johnson & Friends",
-  "spAlbum": "",
+  "spAlbum": "0kYv61g7n6ZPe2TVaIBeeJ",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2006",
@@ -172502,7 +171814,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Very_Best_of_Sheryl_Crow",
   "about": "A greatest hits collection spanning Sheryl Crow's first decade of recordings. It also introduced new material, including her cover of Cat Stevens' The First Cut Is the Deepest.",
   "artistKey": "Sheryl Crow",
-  "spAlbum": "",
+  "spAlbum": "7Kw98O8x1Urwo139vaO0fJ",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2003",
@@ -172542,14 +171854,14 @@
     "p": "1",
     "t": "Electrical Storm",
     "d": "4:28",
-    "sp": "",
+    "sp": "5qUh9fjGMLCxKkskPV5wfI",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "Bad / 40 / Where The Streets Have No Name (Live From Boston)",
     "d": "12:27",
-    "sp": "",
+    "sp": "3Jz4lFDVvBTSYJiMMVhewx",
     "src": "Discogs"
    }
   ],
@@ -172557,7 +171869,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Electrical_Storm_(song)",
   "about": "A U2 single recorded as a new track for the compilation The Best of 1990-2000. The song uses an approaching storm as an image for tension between two lovers and topped charts in Canada, Italy and Spain.",
   "artistKey": "U2",
-  "spAlbum": "",
+  "spAlbum": "25WY6RunGIAwgvyClLqUsI",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2002",
@@ -172686,220 +171998,11 @@
   "wiki": "https://en.wikipedia.org/wiki/Haughty_Melodic",
   "about": "The former Soul Coughing frontman's second solo studio album, produced by Dan Wilson and issued on ATO Records. Its title is an anagram of Michael Doughty, and its layered full-band arrangements contrast with his sparse acoustic solo work.",
   "artistKey": "Mike Doughty",
-  "spAlbum": "",
+  "spAlbum": "252OOaH1DjjGCoIeTFuZHd",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2005",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/32/89/41/mzi.huoesrcy.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "CD0268",
-  "artist": "Various Artists",
-  "title": "My Fair Lady (Original Broadway Cast)",
-  "year": 1956,
-  "label": "Naxos Musicals",
-  "catno": "8.120846",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Soundtrack",
-  "personnel": [],
-  "discs": "",
-  "acquired": "2024-02-04",
-  "discogs": "https://www.discogs.com/release/16010592-Various-Wonderful-Town-Original-Broadway-Cast-plus-Comden-Green-1955",
-  "genres": [
-   "Stage & Screen"
-  ],
-  "styles": [
-   "Musical"
-  ],
-  "notes": "",
-  "cover": "covers/CD0268.jpg",
-  "tracks": [
-   {
-    "p": "1",
-    "t": "Christopher Street",
-    "d": "3:27",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "2",
-    "t": "Ohio",
-    "d": "3:19",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "3",
-    "t": "One Hundred Easy Ways",
-    "d": "2:53",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "4",
-    "t": "What A Waste",
-    "d": "2:57",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "5",
-    "t": "A Little Bit Of Love",
-    "d": "2:48",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "6",
-    "t": "Pass The Football",
-    "d": "3:20",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "7",
-    "t": "Conversation Piece",
-    "d": "3:23",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "8",
-    "t": "A Quiet Girl",
-    "d": "3:21",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "9",
-    "t": "Conga!",
-    "d": "3:25",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "10",
-    "t": "My Darlin' Eileen",
-    "d": "3:06",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "11",
-    "t": "Swing!",
-    "d": "4:48",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "12",
-    "t": "It's Love",
-    "d": "2:56",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "13",
-    "t": "Ballet At The Village Vortex",
-    "d": "3:02",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "14",
-    "t": "Wrong Note Rag",
-    "d": "2:27",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "15",
-    "t": "I Said Good Mornin' - From It's Always Fair Weather",
-    "d": "2:03",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "16",
-    "t": "Never Never Land - From Peter Pan",
-    "d": "1:41",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "17",
-    "t": "Hook's Waltz - From Peter Pan",
-    "d": "2:05",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "18",
-    "t": "Distant Melody - From Peter Pan",
-    "d": "1:34",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "19",
-    "t": "Mysterious Lady - From Peter Pan",
-    "d": "3:00",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "20",
-    "t": "French Lesson - From Good News",
-    "d": "1:56",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "21",
-    "t": "I Get Carried Away - From On The Town",
-    "d": "2:46",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "22",
-    "t": "Come Up To My Place (Taxi Song) - From On The Town",
-    "d": "2:58",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "23",
-    "t": "Some Other Time - From On The Town",
-    "d": "1:51",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "24",
-    "t": "Stillman's Gym - From It's Always Fair Weather",
-    "d": "3:58",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "25",
-    "t": "Catch Our Act At The Met - From Two On The Aisle",
-    "d": "2:44",
-    "sp": "",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1956",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Various Artists",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "2007",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Features/27/c9/c0/dj.ohhthexq.jpg/1400x1400bb.jpg"
  },
  {
   "id": "CD0269",
@@ -173022,7 +172125,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Careless_Love_(album)",
   "about": "Madeleine Peyroux's breakthrough album, produced by Larry Klein for Rounder Records, consists mainly of interpretations of songs by writers such as Leonard Cohen, Bob Dylan and Hank Williams. Its one original, Don't Wait Too Long, was co-written with Jesse Harris and Klein.",
   "artistKey": "Madeleine Peyroux",
-  "spAlbum": "",
+  "spAlbum": "4Kev9VMY5Ypfo19jRqK6bW",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2004",
@@ -173165,7 +172268,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Look_into_the_Eyeball",
   "about": "A David Byrne album on Virgin Records, produced by Michael Mangini, that blends art rock with string arrangements and Latin influences. It includes the singles Like Humans Do and a Spanish-language duet with a member of Cafe Tacuba.",
   "artistKey": "David Byrne",
-  "spAlbum": "",
+  "spAlbum": "7JfJie0H9EoWTMfFWW545c",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2001",
@@ -173301,7 +172404,7 @@
     "p": "14",
     "t": "Cool",
     "d": "",
-    "sp": "",
+    "sp": "1iKinWF6YNf7F8aqPAAK49",
     "src": "not found"
    },
    {
@@ -173351,7 +172454,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "5JSyCRhrQ7lIOAPYfKwuL2",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2008",
@@ -173499,7 +172602,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Rei_Momo",
   "about": "David Byrne's first solo album after Talking Heads, built around Latin American styles such as salsa, merengue, samba and cumbia. It features many Latin musicians as guests.",
   "artistKey": "David Byrne",
-  "spAlbum": "",
+  "spAlbum": "2JQU5ZvGycMsa7gITyaGb6",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1989",
@@ -173629,386 +172732,12 @@
   "wiki": "https://en.wikipedia.org/wiki/A_Ghost_Is_Born",
   "about": "Wilco's fifth album, co-produced with Jim O'Rourke, mixes quiet songs with long, noisy guitar passages. It won Grammy Awards for Best Alternative Music Album and Best Recording Package.",
   "artistKey": "Wilco",
-  "spAlbum": "",
+  "spAlbum": "1RCxMEn5jFeUWbof3vy8oC",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2004",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/3c/93/a23c93ed-3d17-7744-7ee4-8c632b0a8847/075597897203.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "CD0274",
-  "artist": "Various Artists",
-  "title": "Into The Woods (Original Cast Recording)",
-  "year": 2011,
-  "label": "Time Life Music",
-  "catno": "SUD-20",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Soundtrack",
-  "personnel": [
-   "Jonathan Tunick – orchestrator",
-   "Paul Gemignani – music supervisor, conductor",
-   "Jim Bruening – assistant music editor",
-   "Jennifer Dunnington – music editor",
-   "Mike Higham – music supervisor",
-   "Jo Changer – orchestra contractor",
-   "Isobel Griffiths – orchestra contractor",
-   "Rolf Wilson – orchestra leader",
-   "Joe Sasfy – compilation producer"
-  ],
-  "discs": "",
-  "acquired": "2024-02-04",
-  "discogs": "https://www.discogs.com/release/19319938-Various-Superhits-Early-70s-Classics",
-  "genres": [
-   "Rock",
-   "Funk / Soul",
-   "Pop",
-   "Folk, World, & Country"
-  ],
-  "styles": [],
-  "notes": "",
-  "cover": "covers/CD0274.jpg",
-  "tracks": [
-   {
-    "p": "1",
-    "t": "ABC",
-    "d": "3:00",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "2",
-    "t": "Coconut",
-    "d": "3:53",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "3",
-    "t": "Motorcycle Mama",
-    "d": "2:07",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "4",
-    "t": "Operator (That's Not The Way It Feels)",
-    "d": "3:48",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "5",
-    "t": "Rock And Roll Lullaby",
-    "d": "4:14",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "6",
-    "t": "Without Love (There Is Nothing)",
-    "d": "3:47",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "7",
-    "t": "Sweet Mary",
-    "d": "2:42",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "8",
-    "t": "Me And You And A Dog Named Boo",
-    "d": "2:54",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "9",
-    "t": "Heartbeat - It's A Lovebeat",
-    "d": "3:12",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "10",
-    "t": "Oh Babe, What Would You Say?",
-    "d": "3:30",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "11",
-    "t": "Lean On Me",
-    "d": "3:49",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "12",
-    "t": "Treat Her Like A Lady",
-    "d": "2:47",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "13",
-    "t": "We Gotta Get You A Woman",
-    "d": "3:09",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "14",
-    "t": "Hitchin' A Ride",
-    "d": "3:08",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "15",
-    "t": "Montego Bay",
-    "d": "2:59",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "16",
-    "t": "You've Got A Friend",
-    "d": "4:31",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "17",
-    "t": "Walk A Mile In My Shoes",
-    "d": "3:45",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "18",
-    "t": "Arizona",
-    "d": "3:13",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "19",
-    "t": "The Candy Man",
-    "d": "3:11",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "20",
-    "t": "Dueling Banjos",
-    "d": "2:20",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "21",
-    "t": "Last Song",
-    "d": "3:18",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "22",
-    "t": "The Guitar Man",
-    "d": "3:43",
-    "sp": "",
-    "src": "Discogs"
-   }
-  ],
-  "released": "",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Various Artists",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "1992",
-  "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/2e/89/a22e89d0-f76e-4f03-effa-07d313e003b4/00050087317959.rgb.jpg/1400x1400bb.jpg"
- },
- {
-  "id": "CD0275",
-  "artist": "Various Artists",
-  "title": "West Side Story (The Original Sound Track Recording)",
-  "year": 1961,
-  "label": "Columbia",
-  "catno": "CK 86992",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Soundtrack",
-  "personnel": [
-   "Al Quaglieri – compilation producer",
-   "Jeffrey Peisch – compilation producer, project manager",
-   "Michael Brooks – compilation producer",
-   "Nedra Olds-Neal – compilation producer",
-   "Steve Berkowitz – compilation producer"
-  ],
-  "discs": "",
-  "acquired": "2024-02-04",
-  "discogs": "https://www.discogs.com/release/9946864-Various-Freedom-A-History-Of-US-Original-Soundtrack-Recording",
-  "genres": [
-   "Jazz",
-   "Rock",
-   "Funk / Soul",
-   "Blues",
-   "Pop",
-   "Classical",
-   "Folk, World, & Country",
-   "Stage & Screen"
-  ],
-  "styles": [
-   "Rhythm & Blues",
-   "Folk"
-  ],
-  "notes": "",
-  "cover": "covers/CD0275.jpg",
-  "tracks": [
-   {
-    "p": "1",
-    "t": "I Wish I Knew How It Would Feel To Be Free",
-    "d": "3:09",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "2",
-    "t": "The Battle Hymn Of The Republic",
-    "d": "4:24",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "3",
-    "t": "This Land Is Your Land",
-    "d": "2:30",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "4",
-    "t": "Because All Men Are Brothers",
-    "d": "3:17",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "5",
-    "t": "The Star Spangled Banner (Live)",
-    "d": "1:12",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "6",
-    "t": "Oh Freedom",
-    "d": "4:15",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "7",
-    "t": "People Get Ready",
-    "d": "2:37",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "8",
-    "t": "This Little Light Of Mine (Live)",
-    "d": "2:22",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "9",
-    "t": "Chimes Of Freedom (Live)",
-    "d": "7:19",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "10",
-    "t": "The Times They Are-A-Changin'",
-    "d": "3:11",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "11",
-    "t": "Shenandoah Lullabye",
-    "d": "7:51",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "12",
-    "t": "If I Had A Hammer (The Hammer Song)",
-    "d": "1:53",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "13",
-    "t": "America The Beautiful",
-    "d": "3:35",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "14",
-    "t": "We Shall Overcome",
-    "d": "2:43",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "15",
-    "t": "Hard Times",
-    "d": "3:11",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "16",
-    "t": "Stand!",
-    "d": "3:06",
-    "sp": "",
-    "src": "Discogs"
-   },
-   {
-    "p": "17",
-    "t": "America (From The Broadway Show West Side Story)",
-    "d": "4:33",
-    "sp": "1RZ6jzlPeEaDeKYe7IJ792",
-    "src": "Discogs"
-   },
-   {
-    "p": "18",
-    "t": "Fanfare For The Common Man",
-    "d": "3:15",
-    "sp": "",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1961",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Various Artists",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "2002",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/2f/fa/mzi.ipwbsxmc.jpg/1400x1400bb.jpg"
  },
  {
   "id": "CD0276",
@@ -174137,7 +172866,7 @@
     "p": "15",
     "t": "Cosy In The Rocket",
     "d": "",
-    "sp": "",
+    "sp": "4pVZviISuIA0fTeIEtlWe8",
     "src": "not found"
    }
   ],
@@ -174145,7 +172874,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Various Artists",
-  "spAlbum": "",
+  "spAlbum": "4vQEWRHFZ7Cdj8m8LpdGWr",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2005",
@@ -174262,133 +172991,133 @@
     "p": "1",
     "t": "Mrs. Robinson",
     "d": "3:52",
-    "sp": "",
+    "sp": "7H6Js93n0e96ljRB5orHmZ",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "Homeward Bound",
     "d": "4:22",
-    "sp": "",
+    "sp": "1fnRKq4GRNg6Pb5Fm06S9x",
     "src": "Discogs"
    },
    {
     "p": "3",
     "t": "America",
     "d": "4:57",
-    "sp": "",
+    "sp": "19ScuLzIkbow1b437OsRPY",
     "src": "Discogs"
    },
    {
     "p": "4",
     "t": "Me And Julio Down By The Schoolyard",
     "d": "3:22",
-    "sp": "",
+    "sp": "48mETFQ8n1Cq04eR32eyAn",
     "src": "Discogs"
    },
    {
     "p": "5",
     "t": "Scarborough Fair",
     "d": "3:52",
-    "sp": "",
+    "sp": "4e41Kd7WsZ0CfomJihS3GE",
     "src": "Discogs"
    },
    {
     "p": "6",
     "t": "April Come She Will",
     "d": "2:37",
-    "sp": "",
+    "sp": "33HsxXh684Vwklctx6Agmp",
     "src": "Discogs"
    },
    {
     "p": "7",
     "t": "Wake Up Little Susie",
     "d": "2:19",
-    "sp": "",
+    "sp": "3i10Co0CjEzd1UpamggnlT",
     "src": "Discogs"
    },
    {
     "p": "8",
     "t": "Still Crazy After All These Years",
     "d": "3:55",
-    "sp": "",
+    "sp": "1MlG7ib5WBcylWoZi3HGEW",
     "src": "Discogs"
    },
    {
     "p": "9",
     "t": "American Tune",
     "d": "4:33",
-    "sp": "",
+    "sp": "6xoFYGW7KJsF4SfTz8nxOk",
     "src": "Discogs"
    },
    {
     "p": "10",
     "t": "Late In The Evening",
     "d": "4:09",
-    "sp": "",
+    "sp": "5neQ6EwRFLQijwXgiJ74Ta",
     "src": "Discogs"
    },
    {
     "p": "11",
     "t": "Slip Slidin' Away",
     "d": "4:54",
-    "sp": "",
+    "sp": "3sfwzml4pqeGyeK1aTEmAF",
     "src": "Discogs"
    },
    {
     "p": "12",
     "t": "A Heart In New York",
     "d": "2:49",
-    "sp": "",
+    "sp": "6IyU2LIPfopCfbWewM2UdO",
     "src": "Discogs"
    },
    {
     "p": "13",
     "t": "Kodachrome / Maybellene",
     "d": "5:51",
-    "sp": "",
+    "sp": "1f4CJp5p2OWS0dsyK1symi",
     "src": "Discogs"
    },
    {
     "p": "14",
     "t": "Bridge Over Troubled Water",
     "d": "4:48",
-    "sp": "",
+    "sp": "0582nYCaMnDU3QrwhVECCw",
     "src": "Discogs"
    },
    {
     "p": "15",
     "t": "Fifty Ways To Leave Your Lover",
     "d": "4:23",
-    "sp": "",
+    "sp": "5R7BOhW46EhAb8B7dnRciJ",
     "src": "Discogs"
    },
    {
     "p": "16",
     "t": "The Boxer",
     "d": "6:02",
-    "sp": "",
+    "sp": "0Fj8qJmcmec4IOvBmGISnF",
     "src": "Discogs"
    },
    {
     "p": "17",
     "t": "Old Friends",
     "d": "2:52",
-    "sp": "",
+    "sp": "4PvmuBqWAsyIq1C42cnC7v",
     "src": "Discogs"
    },
    {
     "p": "18",
     "t": "The 59th Street Bridge Song (Feelin' Groovy)",
     "d": "2:01",
-    "sp": "",
+    "sp": "0I1srwY79RrNq0KT8tIhMT",
     "src": "Discogs"
    },
    {
     "p": "19",
     "t": "The Sound Of Silence",
     "d": "4:13",
-    "sp": "",
+    "sp": "5jZVO2BKMYigxIGVgfRvs3",
     "src": "Discogs"
    }
   ],
@@ -174396,7 +173125,7 @@
   "wiki": "https://en.wikipedia.org/wiki/The_Concert_in_Central_Park",
   "about": "Recording of the free reunion concert Simon & Garfunkel gave in New York's Central Park on September 19, 1981, before a crowd of roughly half a million people. It mixes duo classics with songs from Paul Simon's solo career.",
   "artistKey": "Simon And Garfunkel",
-  "spAlbum": "",
+  "spAlbum": "3nIU4gxyq0MK4mlWE8ePqb",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1988",
@@ -174550,7 +173279,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Facing_Future",
   "about": "The second solo album by Israel Kamakawiwo'ole, including his ukulele medley of Somewhere Over the Rainbow and What a Wonderful World. It became the first Hawaiian album certified platinum in the United States.",
   "artistKey": "Israel Kamakawiwo'ole",
-  "spAlbum": "",
+  "spAlbum": "0pquf1NcG9FdiypBPwICu9",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1993",
@@ -174584,7 +173313,7 @@
     "p": "1",
     "t": "Tropical Hawaiian Day",
     "d": "2:52",
-    "sp": "",
+    "sp": "1Pr7pHOfz3h4vHS3BRoiyz",
     "src": "Discogs"
    },
    {
@@ -174598,7 +173327,7 @@
     "p": "3",
     "t": "Rhythm Of The Rain",
     "d": "3:00",
-    "sp": "",
+    "sp": "7oSZtwocSUJ0rWUoBVpmtf",
     "src": "Discogs"
    },
    {
@@ -174690,7 +173419,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Ka'Au Crater Boys",
-  "spAlbum": "",
+  "spAlbum": "3SvxPlEG4yPuPaMrkJMbLs",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1998",
@@ -175022,7 +173751,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Yes_I_Am_(Melissa_Etheridge_album)",
   "about": "Melissa Etheridge's fourth album, produced with Hugh Padgham, became her commercial peak. It includes the hits I'm the Only One and Come to My Window, the latter winning a Grammy.",
   "artistKey": "Melissa Etheridge",
-  "spAlbum": "",
+  "spAlbum": "1qzfqlEyzPD0VyCcSSQwZD",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1993",
@@ -175138,7 +173867,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Never_Enough_(Melissa_Etheridge_album)",
   "about": "Melissa Etheridge's third album added more polished production to her rock sound. The track Ain't It Heavy earned her a Grammy for Best Female Rock Vocal Performance.",
   "artistKey": "Melissa Etheridge",
-  "spAlbum": "",
+  "spAlbum": "4G78hlnPQ3k26NrpMpjyLr",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1992",
@@ -175283,7 +174012,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Detours_(Sheryl_Crow_album)",
   "about": "Sheryl Crow's sixth studio album, reuniting her with producer Bill Bottrell, addresses personal events such as her breast cancer diagnosis alongside political and environmental concerns.",
   "artistKey": "Sheryl Crow",
-  "spAlbum": "",
+  "spAlbum": "245704RhuUXj2ty55RKoJh",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2008",
@@ -175474,7 +174203,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Passion_(Peter_Gabriel_album)",
   "about": "Peter Gabriel's score for Martin Scorsese's film The Last Temptation of Christ, drawing on musicians from the Middle East, Africa and Asia. It won a Grammy for Best New Age Performance and helped launch the Real World label.",
   "artistKey": "Peter Gabriel",
-  "spAlbum": "",
+  "spAlbum": "2kXVFPs4QdO1fIu6zzBzvI",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1989",
@@ -175627,7 +174356,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Secret_World_Live",
   "about": "A double live album recorded in Modena, Italy, during Peter Gabriel's Secret World tour in support of Us. It won the Grammy for Best Long Form Music Video in its film version.",
   "artistKey": "Peter Gabriel",
-  "spAlbum": "",
+  "spAlbum": "1G6OF1czroiOkoK26VTFEk",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1994",
@@ -175922,21 +174651,21 @@
     "p": "1",
     "t": "I've Got You Under My Skin",
     "d": "5:27",
-    "sp": "",
+    "sp": "7E5V8721iYpF3iQx6x3p2f",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "Love For Sale",
     "d": "3:51",
-    "sp": "",
+    "sp": "2AynRZXVVfuOp0esW1OhWQ",
     "src": "Discogs"
    },
    {
     "p": "3",
     "t": "Let's Do It (Let's Fall In Love)",
     "d": "8:42",
-    "sp": "",
+    "sp": "5uBckn1JP83ZMHHaUtECqN",
     "src": "Discogs"
    },
    {
@@ -175950,21 +174679,21 @@
     "p": "5",
     "t": "What Is This Thing Called Love?",
     "d": "2:55",
-    "sp": "",
+    "sp": "0ZWXorBzKq9tKcEN26pQpt",
     "src": "Discogs"
    },
    {
     "p": "6",
     "t": "You'd Be So Nice To Come Home To",
     "d": "4:18",
-    "sp": "",
+    "sp": "5jmXSk0XGmLyDqAXDlgHBu",
     "src": "Discogs"
    },
    {
     "p": "7",
     "t": "At Long Last Love",
     "d": "2:28",
-    "sp": "",
+    "sp": "5tzI0vco6yXuAphAoj9DcA",
     "src": "Discogs"
    },
    {
@@ -175978,7 +174707,7 @@
     "p": "9",
     "t": "Just One Of Those Things",
     "d": "4:02",
-    "sp": "",
+    "sp": "21zYsGJwKcHXLIKy4Bq0Rc",
     "src": "Discogs"
    },
    {
@@ -176006,28 +174735,28 @@
     "p": "13",
     "t": "I Get A Kick Out Of You",
     "d": "6:18",
-    "sp": "",
+    "sp": "0lwUNBHL97llo6CASVwRbL",
     "src": "Discogs"
    },
    {
     "p": "14",
     "t": "In The Still Of The Night",
     "d": "3:48",
-    "sp": "",
+    "sp": "5qBlbzs6hQk8LK1lPmtUw8",
     "src": "Discogs"
    },
    {
     "p": "15",
     "t": "Easy To Love",
     "d": "3:00",
-    "sp": "",
+    "sp": "1nMsHZqlrqI3EIEXQCmDtN",
     "src": "Discogs"
    },
    {
     "p": "16",
     "t": "Night And Day",
     "d": "3:04",
-    "sp": "",
+    "sp": "6xCZuSCFR17UuhUtp0cZqh",
     "src": "Discogs"
    },
    {
@@ -176042,7 +174771,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Cole Porter",
-  "spAlbum": "",
+  "spAlbum": "3o8gslrC8baeH3T3lxqG47",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": ""
@@ -182584,254 +181313,6 @@
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2006"
- },
- {
-  "id": "CD0341",
-  "artist": "Various Artists",
-  "title": "Avenue Q (Original Broadway Cast Recording)",
-  "year": 2003,
-  "label": "Rock-it Science Records",
-  "catno": "none",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Soundtrack",
-  "personnel": [
-   "Lynn Pinto – producer",
-   "Lisa Yaeger – producer"
-  ],
-  "discs": "",
-  "acquired": "2024-02-04",
-  "discogs": "https://www.discogs.com/release/12920639-Various-Broadways-Greatest-Gifts-Carols-For-A-Cure-Volume-9",
-  "genres": [
-   "Stage & Screen"
-  ],
-  "styles": [
-   "Musical",
-   "Holiday"
-  ],
-  "notes": "",
-  "cover": "covers/CD0341.jpg",
-  "tracks": [
-   {
-    "p": "1-1",
-    "t": "Joy To The World",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-2",
-    "t": "Jolly Old St. Nicholas / Up On The Housetop",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-3",
-    "t": "It Was Simple Then",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-4",
-    "t": "My Gift",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-5",
-    "t": "Drowsy On Christmas Day",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-6",
-    "t": "Tracy Turnblad's Big, Bad Holiday Rap",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-7",
-    "t": "Angels We Have Heard On High",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-8",
-    "t": "O Come All Ye Faithful",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-9",
-    "t": "This Little Light Of Mine",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-10",
-    "t": "Christmas Makes The Whole World Warmer",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-11",
-    "t": "Hark! The Herald Angels Sing",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-12",
-    "t": "Following A Star",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-13",
-    "t": "Mary's Lullaby",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-14",
-    "t": "The First Noel",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "1-15",
-    "t": "'Twas The Night Before The Spelling Bee",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-1",
-    "t": "What Child Is This?",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-2",
-    "t": "(At The) North Pole Global Warming Surfin' Party",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-3",
-    "t": "The Monotone Angel",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-4",
-    "t": "Dominick The Donkey",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-5",
-    "t": "Two English Carols",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-6",
-    "t": "Away In A Manger",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-7",
-    "t": "The Innkeeper's Lament",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-8",
-    "t": "Jingle Bells",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-9",
-    "t": "Deck The Halls",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-10",
-    "t": "The Coventry Carol / God Rest Ye Merry Gentlemen",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-11",
-    "t": "Alleluia",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-12",
-    "t": "Broadway Holiday",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-13",
-    "t": "Go Tell It On The Mountain",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-14",
-    "t": "The 12 Days Of Christ-Miz",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   },
-   {
-    "p": "2-15",
-    "t": "O Holy Night",
-    "d": "",
-    "sp": "",
-    "src": "not found"
-   }
-  ],
-  "released": "2003",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Various Artists",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "2007",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/b5/89/45b5898a-3d4d-6f88-1a0c-7bbdd9747de7/rls00100616.jpg/1400x1400bb.jpg"
  },
  {
   "id": "CD0343",
@@ -202631,5 +201112,1423 @@
   "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl"
+ },
+ {
+  "id": "CD0079",
+  "artist": "Various Artists",
+  "title": "The Namesake (Original Motion Picture Soundtrack)",
+  "year": 2006,
+  "label": "Rounder Records",
+  "catno": "11661-9072-2",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Soundtrack",
+  "personnel": [
+   "Deepak Pandit – violin",
+   "Rajinder Singh – violin"
+  ],
+  "discs": "",
+  "acquired": "2023-02-14",
+  "discogs": "https://www.discogs.com/release/10797219-Nitin-Sawhney-The-Namesake-Original-Motion-Picture-Soundtrack",
+  "genres": [
+   "Folk, World, & Country",
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Instrumental",
+   "Soundtrack"
+  ],
+  "notes": "",
+  "cover": "covers/CD0079.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Shoes To America",
+    "d": "1:00",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2",
+    "t": "The Namesake Opening Titles",
+    "d": "2:57",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "First Day In New York",
+    "d": "1:54",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "Jhiri Jhiri Choyetali",
+    "d": "3:00",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "Flight IC408",
+    "d": "4:02",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "Airport Grief",
+    "d": "1:52",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "Mo's Affair",
+    "d": "3:13",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "Farewell Ashoke",
+    "d": "0:42",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "Ashima Becomes A Widow",
+    "d": "1:32",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "10",
+    "t": "Aftermath",
+    "d": "1:33",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "11",
+    "t": "Ye Mera Divanapan Hai",
+    "d": "3:35",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "12",
+    "t": "Baul Song",
+    "d": "4:41",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "13",
+    "t": "Taj Mahal",
+    "d": "0:40",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "14",
+    "t": "The Chosen One",
+    "d": "1:26",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "15",
+    "t": "Max Arrives",
+    "d": "0:43",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "16",
+    "t": "Boatman's Song",
+    "d": "1:25",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "17",
+    "t": "Postales",
+    "d": "4:10",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "18",
+    "t": "Amra Reformed Hindus",
+    "d": "2:40",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "19",
+    "t": "The Namesake Reprise",
+    "d": "5:05",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "20",
+    "t": "The Same Song",
+    "d": "4:11",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "21",
+    "t": "Falling",
+    "d": "4:49",
+    "sp": "",
+    "src": "Discogs"
+   }
+  ],
+  "released": "",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Various Artists",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "cdYear": "2007",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4e/cf/db/4ecfdbb4-2be9-c718-60af-fff78e99183f/20UMGIM35290.rgb.jpg/1400x1400bb.jpg"
+ },
+ {
+  "id": "CD0216",
+  "artist": "Various Artists",
+  "title": "Monty Python's Spamalot (Original Broadway Cast Recording)",
+  "year": 2005,
+  "label": "Decca Broadway",
+  "catno": "B0004265-02",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Soundtrack",
+  "personnel": [
+   "Todd Ellison – directed by, conductor, producer",
+   "Eric Idle – producer, script by",
+   "John Du Prez – producer",
+   "Frank Filipetti – producer",
+   "Scott Kuney – acoustic guitar, electric guitar, banjo, ukulele",
+   "Dave Kuhn – acoustic bass, electric bass",
+   "Alden Banta – tenor saxophone, clarinet, bass clarinet, bassoon",
+   "Sean McDaniel – drums, percussion, electronic drums",
+   "Ethyl Will – conductor, keyboards",
+   "Antony Geralis – piano, synthesizer",
+   "Ken Dybisz – alto saxophone, flute, piccolo flute, clarinet, oboe, recorder",
+   "Dave Mancuso – timpani, percussion"
+  ],
+  "discs": "",
+  "acquired": "2023-02-04",
+  "discogs": "https://www.discogs.com/release/1341964-Monty-Pythons-Spamalot-Original-Broadway-Cast-Monty-Pythons-Spamalot-Original-Broadway-Cast-Recordin",
+  "genres": [
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Musical"
+  ],
+  "notes": "",
+  "cover": "covers/CD0216.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Tuning",
+    "d": "0:19",
+    "sp": "4UlKPTioZBHUgjY5LCS2Dc",
+    "src": "Discogs"
+   },
+   {
+    "p": "2",
+    "t": "Overture",
+    "d": "0:53",
+    "sp": "2sx1k1gQeUWwgYkh3cd0bC",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "Historian's Introduction To Act I",
+    "d": "0:52",
+    "sp": "4e6E1ATLYEeyqkEdzl6TMM",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "Finland / Fisch Schlapping Dance",
+    "d": "1:01",
+    "sp": "38pfVmGlgv2k8omvBabpR5",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "Monks Chant / He Is Not Dead Yet",
+    "d": "2:51",
+    "sp": "7ue3m76e6C6kZsSnKWj4ke",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "Come With Me",
+    "d": "1:41",
+    "sp": "026LSeGwVxKt8QNxpxNdBB",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "Laker Girls Cheer",
+    "d": "1:17",
+    "sp": "5zk2X9rEJf3VIyVabMm4uu",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "The Song That Goes Like This",
+    "d": "2:53",
+    "sp": "4WOaAerXqnro7pABWKbJyv",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "He Is Not Dead Yet (Playoff)",
+    "d": "0:23",
+    "sp": "2dJboDWUji8W33C90b1DaJ",
+    "src": "Discogs"
+   },
+   {
+    "p": "10",
+    "t": "All For One",
+    "d": "1:58",
+    "sp": "7ykz2RwnjH0xb23xDaTLMK",
+    "src": "Discogs"
+   },
+   {
+    "p": "11",
+    "t": "Knights Of The Round Table / The Song That Goes Like This (Reprise)",
+    "d": "6:01",
+    "sp": "3YkHwtJG23d8pWyySaNEX5",
+    "src": "Discogs"
+   },
+   {
+    "p": "12",
+    "t": "Find Your Grail",
+    "d": "3:26",
+    "sp": "1aT0JKGDHo6Fas1R5tp73F",
+    "src": "Discogs"
+   },
+   {
+    "p": "13",
+    "t": "Run Away!",
+    "d": "2:01",
+    "sp": "51PKY9RWpAaVe1kMHgW1AW",
+    "src": "Discogs"
+   },
+   {
+    "p": "14",
+    "t": "The Intermission",
+    "d": "0:22",
+    "sp": "1fg2NxBy4RlwHS4o7CzLOu",
+    "src": "Discogs"
+   },
+   {
+    "p": "15",
+    "t": "Historian's Introduction To Act II",
+    "d": "0:22",
+    "sp": "4siaxgSNuTPKm6jjg6TfDS",
+    "src": "Discogs"
+   },
+   {
+    "p": "16",
+    "t": "Always Look On The Bright Side Of Life",
+    "d": "4:29",
+    "sp": "01zMgtkP7OyCYLN3iuiXSK",
+    "src": "Discogs"
+   },
+   {
+    "p": "17",
+    "t": "Brave Sir Robin",
+    "d": "0:56",
+    "sp": "1bBSuliOxlH7PHPP01eC8L",
+    "src": "Discogs"
+   },
+   {
+    "p": "18",
+    "t": "You Won't Succeed On Broadway",
+    "d": "5:06",
+    "sp": "54V7IXLBvDI9Wv4YX1m0Bd",
+    "src": "Discogs"
+   },
+   {
+    "p": "19",
+    "t": "Diva's Lament (Whatever Happened To My Part?)",
+    "d": "2:32",
+    "sp": "0gJNyEdYUTMiFARohCKVFQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "20",
+    "t": "Where Are You?",
+    "d": "1:03",
+    "sp": "0xFXXlbIO2zcTMKwQ1xeC2",
+    "src": "Discogs"
+   },
+   {
+    "p": "21",
+    "t": "His Name Is Lancelot",
+    "d": "2:11",
+    "sp": "0Ai1qtHCniuASWECsSerOe",
+    "src": "Discogs"
+   },
+   {
+    "p": "22",
+    "t": "I'm All Alone",
+    "d": "3:19",
+    "sp": "7eUtZPBt5JmdQUDnyU148J",
+    "src": "Discogs"
+   },
+   {
+    "p": "23",
+    "t": "Twice In Every Show",
+    "d": "1:17",
+    "sp": "0GdF6q36WFFfMKVKNypK9X",
+    "src": "Discogs"
+   },
+   {
+    "p": "24",
+    "t": "Act II Finale",
+    "d": "3:28",
+    "sp": "2qrQGrpxBwsZPVWaLIQeyH",
+    "src": "Discogs"
+   },
+   {
+    "p": "25",
+    "t": "Always Look On The Bright Side Of Life (Company Bow)",
+    "d": "1:19",
+    "sp": "7zOidgIw5qU23Cdg4Bwj0S",
+    "src": "Discogs"
+   }
+  ],
+  "released": "2005-05-03",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Various Artists",
+  "spAlbum": "58JUrRepRDK4Gq18WDYbgq",
+  "vinylColor": "",
+  "medium": "CD",
+  "cdYear": "2005",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/06/ec/7c06ec35-a788-d703-92b1-f34f0141f674/06UMGIM18289.rgb.jpg/1400x1400bb.jpg"
+ },
+ {
+  "id": "CD0220",
+  "artist": "Various Artists",
+  "title": "Les Misérables (Original Broadway Cast Recording)",
+  "year": 1987,
+  "label": "Decca Broadway",
+  "catno": "9 24151-2",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Soundtrack",
+  "personnel": [
+   "Claude-Michel Schönberg – producer",
+   "Alain Boublil – producer",
+   "Lindsey Horner – bass guitar",
+   "Brian Koonin – guitar",
+   "John Rojack – bass trombone",
+   "Michael Hinton – drums",
+   "Jeffrey Silverman – keyboards",
+   "Ross Allen – keyboards",
+   "Mitchell Weiss – clarinet, alto saxophone",
+   "Howard Jones – percussion",
+   "Robert Zottola – trumpet",
+   "David Gale – trumpet"
+  ],
+  "discs": "",
+  "acquired": "2023-02-04",
+  "discogs": "https://www.discogs.com/release/2061903-Cameron-Mackintosh-Presents-Alain-Boublil-And-Claude-Michel-Schönberg-Les-Misérables-Original-Broa",
+  "genres": [
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Musical"
+  ],
+  "notes": "",
+  "cover": "covers/CD0220.jpg",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "Overture / Work Song",
+    "d": "3:33",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-2",
+    "t": "Valjean Arrested / Valjean Forgiven",
+    "d": "1:52",
+    "sp": "3gBGCemEeXMqeC5Rw2EL6m",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-3",
+    "t": "What Have I Done?",
+    "d": "3:21",
+    "sp": "6zib19PK2PEwAcBxESP0WD",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-4",
+    "t": "At The End Of The Day",
+    "d": "4:43",
+    "sp": "2wYXLVWNcqC7Cxlw92aCtK",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-5",
+    "t": "I Dreamed A Dream",
+    "d": "4:13",
+    "sp": "13LT9Y0RP7C9KhNIvroXLi",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-6",
+    "t": "Lovely Ladies",
+    "d": "3:50",
+    "sp": "6mMiGHG6JuMrowGkafuXls",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-7",
+    "t": "Who Am I?",
+    "d": "2:49",
+    "sp": "40KBTAVPWIYUBwELheOZ1C",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-8",
+    "t": "Come To Me (Fantine's Death)",
+    "d": "3:46",
+    "sp": "6tFKrRGF8PRaelGOzxJ5cs",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-9",
+    "t": "Confrontation",
+    "d": "2:31",
+    "sp": "4B8kmpqV18wXTI07q0m1Bc",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-10",
+    "t": "Castle On A Cloud",
+    "d": "1:40",
+    "sp": "5CQaqSeXCgHbhfsQg5Nctj",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-11",
+    "t": "Master Of The House",
+    "d": "4:54",
+    "sp": "6cX9HbjCK20dfd5C1fftUE",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-12",
+    "t": "The Thénardier Waltz Of Treachery",
+    "d": "2:59",
+    "sp": "3Uftn3QCsD3lg79FuKcbE1",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-13",
+    "t": "Look Down",
+    "d": "2:55",
+    "sp": "2koYHPmR7nERQx7JQgrcii",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-14",
+    "t": "Stars",
+    "d": "2:58",
+    "sp": "2bQI6Wh9v6SoOjfiKb18G5",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-15",
+    "t": "Red And Black",
+    "d": "4:31",
+    "sp": "1lhdGCE8MgiUi7sMoSZi82",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-16",
+    "t": "Do You Hear The People Sing?",
+    "d": "2:06",
+    "sp": "1SFSlwDclv0wT7p8aMsBM1",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-1",
+    "t": "In My Life",
+    "d": "5:15",
+    "sp": "4q8Hw7k5tpe1AALlTVgKyS",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-2",
+    "t": "A Heart Full Of Love",
+    "d": "2:22",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-3",
+    "t": "Plumet Attack",
+    "d": "1:59",
+    "sp": "1cHv0FqSU4yaOY0QzZayuX",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-4",
+    "t": "One Day More!",
+    "d": "3:29",
+    "sp": "6cdcZzuQzUhspZo2aJfKaH",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-5",
+    "t": "Upon These Stones (Building The Barricade)",
+    "d": "2:09",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-6",
+    "t": "On My Own",
+    "d": "4:11",
+    "sp": "6cs44cWPd4652NlIrzRqNx",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-7",
+    "t": "Upon These Stones (At The Barricade)",
+    "d": "2:27",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-8",
+    "t": "Javert At The Barricade / Little People",
+    "d": "1:30",
+    "sp": "5fbFyzSoU80kwqUF7JlV2F",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-9",
+    "t": "The First Attack",
+    "d": "0:39",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-10",
+    "t": "A Little Fall Of Rain",
+    "d": "3:23",
+    "sp": "3SeYUKgbfYg6ZLLbhwzF9t",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-11",
+    "t": "Drink With Me",
+    "d": "2:39",
+    "sp": "5D2mHuaTpubjIGtrtQ0uQ1",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-12",
+    "t": "Bring Him Home",
+    "d": "3:16",
+    "sp": "5kWVIa5k3M3kt5MBcayVMb",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-13",
+    "t": "Dog Eats Dog",
+    "d": "2:15",
+    "sp": "7sOTi9bOYSHCGqy0KClraf",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-14",
+    "t": "Javert's Suicide",
+    "d": "3:30",
+    "sp": "5VxaHVcDLbRKn4jMa5kKKc",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-15",
+    "t": "Turning",
+    "d": "2:04",
+    "sp": "7dytzjO9B0BYQAVQ4fu8qf",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-16",
+    "t": "Empty Chairs At Empty Tables",
+    "d": "3:00",
+    "sp": "7gEEBjoa8kbp8NJnXuLVf6",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-17",
+    "t": "Wedding Chorale / Beggars At The Feast",
+    "d": "2:14",
+    "sp": "4yuixCIFG0VguSqw5uLnHN",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-18",
+    "t": "Finale",
+    "d": "4:50",
+    "sp": "2J6cFPp3jlASjitfkSzA9W",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1987",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Various Artists",
+  "spAlbum": "58JUrRepRDK4Gq18WDYbgq",
+  "vinylColor": "",
+  "medium": "CD",
+  "cdYear": "",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/a4/11/9fa411eb-ee1f-9a67-101c-3197a9637244/00602537250028.rgb.jpg/1400x1400bb.jpg"
+ },
+ {
+  "id": "CD0268",
+  "artist": "Various Artists",
+  "title": "My Fair Lady (Original Broadway Cast)",
+  "year": 1956,
+  "label": "Columbia",
+  "catno": "CK 5090",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Soundtrack",
+  "personnel": [
+   "Howard Scott – producer",
+   "Goddard Lieberson – producer",
+   "Michael Brooks – reissue producer"
+  ],
+  "discs": "",
+  "acquired": "2024-02-04",
+  "discogs": "https://www.discogs.com/release/1594255-Original-Broadway-Cast-Rex-Harrison-Julie-Andrews-With-Stanley-Holloway-Book-And-Lyrics-By-Alan-Jay-",
+  "genres": [
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Musical"
+  ],
+  "notes": "",
+  "cover": "covers/CD0268.jpg",
+  "tracks": [
+   {
+    "p": "1.1",
+    "t": "Overture",
+    "d": "",
+    "sp": "7EqyxWo0hqnhdexrgeUsLy",
+    "src": "not found"
+   },
+   {
+    "p": "1.2",
+    "t": "Why Can't The English?",
+    "d": "",
+    "sp": "1TbxMS4EoVF6H31c5Cn5WL",
+    "src": "not found"
+   },
+   {
+    "p": "2",
+    "t": "Wouldn't It Be Loverly?",
+    "d": "3:55",
+    "sp": "1KnCMu0WEXuaKMLLv8MzQx",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "With A Little Bit Of Luck",
+    "d": "3:55",
+    "sp": "1Q7cAlhPLTfyaDSCLIRt9e",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "I'm An Ordinary Man",
+    "d": "4:38",
+    "sp": "7kqujHEtjJr9d3pJWSVgEK",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "Just You Wait",
+    "d": "2:41",
+    "sp": "67y2KrPGphrR4A1nr0EBK0",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "The Rain In Spain",
+    "d": "2:39",
+    "sp": "0PYz74BvM0AktY1ry8J2bV",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "I Could Have Danced All Night",
+    "d": "3:28",
+    "sp": "6RK76ikiQGgAxRb7AKN5f3",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "Ascot Gavotte",
+    "d": "3:13",
+    "sp": "5JEHFwefxoauQoUPJ0YV4t",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "On The Street Where You Live",
+    "d": "2:56",
+    "sp": "29qA9vzRpqMyMFzTFqbP2X",
+    "src": "Discogs"
+   },
+   {
+    "p": "10",
+    "t": "You Did It",
+    "d": "4:25",
+    "sp": "3FJwJWZZBVV9W1I40Q0LyQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "11",
+    "t": "Show Me",
+    "d": "2:10",
+    "sp": "7AGGhy0cHylqUMKRMqM6Yh",
+    "src": "Discogs"
+   },
+   {
+    "p": "12",
+    "t": "Get Me To The Church On Time",
+    "d": "2:42",
+    "sp": "7uer77A4VjT02urbxEwQI0",
+    "src": "Discogs"
+   },
+   {
+    "p": "13",
+    "t": "A Hymn To Him",
+    "d": "3:28",
+    "sp": "6FXOOpy1BZaOfJ4hxujURb",
+    "src": "Discogs"
+   },
+   {
+    "p": "14",
+    "t": "Without You",
+    "d": "2:01",
+    "sp": "5Oo5xdesKp3jgikbUclrdL",
+    "src": "Discogs"
+   },
+   {
+    "p": "15",
+    "t": "I've Grown Accustomed To Her Face",
+    "d": "5:14",
+    "sp": "6P4wsWaJoHb0SiF6GCnqYl",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1956",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Various Artists",
+  "spAlbum": "69suSwnBRBePV7FwFWqg09",
+  "vinylColor": "",
+  "medium": "CD",
+  "cdYear": "",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Features/27/c9/c0/dj.ohhthexq.jpg/1400x1400bb.jpg"
+ },
+ {
+  "id": "CD0274",
+  "artist": "Various Artists",
+  "title": "Into The Woods (Original Cast Recording)",
+  "year": 2011,
+  "label": "RCA Victor",
+  "catno": "6796-1-RC",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Soundtrack",
+  "personnel": [
+   "David B. Brode – producer",
+   "Greg C. Mosher – producer",
+   "Paula Fisher – producer",
+   "Jay David Saks – producer",
+   "Joanna Gleason – vocals",
+   "Chip Zien – vocals",
+   "Edmund Lyndeck – vocals",
+   "Merle Louise – vocals",
+   "Joy Franz – vocals",
+   "Kim Crosby – vocals",
+   "Kay McClelland – vocals",
+   "Barbara Bryne – vocals"
+  ],
+  "discs": "",
+  "acquired": "2024-02-04",
+  "discogs": "https://www.discogs.com/release/2279388-Stephen-Sondheim-Into-The-Woods-Original-Cast-Recording",
+  "genres": [
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Musical"
+  ],
+  "notes": "",
+  "cover": "covers/CD0274.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Prologue: Into The Woods",
+    "d": "",
+    "sp": "1mGnIAxWGb2DBnlqwCqOuO",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "Cinderella At The Grave",
+    "d": "",
+    "sp": "4nvA00bLCMLSFAfWMQp79d",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Hello, Little Girl",
+    "d": "",
+    "sp": "6N8nx3j2K5nfodlvyaYqzn",
+    "src": "not found"
+   },
+   {
+    "p": "A4a",
+    "t": "I Guess This Is Goodbye",
+    "d": "",
+    "sp": "7hnTxCyaphKXk7GV9YHgEZ",
+    "src": "not found"
+   },
+   {
+    "p": "A4b",
+    "t": "Maybe They're Magic",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "A5",
+    "t": "I Know Things Now",
+    "d": "",
+    "sp": "5ElJYMKDe2Nr9FW6Q9OHW5",
+    "src": "not found"
+   },
+   {
+    "p": "A6a",
+    "t": "A Very Nice Prince",
+    "d": "",
+    "sp": "25o0BEkhqpoeX69jbG89Pm",
+    "src": "not found"
+   },
+   {
+    "p": "A6b",
+    "t": "First Midnight",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "A6c",
+    "t": "Giants In The Sky",
+    "d": "",
+    "sp": "5GQKmeqVV8qKDOCQLZ9gdQ",
+    "src": "not found"
+   },
+   {
+    "p": "A7",
+    "t": "Agony",
+    "d": "",
+    "sp": "0r1VEzAB1Uy6Yl4nRa2J6k",
+    "src": "not found"
+   },
+   {
+    "p": "A8",
+    "t": "It Takes Two",
+    "d": "",
+    "sp": "7k4v4HQv7Xk8zrgI05LAlT",
+    "src": "not found"
+   },
+   {
+    "p": "A9",
+    "t": "Stay With Me",
+    "d": "",
+    "sp": "4ORqOKlf3tZIyygzqG7AuV",
+    "src": "not found"
+   },
+   {
+    "p": "A10",
+    "t": "On The Steps Of The Palace",
+    "d": "",
+    "sp": "0DDTbMfgYvkvVBpcmoe9bm",
+    "src": "not found"
+   },
+   {
+    "p": "A11",
+    "t": "Ever After",
+    "d": "",
+    "sp": "4g6ZllPVEysZg1XwT81occ",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "Act II Prologue: So Happy",
+    "d": "",
+    "sp": "5Y9LBBifgUlbMpqdK8yWE5",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "Agony",
+    "d": "",
+    "sp": "7mDgDCGPALpVJHMG1pPnBD",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "Lament",
+    "d": "",
+    "sp": "2FnxOCX05Hujz2TahNVx5p",
+    "src": "not found"
+   },
+   {
+    "p": "B4a",
+    "t": "Any Moment",
+    "d": "",
+    "sp": "5eVCpPA1WwDkdgb6BlebV5",
+    "src": "not found"
+   },
+   {
+    "p": "B4b",
+    "t": "Moments In The Woods",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B5a",
+    "t": "Your Fault",
+    "d": "",
+    "sp": "0ZXLqIrYR6M1W98fkzUZmJ",
+    "src": "not found"
+   },
+   {
+    "p": "B5b",
+    "t": "Last Midnight",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B6",
+    "t": "No More",
+    "d": "",
+    "sp": "0XpVritztNYnPWNv3EwlDt",
+    "src": "not found"
+   },
+   {
+    "p": "B7",
+    "t": "No One Is Alone",
+    "d": "",
+    "sp": "1MPd109cX9mB9Os1KbsNw7",
+    "src": "not found"
+   },
+   {
+    "p": "B8",
+    "t": "Finale: Children Will Listen",
+    "d": "",
+    "sp": "2f2mBFZFJCyq3fUKTclufG",
+    "src": "not found"
+   }
+  ],
+  "released": "",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Various Artists",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "cdYear": "1988",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/2e/89/a22e89d0-f76e-4f03-effa-07d313e003b4/00050087317959.rgb.jpg/1400x1400bb.jpg"
+ },
+ {
+  "id": "CD0275",
+  "artist": "Various Artists",
+  "title": "West Side Story (The Original Sound Track Recording)",
+  "year": 1961,
+  "label": "Sony Masterworks",
+  "catno": "SK 48211",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Soundtrack",
+  "personnel": [
+   "Saul Chaplin – co-producer",
+   "Didier C. Deutsch – reissue producer"
+  ],
+  "discs": "",
+  "acquired": "2024-02-04",
+  "discogs": "https://www.discogs.com/release/8578590-Leonard-Bernstein-West-Side-Story-The-Original-Sound-Track-Recording",
+  "genres": [
+   "Jazz",
+   "Classical",
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Soundtrack",
+   "Musical"
+  ],
+  "notes": "",
+  "cover": "covers/CD0275.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Overture",
+    "d": "4:39",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2",
+    "t": "Prologue",
+    "d": "6:37",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "Jet Song",
+    "d": "2:06",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "Something's Coming",
+    "d": "2:32",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "Dance At The Gym: Blues; Promenade; Mambo; Pas De Deux; Jump",
+    "d": "9:24",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "Maria",
+    "d": "2:34",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "America",
+    "d": "4:59",
+    "sp": "6NqgkDEUdAM1ocIjwwbefn",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "Tonight",
+    "d": "5:43",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "Gee, Officer Krupke",
+    "d": "4:14",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "10",
+    "t": "I Feel Pretty",
+    "d": "3:35",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "11",
+    "t": "One Hand, One Heart",
+    "d": "3:02",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "12",
+    "t": "Quintet",
+    "d": "3:22",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "13",
+    "t": "The Rumble",
+    "d": "2:39",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "14",
+    "t": "Somewhere",
+    "d": "2:02",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "15",
+    "t": "Cool",
+    "d": "4:21",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "16",
+    "t": "A Boy Like That; I Have A Love",
+    "d": "4:28",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "17",
+    "t": "Finale",
+    "d": "4:20",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "18",
+    "t": "End Credits",
+    "d": "5:05",
+    "sp": "",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1961",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Various Artists",
+  "spAlbum": "5JSyCRhrQ7lIOAPYfKwuL2",
+  "vinylColor": "",
+  "medium": "CD",
+  "cdYear": "",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/2f/fa/mzi.ipwbsxmc.jpg/1400x1400bb.jpg"
+ },
+ {
+  "id": "CD0341",
+  "artist": "Various Artists",
+  "title": "Avenue Q (Original Broadway Cast Recording)",
+  "year": 2003,
+  "label": "RCA Victor",
+  "catno": "82876-55923-2RE1",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Soundtrack",
+  "personnel": [
+   "Jay David Saks – producer",
+   "Regina Elliott – producer",
+   "Alexis Prussack – producer",
+   "Jennifer Barnhart – vocals",
+   "Jordan Gelber – vocals",
+   "Ann Harada – vocals",
+   "Jodi Eichelberger – vocals",
+   "Peter Linz – vocals",
+   "Natalie Venetia Belcon – vocals",
+   "Stephanie D'Abruzzo – vocals",
+   "Rick Lyon – vocals",
+   "John Tartaglia – vocals"
+  ],
+  "discs": "",
+  "acquired": "2024-02-04",
+  "discogs": "https://www.discogs.com/release/2301552-Original-Broadway-Cast-Avenue-Q-The-Musical-Original-Broadway-Cast-Recording",
+  "genres": [
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Musical"
+  ],
+  "notes": "",
+  "cover": "covers/CD0341.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "The Avenue Q Theme",
+    "d": "1:03",
+    "sp": "6rE5H1kdjei3V4Qw6yehPY",
+    "src": "Discogs"
+   },
+   {
+    "p": "2",
+    "t": "What Do You Do With A B.A. In English? It Sucks To Be Me",
+    "d": "5:55",
+    "sp": "1Ns3qh9eOmLZZ8mNbfSPT9",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "If You Were Gay",
+    "d": "2:30",
+    "sp": "1qy6zWAhPodaqjVvsunHwn",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "Purpose",
+    "d": "2:28",
+    "sp": "29RlYv3MFGxXNCoVy4XCh2",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "Everyone's A Little Bit Racist",
+    "d": "5:28",
+    "sp": "0xY4mvrWtUjePft8O28Tce",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "The Internet Is For Porn",
+    "d": "2:59",
+    "sp": "4YidEz8xGN9NZeUXFc94yw",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "Mix Tape",
+    "d": "3:36",
+    "sp": "6leF3QksmwhYRQhbacVcYW",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "I'm Not Wearing Underwear Today",
+    "d": "0:28",
+    "sp": "72oRqFFeYCML3FRBuvjcJm",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "Special",
+    "d": "2:36",
+    "sp": "6P4m6NTF8wdKTol3o2z3GO",
+    "src": "Discogs"
+   },
+   {
+    "p": "10",
+    "t": "You Can Be As Loud As The Hell You Want (When You're Makin' Love)",
+    "d": "2:42",
+    "sp": "4vKhArCUMhuBZcm9ihxxIk",
+    "src": "Discogs"
+   },
+   {
+    "p": "11",
+    "t": "Fantasies Come True",
+    "d": "4:19",
+    "sp": "26JVldiuNkqg1enfav2PeU",
+    "src": "Discogs"
+   },
+   {
+    "p": "12",
+    "t": "My Girlfriend, Who Lives In Canada",
+    "d": "1:19",
+    "sp": "1E7R3N8uvF4bFYqsZQdrlo",
+    "src": "Discogs"
+   },
+   {
+    "p": "13",
+    "t": "There's A Fine, Fine Line",
+    "d": "2:40",
+    "sp": "2W7wqrmruKE07zZCg8rSdm",
+    "src": "Discogs"
+   },
+   {
+    "p": "14",
+    "t": "There Is Life Outside Your Apartment",
+    "d": "3:09",
+    "sp": "5kS5gY4S8msO6mXqfarbrz",
+    "src": "Discogs"
+   },
+   {
+    "p": "15",
+    "t": "The More You Ruv Someone",
+    "d": "2:23",
+    "sp": "6LKEiw6VawtinJMWKrVatu",
+    "src": "Discogs"
+   },
+   {
+    "p": "16",
+    "t": "Schadenfreude",
+    "d": "3:05",
+    "sp": "0fajMX89sy4Z2fGq2GxxHq",
+    "src": "Discogs"
+   },
+   {
+    "p": "17",
+    "t": "I Wish I Could Go Back To College",
+    "d": "2:10",
+    "sp": "0ZLwZH9nvJT51cxPkhb4bA",
+    "src": "Discogs"
+   },
+   {
+    "p": "18",
+    "t": "The Money Song",
+    "d": "5:01",
+    "sp": "04HoKUqBvNGn1d2hzyOCK9",
+    "src": "Discogs"
+   },
+   {
+    "p": "19",
+    "t": "School For Monsters / The Money Song Reprise",
+    "d": "2:00",
+    "sp": "4OIKGhFUG79gbbSJIetBwY",
+    "src": "Discogs"
+   },
+   {
+    "p": "20",
+    "t": "There's A Fine, Fine Line Reprise / What Do You Do With A B.A. In English? Reprise",
+    "d": "1:44",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "21",
+    "t": "For Now",
+    "d": "3:12",
+    "sp": "3mXol3KLx3Q1RxVNLE1OJa",
+    "src": "Discogs"
+   }
+  ],
+  "released": "2003",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Various Artists",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "cdYear": "",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/b5/89/45b5898a-3d4d-6f88-1a0c-7bbdd9747de7/rls00100616.jpg/1400x1400bb.jpg"
  }
 ]
