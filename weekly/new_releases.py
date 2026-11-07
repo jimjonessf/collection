@@ -1,7 +1,7 @@
 """Weekly check for new albums by the artists in The Collection.
 
 Runs on GitHub (see .github/workflows/new-releases.yml), once a week. For every artist in data/artists.json it asks
-MusicBrainz (a free, open music database) for studio albums released in the last few years, and saves them to
+MusicBrainz (a free, open music database) for studio and live albums released from 2020 on, and for vinyl reissues, and saves them to
 weekly/new_releases.json. The site reads that file and adds any album it doesn't already list to the artist's
 Discography and to the New Releases lists.
 
@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "weekly", "new_releases.json")
 UA = "TheCollection/1.0 ( https://jimjonessf.github.io/collection/ )"   # MusicBrainz asks every program to name itself
 TODAY = dt.date.today()
-FIRST_YEAR = TODAY.year - 6          # keep albums from the last six years (New Releases shows the last six)
+FIRST_YEAR = 2020                    # New Releases shows every year from 2020 on
 RECHECK_MISSING_DAYS = 30            # artists MusicBrainz couldn't match are tried again after a month
 SKIP = re.compile(r"various|original (broadway|london|motion|cast|soundtrack)|soundtrack|cast recording", re.I)
 
@@ -68,7 +68,14 @@ def find_artist(name, known):
     return None
 
 
+def kind_ok(g):
+    """Studio albums and live albums; no compilations, soundtracks, remixes, demos, DJ mixes or interviews."""
+    sec = g.get("secondary-types") or []
+    return g.get("primary-type") == "Album" and set(sec) <= {"Live"}
+
+
 def albums_of(mbid):
+    """New studio and live albums (first released from FIRST_YEAR on)."""
     out, offset = [], 0
     while True:
         d = mb("release-group", {"artist": mbid, "type": "album", "limit": 100, "offset": offset})
@@ -77,14 +84,49 @@ def albums_of(mbid):
         groups = d.get("release-groups", [])
         for g in groups:
             date = g.get("first-release-date") or ""
-            if g.get("primary-type") != "Album" or g.get("secondary-types") or not date[:4].isdigit():
-                continue          # studio albums only: no live albums, compilations, soundtracks, remixes or demos
+            if not kind_ok(g) or not date[:4].isdigit():
+                continue
             if int(date[:4]) < FIRST_YEAR or date > TODAY.isoformat():
                 continue          # too old to matter here, or not out yet
-            out.append({"title": g["title"], "date": date, "year": int(date[:4]), "mb": g["id"]})
+            a = {"title": g["title"], "date": date, "year": int(date[:4]), "mb": g["id"]}
+            if "Live" in (g.get("secondary-types") or []):
+                a["live"] = True
+            out.append(a)
         offset += len(groups)
         if not groups or offset >= d.get("release-group-count", 0):
             return out
+
+
+def reissues_of(mbid):
+    """Vinyl reissues from FIRST_YEAR on: an official vinyl release of a studio or live album first released in an earlier year.
+    One entry per album per year (the earliest such release that year)."""
+    found, vinyl, offset = {}, set(), 0
+    while True:
+        d = mb("release", {"artist": mbid, "type": "album", "status": "official", "inc": "release-groups+media", "limit": 100, "offset": offset})
+        if not d:
+            return (None, vinyl) if offset == 0 else (sorted(found.values(), key=lambda e: e["date"]), vinyl)
+        rels = d.get("releases", [])
+        for r in rels:
+            date, g = r.get("date") or "", r.get("release-group") or {}
+            first = g.get("first-release-date") or ""
+            if g.get("id") and any("vinyl" in (m.get("format") or "").lower() for m in r.get("media") or []):
+                vinyl.add(g["id"])            # this album is (or was) out on vinyl
+            if not (date[:4].isdigit() and first[:4].isdigit()) or not kind_ok(g):
+                continue
+            year = int(date[:4])
+            if year < FIRST_YEAR or date > TODAY.isoformat() or int(first[:4]) >= year:
+                continue          # not a reissue (first released that same year), too old, or not out yet
+            if not any("vinyl" in (m.get("format") or "").lower() for m in r.get("media") or []):
+                continue          # vinyl and colored vinyl only (no CD, cassette or digital reissues)
+            key = (g["id"], year)
+            if key not in found or date < found[key]["date"]:
+                e = {"title": g.get("title") or r.get("title"), "date": date, "year": year, "orig": int(first[:4]), "mb": g["id"]}
+                if "Live" in (g.get("secondary-types") or []):
+                    e["live"] = True
+                found[key] = e
+        offset += len(rels)
+        if not rels or offset >= d.get("release-count", 0):
+            return sorted(found.values(), key=lambda e: e["date"]), vinyl
 
 
 class Spotify:
@@ -126,14 +168,21 @@ def main():
     for k, v in artists.items():
         for x in v.get("studio_albums") or []:
             known.setdefault(k, set()).update({fold(x["title"]), bare(x["title"])})
-    state = json.load(open(OUT)) if os.path.exists(OUT) else {}
-    found_ids, albums = state.get("artists", {}), state.get("albums", {})
+    had_state = os.path.exists(OUT)
+    state = json.load(open(OUT)) if had_state else {}
+    v2 = state.get("version", 1) >= 2           # live albums and reissues are tracked from version 2 on
+    recent = (TODAY - dt.timedelta(days=90)).isoformat()   # the weekly email lists only albums out in the last 3 months
+    report = {"new": [], "live": [], "reissue": []}
+    found_ids, albums, reissues = state.get("artists", {}), state.get("albums", {}), state.get("reissues", {})
+    started = time.time()
     sp = Spotify()
-    names = sorted(k for k in artists if k and not SKIP.search(k))
+    # artists whose reissues were checked longest ago go first, so a run that runs out of time is finished by the next one
+    names = sorted((k for k in artists if k and not SKIP.search(k)), key=lambda k: (found_ids.get(k, {}).get("ri", ""), k))
     print(f"Checking {len(names)} artists on MusicBrainz (albums from {FIRST_YEAR} on)...")
     new_count = 0
     for i, key in enumerate(names, 1):
         info = found_ids.get(key, {})
+        tracked, ri_before = bool(info.get("mbid")), bool(info.get("ri"))   # an artist checked for the first time reports nothing (it's all old news)
         if not info.get("mbid"):
             tried = info.get("tried", "")
             if tried and (TODAY - dt.date.fromisoformat(tried)).days < RECHECK_MISSING_DAYS:
@@ -152,6 +201,10 @@ def main():
             if prev is None:
                 new_count += 1
                 print(f"  new: {key} - {a['title']} ({a['date']})")
+                if had_state and tracked and a["date"] >= recent and (v2 or not a.get("live")):
+                    report["live" if a.get("live") else "new"].append((key, a))
+            if prev and prev.get("vinyl"):
+                a["vinyl"] = True
             a["sp"] = (prev or {}).get("sp", "")
             if not a["sp"] and (not prev or prev.get("sp_tried", "") < (TODAY - dt.timedelta(days=7)).isoformat()):
                 s = sp.find(artists[key].get("name") or key, a["title"])
@@ -165,13 +218,63 @@ def main():
             albums[key] = sorted(got, key=lambda a: a["date"])
         else:
             albums.pop(key, None)
+        # vinyl reissues (the longest part: every official release of the artist); skipped if the run is getting long,
+        # in which case last week's reissues stay and the next run carries on
+        if time.time() - started < 95 * 60:          # GitHub stops the job at 2 hours
+            ri, on_vinyl = reissues_of(info["mbid"])
+            for a in albums.get(key, []):
+                if a["mb"] in on_vinyl:
+                    a["vinyl"] = True
+            if ri is not None:
+                info["ri"] = TODAY.isoformat()
+                seen = {(e["mb"], e["year"]) for e in reissues.get(key, [])}
+                if ri_before and v2:
+                    report["reissue"] += [(key, e) for e in ri if (e["mb"], e["year"]) not in seen and e["date"] >= recent]
+                if ri:
+                    reissues[key] = ri
+                else:
+                    reissues.pop(key, None)
         if i % 50 == 0:
             print(f"  {i}/{len(names)}")
-    out = {"updated": TODAY.isoformat(), "first_year": FIRST_YEAR, "artists": found_ids, "albums": albums}
+    write_email(report, artists)
+    out = {"version": 2, "updated": TODAY.isoformat(), "first_year": FIRST_YEAR, "artists": found_ids, "albums": albums, "reissues": reissues}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump(out, open(OUT, "w"), indent=0, ensure_ascii=False, sort_keys=True)
     total = sum(len(v) for v in albums.values())
-    print(f"Done: {total} albums from {FIRST_YEAR} on for {len(albums)} artists ({new_count} new since last week).")
+    print(f"Done: {total} albums from {FIRST_YEAR} on for {len(albums)} artists ({new_count} new since last week); "
+          f"{sum(len(v) for v in reissues.values())} vinyl reissues for {len(reissues)} artists.")
+
+
+def write_email(report, artists):
+    """weekly/this_week.md: this week's finds in three sections; GitHub posts it as an issue, which it emails to you."""
+    path = os.path.join(ROOT, "weekly", "this_week.md")
+    if os.path.exists(path):
+        os.remove(path)
+    if not any(report.values()):
+        print("Nothing new for the weekly email.")
+        return
+    nice = lambda d: dt.date.fromisoformat(d).strftime("%b %-d, %Y") if len(d) == 10 else d
+    def line(key, a, extra=""):
+        name = artists.get(key, {}).get("name") or key
+        links = [f"[MusicBrainz](https://musicbrainz.org/release-group/{a['mb']})"]
+        if a.get("sp"):
+            links.insert(0, f"[Spotify](https://open.spotify.com/album/{a['sp']})")
+        return f"- **{name}** · {a['title']}{extra} · {nice(a['date'])} · " + " · ".join(links)
+    out = [f"Albums by artists in The Collection found this week ({TODAY.strftime('%b %-d, %Y')}).", ""]
+    sections = [("New Releases", "new", lambda a: " (on vinyl)" if a.get("vinyl") else ""),
+                ("New Reissues (vinyl)", "reissue", lambda a: f" (Reissue of {a['orig']} Album)"),
+                ("New Live Albums", "live", lambda a: " (on vinyl)" if a.get("vinyl") else "")]
+    for title, k, extra in sections:
+        best = {}   # one line per album, even when it's listed under several names ("Willie Nelson" / "Willie Nelson & Family")
+        for key, a in report[k]:
+            name = artists.get(key, {}).get("name") or key
+            if a["mb"] not in best or len(name) < len(artists.get(best[a["mb"]][0], {}).get("name") or best[a["mb"]][0]):
+                best[a["mb"]] = (key, a)
+        items = sorted(best.values(), key=lambda x: (fold(artists.get(x[0], {}).get("name") or x[0]), x[1]["title"]))
+        out += [f"## {title}", ""] + ([line(key, a, extra(a)) for key, a in items] or ["None this week."]) + [""]
+    out += ["See every year's lists on [The Collection](https://mrjonessf.com/music) under New Releases."]
+    open(path, "w").write("\n".join(out) + "\n")
+    print(f"Weekly email: {len(report['new'])} new, {len(report['reissue'])} reissues, {len(report['live'])} live.")
 
 
 if __name__ == "__main__":
