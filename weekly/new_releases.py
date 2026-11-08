@@ -144,8 +144,8 @@ def reissues_of(mbid):
             if not (date[:4].isdigit() and first[:4].isdigit()) or not kind_ok(g):
                 continue
             year = int(date[:4])
-            if year < FIRST_YEAR or date > TODAY.isoformat() or int(first[:4]) >= year:
-                continue          # not a reissue (first released that same year), too old, or not out yet
+            if year < FIRST_YEAR or date > TODAY.isoformat() or int(first[:4]) > year - 3:
+                continue          # not a reissue (within 3 years of the original), too old, or not out yet
             if not any("vinyl" in (m.get("format") or "").lower() for m in r.get("media") or []):
                 continue          # vinyl and colored vinyl only (no CD, cassette or digital reissues)
             key = (g["id"], year)
