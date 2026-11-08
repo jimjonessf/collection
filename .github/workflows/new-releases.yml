@@ -1,4 +1,5 @@
 # Weekly check for new albums by the artists in The Collection (adds them to Discographies and New Releases).
+# Also posts the week's finds as an issue, which GitHub emails to the repository owner.
 # Runs every Monday at about 3:17 AM Pacific; "Run workflow" on the Actions tab runs it right away.
 name: New releases
 
@@ -10,14 +11,15 @@ on:
 permissions:
   contents: write
   pages: write
+  issues: write
 
 jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Look up new albums on MusicBrainz
@@ -32,7 +34,19 @@ jobs:
           git add weekly/new_releases.json
           if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
           git commit -m "Weekly new releases check"
-          git push
+          # the site may have been published while this ran: add this week's results on top of the newest version, then save
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Saving didn't work (try $i), trying again in 20 seconds"; sleep 20
+          done
+          exit 1
+      - name: Email this week's finds (posted as an issue, which GitHub emails to you)
+        if: hashFiles('weekly/this_week.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --state open --search "in:title New albums this week" --json number -q '.[].number'); do gh issue close "$n"; done
+          gh issue create --title "New albums this week ($(date +'%b %-d, %Y'))" --body-file weekly/this_week.md --assignee "${{ github.repository_owner }}"
       - name: Ask GitHub Pages to refresh the site
         continue-on-error: true
         env:
