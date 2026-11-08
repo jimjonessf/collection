@@ -26,8 +26,14 @@ CLASSICAL = re.compile(r"\b(symphon(y|ies|ic)|concertos?|sonatas?|op\.\s?\d|opus
                        r"chopin|brahms|vivaldi|tchaikovsky|dvo[rř][aá]k|debussy|handel|schubert|mahler|haydn|rachmaninoff|stravinsky)\b", re.I)
 
 
+# anniversary / deluxe / remastered editions are reissues, not new albums
+EDITION = re.compile(r"anniversary|deluxe|remaster|expanded|\bedition\b|restored|\bremix(es|ed)?\b|reissue", re.I)
+# one-off concert recordings (dated shows, radio sessions): there are thousands, mostly digital-only
+CONCERT = re.compile(r"^\d{4}[-‐‑]\d{2}[-‐‑]\d{2}|\b\d{1,2}[-‐./]\d{1,2}[-‐./]\d{2,4}\b|\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.? \d{1,2},? \d{4}|radio (session|concert)|on the air|\bvol\.? ?\d", re.I)
+
+
 def archival_title(title, year):
-    if ARCHIVAL.search(title):
+    if ARCHIVAL.search(title) or EDITION.search(title):
         return True
     old = [int(y) for y in re.findall(r"\b(19\d\d|20\d\d)\b", title)]
     return any(y <= year - 10 for y in old) and bool(LIVEISH.search(title))   # "Live in Paris (1971)" released in 2022
@@ -232,6 +238,7 @@ def main():
         if got is None:
             continue                      # MusicBrainz didn't answer: keep last week's list
         old = {a["mb"]: a for a in albums.get(key, [])}
+        new_live = []
         for a in got:
             # archival: put out after the artist died or broke up, or an old recording by its title ("Live in Paris (1971)", "The Lost Tapes")
             if (info.get("end") and a["year"] > info["end"]) or archival_title(a["title"], a["year"]) or CLASSICAL.search(a["title"]):
@@ -241,7 +248,10 @@ def main():
                 new_count += 1
                 print(f"  new: {key} - {a['title']} ({a['date']})")
                 if had_state and tracked and a["date"] >= recent and (v2 or not a.get("live")) and not a.get("archival"):
-                    report["live" if a.get("live") else "new"].append((key, a))
+                    if a.get("live"):
+                        new_live.append(a)            # listed once we know it's on vinyl (below)
+                    else:
+                        report["new"].append((key, a))
             if prev and prev.get("vinyl"):
                 a["vinyl"] = True
             a["sp"] = (prev or {}).get("sp", "")
@@ -255,6 +265,9 @@ def main():
                 a["sp_tried"] = prev["sp_tried"]
         if got:
             albums[key] = sorted(got, key=lambda a: a["date"])
+            for a in got:
+                if a.get("live") and CONCERT.search(a["title"]):
+                    a["archival"] = True
         else:
             albums.pop(key, None)
         # vinyl reissues (the longest part: every official release of the artist); skipped if the run is getting long,
@@ -266,6 +279,9 @@ def main():
                     a["vinyl"] = True
             if ri is not None:
                 info["ri"] = TODAY.isoformat()
+                for a in albums.get(key, []):
+                    if a.get("live") and (a["mb"] not in on_vinyl or CONCERT.search(a["title"])):
+                        a["archival"] = True          # live albums count only when they come out on vinyl
                 seen = {(e["mb"], e["year"]) for e in reissues.get(key, [])}
                 for e in ri:
                     if archival_title(e["title"], e["year"]) or CLASSICAL.search(e["title"]):
@@ -278,6 +294,7 @@ def main():
                     reissues[key] = ri
                 else:
                     reissues.pop(key, None)
+        report["live"] += [(key, a) for a in new_live if a.get("vinyl") and not a.get("archival")]
         if i % 50 == 0:
             print(f"  {i}/{len(names)}")
     write_email(report, artists)
