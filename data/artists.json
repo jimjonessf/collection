@@ -36983,12 +36983,6 @@
   "summary": "A joint credit for two Baroque composers, Antonio Vivaldi of Venice and George Frideric Handel, the German-born composer who worked mainly in London. The disc pairs Vivaldi's violin concertos The Four Seasons with Handel's orchestral suites known as Water Music.",
   "studio_albums": []
  },
- "Rhapsodia": {
-  "name": "Rhapsodia",
-  "wiki_url": null,
-  "summary": "",
-  "studio_albums": []
- },
  "Michael Feinstein": {
   "name": "Michael Feinstein",
   "wiki_url": "https://en.wikipedia.org/wiki/Michael_Feinstein",
@@ -42276,5 +42270,11 @@
     "title": "Vision Thing"
    }
   ]
+ },
+ "Rhapsodesia": {
+  "name": "Rhapsodesia",
+  "wiki_url": null,
+  "summary": "",
+  "studio_albums": []
  }
 }
