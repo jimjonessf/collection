@@ -83,8 +83,18 @@
     "title": "Movement"
    },
    {
+    "year": 1982,
+    "title": "1981–1982",
+    "type": "EP"
+   },
+   {
     "year": 1983,
     "title": "Power, Corruption & Lies"
+   },
+   {
+    "year": 1983,
+    "title": "Confusion",
+    "type": "EP"
    },
    {
     "year": 1985,
@@ -99,20 +109,75 @@
     "title": "Technique"
    },
    {
+    "year": 1990,
+    "title": "The Peel Sessions",
+    "type": "Compilation"
+   },
+   {
+    "year": 1992,
+    "title": "BBC Radio 1 Live In Concert",
+    "type": "Live Album"
+   },
+   {
     "year": 1993,
     "title": "Republic"
+   },
+   {
+    "year": 1994,
+    "title": "(The Best Of) New Order",
+    "type": "Compilation"
+   },
+   {
+    "year": 1995,
+    "title": "(The Rest Of) New Order",
+    "type": "Compilation"
    },
    {
     "year": 2001,
     "title": "Get Ready"
    },
    {
+    "year": 2001,
+    "title": "60 Miles An Hour",
+    "type": "EP"
+   },
+   {
+    "year": 2002,
+    "title": "International",
+    "type": "Compilation"
+   },
+   {
+    "year": 2002,
+    "title": "Retro",
+    "type": "Compilation"
+   },
+   {
     "year": 2005,
     "title": "Waiting for the Sirens' Call"
    },
    {
+    "year": 2005,
+    "title": "Singles",
+    "type": "Compilation"
+   },
+   {
+    "year": 2011,
+    "title": "Total: From Joy Division To New Order",
+    "type": "Compilation"
+   },
+   {
+    "year": 2012,
+    "title": "Live At The London Troxy",
+    "type": "Live Album"
+   },
+   {
     "year": 2013,
     "title": "Lost Sirens"
+   },
+   {
+    "year": 2013,
+    "title": "Live At Bestival 2012",
+    "type": "Live Album"
    },
    {
     "year": 2015,
@@ -717,69 +782,6 @@
    {
     "year": 2014,
     "title": "The Sicilian Defence"
-   }
-  ]
- },
- "Orchestral Manoeuvres in the Dark": {
-  "name": "Orchestral Manoeuvres in the Dark",
-  "wiki_url": "https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark",
-  "summary": "A synth-pop band formed on Merseyside in 1978 by Andy McCluskey and Paul Humphreys. They had early hits with Enola Gay and the Architecture & Morality singles, and later found US success with If You Leave. McCluskey stopped the band in 1996, and the classic lineup reunited in 2006.",
-  "studio_albums": [
-   {
-    "year": 1980,
-    "title": "Orchestral Manoeuvres in the Dark"
-   },
-   {
-    "year": 1980,
-    "title": "Organisation"
-   },
-   {
-    "year": 1981,
-    "title": "Architecture & Morality"
-   },
-   {
-    "year": 1983,
-    "title": "Dazzle Ships"
-   },
-   {
-    "year": 1984,
-    "title": "Junk Culture"
-   },
-   {
-    "year": 1985,
-    "title": "Crush"
-   },
-   {
-    "year": 1986,
-    "title": "The Pacific Age"
-   },
-   {
-    "year": 1991,
-    "title": "Sugar Tax"
-   },
-   {
-    "year": 1993,
-    "title": "Liberator"
-   },
-   {
-    "year": 1996,
-    "title": "Universal"
-   },
-   {
-    "year": 2010,
-    "title": "History of Modern"
-   },
-   {
-    "year": 2013,
-    "title": "English Electric"
-   },
-   {
-    "year": 2017,
-    "title": "The Punishment of Luxury"
-   },
-   {
-    "year": 2023,
-    "title": "Bauhaus Staircase"
    }
   ]
  },
@@ -2879,20 +2881,110 @@
     "title": "Autoamerican"
    },
    {
+    "year": 1981,
+    "title": "The Best Of Blondie",
+    "type": "Compilation"
+   },
+   {
     "year": 1982,
     "title": "The Hunter"
+   },
+   {
+    "year": 1988,
+    "title": "Once More Into The Bleach",
+    "type": "Remixes"
+   },
+   {
+    "year": 1991,
+    "title": "The Complete Picture: The Very Best Of Deborah Harry And Blondie",
+    "type": "Compilation"
+   },
+   {
+    "year": 1993,
+    "title": "Blonde And Beyond",
+    "type": "Compilation"
+   },
+   {
+    "year": 1994,
+    "title": "The Platinum Collection",
+    "type": "Compilation"
+   },
+   {
+    "year": 1995,
+    "title": "Beautiful: The Remix Album",
+    "type": "Remixes"
+   },
+   {
+    "year": 1995,
+    "title": "Remixed Remade Remodeled: The Remix Project",
+    "type": "Remixes"
+   },
+   {
+    "year": 1996,
+    "title": "Denis",
+    "type": "Compilation"
+   },
+   {
+    "year": 1997,
+    "title": "Picture This Live",
+    "type": "Live Album"
+   },
+   {
+    "year": 1998,
+    "title": "Picture This – The Essential Blondie Collection",
+    "type": "Compilation"
+   },
+   {
+    "year": 1998,
+    "title": "Atomic: The Very Best Of Blondie",
+    "type": "Compilation"
    },
    {
     "year": 1999,
     "title": "No Exit"
    },
    {
+    "year": 1999,
+    "title": "Live",
+    "type": "Live Album"
+   },
+   {
+    "year": 2002,
+    "title": "Greatest Hits",
+    "type": "Compilation"
+   },
+   {
     "year": 2003,
     "title": "The Curse of Blondie"
    },
    {
+    "year": 2004,
+    "title": "Live By Request",
+    "type": "Live Album"
+   },
+   {
+    "year": 2005,
+    "title": "Greatest Hits: Sight + Sound",
+    "type": "Compilation"
+   },
+   {
+    "year": 2009,
+    "title": "Singles Collection: 1977–1982",
+    "type": "Compilation"
+   },
+   {
+    "year": 2010,
+    "title": "At The BBC",
+    "type": "Live Album"
+   },
+   {
     "year": 2011,
     "title": "Panic of Girls"
+   },
+   {
+    "year": 2011,
+    "title": "Essential",
+    "type": "Compilation"
    },
    {
     "year": 2014,
@@ -2901,6 +2993,11 @@
    {
     "year": 2017,
     "title": "Pollinator"
+   },
+   {
+    "year": 2022,
+    "title": "Against The Odds 1974–1982",
+    "type": "Compilation"
    },
    {
     "year": 2026,
@@ -6873,6 +6970,11 @@
     "title": "Remain in Light"
    },
    {
+    "year": 1982,
+    "title": "The Name Of This Band Is Talking Heads",
+    "type": "Live Album"
+   },
+   {
     "year": 1983,
     "title": "Speaking in Tongues"
    },
@@ -9568,12 +9670,37 @@
   "summary": "An electronic music duo of Vancouver natives Tom Howie and Jimmy Vallance, who formed the act in New York City. Their music mixes deep house with indie rock songwriting, and a remix of their song Tearing Me Up won a Grammy for best remixed recording.",
   "studio_albums": [
    {
+    "year": 2012,
+    "title": "Hands To Hold",
+    "type": "EP"
+   },
+   {
+    "year": 2013,
+    "title": "Far From The Tree",
+    "type": "EP"
+   },
+   {
+    "year": 2014,
+    "title": "First To Cry",
+    "type": "EP"
+   },
+   {
     "year": 2015,
     "title": "Days Gone By"
    },
    {
+    "year": 2015,
+    "title": "All In All",
+    "type": "Compilation"
+   },
+   {
     "year": 2018,
     "title": "Battle Lines"
+   },
+   {
+    "year": 2020,
+    "title": "Desire",
+    "type": "EP"
    },
    {
     "year": 2022,
@@ -13804,6 +13931,11 @@
     "title": "Discovery"
    },
    {
+    "year": 2001,
+    "title": "Alive 1997",
+    "type": "Live Album"
+   },
+   {
     "year": 2005,
     "title": "Human After All"
    },
@@ -14464,8 +14596,18 @@
     "title": "LCD Soundsystem"
    },
    {
+    "year": 2006,
+    "title": "Introns",
+    "type": "Remixes"
+   },
+   {
     "year": 2007,
     "title": "Sound of Silver"
+   },
+   {
+    "year": 2009,
+    "title": "45:33 Remixes",
+    "type": "Remixes"
    },
    {
     "year": 2010,
@@ -42276,5 +42418,68 @@
   "wiki_url": null,
   "summary": "",
   "studio_albums": []
+ },
+ "Orchestral Manoeuvres In The Dark": {
+  "name": "Orchestral Manoeuvres In The Dark",
+  "wiki_url": "https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark",
+  "summary": "A synth-pop band formed on Merseyside in 1978 by Andy McCluskey and Paul Humphreys. They had early hits with Enola Gay and the Architecture & Morality singles, and later found US success with If You Leave. McCluskey stopped the band in 1996, and the classic lineup reunited in 2006.",
+  "studio_albums": [
+   {
+    "year": 1980,
+    "title": "Orchestral Manoeuvres in the Dark"
+   },
+   {
+    "year": 1980,
+    "title": "Organisation"
+   },
+   {
+    "year": 1981,
+    "title": "Architecture & Morality"
+   },
+   {
+    "year": 1983,
+    "title": "Dazzle Ships"
+   },
+   {
+    "year": 1984,
+    "title": "Junk Culture"
+   },
+   {
+    "year": 1985,
+    "title": "Crush"
+   },
+   {
+    "year": 1986,
+    "title": "The Pacific Age"
+   },
+   {
+    "year": 1991,
+    "title": "Sugar Tax"
+   },
+   {
+    "year": 1993,
+    "title": "Liberator"
+   },
+   {
+    "year": 1996,
+    "title": "Universal"
+   },
+   {
+    "year": 2010,
+    "title": "History of Modern"
+   },
+   {
+    "year": 2013,
+    "title": "English Electric"
+   },
+   {
+    "year": 2017,
+    "title": "The Punishment of Luxury"
+   },
+   {
+    "year": 2023,
+    "title": "Bauhaus Staircase"
+   }
+  ]
  }
 }
