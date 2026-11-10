@@ -9877,6 +9877,42 @@
    "venue": "The Warfield",
    "city": "San Francisco, CA",
    "tour": "Never Enough Tour"
+  },
+  {
+   "date": "2025-08-08",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA",
+   "artist": "John Summit"
+  },
+  {
+   "artist": "Claptone",
+   "date": "2025-08-10",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA"
+  },
+  {
+   "artist": "Role Model",
+   "date": "2025-08-08",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA"
+  },
+  {
+   "artist": "Benson Boone",
+   "date": "2025-05-24",
+   "venue": "BottleRock Napa Valley",
+   "city": "Napa, CA"
+  },
+  {
+   "artist": "Ice Cube",
+   "date": "2025-05-24",
+   "venue": "BottleRock Napa Valley",
+   "city": "Napa, CA"
+  },
+  {
+   "artist": "Mallrat",
+   "date": "2025-05-23",
+   "venue": "BottleRock Napa Valley",
+   "city": "Napa, CA"
   }
  ],
  "_sp": {}
