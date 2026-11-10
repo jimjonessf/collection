@@ -8,7 +8,7 @@ Discography and to the New Releases lists.
 Optional: if the repository has SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET secrets, new albums also get a Spotify
 link (so they get a play button). Without them everything else still works.
 """
-import base64, datetime as dt, json, os, re, sys, time, unicodedata, urllib.parse, urllib.request, urllib.error
+import difflib, base64, datetime as dt, json, os, re, sys, time, unicodedata, urllib.parse, urllib.request, urllib.error
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "weekly", "new_releases.json")
@@ -159,6 +159,11 @@ def reissues_of(mbid):
             return sorted(found.values(), key=lambda e: e["date"]), vinyl
 
 
+def sp_base(s):
+    s = re.sub(r"\s*[\(\[].*?[\)\]]", "", str(s or ""))
+    return fold(re.split(r"\s+-\s+", s)[0])
+
+
 class Spotify:
     def __init__(self):
         self.id, self.secret = os.environ.get("SPOTIFY_CLIENT_ID", ""), os.environ.get("SPOTIFY_CLIENT_SECRET", "")
@@ -177,11 +182,22 @@ class Spotify:
             req = urllib.request.Request("https://api.spotify.com/v1/search?" + q, headers={"Authorization": "Bearer " + self.token})
             items = json.load(urllib.request.urlopen(req, timeout=30)).get("albums", {}).get("items", [])
             time.sleep(0.5)
+            # titles match without "(Deluxe Edition)", "- Remastered" etc.; an exact title wins over a close one
+            want, who, best = sp_base(title), fold(artist), None
             for it in items:
-                if fold(it["name"]) == fold(title) and any(fold(a["name"]) == fold(artist) for a in it["artists"]):
-                    return it["id"]
-            return ""
+                if not any(fold(a["name"]) == who or (len(fold(a["name"])) > 3 and (fold(a["name"]) in who or who in fold(a["name"])))
+                           for a in it["artists"]):
+                    continue
+                got = sp_base(it["name"])
+                sim = 1.0 if got == want else difflib.SequenceMatcher(None, got, want).ratio()
+                if sim >= 0.85 and (not best or sim > best[0]):
+                    best = (sim, it["id"])
+            return best[1] if best else ""
         except urllib.error.HTTPError as e:
+            if e.code == 429 and int(e.headers.get("Retry-After") or 0) <= 60 and not getattr(self, "waited", False):
+                self.waited = True        # a short "slow down": wait once and carry on
+                time.sleep(int(e.headers.get("Retry-After") or 30) + 1)
+                return self.find(artist, title)
             if e.code == 429:
                 print("Spotify is limiting requests; Spotify links will be tried again next week.")
             self.off = True
