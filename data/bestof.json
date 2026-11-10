@@ -9913,6 +9913,32 @@
    "date": "2025-05-23",
    "venue": "BottleRock Napa Valley",
    "city": "Napa, CA"
+  },
+  {
+   "date": "2023-01-25",
+   "venue": "The Regency Ballroom",
+   "city": "San Francisco, CA",
+   "artist": "Fitz and the Tantrums",
+   "tour": "Let Yourself Free Tour"
+  },
+  {
+   "date": "2023-01-25",
+   "venue": "The Regency Ballroom",
+   "city": "San Francisco, CA",
+   "artist": "Sammy Rash",
+   "tour": "Opening for Fitz and the Tantrums"
+  },
+  {
+   "artist": "Sheila E.",
+   "date": "2022-07-01",
+   "venue": "Marin County Fair",
+   "city": "Marin County Fairgrounds, San Rafael, CA"
+  },
+  {
+   "artist": "!!!",
+   "date": "2022-05-17",
+   "venue": "The Chapel",
+   "city": "San Francisco, CA"
   }
  ],
  "_sp": {}
