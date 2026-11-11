@@ -10038,6 +10038,80 @@
    "venue": "Slim's",
    "city": "San Francisco, CA",
    "tour": "Nia 20th Anniversary Tour"
+  },
+  {
+   "date": "2004-07-28",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "tour": "Au Naturale Tour",
+   "artist": "Alanis Morissette"
+  },
+  {
+   "date": "2004-07-28",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "tour": "Au Naturale Tour",
+   "artist": "Barenaked Ladies"
+  },
+  {
+   "date": "1992-06-06",
+   "venue": "New Orleans By The Bay",
+   "city": "Shoreline Amphitheatre, Mountain View, CA",
+   "artist": "The Neville Brothers"
+  },
+  {
+   "date": "1992-06-06",
+   "venue": "New Orleans By The Bay",
+   "city": "Shoreline Amphitheatre, Mountain View, CA",
+   "artist": "Queen Ida & Bon Temps Zydeco"
+  },
+  {
+   "date": "1992-06-06",
+   "venue": "New Orleans By The Bay",
+   "city": "Shoreline Amphitheatre, Mountain View, CA",
+   "artist": "C.J. Chenier & The Red Hot Louisiana Band"
+  },
+  {
+   "date": "1990-07-05",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "artist": "UB40",
+   "tour": "Labour of Love II Tour"
+  },
+  {
+   "date": "1990-07-05",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "artist": "The Smithereens",
+   "tour": "Opening for UB40"
+  },
+  {
+   "date": "1990-07-20",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "artist": "Depeche Mode",
+   "tour": "World Violation Tour"
+  },
+  {
+   "date": "1990-07-20",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "artist": "Nitzer Ebb",
+   "tour": "Opening for Depeche Mode"
+  },
+  {
+   "date": "1989-09-23",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "artist": "Don Henley",
+   "tour": "The End of the Innocence Tour"
+  },
+  {
+   "date": "1989-09-23",
+   "venue": "Shoreline Amphitheatre",
+   "city": "Mountain View, CA",
+   "artist": "Edie Brickell & New Bohemians",
+   "tour": "Opening for Don Henley"
   }
  ],
  "_sp": {}
