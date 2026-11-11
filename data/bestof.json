@@ -9973,6 +9973,71 @@
    "date": "2016-04-23",
    "venue": "New Orleans Jazz & Heritage Festival",
    "city": "Fair Grounds, New Orleans, LA"
+  },
+  {
+   "date": "2016-08-05",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA",
+   "artist": "LCD Soundsystem"
+  },
+  {
+   "date": "2016-08-05",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA",
+   "artist": "Duran Duran"
+  },
+  {
+   "date": "2016-08-05",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA",
+   "artist": "Miike Snow"
+  },
+  {
+   "date": "2016-08-05",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA",
+   "artist": "Foals"
+  },
+  {
+   "date": "2016-08-05",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA",
+   "artist": "St. Lucia"
+  },
+  {
+   "date": "2016-08-05",
+   "venue": "Outside Lands",
+   "city": "Golden Gate Park, San Francisco, CA",
+   "artist": "Nathaniel Rateliff & The Night Sweats",
+   "link": "Nathaniel Rateliff"
+  },
+  {
+   "date": "2021-10-16",
+   "venue": "FivePoint Amphitheatre",
+   "city": "Irvine, CA",
+   "tour": "Opening for Willie Nelson",
+   "artist": "The Avett Brothers"
+  },
+  {
+   "date": "2021-10-16",
+   "venue": "FivePoint Amphitheatre",
+   "city": "Irvine, CA",
+   "tour": "Opening for Willie Nelson",
+   "artist": "Lucinda Williams"
+  },
+  {
+   "artist": "Dante Elephante",
+   "date": "2022-05-17",
+   "venue": "The Chapel",
+   "city": "San Francisco, CA",
+   "tour": "Opening for !!!"
+  },
+  {
+   "artist": "Blackalicious",
+   "date": "2019-09-19",
+   "venue": "Slim's",
+   "city": "San Francisco, CA",
+   "tour": "Nia 20th Anniversary Tour"
   }
  ],
  "_sp": {}
