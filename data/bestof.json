@@ -8692,12 +8692,6 @@
    "city": "San Francisco, CA"
   },
   {
-   "artist": "The Flaming Lips",
-   "date": "2022-11-18",
-   "venue": "The Warfield",
-   "city": "San Francisco, CA"
-  },
-  {
    "artist": "U2",
    "date": "2009-10-25",
    "venue": "Rose Bowl",
@@ -9939,6 +9933,27 @@
    "date": "2022-05-17",
    "venue": "The Chapel",
    "city": "San Francisco, CA"
+  },
+  {
+   "date": "2019-11-20",
+   "venue": "The Masonic",
+   "city": "San Francisco, CA",
+   "artist": "Bloc Party",
+   "tour": "Silent Alarm Tour"
+  },
+  {
+   "date": "2019-11-20",
+   "venue": "The Masonic",
+   "city": "San Francisco, CA",
+   "artist": "LPX",
+   "tour": "Opening for Bloc Party"
+  },
+  {
+   "artist": "Simple Minds",
+   "date": "2018-10-25",
+   "venue": "The Masonic",
+   "city": "San Francisco, CA",
+   "tour": "Walk Between Worlds Tour"
   }
  ],
  "_sp": {}
