@@ -9954,6 +9954,25 @@
    "venue": "The Masonic",
    "city": "San Francisco, CA",
    "tour": "Walk Between Worlds Tour"
+  },
+  {
+   "artist": "Nathaniel Rateliff & The Night Sweats",
+   "link": "Nathaniel Rateliff",
+   "date": "2016-04-23",
+   "venue": "New Orleans Jazz & Heritage Festival",
+   "city": "Fair Grounds, New Orleans, LA"
+  },
+  {
+   "artist": "Van Morrison",
+   "date": "2016-04-23",
+   "venue": "New Orleans Jazz & Heritage Festival",
+   "city": "Fair Grounds, New Orleans, LA"
+  },
+  {
+   "artist": "Big Chief Walter Cook & The Creole Wild West Mardi Gras Indians",
+   "date": "2016-04-23",
+   "venue": "New Orleans Jazz & Heritage Festival",
+   "city": "Fair Grounds, New Orleans, LA"
   }
  ],
  "_sp": {}
