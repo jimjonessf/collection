@@ -200720,13 +200720,13 @@
   "catno": "964186171",
   "edition": "Original",
   "reissue": "",
-  "type": "",
+  "type": "Compilation",
   "personnel": [
    "Fraser Kennedy – producer",
    "Roberta Cleopatra Flack – vocals"
   ],
   "discs": "",
-  "acquired": "",
+  "acquired": "2026-11-08",
   "discogs": "https://www.discogs.com/release/37755861-Roberta-Flack-The-Montreux-Years",
   "genres": [
    "Jazz",
@@ -200849,13 +200849,16 @@
   "title": "Live In London! (BBC Proms At The Royal Albert Hall)",
   "year": 2026,
   "label": "Total Pleasure Records",
-  "catno": "none",
+  "catno": "823375051060",
   "edition": "Original",
   "reissue": "",
-  "type": "",
-  "personnel": [],
+  "type": "Live Album",
+  "personnel": [
+   "Annie Erin Clark / St. Vincent – vocals, guitar",
+   "The Jules Buckley Orchestra at Royal Albert Hall"
+  ],
   "discs": "",
-  "acquired": "",
+  "acquired": "2026-11-08",
   "discogs": "https://www.discogs.com/release/36833473-St-Vincent-With-The-Jules-Buckley-Orchestra-Live-In-London-BBC-Proms-At-The-Royal-Albert-Hall",
   "genres": [
    "Rock",
@@ -200868,133 +200871,133 @@
   "cover": "covers/ALB1227.jpg",
   "tracks": [
    {
-    "p": "1",
+    "p": "A1",
     "t": "We Put A Pearl In The Ground (Live)",
     "d": "1:28",
     "sp": "3lk3HVxUJYCErXukieewbV",
     "src": "Discogs"
    },
    {
-    "p": "2",
+    "p": "A2",
     "t": "Hell Is Near (Live)",
     "d": "4:48",
     "sp": "6twOOL6BSNujLm0WhnlGqR",
     "src": "Discogs"
    },
    {
-    "p": "3",
+    "p": "A3",
     "t": "Reckless (Live)",
     "d": "4:18",
     "sp": "3CCCaR8KiOPHGsoGiS6d0z",
     "src": "Discogs"
    },
    {
-    "p": "4",
+    "p": "A4",
     "t": "Violent Times (Live)",
     "d": "4:15",
     "sp": "1ZbRfhbMn5obpl64sP9wrz",
     "src": "Discogs"
    },
    {
-    "p": "5",
+    "p": "A5",
     "t": "The Strangers (Live)",
     "d": "4:29",
     "sp": "52aSlPHLX3PpaDwS0GrDKL",
     "src": "Discogs"
    },
    {
-    "p": "6",
+    "p": "B1",
     "t": "Black Rainbow (Live)",
     "d": "4:16",
     "sp": "5HqFOpyH9vzfWr60qVD7pf",
     "src": "Discogs"
    },
    {
-    "p": "7",
+    "p": "B2",
     "t": "Marrow (Live)",
     "d": "3:58",
     "sp": "53x8ls1sxWC6RcCplsFgu5",
     "src": "Discogs"
    },
    {
-    "p": "8",
+    "p": "B3",
     "t": "The Bed (Live)",
     "d": "4:00",
     "sp": "0GPNGwsiYWC45uTQ6nwRtj",
     "src": "Discogs"
    },
    {
-    "p": "9",
+    "p": "B4",
     "t": "Smoking Section (Live)",
     "d": "7:06",
     "sp": "1AL54AHbpJCP0VrFSrf5YR",
     "src": "Discogs"
    },
    {
-    "p": "10",
+    "p": "C1",
     "t": "Now, Now (Live)",
     "d": "3:57",
     "sp": "7Bvi4kZarHzBvhDQ0ZXOum",
     "src": "Discogs"
    },
    {
-    "p": "11",
+    "p": "C2",
     "t": "Live In The Dream (Live)",
     "d": "6:28",
     "sp": "2oX3H9B7q0s6xAKgzSCmHl",
     "src": "Discogs"
    },
    {
-    "p": "12",
+    "p": "C3",
     "t": "The Nowhere Inn (Live)",
     "d": "4:42",
     "sp": "5puEAUQFnOr5JeGfNbAhjo",
     "src": "Discogs"
    },
    {
-    "p": "13",
+    "p": "C4",
     "t": "Digital Witness (Live)",
     "d": "4:00",
     "sp": "0RNN6tgyQ5edeopBc3gqol",
     "src": "Discogs"
    },
    {
-    "p": "14",
+    "p": "C5",
     "t": "Los Ageless (Live)",
     "d": "5:08",
     "sp": "2HGlomUEKLkxDGsUyyMcl3",
     "src": "Discogs"
    },
    {
-    "p": "15",
+    "p": "D1",
     "t": "The Party (Live)",
     "d": "4:21",
     "sp": "1mjBtokdjKdpBc0hsZ70OY",
     "src": "Discogs"
    },
    {
-    "p": "16",
+    "p": "D2",
     "t": "New York (Live)",
     "d": "3:43",
     "sp": "0z0mUuhgAAL02LriI8mJBd",
     "src": "Discogs"
    },
    {
-    "p": "17",
+    "p": "D3",
     "t": "Paris Is Burning (Live)",
     "d": "4:35",
     "sp": "61PSiHV1GzUBrXkq75Hq91",
     "src": "Discogs"
    },
    {
-    "p": "18",
+    "p": "D4",
     "t": "Candy Darling (Live)",
     "d": "3:30",
     "sp": "0AUDvTTj7GjPYMdPMDwp2E",
     "src": "Discogs"
    },
    {
-    "p": "19",
+    "p": "D5",
     "t": "Slow Disco (Live)",
     "d": "4:41",
     "sp": "0jg44aCY8gxVHjgj7CvSSQ",
@@ -201021,7 +201024,7 @@
   "type": "",
   "personnel": [],
   "discs": "",
-  "acquired": "",
+  "acquired": "2026-11-08",
   "discogs": "https://www.discogs.com/release/12041453-Snow-Patrol-Wildness",
   "genres": [
    "Rock",
@@ -201597,7 +201600,7 @@
    "She Wants Revenge – producer"
   ],
   "discs": "",
-  "acquired": "",
+  "acquired": "2026-11-08",
   "discogs": "https://www.discogs.com/release/678348-She-Wants-Revenge-She-Wants-Revenge",
   "genres": [
    "Electronic",
