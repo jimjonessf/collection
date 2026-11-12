@@ -1,7 +1,7 @@
 """Weekly check for new albums by the artists in The Collection.
 
 Runs on GitHub (see .github/workflows/new-releases.yml), once a week. For every artist in data/artists.json it asks
-MusicBrainz (a free, open music database) for studio and live albums released from 2020 on, and for vinyl reissues, and saves them to
+MusicBrainz (a free, open music database) for studio and live albums released in the last 12 years, and for vinyl reissues, and saves them to
 weekly/new_releases.json. The site reads that file and adds any album it doesn't already list to the artist's
 Discography and to the New Releases lists.
 
@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "weekly", "new_releases.json")
 UA = "TheCollection/1.0 ( https://jimjonessf.github.io/collection/ )"   # MusicBrainz asks every program to name itself
 TODAY = dt.date.today()
-FIRST_YEAR = 2020                    # New Releases shows every year from 2020 on
+FIRST_YEAR = TODAY.year - 11          # New Releases shows the last 12 years, this year included
 RECHECK_MISSING_DAYS = 30            # artists MusicBrainz couldn't match are tried again after a month
 # names MusicBrainz knows an artist by today (the band renamed itself)
 SEARCH_AS = {"Dixie Chicks": "The Chicks"}
