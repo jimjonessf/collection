@@ -159303,129 +159303,6 @@
   "persSrc": "Wikipedia"
  },
  {
-  "id": "CD0177",
-  "artist": "Snow Patrol",
-  "title": "Eyes Open",
-  "year": 2006,
-  "label": "A&M Records",
-  "catno": "B0006675-02",
-  "edition": "CD",
-  "reissue": "",
-  "type": "4th Studio Album",
-  "personnel": [
-   "Gary Lightbody – songwriter, lead vocals, guitar, backing vocals",
-   "Nathan Connolly – guitar, backing vocals",
-   "Paul Wilson – bass guitar, backing vocals",
-   "Jonny Quinn – drums, percussion",
-   "Tom Simpson – keyboards, samples",
-   "Richard Andrews – art direction",
-   "Iain Archer – background vocals, choir, chorus",
-   "Paul Archer – background vocals, choir, chorus",
-   "Jacknife Lee – producer"
-  ],
-  "discs": "",
-  "acquired": "2023-02-02",
-  "discogs": "https://www.discogs.com/release/20333542-Snow-Patrol-Eyes-Open",
-  "genres": [
-   "Rock"
-  ],
-  "styles": [
-   "Indie Rock",
-   "Pop Rock"
-  ],
-  "notes": "",
-  "cover": "covers/CD0177.jpg",
-  "tracks": [
-   {
-    "p": "1",
-    "t": "You're All I Have",
-    "d": "4:33",
-    "sp": "5Sc3f01VMSlvbSDYGxQAd3",
-    "src": "Discogs"
-   },
-   {
-    "p": "2",
-    "t": "Hands Open",
-    "d": "3:17",
-    "sp": "0ztSIQuJ9Bh2oV4uha87KU",
-    "src": "Discogs"
-   },
-   {
-    "p": "3",
-    "t": "Chasing Cars",
-    "d": "4:28",
-    "sp": "5hnyJvgoWiQUYZttV4wXy6",
-    "src": "Discogs"
-   },
-   {
-    "p": "4",
-    "t": "Shut Your Eyes",
-    "d": "3:17",
-    "sp": "36gFBZrhG5t6ow3NctrGXg",
-    "src": "Discogs"
-   },
-   {
-    "p": "5",
-    "t": "It's Beginning To Get To Me",
-    "d": "4:35",
-    "sp": "3BcbKO63RpksY61GSvJcAq",
-    "src": "Discogs"
-   },
-   {
-    "p": "6",
-    "t": "You Could Be Happy",
-    "d": "3:04",
-    "sp": "3yS1MQc9acR6ru2h7KWGoB",
-    "src": "Discogs"
-   },
-   {
-    "p": "7",
-    "t": "Make This Go On Forever",
-    "d": "5:47",
-    "sp": "33Hgpos7EfwgEQOLrF8U30",
-    "src": "Discogs"
-   },
-   {
-    "p": "8",
-    "t": "Set The Fire To The Third Bar",
-    "d": "3:23",
-    "sp": "5g0afUZsh5hiXBOT3eXuwd",
-    "src": "Discogs"
-   },
-   {
-    "p": "9",
-    "t": "Headlights On Dark Roads",
-    "d": "3:30",
-    "sp": "4fF8fOQSvMTovy5nUrfcYQ",
-    "src": "Discogs"
-   },
-   {
-    "p": "10",
-    "t": "Open Your Eyes",
-    "d": "5:41",
-    "sp": "5HPj0yTUFEFNia8SWgjq46",
-    "src": "Discogs"
-   },
-   {
-    "p": "11",
-    "t": "The Finish Line",
-    "d": "3:28",
-    "sp": "5zlX0L3O8UC3N7L20djEFw",
-    "src": "Discogs"
-   }
-  ],
-  "released": "2006-04-28",
-  "wiki": "https://en.wikipedia.org/wiki/Eyes_Open_(Snow_Patrol_album)",
-  "about": "Snow Patrol's fourth album and the UK's biggest seller of 2006, featuring Chasing Cars. It was their first record without original bassist Mark McClelland, with Paul Wilson and Tom Simpson joining the lineup.",
-  "artistKey": "Snow Patrol",
-  "spAlbum": "3k7bXPw2u0C0SBKPMsgMS3",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "2006",
-  "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/d6/0972d653-f610-3995-85d3-6656c21e0b31/06UMGIM43473.rgb.jpg/1400x1400bb.jpg"
- },
- {
   "id": "CD0178",
   "artist": "Snow Patrol",
   "title": "Final Straw",
@@ -201017,15 +200894,21 @@
   "artist": "Snow Patrol",
   "title": "Wildness",
   "year": 2018,
-  "label": "Republic Records",
-  "catno": "B0028309-01",
+  "label": "Polydor",
+  "catno": "6741247",
   "edition": "Original",
   "reissue": "",
-  "type": "",
-  "personnel": [],
+  "type": "7th Studio Album",
+  "personnel": [
+   "Gary Lightbody – vocals, guitar",
+   "Nathan Connolly – guitar, vocals",
+   "Paul Wilson – bass",
+   "Jonny Quinn – drums",
+   "Johnny McDaid – piano, vocals, keyboards, guitar"
+  ],
   "discs": "",
   "acquired": "2026-11-08",
-  "discogs": "https://www.discogs.com/release/12041453-Snow-Patrol-Wildness",
+  "discogs": "https://www.discogs.com/release/11990646-Snow-Patrol-Wildness",
   "genres": [
    "Rock",
    "Pop"
@@ -201039,72 +200922,72 @@
   "tracks": [
    {
     "p": "A1",
-    "t": "Live On Earth",
+    "t": "Life On Earth",
     "d": "",
-    "sp": "0Cr8sOkVQqYexxiT7xRwRk",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A2",
     "t": "Don't Give In ",
     "d": "",
-    "sp": "70F5cNOc2mvAtV03yRKwId",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A3",
     "t": "Heal Me",
     "d": "",
-    "sp": "0aYzQjr1hq0qJwp45diy5M",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A4",
     "t": "Empress",
     "d": "",
-    "sp": "4ULD7aUwUkl3PyN3eRE5jW",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A5",
     "t": "A Dark Switch",
     "d": "",
-    "sp": "3lMQXv7Rjiwl9MA5XJyiFT",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B1",
     "t": "What If This Is All The Love You Ever Get?",
     "d": "",
-    "sp": "5CZ1XU3DiHnhGM3NpySKyh",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B2",
     "t": "A Youth Written In Fire",
     "d": "",
-    "sp": "7HyWXgnAHV7fIaEeJV3kfl",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B3",
     "t": "Soon",
     "d": "",
-    "sp": "63x2Zxj2KXVdyvAW1v5FKF",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B4",
     "t": "Wild Horses",
     "d": "",
-    "sp": "5GEe1bCy0eiKUso1N36Trr",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B5",
     "t": "Life And Death",
     "d": "",
-    "sp": "6CNdT7yzNDC1kwEaHlmQnb",
+    "sp": "",
     "src": "not found"
    }
   ],
@@ -201590,27 +201473,28 @@
   "id": "ALB1233",
   "artist": "She Wants Revenge",
   "title": "She Wants Revenge",
-  "year": 2005,
+  "year": 2006,
   "label": "Flawless Records",
-  "catno": "B0006148-01",
-  "edition": "Original",
-  "reissue": "",
-  "type": "",
+  "catno": "199957941112",
+  "edition": "Reissue",
+  "reissue": 2026,
+  "type": "Debut Studio Album",
   "personnel": [
-   "She Wants Revenge – producer"
+   "Justin Warfield – vocals, guitar",
+   "Adam Bravin – bass, keyboards, percussion"
   ],
   "discs": "",
   "acquired": "2026-11-08",
-  "discogs": "https://www.discogs.com/release/678348-She-Wants-Revenge-She-Wants-Revenge",
+  "discogs": "https://www.discogs.com/release/38518923-She-Wants-Revenge-She-Wants-Revenge",
   "genres": [
    "Electronic",
    "Rock"
   ],
   "styles": [
-   "New Wave",
    "Goth Rock",
-   "Synth-pop",
-   "Indie Rock"
+   "New Wave",
+   "Indie Rock",
+   "Synth-pop"
   ],
   "notes": "",
   "cover": "covers/ALB1233.jpg",
@@ -201619,84 +201503,84 @@
     "p": "A1",
     "t": "Red Flags And Long Nights",
     "d": "",
-    "sp": "7H33tTNHIVUxPQQGUkmJaB",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A2",
     "t": "These Things",
     "d": "",
-    "sp": "0g8KKPAExH6PFUNlTu0XWd",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A3",
     "t": "I Don't Wanna Fall In Love",
     "d": "",
-    "sp": "5ZXxex1PzjiIhmjAI7nIDL",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B1",
-    "t": "Out Of Control",
+    "t": "Out of Control",
     "d": "",
-    "sp": "48aJ5BmJiVnz2AurXSWP2R",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B2",
     "t": "Monologue",
     "d": "",
-    "sp": "2Mf7QU6Lp19uymNQsmmmet",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B3",
     "t": "Broken Promises For Broken Hearts",
     "d": "",
-    "sp": "14ARi904D5rL4lzUwN0SMY",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "C1",
     "t": "Sister",
     "d": "",
-    "sp": "0xrracKsmmEbfm0Pamc8bm",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "C2",
     "t": "Disconnect",
     "d": "",
-    "sp": "02BmQE9chWL1ey6I9VbydW",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "C3",
     "t": "Us",
     "d": "",
-    "sp": "4l1F6QTzTtrf7CRbamAw4G",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "D1",
     "t": "Someone Must Get Hurt",
     "d": "",
-    "sp": "010SMdaaOk2iG6e3jvqPDs",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "D2",
     "t": "Tear You Apart",
     "d": "",
-    "sp": "1XYHqSfJK9ud9nuRjQcbXi",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "D3",
     "t": "She Loves Me, She Loves Me Not",
     "d": "",
-    "sp": "3VW24yRij9OPUkuA5sLi1A",
+    "sp": "",
     "src": "not found"
    }
   ],
@@ -204461,5 +204345,305 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "rpm": "33"
+ },
+ {
+  "id": "ALB1245",
+  "artist": "Jungle",
+  "title": "Sunshine",
+  "year": 2026,
+  "label": "Caiola Records",
+  "catno": "CAI003LP",
+  "edition": "Original",
+  "reissue": "",
+  "type": "5th Studio Album",
+  "personnel": [
+   "Josh Lloyd – vocals, guitar, keyboards, bass",
+   "Tom McFarland – vocals",
+   "Lydia Kitto – vocals, bass, keyboards, guitar, drums"
+  ],
+  "discs": "",
+  "acquired": "2026-11-08",
+  "discogs": "https://www.discogs.com/release/38175492-Jungle-12-Sunshine",
+  "genres": [
+   "Electronic",
+   "Funk / Soul",
+   "Pop"
+  ],
+  "styles": [
+   "Dance-pop",
+   "Funk",
+   "Neo Soul",
+   "Indie Pop"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1245.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Come Back To Me",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "Sunshine",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Where Are You Know?",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "A4",
+    "t": "Move Like You Do",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "A5",
+    "t": "Romeo II",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "A6",
+    "t": "Carry On",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "The Wave",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "Someday, Somewhere",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "Natural",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B4",
+    "t": "Reflection",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B5",
+    "t": "Heavy On My Soul",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   }
+  ],
+  "released": "2026",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Jungle",
+  "spAlbum": "",
+  "vinylColor": "Desert Peach",
+  "medium": "Vinyl"
+ },
+ {
+  "id": "ALB1246",
+  "artist": "Snow Patrol",
+  "title": "Eyes Open",
+  "year": 2006,
+  "label": "Polydor",
+  "catno": "7854808",
+  "edition": "Reissue",
+  "reissue": 2026,
+  "type": "4th Studio Album",
+  "personnel": [
+   "Gary Lightbody – songwriter, lead vocals, guitar, backing vocals",
+   "Nathan Connolly – guitar, backing vocals",
+   "Paul Wilson – bass guitar, backing vocals",
+   "Jonny Quinn – drums, percussion",
+   "Tom Simpson – keyboards, samples",
+   "Richard Andrews – art direction",
+   "Iain Archer – background vocals, choir, chorus",
+   "Paul Archer – background vocals, choir, chorus",
+   "Jacknife Lee – producer"
+  ],
+  "discs": "",
+  "acquired": "2026-11-08",
+  "discogs": "https://www.discogs.com/release/37966950-Snow-Patrol-Eyes-Open",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Alternative Rock",
+   "Indie Rock",
+   "Pop Rock"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1246.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "You're All I Have",
+    "d": "",
+    "sp": "5Sc3f01VMSlvbSDYGxQAd3",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "Hands Open",
+    "d": "",
+    "sp": "0ztSIQuJ9Bh2oV4uha87KU",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Chasing Cars",
+    "d": "",
+    "sp": "5hnyJvgoWiQUYZttV4wXy6",
+    "src": "not found"
+   },
+   {
+    "p": "A4",
+    "t": "Shut Your Eyes",
+    "d": "",
+    "sp": "36gFBZrhG5t6ow3NctrGXg",
+    "src": "not found"
+   },
+   {
+    "p": "A5",
+    "t": "It's Beginning To Get To Me",
+    "d": "",
+    "sp": "3BcbKO63RpksY61GSvJcAq",
+    "src": "not found"
+   },
+   {
+    "p": "A6",
+    "t": "You Could Be Happy",
+    "d": "",
+    "sp": "3yS1MQc9acR6ru2h7KWGoB",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "Make This Go On Forever",
+    "d": "",
+    "sp": "33Hgpos7EfwgEQOLrF8U30",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "Set The Fire To The Third Bar",
+    "d": "",
+    "sp": "5g0afUZsh5hiXBOT3eXuwd",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "Headlights On Dark Roads",
+    "d": "",
+    "sp": "4fF8fOQSvMTovy5nUrfcYQ",
+    "src": "not found"
+   },
+   {
+    "p": "B4",
+    "t": "Open Your Eyes",
+    "d": "",
+    "sp": "5HPj0yTUFEFNia8SWgjq46",
+    "src": "not found"
+   },
+   {
+    "p": "B5",
+    "t": "The Finish Line",
+    "d": "",
+    "sp": "5zlX0L3O8UC3N7L20djEFw",
+    "src": "not found"
+   },
+   {
+    "p": "C1",
+    "t": "Signal Fire",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "C2",
+    "t": "Play Me Like Your Own Hand",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "C3",
+    "t": "It Doesn't Matter Where, Just Drive",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "C4",
+    "t": "The Only Noise",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "D1",
+    "t": "Warmer Climate",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "D2",
+    "t": "I Am An Astronaut",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "D3",
+    "t": "In My Arms",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "D4",
+    "t": "Perfect Little Secret",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   }
+  ],
+  "released": "2006-04-28",
+  "wiki": "https://en.wikipedia.org/wiki/Eyes_Open_(Snow_Patrol_album)",
+  "about": "Snow Patrol's fourth album and the UK's biggest seller of 2006, featuring Chasing Cars. It was their first record without original bassist Mark McClelland, with Paul Wilson and Tom Simpson joining the lineup.",
+  "artistKey": "Snow Patrol",
+  "spAlbum": "3k7bXPw2u0C0SBKPMsgMS3",
+  "vinylColor": "Gold",
+  "medium": "Vinyl & CD",
+  "cdId": "CD0177",
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/d6/0972d653-f610-3995-85d3-6656c21e0b31/06UMGIM43473.rgb.jpg/1400x1400bb.jpg",
+  "alsoIds": [
+   "CD0177"
+  ]
  }
 ]
