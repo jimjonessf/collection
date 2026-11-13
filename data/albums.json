@@ -2630,7 +2630,8 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/6a/26/a96a262b-a0ec-16db-056f-11f47fd2e3a3/19UMGIM59908.rgb.jpg/1400x1400bb.jpg",
   "rpm": "33",
   "ct": [
-   "food"
+   "food",
+   "purple"
   ]
  },
  {
@@ -34127,7 +34128,8 @@
   "persSrc": "Wikipedia",
   "rpm": "33",
   "ct": [
-   "animal"
+   "animal",
+   "purple"
   ]
  },
  {
@@ -39395,7 +39397,8 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/68/9b/a6689b07-d54e-ef52-87c3-0c0d803d3538/mzi.qsgivvcw.jpg/1400x1400bb.jpg",
   "rpm": "33",
   "ct": [
-   "faces"
+   "faces",
+   "purple"
   ]
  },
  {
@@ -45799,7 +45802,8 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d6/f1/7a/d6f17a81-d5db-dada-5b74-b8acf8f1255d/00025218541824.rgb.jpg/1400x1400bb.jpg",
   "rpm": "33",
   "ct": [
-   "faces"
+   "faces",
+   "purple"
   ]
  },
  {
@@ -48907,7 +48911,10 @@
   "vinylColor": "Sonic Press, Blue Logo, Gatefold",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/7e/c4/0b7ec4dd-1152-5b32-6d8d-16fe114b8268/00888072013445.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "ALB0376",
@@ -57004,7 +57011,8 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/20/6b/2c/206b2cc9-8f12-753c-7c8a-7a26103115ea/197187451500.jpg/1400x1400bb.jpg",
   "rpm": "33",
   "ct": [
-   "naked"
+   "naked",
+   "purple"
   ]
  },
  {
@@ -78145,7 +78153,10 @@
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/c8/a1/97c8a198-f44d-ee6a-0c4d-a23841856e9c/00602567825579.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "ALB0644",
@@ -79792,7 +79803,10 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f9/3b/40/f93b403e-cadd-ff58-29de-14d20543ac36/4250506826215_cover.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "ALB0658",
@@ -86578,7 +86592,8 @@
   "medium": "Vinyl",
   "rpm": "33",
   "ct": [
-   "animal"
+   "animal",
+   "purple"
   ]
  },
  {
@@ -89918,7 +89933,10 @@
   "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl",
-  "rpm": "33"
+  "rpm": "33",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "ALB0736",
@@ -108254,7 +108272,10 @@
   "vinylColor": "Green Translucent",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c3/67/1d/c3671d74-df9d-1ca5-7967-ffc8ae1fb190/22UM1IM33909.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "ALB0874",
@@ -108354,7 +108375,10 @@
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/0b/85/0b0b85df-af04-e3b1-2b0b-42a7b3ca3c6c/603497864867.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "ALB0875",
@@ -109392,7 +109416,8 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/3c/0a/9f3c0a60-f9e0-a34e-60e5-0be1f182896b/23UMGIM63932.rgb.jpg/1400x1400bb.jpg",
   "rpm": "33",
   "ct": [
-   "naked"
+   "naked",
+   "purple"
   ]
  },
  {
@@ -158672,7 +158697,10 @@
   "medium": "CD",
   "cdYear": "2001",
   "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/f9/c9/49/f9c9495e-f91c-54c5-02ba-47d5db500f15/dj.nsdhasdt.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/f9/c9/49/f9c9495e-f91c-54c5-02ba-47d5db500f15/dj.nsdhasdt.jpg/1400x1400bb.jpg",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "CD0153",
@@ -158815,7 +158843,8 @@
   "medium": "CD",
   "cdYear": "2000",
   "ct": [
-   "faces"
+   "faces",
+   "purple"
   ]
  },
  {
@@ -167653,7 +167682,8 @@
   "cdYear": "1989",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4d/66/f7/4d66f737-d9f7-4cc2-9133-5988ac45b15c/00011105959629.rgb.jpg/1400x1400bb.jpg",
   "ct": [
-   "animal"
+   "animal",
+   "purple"
   ]
  },
  {
@@ -173215,7 +173245,10 @@
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "2005",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/32/89/41/mzi.huoesrcy.jpg/1400x1400bb.jpg"
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/32/89/41/mzi.huoesrcy.jpg/1400x1400bb.jpg",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "CD0269",
@@ -179837,7 +179870,10 @@
   "spAlbum": "5Gut48CGBAM7YkP37Lct4s",
   "vinylColor": "",
   "medium": "CD",
-  "cdYear": "1992"
+  "cdYear": "1992",
+  "ct": [
+   "purple"
+  ]
  },
  {
   "id": "CD0318",
@@ -204137,7 +204173,8 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/87/68/8a8768b3-d686-dac5-25da-fca1ea373114/25UMGIM95889.rgb.jpg/1400x1400bb.jpg",
   "rpm": "33",
   "ct": [
-   "food"
+   "food",
+   "purple"
   ]
  },
  {
