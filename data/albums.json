@@ -14617,66 +14617,73 @@
     "src": "Discogs"
    },
    {
-    "p": "A4",
+    "p": "B1",
     "t": "Way Wit Words",
     "d": "3:12",
     "sp": "1Omj4UDVlu552v8AnP45tM",
     "src": "Discogs"
    },
    {
-    "p": "A5",
+    "p": "B2",
     "t": "Kick The Butta",
     "d": "5:05",
     "sp": "44Rw4qOfmP7Mk8O9pPZUQ8",
     "src": "Discogs"
    },
    {
-    "p": "A6",
+    "p": "B3",
     "t": "Waitin' 4 My Break",
     "d": "3:27",
     "sp": "0qhh05ds6a1s9jqWtLtKyU",
     "src": "Discogs"
    },
    {
-    "p": "B1",
+    "p": "C1",
     "t": "Handle The Technique",
     "d": "2:56",
     "sp": "57XaO22gAReNaXosk2h88z",
     "src": "Discogs"
    },
    {
-    "p": "B2",
+    "p": "C2",
     "t": "Give 'Em Some Wrek",
     "d": "2:43",
     "sp": "3uM01BB5kwMMrnXafUysUF",
     "src": "Discogs"
    },
    {
-    "p": "B3",
+    "p": "C3",
     "t": "Gumdrops",
     "d": "3:53",
     "sp": "7LtL7teVOZTKRxvMZAESxQ",
     "src": "Discogs"
    },
    {
-    "p": "B4",
+    "p": "C4",
     "t": "I Like It (Freestyle)",
     "d": "3:51",
     "sp": "7Bzf0FROeALODDp3VjLPve",
     "src": "Discogs"
    },
    {
-    "p": "B5",
+    "p": "D1",
     "t": "Brain Storm",
     "d": "4:39",
     "sp": "18CbjsUmX5ycVpGsIuHMoJ",
     "src": "Discogs"
    },
    {
-    "p": "B6",
+    "p": "D2",
     "t": "Swingin'",
     "d": "4:32",
     "sp": "39nskJieFtmWYGUaAZuKVI",
+    "src": "Discogs"
+   },
+   {
+    "p": "D3",
+    "t": "Here We Go",
+    "d": "3:45",
+    "sp": "",
     "src": "Discogs"
    }
   ],
@@ -14687,7 +14694,32 @@
   "spAlbum": "5Mku9FobnghO3D2cU3Ril0",
   "vinylColor": "",
   "medium": "Vinyl",
-  "rpm": "33"
+  "rpm": "33",
+  "versions": [
+   {
+    "id": "ALB0089",
+    "catno": "PR 4513",
+    "discogs": "https://www.discogs.com/release/1164763-Original-Flavor-This-Is-How-It-Is",
+    "acquired": "2021-05-30",
+    "label": "Atlantic Records",
+    "edition": "Original",
+    "reissue": "",
+    "color": ""
+   },
+   {
+    "id": "ALB0197",
+    "catno": "TEG 75505-1",
+    "discogs": "https://www.discogs.com/release/1897999-Original-Flavor-This-Is-How-It-Is",
+    "acquired": "2021-06-02",
+    "label": "Traffic Entertainment Group",
+    "edition": "Reissue",
+    "reissue": 2004,
+    "color": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB0197"
+  ]
  },
  {
   "id": "ALB0090",
@@ -27261,135 +27293,6 @@
   "vinylColor": "",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/17/f2/0017f24f-e580-b77a-71a8-1bc7b75881bf/603497822065.jpg/1400x1400bb.jpg",
-  "rpm": "33"
- },
- {
-  "id": "ALB0197",
-  "artist": "Original Flavor",
-  "title": "This Is How It Is",
-  "year": 1992,
-  "label": "Traffic Entertainment Group",
-  "catno": "TEG 75505-1",
-  "edition": "Reissue",
-  "reissue": 2004,
-  "type": "Debut Album",
-  "personnel": [
-   "Ski (David Anthony Willis)",
-   "Suave Lover"
-  ],
-  "discs": "",
-  "acquired": "2021-06-02",
-  "discogs": "https://www.discogs.com/release/1897999-Original-Flavor-This-Is-How-It-Is",
-  "genres": [
-   "Hip Hop"
-  ],
-  "styles": [
-   "Boom Bap",
-   "Conscious",
-   "Jazzy Hip-Hop"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0197.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "This Is How It Is",
-    "d": "3:40",
-    "sp": "7cGsgacGhHaNyGk2FvmQQH",
-    "src": "Discogs"
-   },
-   {
-    "p": "A2",
-    "t": "When I Make It",
-    "d": "4:01",
-    "sp": "4PsH8htcY8UhsPGFXfw6pf",
-    "src": "Discogs"
-   },
-   {
-    "p": "A3",
-    "t": "Best Friend's Girl",
-    "d": "3:29",
-    "sp": "1NxbComAAdw3ei2lX2bI2w",
-    "src": "Discogs"
-   },
-   {
-    "p": "B1",
-    "t": "Way Wit Words",
-    "d": "3:12",
-    "sp": "1Omj4UDVlu552v8AnP45tM",
-    "src": "Discogs"
-   },
-   {
-    "p": "B2",
-    "t": "Kick The Butta",
-    "d": "5:05",
-    "sp": "44Rw4qOfmP7Mk8O9pPZUQ8",
-    "src": "Discogs"
-   },
-   {
-    "p": "B3",
-    "t": "Waitin' 4 My Break",
-    "d": "3:27",
-    "sp": "0qhh05ds6a1s9jqWtLtKyU",
-    "src": "Discogs"
-   },
-   {
-    "p": "C1",
-    "t": "Handle The Technique",
-    "d": "2:56",
-    "sp": "57XaO22gAReNaXosk2h88z",
-    "src": "Discogs"
-   },
-   {
-    "p": "C2",
-    "t": "Give 'Em Some Wrek",
-    "d": "2:43",
-    "sp": "3uM01BB5kwMMrnXafUysUF",
-    "src": "Discogs"
-   },
-   {
-    "p": "C3",
-    "t": "Gumdrops",
-    "d": "3:53",
-    "sp": "7LtL7teVOZTKRxvMZAESxQ",
-    "src": "Discogs"
-   },
-   {
-    "p": "C4",
-    "t": "I Like It (Freestyle)",
-    "d": "3:51",
-    "sp": "7Bzf0FROeALODDp3VjLPve",
-    "src": "Discogs"
-   },
-   {
-    "p": "D1",
-    "t": "Brain Storm",
-    "d": "4:39",
-    "sp": "18CbjsUmX5ycVpGsIuHMoJ",
-    "src": "Discogs"
-   },
-   {
-    "p": "D2",
-    "t": "Swingin'",
-    "d": "4:32",
-    "sp": "39nskJieFtmWYGUaAZuKVI",
-    "src": "Discogs"
-   },
-   {
-    "p": "D3",
-    "t": "Here We Go",
-    "d": "3:45",
-    "sp": "",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1992-02-25",
-  "wiki": "https://en.wikipedia.org/wiki/This_Is_How_It_Is",
-  "about": "The first album by the hip hop group Original Flavor, released on Atlantic and produced by member Ski. It was recorded in Brooklyn and Manhattan in 1991 and 1992 and was followed by Beyond Flavor in 1994.",
-  "artistKey": "Original Flavor",
-  "spAlbum": "5Mku9FobnghO3D2cU3Ril0",
-  "vinylColor": "",
-  "medium": "Vinyl",
   "rpm": "33"
  },
  {
@@ -113744,200 +113647,6 @@
     "src": "not found"
    },
    {
-    "p": "B6",
-    "t": "Shake It Off (Taylor's Version)",
-    "d": "",
-    "sp": "3pv7Q5v2dpdefwdWIvE7yH",
-    "src": "not found"
-   },
-   {
-    "p": "B7",
-    "t": "I Wish You Would (Taylor's Version)",
-    "d": "",
-    "sp": "43y1WpBdnEy5TR9aZoSQL9",
-    "src": "not found"
-   },
-   {
-    "p": "B8",
-    "t": "Bad Blood (Taylor's Version)",
-    "d": "",
-    "sp": "64FzgoLZ3oXu2SriZblHic",
-    "src": "not found"
-   },
-   {
-    "p": "B9",
-    "t": "Wildest Dreams (Taylor's Version)",
-    "d": "",
-    "sp": "1K39ty6o1sHwwlZwO6a7wK",
-    "src": "not found"
-   },
-   {
-    "p": "B10",
-    "t": "How You Get The Girl (Taylor's Version)",
-    "d": "",
-    "sp": "75W3SngKzTuoQ94uLf3y82",
-    "src": "not found"
-   },
-   {
-    "p": "C11",
-    "t": "This Love (Taylor's Version)",
-    "d": "",
-    "sp": "5QVVjX0ZItqlVpEuVCM9Yg",
-    "src": "not found"
-   },
-   {
-    "p": "C12",
-    "t": "I Know Places (Taylor's Version)",
-    "d": "",
-    "sp": "2f0GI2ZLUtbGqFx8t2Gk6A",
-    "src": "not found"
-   },
-   {
-    "p": "C13",
-    "t": "Clean (Taylor's Version)",
-    "d": "",
-    "sp": "2ByBBvpR9b7IynvRmnG7kG",
-    "src": "not found"
-   },
-   {
-    "p": "C14",
-    "t": "Wonderland (Taylor's Version)",
-    "d": "",
-    "sp": "2ve0kuaWUCt4Zx8x4bf1MR",
-    "src": "not found"
-   },
-   {
-    "p": "C15",
-    "t": "You Are In Love (Taylor's Version)",
-    "d": "",
-    "sp": "4UwqOWDpdeIDVQDuKT6iza",
-    "src": "not found"
-   },
-   {
-    "p": "D16",
-    "t": "New Romantics (Taylor's Version)",
-    "d": "",
-    "sp": "2vPMoMDXxu9uX1igWZmXSG",
-    "src": "not found"
-   },
-   {
-    "p": "D17",
-    "t": "\"Slut!\" (Taylor's Version) (From The Vault)",
-    "d": "",
-    "sp": "71BqAINEnezjQfxE4VuJfq",
-    "src": "not found"
-   },
-   {
-    "p": "D18",
-    "t": "Say Don't Go (Taylor's Version) (From The Vault)",
-    "d": "",
-    "sp": "4NioO5R9sHEZh4cGzMHyNt",
-    "src": "not found"
-   },
-   {
-    "p": "D19",
-    "t": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
-    "d": "",
-    "sp": "5KD6AEm19QnMbfWpfoOHMl",
-    "src": "not found"
-   },
-   {
-    "p": "D20",
-    "t": "Suburban Legends (Taylor's Version) (From The Vault)",
-    "d": "",
-    "sp": "6T0sEnqjmHISIKwFETeeiP",
-    "src": "not found"
-   },
-   {
-    "p": "D21",
-    "t": "Is It Over Now? (Taylor's Version) (From The Vault)",
-    "d": "",
-    "sp": "1Iq8oo9XkmmvCQiGOfORiz",
-    "src": "not found"
-   }
-  ],
-  "released": "2023-10-27",
-  "wiki": "https://en.wikipedia.org/wiki/1989_(Taylor%27s_Version)",
-  "about": "Taylor Swift's re-recording of her 2014 album 1989, released by Republic and adding five previously unreleased vault tracks. It debuted at number one on the Billboard 200 and drew strong reviews.",
-  "artistKey": "Taylor Swift",
-  "spAlbum": "64LU4c1nfjz1t4VnGhagcg",
-  "vinylColor": "Yellow [Sunrise Boulevard Yellow]",
-  "medium": "Vinyl",
-  "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
- },
- {
-  "id": "ALB0915",
-  "artist": "Taylor Swift",
-  "title": "1989 (Taylor's Version)",
-  "year": 2023,
-  "label": "Republic Records",
-  "catno": "0245554218",
-  "edition": "Reissue",
-  "reissue": 2023,
-  "type": "5th Studio Album",
-  "personnel": [
-   "Taylor Swift – vocals (all tracks), background vocals (all tracks), clapping (6), heartbeat (9)",
-   "Ryan Tedder – background vocals, piano, synthesizer (1, 12); acoustic guitar, drum programming, electric guitar, programming (12)",
-   "Noel Zancanella – drum programming, synthesizer (1, 12), bass guitar, programming (12)",
-   "Mike Meadows – synthesizer (2, 3, 5, 6, 8–10, 14, 16, 22), acoustic guitar (2, 3, 5, 8, 10, 11, 14, 16, 22), electric guitar (2, 3, 16), background vocals (6), synthesizer programming (9)",
-   "Amos Heller – bass guitar (2, 3, 5, 6, 9–11, 14, 16), synth bass (22)",
-   "Dan Burns – drum programming, synth bass, synthesizer (2, 3, 5, 8, 10, 14, 16, 22); programming (3), synthesizer programming (9)",
-   "Matt Billingslea – drum programming (2, 3, 5, 8, 10, 14, 16, 22), drums (2, 3, 5, 8–11, 14, 16, 22), percussion (6, 9)",
-   "Max Bernstein – electric guitar (2, 3, 5, 10, 14, 16), synthesizer (2, 3, 6–11, 14, 16, 22), acoustic guitar (3, 14, 16), synthesizer programming (9)"
-  ],
-  "discs": "",
-  "acquired": "2023-11-08",
-  "discogs": "https://www.discogs.com/release/28638304-Taylor-Swift-1989-Taylors-Version",
-  "genres": [
-   "Electronic",
-   "Pop"
-  ],
-  "styles": [
-   "Synth-pop",
-   "Ballad",
-   "Pop Rock"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0915.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Welcome To New York (Taylor's Version)",
-    "d": "",
-    "sp": "1hR8BSuEqPCCZfv93zzzz9",
-    "src": "not found"
-   },
-   {
-    "p": "A2",
-    "t": "Blank Space (Taylor's Version)",
-    "d": "",
-    "sp": "45wMBGri1PORPjM9PwFfrS",
-    "src": "not found"
-   },
-   {
-    "p": "A3",
-    "t": "Style (Taylor's Version)",
-    "d": "",
-    "sp": "1hjRhYpWyqDpPahmSlUTlc",
-    "src": "not found"
-   },
-   {
-    "p": "A4",
-    "t": "Out Of The Woods (Taylor's Version)",
-    "d": "",
-    "sp": "045ZeOHPIzhxxsm8bq5kyE",
-    "src": "not found"
-   },
-   {
-    "p": "A5",
-    "t": "All You Had To Do Was Stay (Taylor's Version)",
-    "d": "",
-    "sp": "6GXgd1BPD9bUpqw5AntGV5",
-    "src": "not found"
-   },
-   {
     "p": "A6",
     "t": "Shake It Off (Taylor's Version)",
     "d": "",
@@ -114062,11 +113771,36 @@
   "about": "Taylor Swift's re-recording of her 2014 album 1989, released by Republic and adding five previously unreleased vault tracks. It debuted at number one on the Billboard 200 and drew strong reviews.",
   "artistKey": "Taylor Swift",
   "spAlbum": "64LU4c1nfjz1t4VnGhagcg",
-  "vinylColor": "Tangerine, MPO Pressing",
+  "vinylColor": "Yellow [Sunrise Boulevard Yellow]",
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "versions": [
+   {
+    "id": "ALB0914",
+    "catno": "0245554217",
+    "discogs": "https://www.discogs.com/release/28714750-Taylor-Swift-1989-Taylors-Version",
+    "acquired": "2023-11-08",
+    "label": "Republic Records",
+    "edition": "Reissue",
+    "reissue": 2023,
+    "color": "Yellow [Sunrise Boulevard Yellow]"
+   },
+   {
+    "id": "ALB0915",
+    "catno": "0245554218",
+    "discogs": "https://www.discogs.com/release/28638304-Taylor-Swift-1989-Taylors-Version",
+    "acquired": "2023-11-08",
+    "label": "Republic Records",
+    "edition": "Reissue",
+    "reissue": 2023,
+    "color": "Tangerine, MPO Pressing"
+   }
+  ],
+  "alsoIds": [
+   "ALB0915"
+  ]
  },
  {
   "id": "ALB0916",
