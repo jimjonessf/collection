@@ -102246,7 +102246,7 @@
  {
   "id": "ALB0828",
   "artist": "Van Halen",
-  "title": "MCMLXXXIV (1984)",
+  "title": "1984",
   "year": 1984,
   "label": "Warner Records",
   "catno": "R1 670900",
@@ -102280,63 +102280,63 @@
     "p": "A1",
     "t": "1984",
     "d": "1:07",
-    "sp": "",
+    "sp": "43nVoP1xPa5fbmAwxeN5fY",
     "src": "Discogs"
    },
    {
     "p": "A2",
     "t": "Jump",
     "d": "4:04",
-    "sp": "",
+    "sp": "7N3PAbqfTjSEU1edb2tY8j",
     "src": "Discogs"
    },
    {
     "p": "A3",
     "t": "Panama",
     "d": "3:31",
-    "sp": "",
+    "sp": "05RgAMGypEvqhNs5hPCbMS",
     "src": "Discogs"
    },
    {
     "p": "A4",
     "t": "Top Jimmy",
     "d": "2:59",
-    "sp": "",
+    "sp": "4H5QdHS8T7Qq4WgzFkYu5Q",
     "src": "Discogs"
    },
    {
     "p": "A5",
     "t": "Drop Dead Legs",
     "d": "4:13",
-    "sp": "",
+    "sp": "49KoX0qpXf3wHyP9nfUaqq",
     "src": "Discogs"
    },
    {
     "p": "B1",
     "t": "Hot For Teacher",
     "d": "4:42",
-    "sp": "",
+    "sp": "6QDbGdbJ57Mtkflsg42WV5",
     "src": "Discogs"
    },
    {
     "p": "B2",
     "t": "I'll Wait",
     "d": "4:41",
-    "sp": "",
+    "sp": "2TIKWWCf6qAtVP6AGa7e9k",
     "src": "Discogs"
    },
    {
     "p": "B3",
     "t": "Girl Gone Bad",
     "d": "4:43",
-    "sp": "",
+    "sp": "7ytUUv11hwMJqZLaLK20Zq",
     "src": "Discogs"
    },
    {
     "p": "B4",
     "t": "House of Pain",
     "d": "3:18",
-    "sp": "",
+    "sp": "6fYlvN1IlHi3cSY3tyZH1T",
     "src": "Discogs"
    }
   ],
@@ -102344,13 +102344,17 @@
   "wiki": "https://en.wikipedia.org/wiki/1984_(Van_Halen_album)",
   "about": "Van Halen's sixth album, produced by Ted Templeman and recorded at Eddie Van Halen's 5150 studio, added prominent synthesizers to the band's hard rock. Jump became their only US number one single, and the album, the last with David Lee Roth for decades, was certified Diamond.",
   "artistKey": "Van Halen",
-  "spAlbum": "",
+  "spAlbum": "3REUXdj5OPKhuDTrTtCBU0",
   "vinylColor": "",
-  "medium": "Vinyl",
+  "medium": "Vinyl & CD",
   "persSrc": "Wikipedia",
   "rpm": "33",
   "ct": [
    "naked"
+  ],
+  "cdId": "CD0263",
+  "alsoIds": [
+   "CD0263"
   ]
  },
  {
@@ -172684,113 +172688,6 @@
   "ct": [
    "animal",
    "yellow"
-  ]
- },
- {
-  "id": "CD0263",
-  "artist": "Van Halen",
-  "title": "1984",
-  "year": 1984,
-  "label": "Warner Bros. Records",
-  "catno": "9 23985-2",
-  "edition": "CD",
-  "reissue": "",
-  "type": "6th Studio Album",
-  "personnel": [
-   "Ted Templeman – producer",
-   "Alex Van Halen – backing vocals, drums, percussion",
-   "Eddie Van Halen – backing vocals, guitar, keyboards",
-   "Michael Anthony – backing vocals, bass",
-   "David Lee Roth – vocals"
-  ],
-  "discs": "",
-  "acquired": "2024-02-04",
-  "discogs": "https://www.discogs.com/release/7830879-Van-Halen-1984",
-  "genres": [
-   "Rock"
-  ],
-  "styles": [
-   "Hard Rock",
-   "Heavy Metal"
-  ],
-  "notes": "",
-  "cover": "covers/CD0263.jpg",
-  "tracks": [
-   {
-    "p": "1",
-    "t": "1984",
-    "d": "1:07",
-    "sp": "43nVoP1xPa5fbmAwxeN5fY",
-    "src": "Discogs"
-   },
-   {
-    "p": "2",
-    "t": "Jump",
-    "d": "4:03",
-    "sp": "7N3PAbqfTjSEU1edb2tY8j",
-    "src": "Discogs"
-   },
-   {
-    "p": "3",
-    "t": "Panama",
-    "d": "3:32",
-    "sp": "05RgAMGypEvqhNs5hPCbMS",
-    "src": "Discogs"
-   },
-   {
-    "p": "4",
-    "t": "Top Jimmy",
-    "d": "3:02",
-    "sp": "4H5QdHS8T7Qq4WgzFkYu5Q",
-    "src": "Discogs"
-   },
-   {
-    "p": "5",
-    "t": "Drop Dead Legs",
-    "d": "4:13",
-    "sp": "49KoX0qpXf3wHyP9nfUaqq",
-    "src": "Discogs"
-   },
-   {
-    "p": "6",
-    "t": "Hot For Teacher",
-    "d": "4:44",
-    "sp": "6QDbGdbJ57Mtkflsg42WV5",
-    "src": "Discogs"
-   },
-   {
-    "p": "7",
-    "t": "I'll Wait",
-    "d": "4:44",
-    "sp": "2TIKWWCf6qAtVP6AGa7e9k",
-    "src": "Discogs"
-   },
-   {
-    "p": "8",
-    "t": "Girl Gone Bad",
-    "d": "4:35",
-    "sp": "7ytUUv11hwMJqZLaLK20Zq",
-    "src": "Discogs"
-   },
-   {
-    "p": "9",
-    "t": "House Of Pain",
-    "d": "3:17",
-    "sp": "6fYlvN1IlHi3cSY3tyZH1T",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1984-01-09",
-  "wiki": "https://en.wikipedia.org/wiki/1984_(Van_Halen_album)",
-  "about": "Van Halen's sixth album introduced prominent synthesizers alongside Eddie Van Halen's guitar work. It produced the band's only US number-one single, Jump, plus Panama and Hot for Teacher, and was the last album with David Lee Roth for many years.",
-  "artistKey": "Van Halen",
-  "spAlbum": "3REUXdj5OPKhuDTrTtCBU0",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "1984",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/1400x1400bb.jpg",
-  "ct": [
-   "naked"
   ]
  },
  {
