@@ -4907,7 +4907,7 @@
     "p": "1-2",
     "t": "Running On Faith",
     "d": "6:49",
-    "sp": "2Gq3GHn6A9cI7DjnDejUYt",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -4942,7 +4942,7 @@
     "p": "1-7",
     "t": "Worried Life Blues",
     "d": "5:28",
-    "sp": "6uAAm2TssOxDYMg2mPAkYJ",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -4970,7 +4970,7 @@
     "p": "2-3",
     "t": "Old Love",
     "d": "13:01",
-    "sp": "0XuDj6qH64RUAljehbd8O3",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -37613,7 +37613,7 @@
     "p": "A2",
     "t": "Beautiful People",
     "d": "3:35",
-    "sp": "3kZySA7d6gzauw15rJUOmU",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -37669,7 +37669,7 @@
     "p": "B3",
     "t": "Peace Will Come (According To Plan)",
     "d": "4:47",
-    "sp": "1lMhE01kAot77D8M17ac3m",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -37739,7 +37739,7 @@
     "p": "D2",
     "t": "Animal Crackers",
     "d": "2:12",
-    "sp": "7dEOUeNjHwsOrzZX0kApzJ",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -37753,7 +37753,7 @@
     "p": "D4",
     "t": "Psychotherapy",
     "d": "4:55",
-    "sp": "6u8V7rNiQHSUEeSR62gcNt",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -67846,7 +67846,7 @@
     "p": "B5",
     "t": "Jah Jah",
     "d": "4:20",
-    "sp": "5RvrkS3FyKGaBdN8UzLZ9K",
+    "sp": "",
     "src": "Discogs"
    }
   ],
@@ -80395,14 +80395,12 @@
   "genres": [
    "Rock",
    "Pop",
-   "Folk, World, & Country",
-   "Electronic"
+   "Folk, World, & Country"
   ],
   "styles": [
    "Ballad",
    "Country",
-   "Pop Rock",
-   "Synth-pop"
+   "Pop Rock"
   ],
   "notes": "",
   "cover": "covers/ALB0662.jpg",
@@ -91952,7 +91950,7 @@
     "p": "A3",
     "t": "So Jah Jah Say",
     "d": "3:02",
-    "sp": "5RvrkS3FyKGaBdN8UzLZ9K",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -96581,7 +96579,7 @@
     "p": "B3",
     "t": "Sultans Of Swing",
     "d": "10:53",
-    "sp": "6cr6UDpkjEaMQ80OjWqEBQ",
+    "sp": "",
     "src": "Your label"
    },
    {
@@ -96624,7 +96622,7 @@
   "wiki": "https://en.wikipedia.org/wiki/Alchemy:_Dire_Straits_Live",
   "about": "Dire Straits' first live record, a double album taken from two July 1983 shows at London's Hammersmith Odeon at the end of the Love Over Gold tour. Many songs are stretched out with new arrangements and long instrumental passages.",
   "artistKey": "Dire Straits",
-  "spAlbum": "4dKdxly4ji1vfl7sEYuqBe",
+  "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl",
   "rpm": "33"
@@ -101434,15 +101432,11 @@
   "acquired": "2022-12-30",
   "discogs": "https://www.discogs.com/release/24894176-Taylor-Swift-Midnights",
   "genres": [
-   "Electronic",
    "Pop"
   ],
   "styles": [
-   "Synth-pop",
    "Vocal",
-   "Indie Pop",
-   "Downtempo",
-   "Electro"
+   "Indie Pop"
   ],
   "notes": "",
   "cover": "covers/ALB0820.jpg",
@@ -102486,112 +102480,112 @@
     "p": "A1",
     "t": "Scarface ",
     "d": "1:44",
-    "sp": "6TTgbTWgNXgYnkRjgUvc1u",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "A2",
     "t": "Deeper ",
     "d": "3:08",
-    "sp": "3rwB9tWviIwsB7BtIuw3mG",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "A3",
     "t": "High ",
     "d": "2:45",
-    "sp": "7y7JdFZb4v3HFpYGeEOGKa",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "A4",
     "t": "Harold's ",
     "d": "2:50",
-    "sp": "4hIzRIQOjHGEBTUW8oSEyR",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "B1",
     "t": "Bomb ",
     "d": "3:19",
-    "sp": "1FsjvDx9pOw9laB2JC0eL4",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "B2",
     "t": "Shitsville ",
     "d": "2:52",
-    "sp": "2pzQ0mn5d7LhYILDxiBFBh",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "B3",
     "t": "Thuggin' ",
     "d": "3:24",
-    "sp": "2yyc1CfsGISWP3jGuregtr",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "B4",
     "t": "Real",
     "d": "3:14",
-    "sp": "23abLueTM3OQsppBR7m8MP",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C1",
     "t": "Uno",
     "d": "2:48",
-    "sp": "5xOrIq3G0LXKmGiitfPinH",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C2",
     "t": "Robes",
     "d": "3:27",
-    "sp": "4GzB5AiOJJzC0H2gtxhci2",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C3",
     "t": "Broken",
     "d": "4:10",
-    "sp": "1VKLZleCky95glploFUOv5",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C4",
     "t": "Lakers",
     "d": "4:26",
-    "sp": "4t4UOkmIQ4jgM2kmnMj8w9",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "D1",
     "t": "Knicks",
     "d": "3:40",
-    "sp": "1oEPcxw6uqwvqAyDCmpsdF",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "D2",
     "t": "Shame",
     "d": "3:05",
-    "sp": "0avSZqODpo898TKYgxxFvZ",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "D3",
     "t": "Watts ",
     "d": "1:21",
-    "sp": "5muwVqvAvGvt3uGD8hWoiG",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "D4",
     "t": "Piñata ",
     "d": "5:45",
-    "sp": "5RqBK97YNK42WkFOj1RJFo",
+    "sp": "",
     "src": "Discogs"
    }
   ],
@@ -108749,63 +108743,63 @@
     "p": "A1",
     "t": "Architecture & Morality",
     "d": "",
-    "sp": "2wt2ncc9cEsJqKwLo4eTDm",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A2",
     "t": "Sealand",
     "d": "",
-    "sp": "0F0mS09ruZO2zWaEbl6hGQ",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A3",
     "t": "The New Stone Age",
     "d": "",
-    "sp": "4P9BeQkwwcWIuioP8YzeQD",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A4",
     "t": "Georgia",
     "d": "",
-    "sp": "5VtqYOQrtrBoaZKMaY0HcK",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B1",
     "t": "She's Leaving",
     "d": "",
-    "sp": "3qAEEfC57OI4SCuj7Zk5va",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B2",
     "t": "Souvenir",
     "d": "",
-    "sp": "4i4QN9Zs5s7OZRRLIYHMmP",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B3",
     "t": "Joan Of Arc",
     "d": "",
-    "sp": "15RDSwmEEcG0LKhDnzLj7x",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B4",
     "t": "Joan Of Arc (Maid Of Orleans)",
     "d": "",
-    "sp": "5WeMMlylGCVGc0ChHSysJA",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B5",
     "t": "The Beginning And The End",
     "d": "",
-    "sp": "6LK02wa4H5KqXKjA3kBlsZ",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -108952,7 +108946,7 @@
     "p": "CD-13",
     "t": "Locomotion",
     "d": "3:47",
-    "sp": "5MPT9k9qMBRZklDqLW4Xbs",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -108973,7 +108967,7 @@
     "p": "CD-16",
     "t": "Electricity",
     "d": "3:39",
-    "sp": "60TmG8cFPMBo7kTTFOLiAB",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -109592,7 +109586,7 @@
     "p": "D1",
     "t": "Free",
     "d": "4:31",
-    "sp": "4iaaEAAyCWrQdYT5tRnyDb",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -111645,14 +111639,14 @@
     "p": "A2",
     "t": "Hang On To Yourself",
     "d": "",
-    "sp": "1dWoKufYqWrjfxYhFnHyMP",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A3",
     "t": "Ziggy Stardust",
     "d": "",
-    "sp": "5IyL3XOaRPpTgxVjRIAxXU",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -111750,7 +111744,7 @@
     "p": "D2",
     "t": "Suffragette City",
     "d": "",
-    "sp": "3YZa4IzxK2UtEKTvdTgsi8",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -111771,7 +111765,7 @@
     "p": "D5",
     "t": "Rock 'N' Roll Suicide",
     "d": "",
-    "sp": "1k5iH4KDKi56MFvlnrALNV",
+    "sp": "",
     "src": "not found"
    }
   ],
@@ -113604,11 +113598,9 @@
   "acquired": "2023-11-08",
   "discogs": "https://www.discogs.com/release/28714750-Taylor-Swift-1989-Taylors-Version",
   "genres": [
-   "Electronic",
    "Pop"
   ],
   "styles": [
-   "Synth-pop",
    "Ballad",
    "Pop Rock"
   ],
@@ -116727,14 +116719,14 @@
     "p": "A1",
     "t": "If I Had A Hammer",
     "d": "",
-    "sp": "4uDbrAQ4kFX797Z3TXZ1cG",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A2",
     "t": "I'm Going Back To The Red Clay Country",
     "d": "",
-    "sp": "59jzAkreSPmXle9BJySg4O",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -116748,7 +116740,7 @@
     "p": "A4",
     "t": "Gallows Pole",
     "d": "",
-    "sp": "07L4WYItkqJ48Mnc4oeA9h",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -116762,14 +116754,14 @@
     "p": "A6",
     "t": "John Riley",
     "d": "",
-    "sp": "0DYbUTCWTXbYOjktWMVfDa",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "A7",
     "t": "John Henry",
     "d": "",
-    "sp": "757HmltNNM8c8elE8GtwNo",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -116783,35 +116775,35 @@
     "p": "B2",
     "t": "All The Pretty Little Horses",
     "d": "",
-    "sp": "4ESwiHJwaGs8c4mBfrmK5U",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B3",
     "t": "Prettiest Train",
     "d": "",
-    "sp": "0mNELfMU4rq7QdQZ030Bom",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B4",
     "t": "Meeting At The Building",
     "d": "",
-    "sp": "0fbHy7TfD4aqshpj3WAV68",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B5",
     "t": "No More Auction Block For Me",
     "d": "",
-    "sp": "6Cr25Cyxe60UIstbpOgHjS",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "B6",
     "t": "Hold On",
     "d": "",
-    "sp": "5aUDXJIzbIM3OrgSeRYmby",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -118236,63 +118228,63 @@
     "p": "A1",
     "t": "Panopticom",
     "d": "5:16",
-    "sp": "7CkKAVRnPMZCRM0Ona8NL3",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "A2",
     "t": "Playing For Time",
     "d": "6:17",
-    "sp": "7eY6mvgk2N69B4LYRUWirb",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "A3",
     "t": "The Court",
     "d": "4:21",
-    "sp": "5tOImcHsIyK4PPv2l5QV9m",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "B1",
     "t": "Four Kinds Of Horses",
     "d": "6:47",
-    "sp": "3Udexv0BDg84vH7i2aJK0T",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "B2",
     "t": "I/O",
     "d": "3:52",
-    "sp": "1HNZjmFQmCZH01RlX3PI7U",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "B3",
     "t": "Love Can Heal",
     "d": "5:59",
-    "sp": "0KLWFukGihjUF0ye5jcsBu",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C1",
     "t": "Road To Joy",
     "d": "5:21",
-    "sp": "0AS8z773DkFJ7i8A4tXRoC",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C2",
     "t": "So Much",
     "d": "4:51",
-    "sp": "4Vsz68kz0BuCm0BtD6GwUX",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C3",
     "t": "Olive Tree",
     "d": "5:58",
-    "sp": "4Zjr3ULz6Vu4umTkf3MPEW",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -118306,14 +118298,14 @@
     "p": "D2",
     "t": "And Still",
     "d": "7:42",
-    "sp": "37mJJ9rhvTtb8V63b9yRGR",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "D3",
     "t": "Live And Let Live",
     "d": "7:11",
-    "sp": "1SMMEqXZIuJRBQvE3a7IMf",
+    "sp": "",
     "src": "Discogs"
    }
   ],
@@ -124293,7 +124285,6 @@
   "styles": [
    "Ballad",
    "Indie Pop",
-   "Synth-pop",
    "Alt-Pop"
   ],
   "notes": "",
@@ -133639,14 +133630,14 @@
     "p": "A1",
     "t": "Drumming Song",
     "d": "5:07",
-    "sp": "3lZpC6YZquLyyZf0mjH5Ql",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "A2",
     "t": "My Boy Builds Coffins",
     "d": "3:14",
-    "sp": "68HbVtMFtAhfXw3Y27WOZu",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -133674,7 +133665,7 @@
     "p": "B6",
     "t": "I’m Not Calling You A Liar",
     "d": "3:36",
-    "sp": "7u5oRKGjNovOvg8s1q4OTU",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -133695,7 +133686,7 @@
     "p": "B9",
     "t": "Girl With One Eye",
     "d": "3:46",
-    "sp": "12RzIunE2zuqOWMk6AslEU",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -133716,28 +133707,28 @@
     "p": "C12",
     "t": "Blinding",
     "d": "6:44",
-    "sp": "20vmcxsZFCAnnCPHTyYGdr",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C13",
     "t": "Hurricane Drunk",
     "d": "2:43",
-    "sp": "04d6gfSFAn5S4QQImUW7WA",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "C14",
     "t": "Cosmic Love",
     "d": "9:12",
-    "sp": "0zKgonhZ2kYVEYwyedfiw3",
+    "sp": "",
     "src": "Discogs"
    },
    {
     "p": "D15",
     "t": "Between Two Lungs",
     "d": "5:09",
-    "sp": "5w7sVlGwbDE72HH9OzpDXw",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -138266,140 +138257,140 @@
     "p": "A1",
     "t": "Heaven Is Here ",
     "d": "3:03",
-    "sp": "4eh6egMbuQ1QJ65HIA9eXG",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "A2",
     "t": "King",
     "d": "4:58",
-    "sp": "3bM3144R6ZYAskDY50NTQQ",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "A3",
     "t": "Ship To Wreck ",
     "d": "4:13",
-    "sp": "4e1MMJ3moEKXALH8JSfKP2",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "A4",
     "t": "Free",
     "d": "4:32",
-    "sp": "1qQSaX3rqvetQHTKdNWbQE",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "A5",
     "t": "Daffodil ",
     "d": "3:44",
-    "sp": "7rvbwH5QqnNl4agJiRFmY4",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "B1",
     "t": "Dog Days Are Over",
     "d": "4:56",
-    "sp": "72duQ4NdrxzMrd1jCQxm3B",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "B2",
     "t": "Girls Against God ",
     "d": "4:20",
-    "sp": "6kQlUiaTUyRW8fYQ2xDhpx",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "B3",
     "t": "Dream Girl Evil ",
     "d": "3:51",
-    "sp": "7GtOjSSp5Qyi3gNbNDZgja",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "B4",
     "t": "Cassandra ",
     "d": "5:26",
-    "sp": "1IDMtPWVNBkkD8y3zL3Xd3",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "B5",
     "t": "Morning Elvis ",
     "d": "3:55",
-    "sp": "2HtpqUSxCZ5FnbQ6PTtY4L",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "C1",
     "t": "June ",
     "d": "3:41",
-    "sp": "6eoJg7tOnFpEhKkdkHorCg",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "C2",
     "t": "Choreomania ",
     "d": "3:47",
-    "sp": "7xdHw4C522RbsxHL9KD9L6",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "C3",
     "t": "Kiss With A Fist ",
     "d": "3:01",
-    "sp": "7pDN6EBuWZ3HEQsMCxaQUk",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "C4",
     "t": "Cosmic Love ",
     "d": "5:35",
-    "sp": "7nfniqYjMi15Vr8b44Al4i",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "C5",
     "t": "My Love ",
     "d": "4:52",
-    "sp": "7jQuTeWHCKKLc2QV6MPunK",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "C6",
     "t": "Restraint ",
     "d": "0:56",
-    "sp": "6qPrQX0e23Lx9D4GcaddZQ",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "D1",
     "t": "The End Of Love ",
     "d": "4:49",
-    "sp": "30mzoVQZKAMqX8dbJzmXiU",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "D2",
     "t": "Never Let Me Go ",
     "d": "6:32",
-    "sp": "5Lf2OTBVIVDJ7YjzSm21nv",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "D3",
     "t": "Shake It Out ",
     "d": "5:08",
-    "sp": "6CF4CZYixvGZgqexfcDXYV",
+    "sp": "",
     "src": "Your label"
    },
    {
     "p": "D4",
     "t": "Rabbit Heart (Raise It Up)",
     "d": "7:56",
-    "sp": "5UxRAoT53RU118rU4J2KgG",
+    "sp": "",
     "src": "Your label"
    }
   ],
@@ -138407,7 +138398,7 @@
   "wiki": "",
   "about": "",
   "artistKey": "Florence + The Machine",
-  "spAlbum": "4ohh1zQ4yybSK9FS7LLyDE",
+  "spAlbum": "",
   "vinylColor": "",
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
@@ -165240,7 +165231,7 @@
     "p": "1",
     "t": "Harvest Moon (Edit)",
     "d": "3:49",
-    "sp": "7hpk3H8tjWh23edusCKW5O",
+    "sp": "",
     "src": "Discogs"
    },
    {
@@ -171316,7 +171307,7 @@
     "p": "4",
     "t": "My Heart Belongs To Daddy",
     "d": "5:59",
-    "sp": "4NMBKPT6S5RZZdRnt2Gavn",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Dizzy Gillespie"
@@ -171346,7 +171337,7 @@
     "p": "7",
     "t": "I Get A Kick Out Of You",
     "d": "7:37",
-    "sp": "7iGwsMSHhAsaDixDkSX85t",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Clifford Brown",
@@ -171357,7 +171348,7 @@
     "p": "8",
     "t": "Night And Day",
     "d": "6:46",
-    "sp": "5ydMSZTGPAALEIiAybYu0P",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Stan Getz",
@@ -171409,7 +171400,7 @@
     "p": "13",
     "t": "I've Got You Under My Skin",
     "d": "3:22",
-    "sp": "40g2v5Q2KNW367sDzrVq3c",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Bill Evans",
@@ -171470,7 +171461,7 @@
     "p": "1",
     "t": "I Get A Kick Out Of You",
     "d": "4:17",
-    "sp": "7iGwsMSHhAsaDixDkSX85t",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Louis Armstrong"
@@ -171480,7 +171471,7 @@
     "p": "2",
     "t": "My Heart Belongs To Daddy",
     "d": "2:51",
-    "sp": "4NMBKPT6S5RZZdRnt2Gavn",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Anita O'Day"
@@ -171490,7 +171481,7 @@
     "p": "3",
     "t": "I've Got You Under My Skin",
     "d": "3:12",
-    "sp": "40g2v5Q2KNW367sDzrVq3c",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Ella Fitzgerald"
@@ -171573,7 +171564,7 @@
     "p": "11",
     "t": "Night And Day",
     "d": "4:57",
-    "sp": "5ydMSZTGPAALEIiAybYu0P",
+    "sp": "",
     "src": "Discogs",
     "ar": [
      "Fred Astaire"
@@ -180131,7 +180122,7 @@
   "title": "Past Masters Volume 2",
   "year": 1988,
   "label": "Capitol Records",
-  "catno": "CDP 7 90043 2",
+  "catno": "CDP 7 90044 2",
   "edition": "CD",
   "reissue": "",
   "type": "Compilation",
@@ -180144,7 +180135,7 @@
   ],
   "discs": "",
   "acquired": "2023-02-09",
-  "discogs": "https://www.discogs.com/release/3556825-The-Beatles-Past-Masters-Volume-One",
+  "discogs": "https://www.discogs.com/release/10032067",
   "genres": [
    "Rock",
    "Pop"
@@ -180159,136 +180150,115 @@
   "tracks": [
    {
     "p": "1",
-    "t": "Love Me Do",
-    "d": "",
-    "sp": "149YAUOqxwKc32BlnxVjxn",
-    "src": "not found"
+    "t": "Day Tripper",
+    "d": "2:49",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "2",
-    "t": "From Me To You",
-    "d": "",
-    "sp": "7nBGBbzfnPiowCvXKJnV9J",
-    "src": "not found"
+    "t": "We Can Work It Out",
+    "d": "2:15",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "3",
-    "t": "Thank You Girl",
-    "d": "",
-    "sp": "3k6zSunlStXxWF0s1063lk",
-    "src": "not found"
+    "t": "Paperback Writer",
+    "d": "2:18",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "4",
-    "t": "She Loves You",
-    "d": "",
-    "sp": "48JM82SHQTBYkhEYhMaOaa",
-    "src": "not found"
+    "t": "Rain",
+    "d": "3:02",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "5",
-    "t": "I'll Get You",
-    "d": "",
-    "sp": "4VMOdHVfB57lNhSDadhOBc",
-    "src": "not found"
+    "t": "Lady Madonna",
+    "d": "2:17",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "6",
-    "t": "I Want To Hold Your Hand",
-    "d": "",
-    "sp": "27E39dDg0Bx1RzkF3eJJsb",
-    "src": "not found"
+    "t": "The Inner Light",
+    "d": "2:36",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "7",
-    "t": "This Boy",
-    "d": "",
-    "sp": "0oQshbv1BFLZ61b1tQ4Eqg",
-    "src": "not found"
+    "t": "Hey Jude",
+    "d": "7:08",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "8",
-    "t": "Komm, Gib Mir Deine Hand",
-    "d": "",
-    "sp": "6oUjSwtifVaM8iIN01KVzC",
-    "src": "not found"
+    "t": "Revolution",
+    "d": "3:24",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "9",
-    "t": "Sie Liebt Dich",
-    "d": "",
-    "sp": "5rkgbGIOTBGlKTAawWb06X",
-    "src": "not found"
+    "t": "Get Back",
+    "d": "3:14",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "10",
-    "t": "Long Tall Sally",
-    "d": "",
-    "sp": "7ds98B8y5BQltzC60Gdkri",
-    "src": "not found"
+    "t": "Don't Let Me Down",
+    "d": "3:34",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "11",
-    "t": "I Call Your Name",
-    "d": "",
-    "sp": "1QQSTB03vIsgjU67UnUPEL",
-    "src": "not found"
+    "t": "The Ballad Of John And Yoko",
+    "d": "3:00",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "12",
-    "t": "Slow Down",
-    "d": "",
-    "sp": "2x7vw79tKsW99s8sbyuvPM",
-    "src": "not found"
+    "t": "Old Brown Shoe",
+    "d": "3:18",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "13",
-    "t": "Matchbox",
-    "d": "",
-    "sp": "4jXXFZtmxoYU15WKTIiYrE",
-    "src": "not found"
+    "t": "Across The Universe",
+    "d": "3:49",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "14",
-    "t": "I Feel Fine",
-    "d": "",
-    "sp": "1Q7gCIpOjIIU0bUKcGzrG4",
-    "src": "not found"
+    "t": "Let It Be",
+    "d": "3:50",
+    "sp": "",
+    "src": "Discogs"
    },
    {
     "p": "15",
-    "t": "She's A Woman",
-    "d": "",
-    "sp": "6vsb1bU8oW7iqtjH2GeEaS",
-    "src": "not found"
-   },
-   {
-    "p": "16",
-    "t": "Bad Boy",
-    "d": "",
-    "sp": "7iTjGs5z7opNGCXyurs0Q7",
-    "src": "not found"
-   },
-   {
-    "p": "17",
-    "t": "Yes It Is",
-    "d": "",
-    "sp": "2rQvZscmpb6a7ejDiKprcL",
-    "src": "not found"
-   },
-   {
-    "p": "18",
-    "t": "I'm Down",
-    "d": "",
-    "sp": "5ovYFa8Em47SgPmhBlZb5N",
-    "src": "not found"
+    "t": "You Know My Name (Look Up The Number)",
+    "d": "4:19",
+    "sp": "",
+    "src": "Discogs"
    }
   ],
   "released": "1988-03-07",
   "wiki": "https://en.wikipedia.org/wiki/Past_Masters",
-  "about": "First volume of a Beatles compilation gathering singles, B-sides, EP tracks and rarities from 1962 to 1965 that did not appear on the UK studio albums.",
+  "about": "Second volume of a Beatles compilation gathering singles, B-sides and rarities from 1965 to 1970 that did not appear on the UK studio albums.",
   "artistKey": "The Beatles",
-  "spAlbum": "3GmCXW10kLxmZrEY0JpRlw",
+  "spAlbum": "",
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "1988",
@@ -201999,7 +201969,7 @@
     "p": "DVD-2",
     "t": "Whiskey River",
     "d": "",
-    "sp": "3zXbShQ4WDMwRthNOLyVoI",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -202062,7 +202032,7 @@
     "p": "DVD-11",
     "t": "Blue Eyes Crying In The Rain",
     "d": "",
-    "sp": "1NusXYzPd6EXvXvqjGDZsh",
+    "sp": "",
     "src": "not found"
    },
    {
@@ -202118,14 +202088,14 @@
     "p": "DVD-19",
     "t": "Angel Flying Too Close To The Ground",
     "d": "",
-    "sp": "5qxadNEqwkoMQ58OBEZQPx",
+    "sp": "",
     "src": "not found"
    },
    {
     "p": "DVD-20",
     "t": "On The Road Again",
     "d": "",
-    "sp": "39HAks2EA2N88f5LE968TX",
+    "sp": "",
     "src": "not found"
    },
    {
