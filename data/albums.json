@@ -114136,7 +114136,7 @@
   "title": "Zooropa",
   "year": 1993,
   "label": "Island Records",
-  "catno": "none",
+  "catno": "",
   "edition": "Reissue",
   "reissue": 2023,
   "type": "8th Studio Album",
@@ -114152,7 +114152,7 @@
   ],
   "discs": "",
   "acquired": "2023-11-14",
-  "discogs": "https://www.discogs.com/release/33785379-U2-Too-Much-Is-Not-EnoughLast-Italian-Zooropa-Show",
+  "discogs": "https://www.discogs.com/search/?q=U2+Zooropa+30th+Anniversary&type=release",
   "genres": [
    "Electronic",
    "Rock"
@@ -114164,7 +114164,7 @@
    "Synth-pop"
   ],
   "notes": "",
-  "cover": "covers/ALB0918.jpg",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/1e/55/781e55ac-b0e5-67f4-89c0-658325c3dafa/17UMGIM98832.rgb.jpg/600x600bb.jpg",
   "tracks": [
    {
     "p": "A1",
