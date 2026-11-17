@@ -13,7 +13,7 @@ import base64, datetime as dt, difflib, json, os, re, sys, time, unicodedata, ur
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "weekly", "spotify_links.json")
-PER_RUN = 450        # Spotify requests per night (leaves room for the lookups run on the Mac)
+PER_RUN = 300        # Spotify requests per night (kept low: your Mac lookups share the same Spotify allowance)
 GAP = 1.6            # seconds between requests
 RETRY_DAYS = 60
 TODAY = dt.date.today()
