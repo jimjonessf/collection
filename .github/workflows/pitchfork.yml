@@ -1,0 +1,35 @@
+# Every Sunday: finds the Pitchfork review (score, year and link) for each album in The Collection,
+# for the orange PITCHFORK button on album pages. "Run workflow" on the Actions tab runs it right away.
+name: Pitchfork reviews
+
+on:
+  schedule:
+    - cron: "41 12 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reviews:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Look up Pitchfork reviews
+        run: python3 weekly/pitchfork.py
+      - name: Save the results
+        run: |
+          git config user.name "The Collection Pitchfork reviews"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add weekly/pitchfork.json
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit -m "Pitchfork reviews"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Saving didn't work (try $i), trying again in 20 seconds"; sleep 20
+          done
+          exit 1
