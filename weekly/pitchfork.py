@@ -108,26 +108,33 @@ def from_wikipedia(wiki):
 
 
 # ------------------------------------------------------------------ Pitchfork
+def real_score(v):
+    try:
+        f = float(v)
+    except (TypeError, ValueError):
+        return False
+    return 0 <= f <= 10 and abs(f * 10 - round(f * 10)) < 1e-6 and re.fullmatch(r"\d{1,2}(\.\d0*)?", str(v).strip()) is not None
+
+
 def read_review(url):
     """(score, year, page title) from the review page, or None if it can't be read."""
     st, body, final = get(url)
     if st != 200 or not body:
         return None
     score = year = None
-    for pat in (r'"ratingValue"\s*:\s*"?([\d.]+)', r'"score"\s*:\s*"?([\d.]+)', r'class="[^"]*Rating[^"]*"[^>]*>\s*([\d.]+)\s*<'):
-        m = re.search(pat, body)
-        if m:
-            try:
-                v = float(m.group(1))
-                if 0 <= v <= 10:
-                    score = v; break
-            except ValueError:
-                pass
+    strong = False   # True when the page states it as the review's rating (most trusted)
+    # Pitchfork scores are 0-10 with one decimal (8.7, 10.0); other numbers on the page (like "score":0.0677) are something else
+    for pat in (r'"ratingValue"\s*:\s*"?([\d.]+)', r'"rating"\s*:\s*"?([\d.]+)', r'"score"\s*:\s*"?([\d.]+)', r'class="[^"]*Rating[^"]*"[^>]*>\s*([\d.]+)\s*<'):
+        for m in re.finditer(pat, body):
+            if real_score(m.group(1)):
+                score = float(m.group(1)); strong = pat.startswith('"ratingValue'); break
+        if score is not None:
+            break
     m = re.search(r'"datePublished"\s*:\s*"(\d{4})', body) or re.search(r'"pubDate"\s*:\s*"(\d{4})', body) or re.search(r'<time[^>]*datetime="(\d{4})', body)
     if m:
         year = int(m.group(1))
     t = re.search(r"<title>(.*?)</title>", body, re.S)
-    return score, year, (t.group(1) if t else ""), clean_url(final)
+    return score, year, (t.group(1) if t else ""), clean_url(final), strong
 
 
 def guess(artist, title):
@@ -149,6 +156,8 @@ def main():
     except Exception:
         data = {}
     found, tried = data.setdefault("found", {}), data.setdefault("tried", {})
+    for k in [k for k, v in found.items() if not real_score(v.get("s"))]:   # a wrong number was read as the score (first run): look again
+        del found[k]; tried.pop(k, None)
     old = (TODAY - dt.timedelta(days=RETRY_DAYS)).isoformat()
     todo = [a for a in albums if a["id"] not in found and tried.get(a["id"], "") <= old]
     print(f"{len(albums)} albums, {len(found)} reviews already found, {len(todo)} to look up.")
@@ -164,7 +173,8 @@ def main():
             url, wscore, wyear = w
             r = read_review(url)
             time.sleep(1)
-            score = r[0] if r and r[0] is not None else wscore
+            # the page's own rating first, then Wikipedia's score, then any other score-like number on the page
+            score = r[0] if r and r[4] else wscore if wscore is not None else (r[0] if r else None)
             year = (r[1] if r and r[1] else None) or wyear
             if score is not None:
                 hit = {"u": r[3] if r else url, "s": score, "y": year}
