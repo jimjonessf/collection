@@ -1,0 +1,39 @@
+# Every night: finds Spotify links for albums on the site that aren't in The Collection
+# (New Releases, Best Of, Discographies), a few hundred a night, so they get a play button.
+# Runs at about 1:23 AM Pacific; "Run workflow" on the Actions tab runs it right away.
+name: Spotify links
+
+on:
+  schedule:
+    - cron: "23 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Look up Spotify links
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: python3 weekly/spotify_links.py
+      - name: Save the results
+        run: |
+          git config user.name "The Collection nightly Spotify links"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add weekly/spotify_links.json
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit -m "Nightly Spotify links"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Saving didn't work (try $i), trying again in 20 seconds"; sleep 20
+          done
+          exit 1
