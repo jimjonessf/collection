@@ -63,7 +63,22 @@ def wiki_title(url):
     return urllib.parse.unquote(m.group(1)).replace("_", " ") if m else ""
 
 
-def from_wikipedia(wiki):
+def wiki_candidates(artist, title):
+    """Wikipedia articles that look like this album (for albums with no Wikipedia link of their own)."""
+    st, body, _ = get("https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(
+        {"action": "query", "list": "search", "srsearch": f'"{title}" {artist} album', "srlimit": 6, "format": "json"}))
+    if st != 200:
+        return []
+    try:
+        hits = json.loads(body)["query"]["search"]
+    except Exception:
+        return []
+    want = words(title)
+    return ["https://en.wikipedia.org/wiki/" + urllib.parse.quote(h["title"].replace(" ", "_"))
+            for h in hits if words(re.sub(r"\s*\(.*?\)$", "", h["title"])) == want][:2]
+
+
+def from_wikipedia(wiki, artist=None):
     """(review url, score from Wikipedia, year from the citation) or None."""
     t = wiki_title(wiki)
     if not t:
@@ -76,6 +91,12 @@ def from_wikipedia(wiki):
         text = json.loads(body)["parse"]["wikitext"]
     except Exception:
         return None
+    if artist:   # found by searching: make sure it's this artist's album (the infobox names the artist)
+        box = re.search(r"\|\s*artist\s*=\s*([^\n]*)", text, re.I)
+        named_artist = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", box.group(1) if box else text[:1500])   # [[Link|Name]] -> Name
+        want, have = set(words(artist)), set(words(named_artist))
+        if not want or not want <= have:
+            return None
     named = {m.group(1).strip().strip('"'): m.group(2) for m in re.finditer(r'<ref\s+name\s*=\s*"?([^">/]+)"?\s*>(.*?)</ref>', text, re.S | re.I)}
     score, url, year = None, None, None
     # the ratings box: "| rev4 = [[Pitchfork (website)|Pitchfork]]" then "| rev4score = {{Rating|8.7|10}}<ref ...>"
@@ -227,17 +248,34 @@ def main():
     nr, nr_tried = data.setdefault("nr", {}), data.setdefault("nr_tried", {})
     for k in [k for k, v in nr.items() if not real_score(v.get("s"))]:
         del nr[k]; nr_tried.pop(k, None)
+    if data.get("nr_method") != "wikipedia":   # Wikipedia was added for these (Nov 17): look again at the ones not found yet
+        nr_tried.clear(); data["nr_method"] = "wikipedia"
     todo_nr = [t for t in nr_targets(albums) if t[2] not in nr and nr_tried.get(t[2], "") <= old]
     print(f"New Releases: {len(nr)} reviews already found, {len(todo_nr)} to look up.")
     n_nr = 0
     for i, (artist, title, k) in enumerate(todo_nr, 1):
         if time.time() - START > MAX_MINUTES * 60:
             print("Out of time for this run; the next run carries on."); break
-        g = guess(artist, title)
-        time.sleep(1)
-        if g and g[1][0] is not None:
-            nr[k] = {"u": g[0], "s": g[1][0], "y": g[1][1]}; n_nr += 1
-            print(f"  NR [{i}/{len(todo_nr)}] {artist} - {title}: {g[1][0]} ({g[1][1]})")
+        hit = None
+        for w in wiki_candidates(artist, title):   # Wikipedia first (it also knows Pitchfork's older review addresses)
+            time.sleep(0.5)
+            got = from_wikipedia(w, artist)
+            if got:
+                url, wscore, wyear = got
+                r = read_review(url)
+                time.sleep(1)
+                score = r[0] if r and r[4] else wscore if wscore is not None else (r[0] if r else None)
+                if real_score(score):
+                    hit = {"u": r[3] if r else url, "s": float(score), "y": (r[1] if r and r[1] else None) or wyear}
+                break
+        if not hit:
+            g = guess(artist, title)
+            time.sleep(1)
+            if g and real_score(g[1][0]):
+                hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
+        if hit:
+            nr[k] = hit; n_nr += 1
+            print(f"  NR [{i}/{len(todo_nr)}] {artist} - {title}: {hit['s']} ({hit['y']})")
         nr_tried[k] = TODAY.isoformat()
     print(f"New Releases: found {n_nr} new reviews; {len(nr)} in all.")
     data["updated"] = TODAY.isoformat()
