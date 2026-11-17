@@ -149,6 +149,42 @@ def guess(artist, title):
     return None
 
 
+def key(s):   # the same as the site's titleKey()
+    s = unicodedata.normalize("NFD", str(s or "").lower())
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]+", "", re.sub(r"^the\s+", "", s))
+
+
+CONCERT = re.compile(r"^\d{4}[-\u2010\u2011]\d{2}[-\u2010\u2011]\d{2}|\b\d{1,2}[-\u2010./]\d{1,2}[-\u2010./]\d{2,4}\b|\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.? \d{1,2},? \d{4}|radio (session|concert)|on the air|\bvol\.? ?\d", re.I)
+
+
+def nr_targets(albums):
+    """(artist, title, key) of the New Releases albums (last 12 years) not in the collection, newest first."""
+    artists = json.load(open(os.path.join(ROOT, "data", "artists.json")))
+    try:
+        newrel = json.load(open(os.path.join(ROOT, "weekly", "new_releases.json")))
+    except Exception:
+        newrel = {}
+    name = lambda k: (artists.get(k) or {}).get("name") or k
+    owned = {(key(a.get("artist")), key(a["title"])) for a in albums} | {(key(name(a.get("artistKey", ""))), key(a["title"])) for a in albums}
+    first = TODAY.year - 11
+    rows = []
+    for k, art in artists.items():
+        for s in art.get("studio_albums") or []:
+            if int(s.get("year") or 0) >= first and s.get("type") not in ("EP", "Compilation", "Remixes"):
+                rows.append((int(s["year"]), name(k), s["title"]))
+    for k, lst in (newrel.get("albums") or {}).items():
+        for r in lst:
+            if int(r.get("year") or 0) >= first and not r.get("archival") and (not r.get("live") or (r.get("vinyl") and not CONCERT.search(r["title"]))):
+                rows.append((int(r["year"]), name(k), r["title"]))
+    out, seen = [], set()
+    for y, artist, title in sorted(rows, reverse=True):
+        k = key(artist) + "|" + key(title)
+        if k not in seen and (key(artist), key(title)) not in owned and "various" not in artist.lower():
+            seen.add(k); out.append((artist, title, k))
+    return out
+
+
 def main():
     albums = json.load(open(os.path.join(ROOT, "data", "albums.json")))
     try:
@@ -187,6 +223,23 @@ def main():
             found[a["id"]] = hit; n_new += 1
             print(f"  [{i}/{len(todo)}] {artist} - {title}: {hit['s']} ({hit['y']})")
         tried[a["id"]] = TODAY.isoformat()
+    # New Releases (the site's last 12 years) by artists in the collection, owned or not: Pitchfork's usual review address
+    nr, nr_tried = data.setdefault("nr", {}), data.setdefault("nr_tried", {})
+    for k in [k for k, v in nr.items() if not real_score(v.get("s"))]:
+        del nr[k]; nr_tried.pop(k, None)
+    todo_nr = [t for t in nr_targets(albums) if t[2] not in nr and nr_tried.get(t[2], "") <= old]
+    print(f"New Releases: {len(nr)} reviews already found, {len(todo_nr)} to look up.")
+    n_nr = 0
+    for i, (artist, title, k) in enumerate(todo_nr, 1):
+        if time.time() - START > MAX_MINUTES * 60:
+            print("Out of time for this run; the next run carries on."); break
+        g = guess(artist, title)
+        time.sleep(1)
+        if g and g[1][0] is not None:
+            nr[k] = {"u": g[0], "s": g[1][0], "y": g[1][1]}; n_nr += 1
+            print(f"  NR [{i}/{len(todo_nr)}] {artist} - {title}: {g[1][0]} ({g[1][1]})")
+        nr_tried[k] = TODAY.isoformat()
+    print(f"New Releases: found {n_nr} new reviews; {len(nr)} in all.")
     data["updated"] = TODAY.isoformat()
     with open(OUT + ".tmp", "w") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
