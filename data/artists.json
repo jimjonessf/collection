@@ -4046,15 +4046,15 @@
    },
    {
     "year": 1965,
-    "title": "The Roar of the Greasepaint"
-   },
-   {
-    "year": 1965,
     "title": "Extensions"
    },
    {
     "year": 1965,
     "title": "Rhapsody"
+   },
+   {
+    "year": 1965,
+    "title": "The Roar of the Greasepaint"
    },
    {
     "year": 1966,
@@ -4082,11 +4082,11 @@
    },
    {
     "year": 1974,
-    "title": "Jamalca"
+    "title": "Jamal Plays Jamal"
    },
    {
     "year": 1974,
-    "title": "Jamal Plays Jamal"
+    "title": "Jamalca"
    },
    {
     "year": 1975,
@@ -4109,6 +4109,14 @@
     "title": "Night Song"
    },
    {
+    "year": 1982,
+    "title": "American Classical Music"
+   },
+   {
+    "year": 1982,
+    "title": "Goodbye Mr. Evans"
+   },
+   {
     "year": 1985,
     "title": "Digital Works"
    },
@@ -4126,19 +4134,27 @@
    },
    {
     "year": 1994,
-    "title": "I Remember Duke, Hoagy & Strayhorn"
+    "title": "Ahmad Jamal at Home"
    },
    {
-    "year": 1995,
-    "title": "The Essence Part One"
+    "year": 1994,
+    "title": "I Remember Duke, Hoagy & Strayhorn"
    },
    {
     "year": 1995,
     "title": "Big Byrd: The Essence Part 2"
    },
    {
+    "year": 1995,
+    "title": "The Essence Part One"
+   },
+   {
     "year": 1997,
     "title": "Nature: The Essence Part Three"
+   },
+   {
+    "year": 1998,
+    "title": "Ahmad Jamal with The Assai Quartet"
    },
    {
     "year": 2001,
@@ -4163,6 +4179,10 @@
    {
     "year": 2013,
     "title": "Saturday Morning"
+   },
+   {
+    "year": 2013,
+    "title": "Saturday Morning: La Buissonne Studio Sessions"
    },
    {
     "year": 2017,
@@ -21506,185 +21526,6 @@
    {
     "year": 2025,
     "title": "Remembering Now"
-   }
-  ]
- },
- "The Ahmad Jamal Trio": {
-  "name": "The Ahmad Jamal Trio",
-  "wiki_url": "https://en.wikipedia.org/wiki/Ahmad_Jamal",
-  "summary": "The piano trio led by American jazz pianist Ahmad Jamal (1930-2023), born Frederick Russell Jones in Pittsburgh. His 1958 live set At the Pershing: But Not for Me was a major commercial success and influenced Miles Davis, and he was later named an NEA Jazz Master.",
-  "studio_albums": [
-   {
-    "year": 1955,
-    "title": "Ahmad Jamal Plays"
-   },
-   {
-    "year": 1955,
-    "title": "The Ahmad Jamal Trio"
-   },
-   {
-    "year": 1956,
-    "title": "Count 'Em 88"
-   },
-   {
-    "year": 1958,
-    "title": "Poinciana"
-   },
-   {
-    "year": 1960,
-    "title": "Happy Moods"
-   },
-   {
-    "year": 1960,
-    "title": "Listen to the Ahmad Jamal Quintet"
-   },
-   {
-    "year": 1962,
-    "title": "Macanudo"
-   },
-   {
-    "year": 1965,
-    "title": "The Roar of the Greasepaint"
-   },
-   {
-    "year": 1965,
-    "title": "Extensions"
-   },
-   {
-    "year": 1965,
-    "title": "Rhapsody"
-   },
-   {
-    "year": 1966,
-    "title": "Heat Wave"
-   },
-   {
-    "year": 1967,
-    "title": "Cry Young"
-   },
-   {
-    "year": 1968,
-    "title": "The Bright, the Blue and the Beautiful"
-   },
-   {
-    "year": 1968,
-    "title": "Tranquility"
-   },
-   {
-    "year": 1970,
-    "title": "The Awakening"
-   },
-   {
-    "year": 1973,
-    "title": "Ahmad Jamal '73"
-   },
-   {
-    "year": 1974,
-    "title": "Jamalca"
-   },
-   {
-    "year": 1974,
-    "title": "Jamal Plays Jamal"
-   },
-   {
-    "year": 1975,
-    "title": "Genetic Walk"
-   },
-   {
-    "year": 1976,
-    "title": "Steppin' Out with a Dream"
-   },
-   {
-    "year": 1978,
-    "title": "One"
-   },
-   {
-    "year": 1980,
-    "title": "Intervals"
-   },
-   {
-    "year": 1980,
-    "title": "Night Song"
-   },
-   {
-    "year": 1982,
-    "title": "American Classical Music"
-   },
-   {
-    "year": 1982,
-    "title": "Goodbye Mr. Evans"
-   },
-   {
-    "year": 1985,
-    "title": "Digital Works"
-   },
-   {
-    "year": 1986,
-    "title": "Rossiter Road"
-   },
-   {
-    "year": 1987,
-    "title": "Crystal"
-   },
-   {
-    "year": 1989,
-    "title": "Pittsburgh"
-   },
-   {
-    "year": 1994,
-    "title": "I Remember Duke, Hoagy & Strayhorn"
-   },
-   {
-    "year": 1994,
-    "title": "Ahmad Jamal at Home"
-   },
-   {
-    "year": 1995,
-    "title": "The Essence Part One"
-   },
-   {
-    "year": 1995,
-    "title": "Big Byrd: The Essence Part 2"
-   },
-   {
-    "year": 1997,
-    "title": "Nature: The Essence Part Three"
-   },
-   {
-    "year": 1998,
-    "title": "Ahmad Jamal with The Assai Quartet"
-   },
-   {
-    "year": 2001,
-    "title": "Picture Perfect"
-   },
-   {
-    "year": 2003,
-    "title": "In Search of Momentum"
-   },
-   {
-    "year": 2007,
-    "title": "It's Magic"
-   },
-   {
-    "year": 2009,
-    "title": "A Quiet Time"
-   },
-   {
-    "year": 2011,
-    "title": "Blue Moon"
-   },
-   {
-    "year": 2013,
-    "title": "Saturday Morning: La Buissonne Studio Sessions"
-   },
-   {
-    "year": 2016,
-    "title": "Marseille"
-   },
-   {
-    "year": 2019,
-    "title": "Ballades"
    }
   ]
  },
