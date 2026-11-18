@@ -179,6 +179,9 @@ def key(s):   # the same as the site's titleKey()
 CONCERT = re.compile(r"^\d{4}[-\u2010\u2011]\d{2}[-\u2010\u2011]\d{2}|\b\d{1,2}[-\u2010./]\d{1,2}[-\u2010./]\d{2,4}\b|\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.? \d{1,2},? \d{4}|radio (session|concert)|on the air|\bvol\.? ?\d", re.I)
 
 
+YEAR = {}   # New Releases album -> its release year
+
+
 def nr_targets(albums):
     """(artist, title, key) of the New Releases albums (last 12 years) not in the collection, newest first."""
     artists = json.load(open(os.path.join(ROOT, "data", "artists.json")))
@@ -202,7 +205,7 @@ def nr_targets(albums):
     for y, artist, title in sorted(rows, reverse=True):
         k = key(artist) + "|" + key(title)
         if k not in seen and (key(artist), key(title)) not in owned and "various" not in artist.lower():
-            seen.add(k); out.append((artist, title, k))
+            seen.add(k); out.append((artist, title, k)); YEAR[k] = y
     return out
 
 
@@ -250,10 +253,16 @@ def main():
         del nr[k]; nr_tried.pop(k, None)
     if data.get("nr_method") != "wikipedia":   # Wikipedia was added for these (Nov 17): look again at the ones not found yet
         nr_tried.clear(); data["nr_method"] = "wikipedia"
-    todo_nr = [t for t in nr_targets(albums) if t[2] not in nr and nr_tried.get(t[2], "") <= old]
+    targets = nr_targets(albums)
+    # a review from years before the album came out is of a different (older) album: drop it
+    early = lambda k, h: h.get("y") and YEAR.get(k) and int(h["y"]) < YEAR[k] - 1
+    for k in [k for k, v in nr.items() if early(k, v)]:
+        del nr[k]
+    todo_nr = [t for t in targets if t[2] not in nr and nr_tried.get(t[2], "") <= old]
     print(f"New Releases: {len(nr)} reviews already found, {len(todo_nr)} to look up.")
     n_nr = 0
     for i, (artist, title, k) in enumerate(todo_nr, 1):
+        hit = None
         if time.time() - START > MAX_MINUTES * 60:
             print("Out of time for this run; the next run carries on."); break
         hit = None
@@ -273,6 +282,8 @@ def main():
             time.sleep(1)
             if g and real_score(g[1][0]):
                 hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
+        if hit and early(k, hit):
+            hit = None
         if hit:
             nr[k] = hit; n_nr += 1
             print(f"  NR [{i}/{len(todo_nr)}] {artist} - {title}: {hit['s']} ({hit['y']})")
