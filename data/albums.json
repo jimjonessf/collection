@@ -78270,7 +78270,7 @@
   ],
   "styles": [],
   "notes": "",
-  "cover": "covers/ALB0645.jpg",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d5/0f/06/d50f06da-4671-e17a-ec44-bcf608432c16/191924085140.jpg/600x600bb.jpg",
   "tracks": [
    {
     "p": "1",
@@ -78344,10 +78344,7 @@
   "vinylColor": "White",
   "medium": "Vinyl",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d5/0f/06/d50f06da-4671-e17a-ec44-bcf608432c16/191924085140.jpg/1400x1400bb.jpg",
-  "rpm": "33",
-  "ct": [
-   "words"
-  ]
+  "rpm": "33"
  },
  {
   "id": "ALB0646",
