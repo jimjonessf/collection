@@ -158,6 +158,29 @@ def read_review(url):
     return score, year, (t.group(1) if t else ""), clean_url(final), strong
 
 
+def review_fits(r, url, artist, title):
+    """Is this review about this artist's album? (Wikipedia articles also cite reviews of covers and box sets.)
+    Returns (fits, several): several = the review covers more than one album, so its first score may belong to another."""
+    page = (r[2] if r else "") or urllib.parse.unquote(url.rstrip("/").rsplit("/", 1)[-1]).replace("-", " ")
+    page = re.sub(r"\s*(album review|\| pitchfork).*$", "", page, flags=re.I)
+    pw = set(words(page))
+    aw, tw = [w for w in words(artist) if len(w) > 1][:2], set(words(re.sub(r"\s*[\(\[].*?[\)\]]", "", title)))
+    fits = bool(tw) and tw <= pw and (not aw or set(aw) <= pw or not r)   # the album's name, and the artist when the page title is known
+    several = page.count("/") >= 1 or len(re.findall(r"edition|reissue|box", page, re.I)) > 1
+    return fits, several
+
+
+def pick_score(fits, several, r, wscore):
+    """The review's own rating; Wikipedia's score when the review covers several albums (its first score may be another album's)."""
+    if not fits:
+        return None
+    if r and r[4] and not several:
+        return r[0]
+    if wscore is not None:
+        return wscore
+    return r[0] if r and not several else None
+
+
 def guess(artist, title):
     """Pitchfork's usual review address for an album, if the page there is that album."""
     for t in dict.fromkeys([title, re.sub(r"\s*[\(\[].*?[\)\]]", "", title)]):
@@ -216,6 +239,12 @@ def main():
     except Exception:
         data = {}
     found, tried = data.setdefault("found", {}), data.setdefault("tried", {})
+    if data.get("check") != 2:   # Nov 20: reviews of covers / box sets were being matched; check every found review again
+        for k in list(found): tried.pop(k, None)
+        found.clear()
+        for k in list(data.get("nr") or {}): (data.get("nr_tried") or {}).pop(k, None)
+        (data.get("nr") or {}).clear()
+        data["check"] = 2
     for k in [k for k, v in found.items() if not real_score(v.get("s"))]:   # a wrong number was read as the score (first run): look again
         del found[k]; tried.pop(k, None)
     old = (TODAY - dt.timedelta(days=RETRY_DAYS)).isoformat()
@@ -233,11 +262,12 @@ def main():
             url, wscore, wyear = w
             r = read_review(url)
             time.sleep(1)
-            # the page's own rating first, then Wikipedia's score, then any other score-like number on the page
-            score = r[0] if r and r[4] else wscore if wscore is not None else (r[0] if r else None)
+            fits, several = review_fits(r, url, artist, title)
+            # the page's own rating first (unless the review covers several albums), then Wikipedia's score
+            score = pick_score(fits, several, r, wscore)
             year = (r[1] if r and r[1] else None) or wyear
-            if score is not None:
-                hit = {"u": r[3] if r else url, "s": score, "y": year}
+            if fits and real_score(score):
+                hit = {"u": r[3] if r else url, "s": float(score), "y": year}
         if not hit and "various" not in artist.lower():
             g = guess(artist, title)
             time.sleep(1)
@@ -273,8 +303,9 @@ def main():
                 url, wscore, wyear = got
                 r = read_review(url)
                 time.sleep(1)
-                score = r[0] if r and r[4] else wscore if wscore is not None else (r[0] if r else None)
-                if real_score(score):
+                fits, several = review_fits(r, url, artist, title)
+                score = pick_score(fits, several, r, wscore)
+                if fits and real_score(score):
                     hit = {"u": r[3] if r else url, "s": float(score), "y": (r[1] if r and r[1] else None) or wyear}
                 break
         if not hit:
