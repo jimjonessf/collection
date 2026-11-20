@@ -207645,7 +207645,10 @@
   "artistKey": "The Who",
   "spAlbum": "7b6rd6kJHUKcs8pk8hcXxR",
   "vinylColor": "",
-  "medium": "Vinyl"
+  "medium": "Vinyl",
+  "ct": [
+   "black_white"
+  ]
  },
  {
   "id": "ALB1258",
