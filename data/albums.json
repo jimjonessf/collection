@@ -1655,7 +1655,8 @@
   "rpm": "33",
   "ct": [
    "animal"
-  ]
+  ],
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0016",
@@ -7852,7 +7853,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0366",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/ed/ab/d5edab8a-e47e-cb87-66c2-3bac86e1b5e2/081227998684.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0036",
@@ -7969,7 +7971,8 @@
   "ct": [
    "naked",
    "faces"
-  ]
+  ],
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0037",
@@ -8122,7 +8125,8 @@
   "alsoIds": [
    "ALB0655"
   ],
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0038",
@@ -12542,7 +12546,8 @@
    "animal",
    "words",
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2023-02-09"
  },
  {
   "id": "ALB0072",
@@ -17426,7 +17431,8 @@
   "rpm": "33",
   "ct": [
    "animal"
-  ]
+  ],
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0113",
@@ -19928,7 +19934,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0251",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/7f/9f/d6/mzi.vtnaewef.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0134",
@@ -21892,7 +21899,8 @@
   "rpm": "33",
   "ct": [
    "yellow"
-  ]
+  ],
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0152",
@@ -22902,7 +22910,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0267",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/ef/88/7aef88ad-25aa-be91-eb78-8917c3f114f7/603497894130.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2024-02-04"
  },
  {
   "id": "ALB0160",
@@ -25194,7 +25203,8 @@
   "ct": [
    "naked",
    "faces"
-  ]
+  ],
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0180",
@@ -27183,7 +27193,8 @@
   "ct": [
    "faces",
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2024-02-15"
  },
  {
   "id": "ALB0196",
@@ -28721,7 +28732,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0190",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/e2/c3/6ce2c349-4169-df92-e5ca-2faba4cf087f/09UMGIM13824.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0210",
@@ -32797,7 +32809,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/9d/bf/209dbf58-f698-7181-33de-0c29480beba0/074640084126.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0246",
@@ -33724,7 +33737,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0057",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/7c/44/847c4413-2f88-158a-bd26-d1b762b8a759/13UABIM00019.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0254",
@@ -34959,7 +34973,8 @@
   "rpm": "33",
   "ct": [
    "animal"
-  ]
+  ],
+  "cdAcquired": "2023-02-09"
  },
  {
   "id": "ALB0262",
@@ -35185,7 +35200,8 @@
   "rpm": "33",
   "ct": [
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2023-02-09"
  },
  {
   "id": "ALB0263",
@@ -36318,7 +36334,8 @@
   "vinylColor": "",
   "medium": "Vinyl & CD",
   "cdId": "CD0118",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0272",
@@ -37373,7 +37390,8 @@
   "rpm": "33",
   "ct": [
    "plant"
-  ]
+  ],
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0280",
@@ -38624,7 +38642,8 @@
   "rpm": "33",
   "ct": [
    "plant"
-  ]
+  ],
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0288",
@@ -39242,7 +39261,8 @@
   "cdId": "CD0180",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a7/73/c1/a773c1f0-281c-324c-204f-540444080ea8/886443445697.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0293",
@@ -39807,7 +39827,8 @@
   "rpm": "33",
   "ct": [
    "green"
-  ]
+  ],
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0297",
@@ -40189,7 +40210,8 @@
   "rpm": "33",
   "ct": [
    "food"
-  ]
+  ],
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0301",
@@ -40438,7 +40460,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0130",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0303",
@@ -41084,7 +41107,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0132",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/32/33/78/32337882-4dcf-b4ff-c2b1-988297b1aa2a/dj.bazmvvpg.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0310",
@@ -41477,7 +41501,8 @@
    "animal",
    "faces",
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0313",
@@ -41710,7 +41735,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/e7/70/a5e7703c-4e30-da7a-a319-2d3caef42c0e/23UM1IM04872.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0315",
@@ -42458,7 +42484,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0322",
@@ -43516,7 +43543,8 @@
   "rpm": "33",
   "ct": [
    "animal"
-  ]
+  ],
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0330",
@@ -45877,7 +45905,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0312",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/01/98/520198ed-cb65-f8e5-40fb-8b564cc5280f/743211835626.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-09"
  },
  {
   "id": "ALB0349",
@@ -46689,7 +46718,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/23/6e/b1236e8f-d1d6-4ee8-284e-4e91d155c504/081227003661.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0355",
@@ -47053,7 +47083,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/19/0c/af190c65-23fc-4f5f-a317-ef983601f7c0/603497838691.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0358",
@@ -48099,7 +48130,8 @@
   "rpm": "33",
   "ct": [
    "naked"
-  ]
+  ],
+  "cdAcquired": "2024-02-15"
  },
  {
   "id": "ALB0367",
@@ -53673,7 +53705,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0032",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/cb/20/93cb201b-154b-7b74-a10b-48fbef9b3281/888880348937.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-10"
  },
  {
   "id": "ALB0422",
@@ -54742,7 +54775,8 @@
   "rpm": "33",
   "ct": [
    "animal"
-  ]
+  ],
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0431",
@@ -56473,7 +56507,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0449",
@@ -58155,7 +58190,8 @@
   "vinylColor": "",
   "medium": "Vinyl & CD",
   "cdId": "CD0117",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0466",
@@ -58471,7 +58507,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0145",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/24/aa/e524aacd-467b-66f3-8931-0fcd6750a4b9/08UMGIM07914.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0469",
@@ -59473,7 +59510,8 @@
   "cdNote": "CD listed in your My CDs playlist",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/3c/98/633c98ab-b4f3-3f40-798b-bdb49d923468/074640878626.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0478",
@@ -60174,7 +60212,8 @@
   "rpm": "33",
   "ct": [
    "words"
-  ]
+  ],
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0484",
@@ -63432,7 +63471,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/91/1b/88911b7b-a63f-4624-3fb1-2976b628c59a/603497886340.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0513",
@@ -64215,7 +64255,8 @@
   "rpm": "33",
   "ct": [
    "naked"
-  ]
+  ],
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0520",
@@ -65322,7 +65363,8 @@
   "rpm": "33",
   "ct": [
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0532",
@@ -66150,7 +66192,8 @@
   "ct": [
    "faces",
    "red"
-  ]
+  ],
+  "cdAcquired": "2023-02-01"
  },
  {
   "id": "ALB0539",
@@ -67745,7 +67788,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/86/92/dd86925d-484d-8ee7-3985-ef3264214269/602527644264.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0553",
@@ -68200,7 +68244,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/8a/83/238a8346-7a18-a507-ccb7-a86cbaee9d7c/mzi.orgozngz.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-01"
  },
  {
   "id": "ALB0557",
@@ -70291,7 +70336,8 @@
   "rpm": "33",
   "ct": [
    "food"
-  ]
+  ],
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0575",
@@ -70410,7 +70456,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0156",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/96/14/21961489-3856-0329-410e-22e4e293bb02/17UMGIM87715.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0576",
@@ -70545,7 +70592,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/d5/bb/90d5bb3b-12a9-e1d8-1102-4d1c97458e49/17UMGIM98835.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0577",
@@ -71175,7 +71223,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f8/53/0d/f8530d79-f919-63e4-be62-d2748d102841/00859523001021_Cover.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0582",
@@ -71413,7 +71462,8 @@
   "rpm": "33",
   "ct": [
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0584",
@@ -74667,7 +74717,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0048",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6e/30/fe/6e30fe11-cf9e-5c80-96b8-8bdc2f1a121b/081227898168.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-10"
  },
  {
   "id": "ALB0613",
@@ -74774,7 +74825,8 @@
   "rpm": "33",
   "ct": [
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0614",
@@ -75058,7 +75110,8 @@
   "rpm": "33",
   "ct": [
    "faces"
-  ]
+  ],
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0616",
@@ -79131,7 +79184,8 @@
   "rpm": "33",
   "ct": [
    "animal"
-  ]
+  ],
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0652",
@@ -79249,7 +79303,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0109",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/a9/b3/e8a9b351-578c-12b7-4cc4-791b90fac17b/00602537796731.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0653",
@@ -80748,7 +80803,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0163",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/5b/a7/815ba7da-d5ca-23fb-7177-7b391c82f514/17UMGIM95502.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB0664",
@@ -81383,7 +81439,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0255",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/5d/42/315d42ce-adda-ed7d-f21b-307e00aec454/17UMGIM94891.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0669",
@@ -83283,7 +83340,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0088",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0684",
@@ -86124,7 +86182,8 @@
   "rpm": "33",
   "ct": [
    "plant"
-  ]
+  ],
+  "cdAcquired": "2024-02-22"
  },
  {
   "id": "ALB0706",
@@ -86228,7 +86287,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/ff/c0/f8ffc056-55b4-2033-657d-32492d1eea25/827969239926.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0707",
@@ -86453,7 +86513,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e8/49/28/e84928b3-d1d7-1742-f572-82837bbb0a0b/603497838745.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-10"
  },
  {
   "id": "ALB0709",
@@ -89548,7 +89609,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0053",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/2d/88/a42d887c-e176-b4ee-ebc0-e5bd45bd244b/075679930446.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0733",
@@ -90459,7 +90521,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0058",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0740",
@@ -91347,7 +91410,8 @@
   "rpm": "33",
   "ct": [
    "faces"
-  ]
+  ],
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0747",
@@ -98015,7 +98079,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a4/67/ba/a467ba62-87df-9d10-98d2-c517f68ac870/16UMGIM60882.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0798",
@@ -98956,7 +99021,8 @@
   "rpm": "33",
   "ct": [
    "faces"
-  ]
+  ],
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0804",
@@ -102232,7 +102298,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/cc/eb/79ccebad-c071-ad53-2aa7-aeef95f8f4bf/603497920983.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0828",
@@ -102346,7 +102413,8 @@
   "cdId": "CD0263",
   "alsoIds": [
    "CD0263"
-  ]
+  ],
+  "cdAcquired": "2024-02-04"
  },
  {
   "id": "ALB0829",
@@ -110246,7 +110314,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0261",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/94/37/57943788-4a20-07db-1ed9-1fd526a7d0f4/mzi.wfxekfgc.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-05"
  },
  {
   "id": "ALB0888",
@@ -111464,7 +111533,8 @@
   "ct": [
    "animal",
    "faces"
-  ]
+  ],
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0898",
@@ -111908,7 +111978,8 @@
   "ct": [
    "animal",
    "plant"
-  ]
+  ],
+  "cdAcquired": "2023-02-04"
  },
  {
   "id": "ALB0901",
@@ -112067,7 +112138,8 @@
   "rpm": "33",
   "ct": [
    "animal"
-  ]
+  ],
+  "cdAcquired": "2023-02-14"
  },
  {
   "id": "ALB0902",
@@ -112409,7 +112481,8 @@
   "vinylColor": "",
   "medium": "Vinyl & CD",
   "cdId": "CD0313",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-09"
  },
  {
   "id": "ALB0905",
@@ -113366,7 +113439,8 @@
   "cdNote": "CD listed in your My CDs playlist",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/3f/7d/793f7d12-0265-b45c-b420-89a9202af385/26UMGIM96186.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-10"
  },
  {
   "id": "ALB0912",
@@ -114258,7 +114332,8 @@
   "cdNote": "CD listed in your My CDs playlist",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/1e/55/781e55ac-b0e5-67f4-89c0-658325c3dafa/17UMGIM98832.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2024-02-15"
  },
  {
   "id": "ALB0919",
@@ -114843,7 +114918,8 @@
   "cdNote": "CD listed in your My CDs playlist",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/3f/1a/ad/3f1aad23-1f92-4d66-0ca7-d835c3f79b6b/dj.mtxlnrdd.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-01-31"
  },
  {
   "id": "ALB0924",
@@ -115082,7 +115158,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/2a/a5/d52aa579-123d-81eb-f094-62ea82ef744a/13ABKIM00039.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0926",
@@ -123288,7 +123365,8 @@
   "medium": "Vinyl & CD",
   "cdNote": "CD listed in your My CDs playlist",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/7b/39/22/7b3922b9-61c1-5ad9-4c68-25f41f3fd402/dj.orqmjfhi.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-03"
  },
  {
   "id": "ALB0997",
@@ -126142,7 +126220,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0125",
   "persSrc": "Wikipedia",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB1022",
@@ -143177,7 +143256,8 @@
   "cdId": "CD0342",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2024-02-04"
  },
  {
   "id": "ALB1184",
@@ -143424,7 +143504,8 @@
   "rpm": "33",
   "ct": [
    "black_white"
-  ]
+  ],
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB1186",
@@ -143578,7 +143659,8 @@
   "medium": "Vinyl & CD",
   "cdId": "CD0331",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/e3/12/3ce31251-9bc9-f6fc-1aec-6cdb216985e9/724384599751.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdAcquired": "2024-02-04"
  },
  {
   "id": "ALB1187",
@@ -206429,7 +206511,8 @@
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/d6/0972d653-f610-3995-85d3-6656c21e0b31/06UMGIM43473.rgb.jpg/1400x1400bb.jpg",
   "alsoIds": [
    "CD0177"
-  ]
+  ],
+  "cdAcquired": "2023-02-02"
  },
  {
   "id": "ALB1247",
