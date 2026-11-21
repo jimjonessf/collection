@@ -132979,7 +132979,168 @@
   ],
   "notes": "",
   "cover": "covers/ALB1105.jpg",
-  "tracks": [],
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Harmony Cats' Theme",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Harmony Cats"
+    ]
+   },
+   {
+    "p": "A2",
+    "t": "Sorriso Vermelho",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Luiza Maura"
+    ]
+   },
+   {
+    "p": "A3",
+    "t": "Ela Tem Raça, Charme, Talento E Gostosura",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Gretchen"
+    ]
+   },
+   {
+    "p": "A4",
+    "t": "Edmundo (In The Mood)",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Coisa Quente"
+    ]
+   },
+   {
+    "p": "B1",
+    "t": "Venha (Remix)",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Zé Carlos"
+    ]
+   },
+   {
+    "p": "B2",
+    "t": "Suspira",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Robson Jorge & Lincoln Olivetti"
+    ]
+   },
+   {
+    "p": "B3",
+    "t": "Pássaro Selvagem",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Os Carbonos"
+    ]
+   },
+   {
+    "p": "B4",
+    "t": "Fofa",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "San Rodrigues"
+    ]
+   },
+   {
+    "p": "C1",
+    "t": "Parabéns (Dança Do Daniel)",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Marcos Valle"
+    ]
+   },
+   {
+    "p": "C2",
+    "t": "Sol De Verão",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Lafayette"
+    ]
+   },
+   {
+    "p": "C3",
+    "t": "Fevereiro (O Bamba)",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Roberto César"
+    ]
+   },
+   {
+    "p": "D1",
+    "t": "Quero Ser Sua Mulher",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Arlete"
+    ]
+   },
+   {
+    "p": "D2",
+    "t": "Queima Como Fogo",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Waldirene"
+    ]
+   },
+   {
+    "p": "D3",
+    "t": "Deixa Girar",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Luiza Maura"
+    ]
+   },
+   {
+    "p": "D4",
+    "t": "Rio Babilônia",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Jorge Ben"
+    ]
+   },
+   {
+    "p": "D5",
+    "t": "Elo",
+    "d": "",
+    "sp": "",
+    "src": "Rush Hour",
+    "ar": [
+     "Carlos Bivar"
+    ]
+   }
+  ],
   "released": "2025-03-21",
   "wiki": "",
   "about": "",
@@ -165616,43 +165777,6 @@
   "acqLabel": "1990 - 2005"
  },
  {
-  "id": "CD0206",
-  "artist": "Rhapsodesia",
-  "title": "Music And Martinis For Lovers Only!",
-  "year": 1996,
-  "label": "",
-  "catno": "",
-  "edition": "CD",
-  "reissue": "",
-  "type": "",
-  "personnel": [],
-  "discs": "",
-  "acquired": "1996-01-01",
-  "discogs": "",
-  "genres": [
-   "Jazz"
-  ],
-  "styles": [
-   "Easy Listening"
-  ],
-  "notes": "",
-  "cover": "covers/CD0206.jpg",
-  "tracks": [],
-  "released": "",
-  "wiki": "",
-  "about": "",
-  "artistKey": "Rhapsodesia",
-  "spAlbum": "",
-  "vinylColor": "",
-  "medium": "CD",
-  "cdYear": "",
-  "ct": [
-   "food",
-   "orange"
-  ],
-  "acqLabel": "1990 - 2005"
- },
- {
   "id": "CD0207",
   "artist": "Michael Feinstein",
   "title": "Pure Imagination",
@@ -168816,7 +168940,225 @@
   ],
   "notes": "",
   "cover": "covers/CD0226.jpg",
-  "tracks": [],
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Taking the Field",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "2",
+    "t": "Big C",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "3",
+    "t": "Sons of California",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "4",
+    "t": "Roll, Big CA Roll",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "5",
+    "t": "Hail to California Alma Mater",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "6",
+    "t": "Everybody's Everything",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "7",
+    "t": "In the Stone",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "8",
+    "t": "Heartbreaker",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "9",
+    "t": "Runaway 007",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "10",
+    "t": "Hazy Shade of Winter",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "11",
+    "t": "Carry On Wayward Son",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "12",
+    "t": "You Could Be Mine",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "13",
+    "t": "I'm Just a Singer (In a Rock'n'Roll Band)",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "14",
+    "t": "Frankenstein",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "15",
+    "t": "Go Back Home",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "16",
+    "t": "White Rabbit",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "17",
+    "t": "Limelight",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "18",
+    "t": "Welcome to the Jungle",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "19",
+    "t": "Classical Gas",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "20",
+    "t": "You Better You Bet",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "21",
+    "t": "Hello My Baby",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "22",
+    "t": "China Grove",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "23",
+    "t": "Story In Your Eyes",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "24",
+    "t": "Wherever I May Roam",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "25",
+    "t": "Midnight On A Full Moon",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "26",
+    "t": "Rock That!",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "27",
+    "t": "Don't Tell Me You Love Me",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "28",
+    "t": "Pull Me Under",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "29",
+    "t": "Hot Time",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "30",
+    "t": "Livin' In the USA",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "31",
+    "t": "Aggie Fight",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   }
+  ],
   "released": "1998",
   "wiki": "",
   "about": "",
@@ -168970,7 +169312,197 @@
   ],
   "notes": "",
   "cover": "covers/CD0228.jpg",
-  "tracks": [],
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Far From Over",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "2",
+    "t": "Night Train",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "3",
+    "t": "Enter Sandman",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "4",
+    "t": "Swing Don't Mean Jack...",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "5",
+    "t": "Come Sail Away",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "6",
+    "t": "Hell",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "7",
+    "t": "Attitude Dance",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "8",
+    "t": "Time Again",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "9",
+    "t": "Little Differences",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "10",
+    "t": "Crazy Train",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "11",
+    "t": "Talk to Me",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "12",
+    "t": "Welcome to Paradise",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "13",
+    "t": "Holding Out for a Hero",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "14",
+    "t": "Sweet Child O' Mine",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "15",
+    "t": "Majesty of Rock",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "16",
+    "t": "Radar Love",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "17",
+    "t": "Naturally",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "18",
+    "t": "Duel of the Fates",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "19",
+    "t": "Children of Sanchez",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "20",
+    "t": "Smokin'",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "21",
+    "t": "Rockin' the Paradise",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "22",
+    "t": "Tragic Kingdom",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "23",
+    "t": "Basketcase",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "24",
+    "t": "Zombie Stomp",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "25",
+    "t": "Alcohol",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "26",
+    "t": "Don't Stop Me Now",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "27",
+    "t": "Aggie Fight",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   }
+  ],
   "released": "2002",
   "wiki": "",
   "about": "",
@@ -169135,7 +169667,17 @@
   "edition": "CD",
   "reissue": "",
   "type": "",
-  "personnel": [],
+  "personnel": [
+   "Chrissy Coughlin – vocals, acoustic guitar, songwriter",
+   "Kent Allyn – piano, bass, acoustic guitar",
+   "Tim Pike – guitars, backing vocals",
+   "Brad Hallen – bass, upright bass",
+   "Steve Bankuti – drums, percussion",
+   "Ken Clark – Hammond B3 organ, Rhodes",
+   "Cliff Spencer – Wurlitzer, Rhodes",
+   "Christopher O'Donnell – Nord, synth strings",
+   "Matt Langley – saxophone"
+  ],
   "discs": "",
   "acquired": "2008-01-01",
   "discogs": "",
@@ -169148,9 +169690,80 @@
    "Folk Rock",
    "Acoustic"
   ],
-  "notes": "",
+  "notes": "Song order follows the lyric booklet. Big Log is by Robert Plant and Robbie Blunt; Quiet Nights of Quiet Stars (Corcovado) is by Antonio Carlos Jobim and Gene Lees.",
   "cover": "covers/CD0230.jpg",
-  "tracks": [],
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Back to You",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "2",
+    "t": "Watch Your Step",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "3",
+    "t": "Look Ahead",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "4",
+    "t": "On the Surface",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "5",
+    "t": "Big Log",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "6",
+    "t": "Perfect Time",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "7",
+    "t": "Wait for You",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "8",
+    "t": "Do It Out of Love",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "9",
+    "t": "Quiet Nights of Quiet Stars (Corcovado)",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "10",
+    "t": "Honesty",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   }
+  ],
   "released": "",
   "wiki": "",
   "about": "",
@@ -210052,7 +210665,7 @@
   ],
   "styles": [],
   "notes": "",
-  "cover": "",
+  "cover": "covers/CD0436.jpg",
   "tracks": [
    {
     "p": "1",
@@ -210095,7 +210708,10 @@
   "year": 1991,
   "type": "Single",
   "cdYear": "1991",
-  "acqLabel": "1990 - 2005"
+  "acqLabel": "1990 - 2005",
+  "ct": [
+   "red"
+  ]
  },
  {
   "label": "KTS (Kiss The Stone) – CD Music Co, Italy",
