@@ -24370,7 +24370,14 @@
     "year": 1964,
     "title": "The Guitar & Banjo of Reverend Gary Davis"
    }
-  ]
+  ],
+  "bea": {
+   "id": 11501,
+   "r": {
+    "harlemstreetsinger": 14873,
+    "saynotothedevil": 89118
+   }
+  }
  },
  "Sex Pistols": {
   "name": "Sex Pistols",
@@ -33597,7 +33604,14 @@
     "year": 2024,
     "title": "Twentyfour"
    }
-  ]
+  ],
+  "bea": {
+   "id": 4661,
+   "r": {
+    "fridaynightinsanfrancisco": 4183,
+    "saturdaynightinsanfrancisco": 72132
+   }
+  }
  },
  "The Notorious B.I.G.": {
   "name": "The Notorious B.I.G.",
@@ -37658,7 +37672,13 @@
     "year": 2012,
     "title": "Samba Club"
    }
-  ]
+  ],
+  "bea": {
+   "id": 56169,
+   "r": {
+    "akosdream": 26642
+   }
+  }
  },
  "Yamamoto Tsuyoshi Trio": {
   "name": "Yamamoto Tsuyoshi Trio",
@@ -39390,7 +39410,18 @@
     "year": 2025,
     "title": "Everybody Scream"
    }
-  ]
+  ],
+  "bea": {
+   "id": 3811,
+   "r": {
+    "ceremonials": 828,
+    "dancefever": 3668,
+    "everybodyscream": 6630,
+    "highashope": 3238,
+    "howbighowbluehowbeautiful": 1446,
+    "lungs": 715
+   }
+  }
  },
  "DMX": {
   "name": "DMX",

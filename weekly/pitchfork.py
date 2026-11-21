@@ -232,6 +232,31 @@ def nr_targets(albums):
     return out
 
 
+REISSUE_WORDS = re.compile(r"\s*[\(\[][^)\]]*(edition|anniversary|remaster|reissue|deluxe|expanded|mono|stereo|mix|version|vinyl|bonus)[^)\]]*[\)\]]|\s+-\s+.*$", re.I)
+
+
+def ri_targets(albums):
+    """(artist, title, key, plain title) of every Reissues album the site shows (all years) that isn't in the collection, newest first."""
+    artists = json.load(open(os.path.join(ROOT, "data", "artists.json")))
+    try:
+        newrel = json.load(open(os.path.join(ROOT, "weekly", "new_releases.json")))
+    except Exception:
+        newrel = {}
+    name = lambda k: (artists.get(k) or {}).get("name") or k
+    owned = {(key(a.get("artist")), key(a["title"])) for a in albums} | {(key(name(a.get("artistKey", ""))), key(a["title"])) for a in albums}
+    rows = []
+    for k, lst in (newrel.get("reissues") or {}).items():
+        for r in lst:
+            if not r.get("archival") and int(r.get("orig") or 9999) <= int(r.get("year") or 0) - 3:
+                rows.append((int(r.get("year") or 0), name(k), r["title"]))
+    out, seen = [], set()
+    for y, artist, title in sorted(rows, reverse=True):
+        k = key(artist) + "|" + key(title)
+        if k not in seen and (key(artist), key(title)) not in owned and "various" not in artist.lower():
+            seen.add(k); out.append((artist, title, k, REISSUE_WORDS.sub("", title).strip() or title))
+    return out
+
+
 def main():
     albums = json.load(open(os.path.join(ROOT, "data", "albums.json")))
     try:
@@ -320,6 +345,44 @@ def main():
             print(f"  NR [{i}/{len(todo_nr)}] {artist} - {title}: {hit['s']} ({hit['y']})")
         nr_tried[k] = TODAY.isoformat()
     print(f"New Releases: found {n_nr} new reviews; {len(nr)} in all.")
+    # Reissues (every year on the site): Pitchfork's review of the reissue if it has one, otherwise its review of the original album
+    ri, ri_tried = data.setdefault("ri", {}), data.setdefault("ri_tried", {})
+    for k in [k for k, v in ri.items() if not real_score(v.get("s"))]:
+        del ri[k]; ri_tried.pop(k, None)
+    todo_ri = [t for t in ri_targets(albums) if t[2] not in ri and ri_tried.get(t[2], "") <= old]
+    print(f"Reissues: {len(ri)} reviews already found, {len(todo_ri)} to look up.")
+    n_ri = 0
+    for i, (artist, title, k, plain) in enumerate(todo_ri, 1):
+        if time.time() - START > MAX_MINUTES * 60:
+            print("Out of time for this run; the next run carries on."); break
+        hit = None
+        g = guess(artist, title)   # a review of the reissue itself, e.g. /reviews/albums/radiohead-ok-computer-oknotok-1997-2017/
+        time.sleep(1)
+        if g and real_score(g[1][0]):
+            hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
+        if not hit:
+            for w in wiki_candidates(artist, plain):   # the original album's Wikipedia article and the Pitchfork review it cites
+                time.sleep(0.5)
+                got = from_wikipedia(w, artist)
+                if got:
+                    url, wscore, wyear = got
+                    r = read_review(url)
+                    time.sleep(1)
+                    fits, several = review_fits(r, url, artist, plain)
+                    score = pick_score(fits, several, r, wscore)
+                    if fits and real_score(score):
+                        hit = {"u": r[3] if r else url, "s": float(score), "y": (r[1] if r and r[1] else None) or wyear}
+                    break
+        if not hit and plain != title:
+            g = guess(artist, plain)
+            time.sleep(1)
+            if g and real_score(g[1][0]):
+                hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
+        if hit:
+            ri[k] = hit; n_ri += 1
+            print(f"  RI [{i}/{len(todo_ri)}] {artist} - {title}: {hit['s']} ({hit['y']})")
+        ri_tried[k] = TODAY.isoformat()
+    print(f"Reissues: found {n_ri} new reviews; {len(ri)} in all.")
     data["updated"] = TODAY.isoformat()
     with open(OUT + ".tmp", "w") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
