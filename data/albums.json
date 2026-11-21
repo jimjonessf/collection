@@ -9999,9 +9999,34 @@
   "spAlbum": "3ywVzrwMQ3Kq43N9zBdBQm",
   "vinylColor": "Red and Black Swirl",
   "medium": "Vinyl",
-  "rpm": "33",
+  "rpm": "33 & 45",
   "ct": [
    "animal"
+  ],
+  "versions": [
+   {
+    "id": "ALB0052",
+    "catno": "4M161",
+    "discogs": "https://www.discogs.com/release/17170147-Funkadelic-Maggot-Brain",
+    "acquired": "2021-05-29",
+    "label": "Westbound Records",
+    "edition": "Reissue",
+    "reissue": 2008,
+    "color": "Red and Black Swirl"
+   },
+   {
+    "id": "ALB1262",
+    "catno": "WB-2007",
+    "discogs": "",
+    "acquired": "2026-11-21",
+    "label": "Westbound Records",
+    "edition": "Reissue",
+    "reissue": 2026,
+    "color": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB1262"
   ]
  },
  {
@@ -181394,105 +181419,105 @@
     "p": "1",
     "t": "Day Tripper",
     "d": "2:49",
-    "sp": "",
+    "sp": "7qbRP2jO0Sq3kTYdEW1v00",
     "src": "Discogs"
    },
    {
     "p": "2",
     "t": "We Can Work It Out",
     "d": "2:15",
-    "sp": "",
+    "sp": "7tBAxQ6hD4mhr1sYQhwWDP",
     "src": "Discogs"
    },
    {
     "p": "3",
     "t": "Paperback Writer",
     "d": "2:18",
-    "sp": "",
+    "sp": "4401c08DdNwwGEg8WGCkQf",
     "src": "Discogs"
    },
    {
     "p": "4",
     "t": "Rain",
     "d": "3:02",
-    "sp": "",
+    "sp": "48TNLcToLs8DWkdj5vYdiW",
     "src": "Discogs"
    },
    {
     "p": "5",
     "t": "Lady Madonna",
     "d": "2:17",
-    "sp": "",
+    "sp": "1tM9TBNPjieSOZ2d5VAQ1y",
     "src": "Discogs"
    },
    {
     "p": "6",
     "t": "The Inner Light",
     "d": "2:36",
-    "sp": "",
+    "sp": "379hxtlY5LvbPQa5LL6dPo",
     "src": "Discogs"
    },
    {
     "p": "7",
     "t": "Hey Jude",
     "d": "7:08",
-    "sp": "",
+    "sp": "2iGtdYI4lI0jDpnxJOqZRw",
     "src": "Discogs"
    },
    {
     "p": "8",
     "t": "Revolution",
     "d": "3:24",
-    "sp": "",
+    "sp": "4qh4lu4xf4r3ZkBoyeajuc",
     "src": "Discogs"
    },
    {
     "p": "9",
     "t": "Get Back",
     "d": "3:14",
-    "sp": "",
+    "sp": "5V8Ma6MQwoBf7Z7Lq2w26s",
     "src": "Discogs"
    },
    {
     "p": "10",
     "t": "Don't Let Me Down",
     "d": "3:34",
-    "sp": "",
+    "sp": "0FP04YnQ8eDxkAH4rlwFar",
     "src": "Discogs"
    },
    {
     "p": "11",
     "t": "The Ballad Of John And Yoko",
     "d": "3:00",
-    "sp": "",
+    "sp": "6r7JAngkBzKGDKRUzLgY2U",
     "src": "Discogs"
    },
    {
     "p": "12",
     "t": "Old Brown Shoe",
     "d": "3:18",
-    "sp": "",
+    "sp": "7vMCInGW1N1uTFC1LoklEM",
     "src": "Discogs"
    },
    {
     "p": "13",
     "t": "Across The Universe",
     "d": "3:49",
-    "sp": "",
+    "sp": "691jw4auDZjaTOwUJmtoSy",
     "src": "Discogs"
    },
    {
     "p": "14",
     "t": "Let It Be",
     "d": "3:50",
-    "sp": "",
+    "sp": "1IfolkSpgWO3FpzQo0J96I",
     "src": "Discogs"
    },
    {
     "p": "15",
     "t": "You Know My Name (Look Up The Number)",
     "d": "4:19",
-    "sp": "",
+    "sp": "2k7gS1tS9OHeS3e8MatzgJ",
     "src": "Discogs"
    }
   ],
@@ -211008,5 +211033,3061 @@
   "ct": [
    "black_white"
   ]
+ },
+ {
+  "id": "CD0439",
+  "artist": "U2",
+  "title": "The Joshua Tree - 20th Anniversary Edition",
+  "year": 1987,
+  "label": "Island Records",
+  "catno": "B0010286-02",
+  "edition": "Reissue",
+  "reissue": 2007,
+  "type": "5th Studio Album",
+  "personnel": [
+   "Bono (Paul David Hewson) – lead vocals, harmonica, guitars",
+   "The Edge (David Howell Evans) – guitars, backing vocals, piano",
+   "Adam Clayton – bass guitar",
+   "Larry Mullen Jr. – drums, percussion"
+  ],
+  "discs": "",
+  "acquired": "2007-01-01",
+  "discogs": "https://www.discogs.com/release/1313435-U2-The-Joshua-Tree",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Alternative Rock",
+   "Pop Rock"
+  ],
+  "notes": "20th Anniversary Edition, 2 CDs: the album remastered from the original analogue tapes under the direction of the Edge, plus a bonus CD of B-sides and rarities, four of them previously unreleased.",
+  "cover": "covers/CD0439.jpg",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "Where The Streets Have No Name",
+    "d": "5:37",
+    "sp": "4qgZs0RNjdzKAS22lP0QjY",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-2",
+    "t": "I Still Haven't Found What I'm Looking For",
+    "d": "4:37",
+    "sp": "6wpGqhRvJGNNXwWlPmkMyO",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-3",
+    "t": "With Or Without You",
+    "d": "4:55",
+    "sp": "6ADSaE87h8Y3lccZlBJdXH",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-4",
+    "t": "Bullet The Blue Sky",
+    "d": "4:31",
+    "sp": "12w7q5JN7tf22TzQtQiiBN",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-5",
+    "t": "Running To Stand Still",
+    "d": "4:17",
+    "sp": "4MLPCRYNhDIKcRjzS54ceu",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-6",
+    "t": "Red Hill Mining Town",
+    "d": "4:52",
+    "sp": "2G4F5Fc0DUFkkODwhWnbmt",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-7",
+    "t": "In God's Country",
+    "d": "2:56",
+    "sp": "1AQYE6CcYKlzM8e9Df5i1g",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-8",
+    "t": "Trip Through Your Wires",
+    "d": "3:31",
+    "sp": "6yXoCR2tdhuqClB4HyxzOq",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-9",
+    "t": "One Tree Hill",
+    "d": "5:22",
+    "sp": "3w3qWhplVQcO5aGU6Ipdhq",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-10",
+    "t": "Exit",
+    "d": "4:13",
+    "sp": "5I5XfaTmAxWlJzg8Eynjby",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-11",
+    "t": "Mothers Of The Disappeared",
+    "d": "5:14",
+    "sp": "0hyTCepHLrkjWBtczMxUxZ",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-1",
+    "t": "Luminous Times (Hold On To Love)",
+    "d": "4:34",
+    "sp": "3E5fsWGO0KfweZMXGuwqLV",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-2",
+    "t": "Walk To The Water",
+    "d": "4:49",
+    "sp": "7zY8bga67NNZV4wceiSoKl",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-3",
+    "t": "Spanish Eyes",
+    "d": "3:16",
+    "sp": "55BFeUPXy3ZCP5B6Rsddv7",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-4",
+    "t": "Deep In The Heart",
+    "d": "4:31",
+    "sp": "7syajly441P4UBTEhmZDkx",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-5",
+    "t": "Silver And Gold",
+    "d": "4:37",
+    "sp": "08LdOVC2YV3T8735mIpeIq",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-6",
+    "t": "Sweetest Thing",
+    "d": "3:04",
+    "sp": "7ndGFo9nZ108KPgXtfYWCe",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-7",
+    "t": "Race Against Time",
+    "d": "4:02",
+    "sp": "6a3MjPdp8XWf9DS9tDlh4R",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-8",
+    "t": "Where The Streets Have No Name (Single Edit)",
+    "d": "4:50",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-9",
+    "t": "Silver And Gold (Sun City Version)",
+    "d": "4:42",
+    "sp": "6flM28ijUjfvxkDe8CXxkz",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-10",
+    "t": "Beautiful Ghost / Introduction To Songs Of Experience",
+    "d": "3:56",
+    "sp": "65sBbDu3Dk30rhMB6Te9ry",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-11",
+    "t": "Wave Of Sorrow (Birdland)",
+    "d": "4:06",
+    "sp": "33C0sRSNRJvS6bNFsoJomw",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-12",
+    "t": "Desert Of Our Love",
+    "d": "4:58",
+    "sp": "6frObnG9TkmCf9ScpA9rjh",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-13",
+    "t": "Rise Up",
+    "d": "4:08",
+    "sp": "7wZm9nW5fpavAQDIrNxBT1",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-14",
+    "t": "Drunk Chicken / America",
+    "d": "1:31",
+    "sp": "3ZKNiTYGbFIU2AiXGJpp6Z",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1987-03-09",
+  "wiki": "https://en.wikipedia.org/wiki/The_Joshua_Tree",
+  "about": "Fifth album by the Irish rock band U2, produced by Brian Eno and Daniel Lanois and shaped by the group's fascination with America. It topped charts worldwide, included With or Without You, and won the Grammy for Album of the Year.",
+  "artistKey": "U2",
+  "spAlbum": "5y6wlw1LnqFnQFruMeiwGU",
+  "vinylColor": "",
+  "medium": "CD",
+  "coverHi": "",
+  "ct": [
+   "plant"
+  ],
+  "cdYear": "2007"
+ },
+ {
+  "label": "Island Records",
+  "catno": "0602517135932",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "2006-01-01",
+  "discogs": "",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Pop Rock",
+   "Alternative Rock"
+  ],
+  "notes": "Special Edition, hardcover book with a 52-page booklet. Disc 1 is the 18-song CD; disc 2 is a DVD, Vertigo//05 Live From Milan (San Siro, July 2005).",
+  "cover": "",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "Beautiful Day",
+    "d": "4:06",
+    "sp": "18gaZFSOGTMf9VMeOH4Exo",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-2",
+    "t": "I Still Haven't Found What I'm Looking For",
+    "d": "4:37",
+    "sp": "4yFtA0RDkhEghAdSpjOP5u",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-3",
+    "t": "Pride (In The Name Of Love)",
+    "d": "3:49",
+    "sp": "2ipxxnFmqMLWLcjpiIaKMc",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-4",
+    "t": "With Or Without You",
+    "d": "4:56",
+    "sp": "3a1T0kbSyWjWIohSQozNBf",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-5",
+    "t": "Vertigo",
+    "d": "3:10",
+    "sp": "1p9STsRSAbMMLbXXNQj5FO",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-6",
+    "t": "New Year's Day",
+    "d": "4:18",
+    "sp": "5fBOtIYXI61ynfOfp6MuOV",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-7",
+    "t": "Mysterious Ways",
+    "d": "4:03",
+    "sp": "4DGePNkVwPsNg9tghsuGwg",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-8",
+    "t": "Stuck In A Moment You Can't Get Out Of",
+    "d": "4:32",
+    "sp": "76Sq55vDqlGQc4Zf7ur20S",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-9",
+    "t": "Where The Streets Have No Name",
+    "d": "4:46",
+    "sp": "63eQZg90zyotCRAXPJoJFv",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-10",
+    "t": "Sweetest Thing",
+    "d": "3:00",
+    "sp": "6PfEhZf09fUF2ehCeuxJ91",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-11",
+    "t": "Sunday Bloody Sunday",
+    "d": "4:40",
+    "sp": "1O5NKM7xKBMRTGnqkJmahD",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-12",
+    "t": "One",
+    "d": "4:35",
+    "sp": "2zBirMmlQAIzHGLEfWkYT9",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-13",
+    "t": "Desire",
+    "d": "2:59",
+    "sp": "4IGhHCOkLbWMIr5QhQ3Sfp",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-14",
+    "t": "Walk On",
+    "d": "4:27",
+    "sp": "44o6DNANSgDDPCpno3XtCB",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-15",
+    "t": "Elevation",
+    "d": "3:47",
+    "sp": "1kJIH1TA3HNFppbIpMl35v",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-16",
+    "t": "Sometimes You Can't Make It On Your Own",
+    "d": "5:05",
+    "sp": "5XQS4LZk9gY0YGvMUzxDfG",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-17",
+    "t": "The Saints Are Coming (with Green Day)",
+    "d": "3:22",
+    "sp": "0uerOeRCBEfO6yeYMZ2QIR",
+    "src": "Spotify"
+   },
+   {
+    "p": "1-18",
+    "t": "Window In The Skies",
+    "d": "4:08",
+    "sp": "54mt0kywBFy665vNIbzTJ6",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-1",
+    "t": "Vertigo",
+    "d": "3:54",
+    "sp": "5vTDzHj5wMqm8shMJ9XTJG",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-2",
+    "t": "I Will Follow",
+    "d": "4:27",
+    "sp": "0U08cuX6LaFkKXW3miqoi8",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-3",
+    "t": "Elevation",
+    "d": "5:53",
+    "sp": "76nvn4jbwr30Bd853vMMUz",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-4",
+    "t": "I Still Haven't Found What I'm Looking For",
+    "d": "5:41",
+    "sp": "2AMQg6s68wTd1xaqmsAw2W",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-5",
+    "t": "All I Want Is You",
+    "d": "4:58",
+    "sp": "2dg64yrWJdauoAANnckT5r",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-6",
+    "t": "City Of Blinding Lights",
+    "d": "5:59",
+    "sp": "2wSd5A2hjTwUAKrvTbYaeE",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-7",
+    "t": "Sometimes You Can't Make It On Your Own",
+    "d": "5:23",
+    "sp": "00c9x7lqW9qvLU6J0gl98F",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-8",
+    "t": "Miss Sarajevo",
+    "d": "7:01",
+    "sp": "0qeCBSjI2DE44VWT4lew2G",
+    "src": "Spotify"
+   },
+   {
+    "p": "2-9",
+    "t": "Original Of The Species",
+    "d": "",
+    "sp": "",
+    "src": "Disc"
+   },
+   {
+    "p": "2-10",
+    "t": "With Or Without You",
+    "d": "6:26",
+    "sp": "1BtbkCBphA3UooMRQYvZtW",
+    "src": "Spotify"
+   }
+  ],
+  "released": "2006-11-17",
+  "wiki": "https://en.wikipedia.org/wiki/18_Singles",
+  "about": "U2's 2006 greatest hits collection: sixteen singles from 1983 to 2004 plus two new recordings, The Saints Are Coming with Green Day, a cover of the Skids song, and Window in the Skies, both produced by Rick Rubin.",
+  "personnel": [
+   "Bono – vocals",
+   "The Edge – guitar, keyboards, vocals",
+   "Adam Clayton – bass",
+   "Larry Mullen Jr. – drums",
+   "Green Day – guest performers on The Saints Are Coming"
+  ],
+  "artistKey": "U2",
+  "artist": "U2",
+  "spAlbum": "72jdJEV95RFo6oecTO5tVk",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0440",
+  "title": "U218 Singles",
+  "year": 2006,
+  "type": "Compilation",
+  "cdYear": "2006",
+  "acqLabel": "2006"
+ },
+ {
+  "label": "Echo Industry Co., Ltd.",
+  "catno": "BC-2016, BC-2017, BC-2018",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "1990-01-01",
+  "discogs": "https://www.discogs.com/release/9175954-The-Beatles-1962-1970",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "styles": [
+   "Beat"
+  ],
+  "notes": "Unofficial Japanese compilation, 3 CDs (Part-1 BC-2016, Part-2 BC-2017, Part-3 BC-2018), 54 songs from 1962 to 1970. Barcode 4958980215678.",
+  "cover": "covers/CD0441.jpg",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "Love Me Do",
+    "d": "",
+    "sp": "3VbGCXWRiouAq8VyMYN2MI",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-2",
+    "t": "Please Please Me",
+    "d": "",
+    "sp": "6EHuOufBeL6vk3TvVJB5qo",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-3",
+    "t": "From Me To You",
+    "d": "",
+    "sp": "7nBGBbzfnPiowCvXKJnV9J",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-4",
+    "t": "She Loves You",
+    "d": "",
+    "sp": "48JM82SHQTBYkhEYhMaOaa",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-5",
+    "t": "I Want To Hold Your Hand",
+    "d": "",
+    "sp": "5J3Mf6dyqeGy67yuQ7ql9B",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-6",
+    "t": "All My Loving",
+    "d": "",
+    "sp": "4joiWvli4qJVEW6qZV2i2J",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-7",
+    "t": "Can't Buy Me Love",
+    "d": "",
+    "sp": "3SdingSsFcZDZAyvcJbgAw",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-8",
+    "t": "A Hard Day's Night",
+    "d": "",
+    "sp": "5J2CHimS7dWYMImCHkEFaJ",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-9",
+    "t": "And I Love Her",
+    "d": "",
+    "sp": "65vdMBskhx3akkG9vQlSH1",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-10",
+    "t": "Eight Days A Week",
+    "d": "",
+    "sp": "1Dg4dFJr3HW7sbA7vPejre",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-11",
+    "t": "I Feel Fine",
+    "d": "",
+    "sp": "1Q7gCIpOjIIU0bUKcGzrG4",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-12",
+    "t": "Ticket To Ride",
+    "d": "",
+    "sp": "7CZiDzGVjUssMSOXrDNYHL",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-13",
+    "t": "Yesterday",
+    "d": "",
+    "sp": "3BQHpFgAp4l80e1XslIjNI",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-14",
+    "t": "Help!",
+    "d": "",
+    "sp": "6EdSN1iGtLPhcz43QDRkdK",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-15",
+    "t": "You've Got To Hide Your Love Away",
+    "d": "",
+    "sp": "4F1AgKpuFRMLEgtPETVwZk",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-16",
+    "t": "We Can Work It Out",
+    "d": "",
+    "sp": "7tBAxQ6hD4mhr1sYQhwWDP",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-17",
+    "t": "Day Tripper",
+    "d": "",
+    "sp": "7qbRP2jO0Sq3kTYdEW1v00",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-18",
+    "t": "Drive My Car",
+    "d": "",
+    "sp": "06ypiqmILMdVeaiErMFA91",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-1",
+    "t": "Norwegian Wood (This Bird Has Flown)",
+    "d": "",
+    "sp": "1H7gMYGykdtwZOV6s1N0by",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-2",
+    "t": "Nowhere Man",
+    "d": "",
+    "sp": "5SUlhldQJtOhUr2GzH5RI7",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-3",
+    "t": "Michelle",
+    "d": "",
+    "sp": "5By7Pzgl6TMuVJG168VWzS",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-4",
+    "t": "In My Life",
+    "d": "",
+    "sp": "3KfbEIOC7YIv90FIfNSZpo",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-5",
+    "t": "Girl",
+    "d": "",
+    "sp": "6tQvjqDIK9GXWIC6mejms8",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-6",
+    "t": "Paperback Writer",
+    "d": "",
+    "sp": "4401c08DdNwwGEg8WGCkQf",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-7",
+    "t": "Eleanor Rigby",
+    "d": "",
+    "sp": "5GjPQ0eI7AgmOnADn1EO6Q",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-8",
+    "t": "Yellow Submarine",
+    "d": "",
+    "sp": "50xwQXPtfNZFKFeZ0XePWc",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-9",
+    "t": "Strawberry Fields Forever",
+    "d": "",
+    "sp": "3Am0IbOxmvlSXro7N5iSfZ",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-10",
+    "t": "Penny Lane",
+    "d": "",
+    "sp": "1h04XMpzGzmAudoI6VHBgA",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-11",
+    "t": "Sgt. Pepper's Lonely Hearts Club Band",
+    "d": "",
+    "sp": "4fUKE8EULjQdHF4zb0M8FO",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-12",
+    "t": "With A Little Help From My Friends",
+    "d": "",
+    "sp": "2RnPATK99oGOZygnD2GTO6",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-13",
+    "t": "Lucy In The Sky With Diamonds",
+    "d": "",
+    "sp": "25yQPHgC35WNnnOUqFhgVR",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-14",
+    "t": "A Day In The Life",
+    "d": "",
+    "sp": "0hKRSZhUGEhKU6aNSPBACZ",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-15",
+    "t": "All You Need Is Love",
+    "d": "",
+    "sp": "68BTFws92cRztMS1oQ7Ewj",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-16",
+    "t": "I Am The Walrus",
+    "d": "",
+    "sp": "6Pq9MmkDQYZiiCDpxnvrf6",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-17",
+    "t": "Hello, Goodbye",
+    "d": "",
+    "sp": "0vZ97gHhemKm6c64hTfJNA",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-18",
+    "t": "The Fool On The Hill",
+    "d": "",
+    "sp": "6rHh8urosEFRI67xVa6fzU",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-1",
+    "t": "Magical Mystery Tour",
+    "d": "",
+    "sp": "0qHMhBZqYb99yhX9BHcIkV",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-2",
+    "t": "Lady Madonna",
+    "d": "",
+    "sp": "5l1eg7A2S6PtlIbo3Ms4dl",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-3",
+    "t": "Hey Jude",
+    "d": "",
+    "sp": "1eT2CjXwFXNx6oY5ydvzKU",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-4",
+    "t": "Revolution",
+    "d": "",
+    "sp": "5KGLcZLBCAqdPP6sa5zLYs",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-5",
+    "t": "Back In The U.S.S.R.",
+    "d": "",
+    "sp": "0j3p1p06deJ7f9xmJ9yG22",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-6",
+    "t": "While My Guitar Gently Weeps",
+    "d": "",
+    "sp": "389QX9Q1eUOEZ19vtzzI9O",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-7",
+    "t": "Ob-La-Di, Ob-La-Da",
+    "d": "",
+    "sp": "1gFNm7cXfG1vSMcxPpSxec",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-8",
+    "t": "Get Back",
+    "d": "",
+    "sp": "7vubCYwMND42wTDf2ULHeZ",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-9",
+    "t": "Don't Let Me Down",
+    "d": "",
+    "sp": "0FP04YnQ8eDxkAH4rlwFar",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-10",
+    "t": "The Ballad Of John And Yoko",
+    "d": "",
+    "sp": "6r7JAngkBzKGDKRUzLgY2U",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-11",
+    "t": "Old Brown Shoe",
+    "d": "",
+    "sp": "7vMCInGW1N1uTFC1LoklEM",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-12",
+    "t": "Here Comes The Sun",
+    "d": "",
+    "sp": "6dGnYIeXmHdcikdzNNDMm2",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-13",
+    "t": "Come Together",
+    "d": "",
+    "sp": "2EqlS6tkEnglzr7tkKAAYD",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-14",
+    "t": "Something",
+    "d": "",
+    "sp": "0pNeVovbiZHkulpGeOx1Gj",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-15",
+    "t": "Octopus's Garden",
+    "d": "",
+    "sp": "0suLngfo7rJoetk7Ub6N8l",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-16",
+    "t": "Let It Be",
+    "d": "",
+    "sp": "1IfolkSpgWO3FpzQo0J96I",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-17",
+    "t": "Across The Universe",
+    "d": "",
+    "sp": "691jw4auDZjaTOwUJmtoSy",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-18",
+    "t": "The Long And Winding Road",
+    "d": "",
+    "sp": "3mlMpmY8oZIBFc39D9zLbh",
+    "src": "Discogs"
+   }
+  ],
+  "released": "",
+  "wiki": "",
+  "about": "",
+  "personnel": [
+   "John Lennon – vocals, guitar",
+   "Paul McCartney – vocals, bass",
+   "George Harrison – guitar, vocals",
+   "Ringo Starr – drums, vocals"
+  ],
+  "artistKey": "The Beatles",
+  "artist": "The Beatles",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0441",
+  "title": "1962-1970",
+  "year": null,
+  "type": "Compilation",
+  "cdYear": "",
+  "acqLabel": "1990 - 2005"
+ },
+ {
+  "label": "Verve Records",
+  "catno": "314 517 898-2",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "1993-01-01",
+  "discogs": "https://www.discogs.com/release/7132993-Ella-Fitzgerald-First-Lady-Of-Song",
+  "genres": [
+   "Jazz"
+  ],
+  "styles": [
+   "Swing",
+   "Vocal",
+   "Bop",
+   "Ballad"
+  ],
+  "notes": "3-CD box set (deluxe digibook) of her Verve years, studio and live recordings from 1949 to 1966, including Carnegie Hall, Newport, Berlin and the Côte d'Azur. Discs made in USA.",
+  "cover": "",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "Perdido",
+    "d": "8:29",
+    "sp": "0hQaaxDM5tirnBStnkp0XX",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-2",
+    "t": "Lullaby Of Birdland",
+    "d": "2:18",
+    "sp": "1SkfRxpjyEgHPcTcRGkmkv",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-3",
+    "t": "Too Young For The Blues",
+    "d": "3:13",
+    "sp": "0SoDY6kudZ9SMY5ihegOfi",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-4",
+    "t": "Too Darn Hot",
+    "d": "3:46",
+    "sp": "3HHkOmu2EUZQenEYJgCcM0",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-5",
+    "t": "Miss Otis Regrets",
+    "d": "3:03",
+    "sp": "6Rb0FX3uVrJC4AnPRiqAdM",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-6",
+    "t": "April In Paris",
+    "d": "4:40",
+    "sp": "0slh5PmG94YQ57pi5g3Hqj",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-7",
+    "t": "Undecided",
+    "d": "3:38",
+    "sp": "1L43UHw6jdU6q5olPIN1Eo",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-8",
+    "t": "Can't We Be Friends?",
+    "d": "3:43",
+    "sp": "0EQWDwhlcIwuMZHV86DN8c",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-9",
+    "t": "Bewitched, Bothered, And Bewildered",
+    "d": "7:01",
+    "sp": "7k5XHwTpQSKszFsTePPSkr",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-10",
+    "t": "Just A-Sittin' And A-Rockin'",
+    "d": "3:30",
+    "sp": "30yB6O3m4IdnbxF6JI9U8X",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-11",
+    "t": "I'm Just A Lucky So And So",
+    "d": "4:12",
+    "sp": "0oEVVwjFAMeh9mKTrjALPJ",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-12",
+    "t": "Air Mail Special",
+    "d": "4:14",
+    "sp": "7EAvZukBWy3mGaYNrHootU",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-13",
+    "t": "A-Tisket, A-Tasket",
+    "d": "2:20",
+    "sp": "4RKZ1ivJqSUHZUDQpkGUQ8",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-14",
+    "t": "Baby, Don't You Go 'Way Mad",
+    "d": "2:34",
+    "sp": "2EmWOUTLosDZ4MSuGou23X",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-15",
+    "t": "Angel Eyes",
+    "d": "3:20",
+    "sp": "4pEoF7AVNZrF0QscLqTnQp",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-16",
+    "t": "I Won't Dance",
+    "d": "4:45",
+    "sp": "0LA4eaA7MQJ4fTguLcxokT",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-1",
+    "t": "Summertime",
+    "d": "4:58",
+    "sp": "6jdStsIljVuQPQrx2qm1Ct",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-2",
+    "t": "Oh, Lady Be Good",
+    "d": "4:24",
+    "sp": "4KfMW9ppoYGyOxSNJT14hV",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-3",
+    "t": "More Than You Know",
+    "d": "3:14",
+    "sp": "46ObP3TCHGwPL8pYHbz9sT",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-4",
+    "t": "Lush Life",
+    "d": "3:37",
+    "sp": "4m0IZbAAIedDXIhMMBtzP7",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-5",
+    "t": "Blue Skies",
+    "d": "3:43",
+    "sp": "0OyZcC3sNoDw87RuioW0zW",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-6",
+    "t": "Swingin' Shepherd Blues",
+    "d": "2:39",
+    "sp": "7DxvlhIf8EjtwEtwJJl3NT",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-7",
+    "t": "These Foolish Things",
+    "d": "3:28",
+    "sp": "49aCI5b0UTjnqvEU1WUSVL",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-8",
+    "t": "Travelin' Light",
+    "d": "3:10",
+    "sp": "2pTuTnSiZ7UP2TIsKvIsi1",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-9",
+    "t": "You're An Old Smoothie",
+    "d": "2:45",
+    "sp": "2znBl3eBSUs2EhsJxzdNAQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-10",
+    "t": "Makin' Whoopee",
+    "d": "3:41",
+    "sp": "7kBpjZT13FY28HFenKdLTS",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-11",
+    "t": "How Long Has This Been Going On?",
+    "d": "3:44",
+    "sp": "73Gei5PuSNB3Q0sxAWYuZT",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-12",
+    "t": "Detour Ahead",
+    "d": "3:17",
+    "sp": "6I2842p9KLoOZ5F8l3lNLg",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-13",
+    "t": "Mack The Knife",
+    "d": "5:13",
+    "sp": "1TwNnkhpblS0LMsa02jLQC",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-14",
+    "t": "How High The Moon",
+    "d": "8:09",
+    "sp": "6pSWhqXPgGEivE1tuGECEe",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-15",
+    "t": "Black Coffee",
+    "d": "3:27",
+    "sp": "2Rejh16NV462TwiGGf5YNL",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-16",
+    "t": "Let It Snow! Let It Snow! Let It Snow!",
+    "d": "3:44",
+    "sp": "6JmDVKZw5GZ6wPZv6S8aOG",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-17",
+    "t": "Get Happy",
+    "d": "3:30",
+    "sp": "22AZQmN4eWVfwUREJV0h9L",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-18",
+    "t": "Heart And Soul",
+    "d": "3:34",
+    "sp": "7kikV1eggzYOsSrbV1d4pw",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-1",
+    "t": "(If You Can't Sing It) You'll Have To Swing It (Mr. Paganini)",
+    "d": "4:03",
+    "sp": "6dK5LJJ3xEktxvoCTrWFHg",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-2",
+    "t": "A Night In Tunisia",
+    "d": "4:06",
+    "sp": "4A7SeGPdtqaqUSQFd7kAVY",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-3",
+    "t": "I Can't Get Started",
+    "d": "3:29",
+    "sp": "7rTgiHdXGeg3p19M24ZJZs",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-4",
+    "t": "Don't Be That Way",
+    "d": "3:45",
+    "sp": "5T6C42puPy8BOpdcciIQS6",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-5",
+    "t": "After You've Gone",
+    "d": "4:08",
+    "sp": "5apv63bToxtTZQLCeowV98",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-6",
+    "t": "Hernando's Hideaway",
+    "d": "3:15",
+    "sp": "2tbkgLBg765BXuzTXovsKh",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-7",
+    "t": "A Fine Romance",
+    "d": "3:35",
+    "sp": "2lFKmyqCqXikM6617FHmGs",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-8",
+    "t": "'Deed I Do",
+    "d": "2:40",
+    "sp": "4XlVbjU0yXJI15Sfbl6HEf",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-9",
+    "t": "Hear Me Talkin' To Ya",
+    "d": "3:01",
+    "sp": "6wPQNcEkjn5MkeUfk848Yx",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-10",
+    "t": "Can't Buy Me Love",
+    "d": "2:36",
+    "sp": "6cPyMZx0ILb5swMkYfv87u",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-11",
+    "t": "Day In, Day Out",
+    "d": "2:55",
+    "sp": "5K4YnX2WjNpUWvebK75dVh",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-12",
+    "t": "Something's Gotta Give",
+    "d": "2:30",
+    "sp": "78uWSO3VvfDZSroY44bZZ6",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-13",
+    "t": "Here's That Rainy Day",
+    "d": "3:20",
+    "sp": "15lt0lo64oB6UKVGeCPo51",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-14",
+    "t": "(I've Got) Something To Live For",
+    "d": "3:34",
+    "sp": "2IcdeDI64UMM0DHhgsRn0P",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-15",
+    "t": "You've Changed",
+    "d": "3:17",
+    "sp": "60NHRrWoHXn5vw7MBidnXQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-16",
+    "t": "Jazz Samba",
+    "d": "5:45",
+    "sp": "0hUHedndu3sicmcL5DgMXS",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-17",
+    "t": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+    "d": "7:11",
+    "sp": "6uAk1P1DKdzhkIe8UQJ4aj",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1993",
+  "wiki": "",
+  "about": "",
+  "personnel": [
+   "Ella Fitzgerald – vocals"
+  ],
+  "artistKey": "Ella Fitzgerald",
+  "artist": "Ella Fitzgerald",
+  "spAlbum": "7n5UUn75pwadVsF2nujN0V",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0442",
+  "title": "First Lady of Song",
+  "year": 1993,
+  "type": "Compilation",
+  "cdYear": "1993",
+  "acqLabel": "1990 - 2005"
+ },
+ {
+  "label": "Sony Classical",
+  "catno": "SX6K 93451",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "2004-09-21",
+  "discogs": "https://www.discogs.com/release/10106487-John-Williams-Star-Wars-Trilogy",
+  "genres": [
+   "Stage & Screen"
+  ],
+  "styles": [
+   "Score",
+   "Soundtrack"
+  ],
+  "notes": "6 CDs, newly remastered (Sony DSD): the original soundtracks of A New Hope (discs 1–2), The Empire Strikes Back (3–4) and Return of the Jedi (5–6), in three double jewel cases in a slipcase designed to match the DVD box set released the same day. Each set came with a 3D cover and a poster.",
+  "cover": "",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "20th Century Fox Fanfare",
+    "d": "0:23",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-2",
+    "t": "Main Title / Rebel Blockade Runner",
+    "d": "2:14",
+    "sp": "3ZSf1TJZyRb0rnWYuUtdX4",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-3",
+    "t": "Imperial Attack",
+    "d": "6:43",
+    "sp": "3KVsq9veMUESIb3ln7Rowv",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-4",
+    "t": "The Dune Sea Of Tatooine / Jawa Sandcrawler",
+    "d": "5:01",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-5",
+    "t": "The Moisture Farm",
+    "d": "2:25",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-6",
+    "t": "The Hologram / Binary Sunset",
+    "d": "4:10",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-7",
+    "t": "Landspeeder Search / Attack Of The Sand People",
+    "d": "3:20",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-8",
+    "t": "Tales Of A Jedi Knight / Learn About The Force",
+    "d": "4:29",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-9",
+    "t": "Burning Homestead",
+    "d": "2:50",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-10",
+    "t": "Mos Eisley Spaceport",
+    "d": "2:16",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-11",
+    "t": "Cantina Band",
+    "d": "2:47",
+    "sp": "5ZSAdkQb23NPIcUGt6exdm",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-12",
+    "t": "Cantina Band #2",
+    "d": "3:56",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-13a",
+    "t": "Archival Bonus Track: Binary Sunset (Alternate)",
+    "d": "2:19",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-13b",
+    "t": "Main Title (Take 16-20)",
+    "d": "11:57",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-1",
+    "t": "Princess Leia's Theme",
+    "d": "4:27",
+    "sp": "7hlYfQpGJWdheP2quiyz8j",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-2",
+    "t": "The Millennium Falcon / Imperial Cruiser Pursuit",
+    "d": "3:51",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-3",
+    "t": "Destruction Of Alderaan",
+    "d": "1:32",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-4",
+    "t": "The Death Star / The Stormtroopers",
+    "d": "3:35",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-5",
+    "t": "Wookiee Prisoner / Detention Block Ambush",
+    "d": "4:01",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-6",
+    "t": "Shootout In The Cell Bay / Dianoga",
+    "d": "3:48",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-7",
+    "t": "The Trash Compactor",
+    "d": "3:07",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-8",
+    "t": "The Tractor Beam / Chasm Crossfire",
+    "d": "5:18",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-9",
+    "t": "Ben Kenobi's Death / Tie Fighter Attack",
+    "d": "3:51",
+    "sp": "4bCeqjpV9iyqM3UFJuTJf3",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-10",
+    "t": "The Battle Of Yavin",
+    "d": "9:07",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-11",
+    "t": "The Throne Room / End Title",
+    "d": "",
+    "sp": "3HjDvnmiTLKaDalq4u2Hem",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-1",
+    "t": "20th Century Fox Fanfare",
+    "d": "0:21",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-2",
+    "t": "Main Title / The Ice Planet Hoth",
+    "d": "8:08",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-3",
+    "t": "The Wampa's Lair / Vision Of Obi-Wan / Snowspeeders Take Flight",
+    "d": "8:48",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-4",
+    "t": "The Imperial Probe / Aboard The Executor",
+    "d": "4:24",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-5",
+    "t": "The Battle Of Hoth (Ion Cannon / Imperial Walkers / Beneath The AT-AT / Escape In The Millennium Falcon)",
+    "d": "14:48",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-6",
+    "t": "The Asteroid Field",
+    "d": "4:15",
+    "sp": "6yj7fSEuePRyaYO5gIbGSx",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-7",
+    "t": "Arrival On Dagobah",
+    "d": "4:52",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-8",
+    "t": "Luke's Nocturnal Visitor",
+    "d": "2:35",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-9",
+    "t": "Han Solo And The Princess",
+    "d": "3:26",
+    "sp": "5cEhagdSGrYJLOaZ1hvM9A",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-10",
+    "t": "Jedi Master Revealed / Mynock Cave",
+    "d": "5:44",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-11",
+    "t": "The Training Of A Jedi Knight / The Magic Tree",
+    "d": "5:15",
+    "sp": "5wHev6skr9cndexgt70Ez6",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-1",
+    "t": "The Imperial March (Darth Vader's Theme)",
+    "d": "3:02",
+    "sp": "2bw4WgXyXP90hIex7ur58y",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-2",
+    "t": "Yoda's Theme",
+    "d": "3:29",
+    "sp": "69f4J5zQkPqzf9IZ36zNQL",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-3",
+    "t": "Attacking A Star Destroyer",
+    "d": "3:04",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-4",
+    "t": "Yoda And The Force",
+    "d": "4:02",
+    "sp": "2BinLD35GaTzdedSskSDaS",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-5",
+    "t": "Imperial Starfleet Deployed / City In The Clouds",
+    "d": "6:03",
+    "sp": "4mDrSbQKLmQlJ3sf19Hg6Q",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-6",
+    "t": "Lando's Palace",
+    "d": "3:53",
+    "sp": "3brr6rNVPELXasP5gECcnG",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-7",
+    "t": "Betrayal At Bespin",
+    "d": "4:06",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-8",
+    "t": "Deal With The Dark Lord",
+    "d": "2:36",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-9",
+    "t": "Carbon Freeze / Darth Vader's Trap / Departure Of Boba Fett",
+    "d": "11:50",
+    "sp": "3SJalt7jrTvWnaps4CZp8h",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-10",
+    "t": "The Clash Of Lightsabers",
+    "d": "4:17",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-11",
+    "t": "Rescue From Cloud City / Hyperspace",
+    "d": "9:08",
+    "sp": "4ERdD8UDCFMoF35uQVh9Mc",
+    "src": "Discogs"
+   },
+   {
+    "p": "4-12",
+    "t": "The Rebel Fleet / End Title",
+    "d": "6:26",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-1",
+    "t": "20th Century Fox Fanfare",
+    "d": "0:23",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-2",
+    "t": "Main Title / Approaching The Death Star / Tatooine Rendezvous",
+    "d": "9:17",
+    "sp": "2NyL3BnrZJXhQT32WFZJDc",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-3",
+    "t": "The Droids Are Captured",
+    "d": "1:17",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-4",
+    "t": "Bounty For A Wookiee",
+    "d": "2:50",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-5",
+    "t": "Han Solo Returns",
+    "d": "4:01",
+    "sp": "1zTYnorGgmW46px3cMXFJy",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-6",
+    "t": "Luke Confronts Jabba / Den Of The Rancor / Sarlacc Sentence",
+    "d": "8:49",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-7",
+    "t": "The Pit Of Carkoon / Sail Barge Assault",
+    "d": "6:02",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-8",
+    "t": "The Emperor Arrives / The Death Of Yoda / Obi-Wan's Revelation",
+    "d": "10:57",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-9",
+    "t": "Alliance Assembly",
+    "d": "2:11",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-10",
+    "t": "Shuttle Tydirium Approaches Endor",
+    "d": "4:07",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-11",
+    "t": "Speeder Bike Chase / Land Of The Ewoks",
+    "d": "9:38",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-12",
+    "t": "The Levitation / Threepio's Bedtime Story",
+    "d": "2:45",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-13",
+    "t": "Jabba's Baroque Recital",
+    "d": "3:04",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-14",
+    "t": "Jedi Rocks",
+    "d": "2:50",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "5-15",
+    "t": "Sail Barge Assault (Alternate)",
+    "d": "5:03",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-1",
+    "t": "Parade Of The Ewoks",
+    "d": "3:29",
+    "sp": "6hjo60CtIi8eMyp8SNj5GD",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-2",
+    "t": "Luke And Leia",
+    "d": "4:46",
+    "sp": "1HhLogd8ljnRgXM8FlAR8o",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-3",
+    "t": "Brother And Sister / Father And Son / The Fleet Enters Hyperspace / Heroic Ewok",
+    "d": "10:40",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-4",
+    "t": "Emperor's Throne Room",
+    "d": "3:26",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-5",
+    "t": "The Battle Of Endor I (Into The Trap / Forest Ambush / Scout Walker Scramble / Prime Weapon Fires)",
+    "d": "11:50",
+    "sp": "4I7uZnCpdzSZMu0Oz6ZzOS",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-6",
+    "t": "The Lightsaber / The Ewok Battle",
+    "d": "4:31",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-7",
+    "t": "The Battle Of Endor II (Leia Is Wounded - The Duel Begins / Overtaking The Bunker / The Dark Side Beckons / The Emperor's Death)",
+    "d": "10:02",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-8",
+    "t": "The Battle Of Endor III (Superstructure Chase / Darth Vader's Death / The Main Reactor)",
+    "d": "6:03",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-9",
+    "t": "Leia's News / Light Of The Force",
+    "d": "3:21",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-10",
+    "t": "Victory Celebration / End Title",
+    "d": "8:33",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-11",
+    "t": "Ewok Feast / Part Of The Tribe",
+    "d": "4:00",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "6-12",
+    "t": "The Forest Battle (Concert Suite)",
+    "d": "4:04",
+    "sp": "3YE4sUxcxMztblbryEslaG",
+    "src": "Discogs"
+   }
+  ],
+  "released": "2004-09-21",
+  "wiki": "",
+  "about": "",
+  "personnel": [
+   "John Williams – composer, conductor",
+   "London Symphony Orchestra",
+   "Alfred Newman – composer (20th Century Fox Fanfare)",
+   "Jerry Hey – composer, arranger (Jedi Rocks)"
+  ],
+  "artistKey": "John Williams",
+  "artist": "John Williams",
+  "spAlbum": "55gMu4AvAKCbCaGv3GIXgy",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0443",
+  "title": "Star Wars Trilogy",
+  "year": 2004,
+  "type": "Soundtrack",
+  "cdYear": "2004"
+ },
+ {
+  "label": "Tuff Gong / Island Records",
+  "catno": "TGCBX 1",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "1992-01-01",
+  "discogs": "",
+  "genres": [
+   "Reggae"
+  ],
+  "styles": [
+   "Reggae",
+   "Ska",
+   "Rocksteady",
+   "Roots Reggae"
+  ],
+  "notes": "Limited, numbered 4-CD box set (Island 512 280-2), from his first single, Judge Not (1962), to Redemption Song live in Pittsburgh, his last concert (1980). Includes previously unreleased songs, alternate mixes and 12\" mixes.",
+  "cover": "covers/CD0444.jpg",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "Judge Not",
+    "d": "2:27",
+    "sp": "1jsPMm6X3OUHnzG5Lz57xD",
+    "src": "Discogs",
+    "ar": [
+     "Robert Marley"
+    ]
+   },
+   {
+    "p": "1-2",
+    "t": "One Cup Of Coffee",
+    "d": "2:34",
+    "sp": "0qs6mF2QZj6bEDKeuh2wFq",
+    "src": "Discogs",
+    "ar": [
+     "Robert Marley"
+    ]
+   },
+   {
+    "p": "1-3",
+    "t": "Simmer Down",
+    "d": "2:50",
+    "sp": "5f4Bc6bJWwUJ5Rtc8Sjrwo",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-4",
+    "t": "I'm Still Waiting",
+    "d": "3:07",
+    "sp": "5UIyaG4wXP63WrXRTIPA5J",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-5",
+    "t": "One Love / People Get Ready (Original)",
+    "d": "3:21",
+    "sp": "2BSwGHTh4kmckqXQfaCaAp",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-6",
+    "t": "Put It On",
+    "d": "3:08",
+    "sp": "0MDKJDio1B1HpUAqXF6Gkn",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-7",
+    "t": "Bus Dem Shut (Pyaka)",
+    "d": "2:47",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-8",
+    "t": "Mellow Mood (Original)",
+    "d": "3:31",
+    "sp": "0OzTp2KRtNEjHqHP78jWW8",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-9",
+    "t": "Bend Down Low",
+    "d": "2:31",
+    "sp": "4sF8TQcxIsXNNr9h2uP7bs",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-10",
+    "t": "Hypocrites",
+    "d": "2:36",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-11",
+    "t": "Stir It Up (Original)",
+    "d": "3:13",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-12",
+    "t": "Nice Time",
+    "d": "2:45",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-13",
+    "t": "Thank You Lord (Original)",
+    "d": "3:41",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-14",
+    "t": "Hammer",
+    "d": "2:57",
+    "sp": "6vxxbeNBxQLPKfgGUQeHCj",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-15",
+    "t": "Caution",
+    "d": "2:45",
+    "sp": "4xH7jnWcr2nwOa1aRtjwcj",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-16",
+    "t": "Back Out",
+    "d": "2:19",
+    "sp": "3pEVtsRZ2WHVZfp4Ra5Pr3",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-17",
+    "t": "Soul Shake Down Party",
+    "d": "3:06",
+    "sp": "23zDsHze1l9jJ5zZ2ZdpgT",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-18",
+    "t": "Do It Twice",
+    "d": "2:49",
+    "sp": "2EfgyBnZ18dYoxI5Nc8CRN",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-19",
+    "t": "Soul Rebel",
+    "d": "3:19",
+    "sp": "6kjUuaUHKeAZJJ29IOpFSQ",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-20",
+    "t": "Sun Is Shining",
+    "d": "2:11",
+    "sp": "42iWqGOElfrPeRKc2uji4P",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-21",
+    "t": "Don't Rock The Boat",
+    "d": "4:32",
+    "sp": "7pBhrxh19Q4zWwRkH9UTtI",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-22",
+    "t": "Small Axe",
+    "d": "3:57",
+    "sp": "0nbjWVrVYxJUQi9ZVuWyF2",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-23",
+    "t": "Duppy Conqueror",
+    "d": "3:40",
+    "sp": "6ph6Fgp0k6FpdbmgLqa21j",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "1-24",
+    "t": "Mr Brown",
+    "d": "3:33",
+    "sp": "1WXgGLkL9hmJxfYxXkd09u",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-1",
+    "t": "Screw Face",
+    "d": "2:23",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-2",
+    "t": "Lick Samba",
+    "d": "2:33",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-3",
+    "t": "Trenchtown Rock (Previously Unreleased Alternate Mix)",
+    "d": "3:29",
+    "sp": "1XyFFWdHfEtesTaicVOfHl",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-4",
+    "t": "Craven Choke Puppy",
+    "d": "2:52",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-5",
+    "t": "Guava Jelly",
+    "d": "2:18",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-6",
+    "t": "Acoustic Medley: Guava Jelly / This Train / Cornerstone / Comma Comma / Dewdrops / Stir It Up / I'm Hurting Inside (Previously Unreleased)",
+    "d": "12:09",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-7",
+    "t": "I'm Hurting Inside (Previously Unreleased Alternate Mix)",
+    "d": "3:29",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "2-8",
+    "t": "High Tide Or Low Tide (Previously Unreleased)",
+    "d": "4:09",
+    "sp": "2P7dqEsGAvdVBCWeycm0vI",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-9",
+    "t": "Slave Driver",
+    "d": "2:51",
+    "sp": "1nC5nmylWPNKwaGCsP8ZwS",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-10",
+    "t": "No More Trouble",
+    "d": "3:59",
+    "sp": "4xbho217DqHc5cGkaBCUpH",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-11",
+    "t": "Concrete Jungle",
+    "d": "4:11",
+    "sp": "5M77yXWuKPqaUzdxn4cVnV",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-12",
+    "t": "Get Up Stand Up",
+    "d": "3:15",
+    "sp": "5MVW8uIuNuL7CQ0RyyogHI",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-13",
+    "t": "Rastaman Chant",
+    "d": "3:51",
+    "sp": "1WujDB3odQoKJYJNvhgEGL",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-14",
+    "t": "Burnin' And Lootin'",
+    "d": "4:13",
+    "sp": "34Jqj42hsT3O3N8yihE3B6",
+    "src": "Discogs",
+    "ar": [
+     "The Wailers"
+    ]
+   },
+   {
+    "p": "2-15",
+    "t": "Iron Lion Zion (Previously Unreleased)",
+    "d": "2:56",
+    "sp": "0oz9leJwzlmmRKWe3Pgjh4",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley & The Wailers"
+    ]
+   },
+   {
+    "p": "2-16",
+    "t": "Lively Up Yourself",
+    "d": "5:11",
+    "sp": "2Xr3NXOz1qg5Jddkm8k4fr",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley & The Wailers"
+    ]
+   },
+   {
+    "p": "2-17",
+    "t": "Natty Dread",
+    "d": "3:34",
+    "sp": "2fvi4GCSJn9XYdYrLGLX5f",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley & The Wailers"
+    ]
+   },
+   {
+    "p": "2-18",
+    "t": "I Shot The Sheriff (Live)",
+    "d": "5:24",
+    "sp": "1U3upU6WjzDGB4oLEoijsg",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley & The Wailers"
+    ]
+   },
+   {
+    "p": "3-1",
+    "t": "No Woman No Cry (Live At The Roxy) (Previously Unreleased)",
+    "d": "5:23",
+    "sp": "47Gxi4mw83VO1Wb7ExbRTi",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-2",
+    "t": "Who The Cap Fit",
+    "d": "4:42",
+    "sp": "2cYAd7BJIOj4Y0pU5Pyesc",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-3",
+    "t": "Jah Live",
+    "d": "4:15",
+    "sp": "1SxXBJgUk4z1dZdpdtTB7F",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-4",
+    "t": "Crazy Baldheads",
+    "d": "3:10",
+    "sp": "29Vblrw8uyOLwz2c72Icj0",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-5",
+    "t": "War",
+    "d": "3:37",
+    "sp": "1TLTUhEUYOyORxufZlCOWj",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-6",
+    "t": "Johnny Was",
+    "d": "3:47",
+    "sp": "253xLAXeTcwMMm5NaVSvvz",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-7",
+    "t": "Rat Race",
+    "d": "2:49",
+    "sp": "6EmP97fPXI3aiHnrsHuj08",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-8",
+    "t": "Jammin' (12\" Mix)",
+    "d": "5:45",
+    "sp": "1oagqULfj7bchynHkGSXwE",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-9",
+    "t": "Waiting In Vain (Advert Mix)",
+    "d": "3:59",
+    "sp": "7gOekyUjvjI4pC1MIOBPMu",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-10",
+    "t": "Exodus (12\" Mix)",
+    "d": "7:25",
+    "sp": "5MRQvbpvXejJJy0OWciP8G",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-11",
+    "t": "Natural Mystic",
+    "d": "3:28",
+    "sp": "2gvyIHua7cS9L53NvHfa9c",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-12",
+    "t": "Three Little Birds (Previously Unreleased Alternate Mix)",
+    "d": "2:57",
+    "sp": "6AvkjrWvaqmt1RRL7r5tOC",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-13",
+    "t": "Running Away",
+    "d": "4:14",
+    "sp": "2dFx6mVWGJTu4xa1elAQ7n",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-14",
+    "t": "Keep On Moving (London Version)",
+    "d": "5:44",
+    "sp": "5GETdIkQzxjNDqxpT20DDQ",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-15",
+    "t": "Easy Skanking",
+    "d": "2:56",
+    "sp": "0qS73wj4SD1PcFDchuXsMD",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-16",
+    "t": "Is This Love (Horns Mix)",
+    "d": "4:00",
+    "sp": "4SBcUB7cOYWcXsQJ3oVpQ9",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-17",
+    "t": "Smile Jamaica",
+    "d": "3:14",
+    "sp": "14g8fdwUHu9jFmDpYDooA5",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "3-18",
+    "t": "Time Will Tell",
+    "d": "3:30",
+    "sp": "5AMy058KlCyQfHK6Mim42N",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-1",
+    "t": "Africa Unite",
+    "d": "2:54",
+    "sp": "2qmHhaOmlcKDeGfipGhF1j",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-2",
+    "t": "Survival",
+    "d": "3:52",
+    "sp": "7rCOQjHqD2ArkKvoemDG54",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-3",
+    "t": "One Drop",
+    "d": "3:52",
+    "sp": "3Ui4BMHapr00Iul1kB7lHC",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-4",
+    "t": "One Dub",
+    "d": "3:53",
+    "sp": "",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-5",
+    "t": "Zimbabwe",
+    "d": "3:48",
+    "sp": "5ApfJDLibIoWL0mRZ5uOKu",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-6",
+    "t": "So Much Trouble In The World",
+    "d": "3:57",
+    "sp": "209SbubR5uKaVzj5SeN42w",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-7",
+    "t": "Ride Natty Ride (12\" Mix)",
+    "d": "6:23",
+    "sp": "1Gb2wkjjyJBPFBnF0Cl5Ni",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-8",
+    "t": "Babylon System",
+    "d": "4:19",
+    "sp": "6xbtDXk8utIS8rOWD0X9XA",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-9",
+    "t": "Coming In From The Cold (12\" Mix)",
+    "d": "6:04",
+    "sp": "771NcQ4Z6qkx5hLCLWC6PC",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-10",
+    "t": "Real Situation",
+    "d": "3:09",
+    "sp": "6d4B82vt7pjdzumBmV6HiZ",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-11",
+    "t": "Bad Card",
+    "d": "2:48",
+    "sp": "2Zw5FtdFtvKWg4h44GOv3R",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-12",
+    "t": "Could You Be Loved (12\" Mix)",
+    "d": "5:27",
+    "sp": "1Rb4eWCv2mPz7bVyrwbwvP",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-13",
+    "t": "Forever Loving Jah",
+    "d": "3:52",
+    "sp": "1CAEHafiiJKjp6t9hfYX7f",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-14",
+    "t": "Rastaman Live Up",
+    "d": "5:21",
+    "sp": "2wFw6mZzzABL9gktquq7I5",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-15",
+    "t": "Give Thanks And Praise",
+    "d": "3:14",
+    "sp": "7kldRiZk6Wan2uFfb9qfX9",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-16",
+    "t": "One Love / People Get Ready (12\" Mix)",
+    "d": "7:09",
+    "sp": "7rUaXAPjAXZ5zjCtxGj8jo",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-17",
+    "t": "Why Should I (Previously Unreleased)",
+    "d": "3:33",
+    "sp": "7uy1W0LdVySSDuENXkb7ZC",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   },
+   {
+    "p": "4-18",
+    "t": "Redemption Song (Live In Pittsburgh)",
+    "d": "4:07",
+    "sp": "62nxDx2RXkzCr9nU83nJJ4",
+    "src": "Discogs",
+    "ar": [
+     "Bob Marley"
+    ]
+   }
+  ],
+  "released": "1992-09-21",
+  "wiki": "",
+  "about": "",
+  "personnel": [
+   "Bob Marley – vocals, guitar",
+   "The Wailers"
+  ],
+  "artistKey": "Bob Marley & The Wailers",
+  "artist": "Bob Marley & The Wailers",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0444",
+  "title": "Songs of Freedom",
+  "year": 1992,
+  "type": "Compilation",
+  "cdYear": "1992",
+  "acqLabel": "1990 - 2005"
+ },
+ {
+  "label": "Warner Bros. Records",
+  "catno": "9 45394-2",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "1993-01-01",
+  "discogs": "",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Folk Rock",
+   "Acoustic",
+   "Pop Rock"
+  ],
+  "notes": "3-CD remastered box set spanning three decades: Simon & Garfunkel through Graceland and The Rhythm of the Saints, with the Bridge Over Troubled Water demo, the Tom & Jerry single Hey, Schoolgirl and live recordings.",
+  "cover": "covers/CD0445.jpg",
+  "tracks": [
+   {
+    "p": "1-1",
+    "t": "Leaves That Are Green",
+    "d": "2:29",
+    "sp": "4YNvffmxJxLD6lsOFqhjxx",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-2",
+    "t": "The Sound Of Silence",
+    "d": "3:03",
+    "sp": "2YplrdHMBoRdnHgMeHEwHm",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-3",
+    "t": "Kathy's Song",
+    "d": "3:22",
+    "sp": "5smCwRoRNqX4vAqSkICJ5D",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-4",
+    "t": "America",
+    "d": "3:23",
+    "sp": "7osZ8vZFHtAtJenio6dW7y",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-5",
+    "t": "Cecilia",
+    "d": "2:52",
+    "sp": "6QhXQOpyYvbpdbyjgAqKdY",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-6",
+    "t": "El Condor Pasa",
+    "d": "3:05",
+    "sp": "1eN42Q7IWRzRBq8eW2Y2TE",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-7",
+    "t": "The Boxer",
+    "d": "5:08",
+    "sp": "76TZCvJ8GitQ2FA1q5dKu0",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-8",
+    "t": "Mrs. Robinson",
+    "d": "3:52",
+    "sp": "0iOZM63lendWRTTeKhZBSC",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-9",
+    "t": "Bridge Over Troubled Water (Demo)",
+    "d": "2:33",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-10",
+    "t": "Bridge Over Troubled Water",
+    "d": "4:56",
+    "sp": "6l8EbYRtQMgKOyc1gcDHF9",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-11",
+    "t": "The Breakup",
+    "d": "2:15",
+    "sp": "2j8LP6YV6DQ4EUU0P67lKN",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-12",
+    "t": "Hey, Schoolgirl",
+    "d": "1:33",
+    "sp": "2Wr863Tdl5fkrik3gaTeZA",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-13",
+    "t": "My Little Town",
+    "d": "3:49",
+    "sp": "3obrfotpr4kLCKiOu2GZ4Q",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-14",
+    "t": "Me And Julio Down By The School Yard",
+    "d": "2:44",
+    "sp": "6vxHp3CDNo0afgKGp2yi1E",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-15",
+    "t": "Peace Like A River",
+    "d": "3:16",
+    "sp": "0slD4yP9v2Sfi4YNjUcfSC",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-16",
+    "t": "Mother And Child Reunion",
+    "d": "3:05",
+    "sp": "5vZ1BKMSLgrxxPYGMR904n",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-17",
+    "t": "Congratulations",
+    "d": "3:42",
+    "sp": "7ygBd6XOHoCzIOEL147xbz",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-18",
+    "t": "Duncan",
+    "d": "5:04",
+    "sp": "2MV4ZPIXPrMJEZ4cfAfr0n",
+    "src": "Discogs"
+   },
+   {
+    "p": "1-19",
+    "t": "American Tune",
+    "d": "3:45",
+    "sp": "3g3xDtGtU0asKw6iYCYiG5",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-1",
+    "t": "Loves Me Like A Rock",
+    "d": "3:19",
+    "sp": "5F4ksIKmuXEtgBf6SfEQRr",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-2",
+    "t": "Tenderness",
+    "d": "2:52",
+    "sp": "2DAvMFLSMyXc7qKfix3MGN",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-3",
+    "t": "Kodachrome",
+    "d": "3:29",
+    "sp": "3f0U5NaD1bCk8nmKpn2ZJY",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-4",
+    "t": "Gone At Last",
+    "d": "3:28",
+    "sp": "5oROkcna6Wods0AJXmRzS0",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-5",
+    "t": "Take Me To The Mardi Gras",
+    "d": "3:21",
+    "sp": "2qQrVJQ7zXAyvqX1IkwsS2",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-6",
+    "t": "St. Judy's Comet",
+    "d": "3:18",
+    "sp": "5FHJqj19k93FqmbAmldqdy",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-7",
+    "t": "Something So Right",
+    "d": "4:28",
+    "sp": "6l8mdEUBgAig4yHVdbtTjO",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-8",
+    "t": "Still Crazy After All These Years",
+    "d": "3:49",
+    "sp": "6XqvRGDs5eLQSCyKUBCBGF",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-9",
+    "t": "Have A Good Time",
+    "d": "3:23",
+    "sp": "2fX61zkOZTolmDwof4J5ZS",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-10",
+    "t": "Jonah",
+    "d": "3:18",
+    "sp": "4qD0LXQVcHCEKYsmUk1ceU",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-11",
+    "t": "How The Heart Approaches What It Yearns",
+    "d": "2:47",
+    "sp": "2xUgEzjkFNM6EUbp2gVh5E",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-12",
+    "t": "50 Ways To Leave Your Lover",
+    "d": "3:06",
+    "sp": "6Qb7gtV6Q4MnUjSbkFcopl",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-13",
+    "t": "Slip Slidin' Away",
+    "d": "4:43",
+    "sp": "0ZFhokbw7ByUo3BTssCAQQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-14",
+    "t": "Late In The Evening",
+    "d": "3:54",
+    "sp": "2h23bjG8B3bcD47HBu6bHG",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-15",
+    "t": "Hearts And Bones",
+    "d": "5:38",
+    "sp": "6WEEA3pDQVogiNND0jRfoJ",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-16",
+    "t": "Rene And Georgette Magritte With Their Dog After The War",
+    "d": "3:42",
+    "sp": "6P3h4US9KBQLT9j6VZmIrq",
+    "src": "Discogs"
+   },
+   {
+    "p": "2-17",
+    "t": "The Late Great Johnny Ace",
+    "d": "4:45",
+    "sp": "1bIDczFikKlZpd9Ccbyhiy",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-1",
+    "t": "The Boy In The Bubble",
+    "d": "3:58",
+    "sp": "1sor6zErvAVNIYtBfMZEnN",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-2",
+    "t": "Graceland",
+    "d": "4:48",
+    "sp": "2HBNpowBFX4mAdVHQN1ET9",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-3",
+    "t": "Under African Skies",
+    "d": "3:36",
+    "sp": "1FeG3rUxQbe3SF2iuN2LxQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-4",
+    "t": "That Was Your Mother",
+    "d": "2:52",
+    "sp": "2XcuqRioQn0LLlBAuM7Y08",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-5",
+    "t": "Diamonds On The Soles Of Her Shoes",
+    "d": "5:47",
+    "sp": "6soLo7Z2vDBPulJgC1VC8J",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-6",
+    "t": "You Can Call Me Al",
+    "d": "4:40",
+    "sp": "75wFI2uZqghZV2UjfKXiA0",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-7",
+    "t": "Homeless",
+    "d": "3:47",
+    "sp": "6S7CpaaCs3WlQeogJqhiC2",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-8",
+    "t": "Spirit Voices",
+    "d": "3:55",
+    "sp": "6bzSqq9LsvUsKwCrJh1Ls4",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-9",
+    "t": "The Obvious Child",
+    "d": "4:09",
+    "sp": "1deWgqhgAzI6dY35TbKKh7",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-10",
+    "t": "Can't Run But",
+    "d": "3:34",
+    "sp": "5gSwQihHUXvC5H4SBCo03D",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-11",
+    "t": "Thelma",
+    "d": "4:11",
+    "sp": "7pcEC5r1jVqWGRypo9D7f7",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-12",
+    "t": "Further To Fly",
+    "d": "5:32",
+    "sp": "2w0AzudBLFmdFYxeEUU3UX",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-13",
+    "t": "She Moves On",
+    "d": "4:56",
+    "sp": "1RxlMG0bJhJdR5H6wL2oJf",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-14",
+    "t": "Born At The Right Time",
+    "d": "5:08",
+    "sp": "3k10nsj0baxf7DaWUmWd76",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-15",
+    "t": "The Cool, Cool River",
+    "d": "5:44",
+    "sp": "0zm4vwO41gxrHE9DUD4WXP",
+    "src": "Discogs"
+   },
+   {
+    "p": "3-16",
+    "t": "The Sound Of Silence",
+    "d": "5:39",
+    "sp": "48XEoZjXkevT5cUmRatcQV",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1993-09-28",
+  "wiki": "",
+  "about": "",
+  "personnel": [
+   "Paul Simon – vocals, guitar, songwriter",
+   "Art Garfunkel – vocals (Simon & Garfunkel songs)"
+  ],
+  "artistKey": "Paul Simon",
+  "artist": "Paul Simon",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0445",
+  "title": "1964/1993",
+  "year": 1993,
+  "type": "Compilation",
+  "cdYear": "1993",
+  "acqLabel": "1990 - 2005"
  }
 ]
