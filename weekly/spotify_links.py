@@ -13,7 +13,7 @@ import base64, datetime as dt, difflib, json, os, re, sys, time, unicodedata, ur
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "weekly", "spotify_links.json")
-PER_RUN = 300        # Spotify requests per night (kept low: your Mac lookups share the same Spotify allowance)
+PER_RUN = 900        # Spotify requests per night (raised from 300 on Nov 21 as a test; "last" in the JSON shows how it went)
 GAP = 1.6            # seconds between requests
 RETRY_DAYS = 60
 TODAY = dt.date.today()
@@ -156,6 +156,8 @@ def main():
             miss[k] = TODAY.isoformat(); gone += 1
     data["updated"] = TODAY.isoformat()
     data["left"] = max(0, len(todo) - found - gone)
+    data["last"] = {"date": TODAY.isoformat(), "requests": s.used, "found": found, "not_on_spotify": gone,
+                    "stopped": s.stop or "finished the list"}
     with open(OUT + ".tmp", "w") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
     os.replace(OUT + ".tmp", OUT)
