@@ -64835,7 +64835,7 @@
   ],
   "styles": [],
   "notes": "",
-  "cover": "",
+  "cover": "covers/ALB0524.jpg",
   "tracks": [
    {
     "p": "A1",
@@ -64879,7 +64879,10 @@
   "artistKey": "Bukue One",
   "spAlbum": "",
   "vinylColor": "",
-  "medium": "Vinyl"
+  "medium": "Vinyl",
+  "ct": [
+   "blue"
+  ]
  },
  {
   "id": "ALB0525",
@@ -168812,7 +168815,7 @@
    "Marching Band"
   ],
   "notes": "",
-  "cover": "",
+  "cover": "covers/CD0226.jpg",
   "tracks": [],
   "released": "1998",
   "wiki": "",
@@ -168966,7 +168969,7 @@
    "Marching Band"
   ],
   "notes": "",
-  "cover": "",
+  "cover": "covers/CD0228.jpg",
   "tracks": [],
   "released": "2002",
   "wiki": "",
@@ -168976,7 +168979,10 @@
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "",
-  "acqLabel": "1990 - 2005"
+  "acqLabel": "1990 - 2005",
+  "ct": [
+   "yellow"
+  ]
  },
  {
   "id": "CD0229",
@@ -174391,14 +174397,16 @@
  {
   "id": "CD0277",
   "artist": "Flying Other Brothers",
-  "title": "(title missing on the sheet)",
+  "title": "No More Years!",
   "year": 2004,
   "label": "",
   "catno": "",
   "edition": "CD",
   "reissue": "",
   "type": "",
-  "personnel": [],
+  "personnel": [
+   "Roger McNamee – songwriter (all songs)"
+  ],
   "discs": "",
   "acquired": "2004-01-01",
   "discogs": "",
@@ -174409,9 +174417,52 @@
    "Jam Band"
   ],
   "notes": "",
-  "cover": "",
-  "tracks": [],
-  "released": "",
+  "cover": "covers/CD0277.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Dubya",
+    "d": "",
+    "sp": "",
+    "src": "Disc"
+   },
+   {
+    "p": "2",
+    "t": "Ex",
+    "d": "",
+    "sp": "",
+    "src": "Disc"
+   },
+   {
+    "p": "3",
+    "t": "Devil's Kitchen",
+    "d": "",
+    "sp": "",
+    "src": "Disc"
+   },
+   {
+    "p": "4",
+    "t": "Neverland",
+    "d": "",
+    "sp": "",
+    "src": "Disc"
+   },
+   {
+    "p": "5",
+    "t": "Nick of Time",
+    "d": "",
+    "sp": "",
+    "src": "Disc"
+   },
+   {
+    "p": "6",
+    "t": "Tell Me It's Okay",
+    "d": "",
+    "sp": "",
+    "src": "Disc"
+   }
+  ],
+  "released": "2004",
   "wiki": "",
   "about": "",
   "artistKey": "Flying Other Brothers",
@@ -174419,7 +174470,10 @@
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "",
-  "acqLabel": "1990 - 2005"
+  "acqLabel": "1990 - 2005",
+  "ct": [
+   "black_white"
+  ]
  },
  {
   "id": "CD0278",
@@ -180545,14 +180599,16 @@
  {
   "id": "CD0320",
   "artist": "The Grace Cathedral Choir",
-  "title": "Of Men And Boys On Christmas Night",
+  "title": "On Christmas Night",
   "year": 1998,
   "label": "",
   "catno": "",
   "edition": "CD",
   "reissue": "",
   "type": "",
-  "personnel": [],
+  "personnel": [
+   "John Fenstermaker – director"
+  ],
   "discs": "",
   "acquired": "1998-01-01",
   "discogs": "",
@@ -180563,10 +180619,123 @@
    "Choral",
    "Holiday"
   ],
-  "notes": "",
-  "cover": "",
-  "tracks": [],
-  "released": "",
+  "notes": "Recorded live at Grace Cathedral, San Francisco.",
+  "cover": "covers/CD0320.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Good King Wenceslas (English carol; arr. Jacques)",
+    "d": "2:25",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "2",
+    "t": "What Child Is This? (English carol; arr. Fenstermaker)",
+    "d": "3:23",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "3",
+    "t": "All This Time (William Walton)",
+    "d": "1:43",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "4",
+    "t": "Infant Holy, Infant Lowly (Polish carol; arr. Willcocks)",
+    "d": "1:59",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "5",
+    "t": "Alleluya, A New Work Is Come On Hand (Peter Wishart)",
+    "d": "2:26",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "6",
+    "t": "O Come, All Ye Faithful (Traditional carol; descant, Willcocks)",
+    "d": "3:06",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "7",
+    "t": "Lullay My Liking (Peter R. Hallock)",
+    "d": "2:56",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "8",
+    "t": "The Journey (Simon Lole)",
+    "d": "3:49",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "9",
+    "t": "Masters in This Hall (French carol; arr. Candlyn)",
+    "d": "4:28",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "10",
+    "t": "Epistle Sonata in F major, K. 244 (Wolfgang Amadeus Mozart)",
+    "d": "3:55",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "11",
+    "t": "Wonder Tidings (Jeffrey Goodsite)",
+    "d": "3:15",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "12",
+    "t": "Sleeps Judea Fair (Hugh Mackinnon)",
+    "d": "3:23",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "13",
+    "t": "Fantasia on Christmas Carols (Ralph Vaughan Williams)",
+    "d": "11:47",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "14",
+    "t": "Angels We Have Heard on High (French carol)",
+    "d": "3:12",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "15",
+    "t": "Silent Night (Franz Gruber; arr. Fenstermaker)",
+    "d": "3:10",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "16",
+    "t": "Hark! The Herald Angels Sing (Felix Mendelssohn; descant, Willcocks)",
+    "d": "2:29",
+    "sp": "",
+    "src": "CD booklet"
+   }
+  ],
+  "released": "1998",
   "wiki": "",
   "about": "",
   "artistKey": "The Grace Cathedral Choir",
@@ -209869,5 +210038,359 @@
   "spAlbum": "4xiiNoFRZ1BWgUudBDI62L",
   "vinylColor": "",
   "medium": "CD"
+ },
+ {
+  "label": "Island Records",
+  "catno": "",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "1991-01-01",
+  "discogs": "",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [],
+  "notes": "",
+  "cover": "",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "The Fly",
+    "d": "4:29",
+    "sp": "",
+    "src": "Wikipedia"
+   },
+   {
+    "p": "2",
+    "t": "Alex Descends into Hell for a Bottle of Milk / Korova 1",
+    "d": "3:37",
+    "sp": "",
+    "src": "Wikipedia"
+   },
+   {
+    "p": "3",
+    "t": "The Lounge Fly Mix",
+    "d": "6:28",
+    "sp": "",
+    "src": "Wikipedia"
+   }
+  ],
+  "released": "1991-10-21",
+  "wiki": "https://en.wikipedia.org/wiki/The_Fly_(U2_song)",
+  "about": "The first single from Achtung Baby, and the first sign of U2's harder, more abrasive early-90s sound, built on hip-hop beats, industrial textures and distorted vocals. It went to number one in the UK and on the US modern rock chart.",
+  "personnel": [
+   "Daniel Lanois – producer",
+   "Flood – engineer, mixing",
+   "Steve Lillywhite – mixing",
+   "Paul Barrett – producer (track 2)"
+  ],
+  "artistKey": "U2",
+  "artist": "U2",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0436",
+  "title": "The Fly",
+  "year": 1991,
+  "type": "Single",
+  "cdYear": "1991",
+  "acqLabel": "1990 - 2005"
+ },
+ {
+  "label": "KTS (Kiss The Stone) – CD Music Co, Italy",
+  "catno": "KTS 008",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "1991-01-01",
+  "discogs": "",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [],
+  "notes": "Unofficial live recording. Booklet: \"Recorded live at Du Kuippe Arena, Rotterdam, 1989\", special guest B.B. King and his Orchestra. Made in Germany, ℗ 1991. Total running time 73:54.",
+  "cover": "covers/CD0437.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Where the Streets Have No Name",
+    "d": "6:01",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "2",
+    "t": "I Will Follow",
+    "d": "3:53",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "3",
+    "t": "I Still Haven't Found What I'm Looking For",
+    "d": "5:38",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "4",
+    "t": "MLK",
+    "d": "1:44",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "5",
+    "t": "The Unforgettable Fire",
+    "d": "4:40",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "6",
+    "t": "God Part II",
+    "d": "3:27",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "7",
+    "t": "Van Diemen's Land",
+    "d": "3:09",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "8",
+    "t": "Bullet the Blue Sky",
+    "d": "5:04",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "9",
+    "t": "Running to Stand Still",
+    "d": "3:23",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "10",
+    "t": "New Year's Day",
+    "d": "6:36",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "11",
+    "t": "Pride (In the Name of Love)",
+    "d": "4:06",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "12",
+    "t": "Angel of Harlem",
+    "d": "4:16",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "13",
+    "t": "When Love Comes to Town",
+    "d": "4:45",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "14",
+    "t": "Love Rescue Me",
+    "d": "5:24",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "15",
+    "t": "With or Without You",
+    "d": "6:08",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "16",
+    "t": "40",
+    "d": "5:31",
+    "sp": "",
+    "src": "CD booklet"
+   }
+  ],
+  "released": "1991",
+  "wiki": "",
+  "about": "",
+  "personnel": [
+   "Bono – vocals",
+   "The Edge – guitar",
+   "Adam Clayton – bass",
+   "Larry Mullen Jr. – drums",
+   "B.B. King and his Orchestra – special guests",
+   "Giancarlo Tonti – cover"
+  ],
+  "artistKey": "U2",
+  "artist": "U2",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0437",
+  "title": "Feel the Noise – The Other Show",
+  "year": 1991,
+  "type": "Live",
+  "cdYear": "1991",
+  "acqLabel": "1990 - 2005"
+ },
+ {
+  "label": "",
+  "catno": "P 910026",
+  "edition": "CD",
+  "reissue": "",
+  "discs": "",
+  "acquired": "1992-01-01",
+  "discogs": "",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [],
+  "notes": "Unofficial live recording. Tracks 1–8 live in Detroit, Sept. 9, 1992; tracks 9–15 live in Madison, Sept. 13, 1992 (Zoo TV Tour). Total time 73:16.",
+  "cover": "covers/CD0438.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Zoo Station",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "2",
+    "t": "The Fly",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "3",
+    "t": "Even Better Than the Real Thing",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "4",
+    "t": "Mysterious Ways",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "5",
+    "t": "New Year's Day",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "6",
+    "t": "Whiskey in the Jar",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "7",
+    "t": "Until the End of the World",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "8",
+    "t": "Tryin' to Throw Your Arms Around the World",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "9",
+    "t": "Angel of Harlem",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "10",
+    "t": "When Love Comes to Town",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "11",
+    "t": "Sunday Bloody Sunday",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "12",
+    "t": "Bullet the Blue Sky",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "13",
+    "t": "With or Without You",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "14",
+    "t": "Love Is Blindness",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   },
+   {
+    "p": "15",
+    "t": "Can't Help Falling in Love",
+    "d": "",
+    "sp": "",
+    "src": "CD booklet"
+   }
+  ],
+  "released": "1992",
+  "wiki": "",
+  "about": "",
+  "personnel": [
+   "Bono – vocals",
+   "The Edge – guitar",
+   "Adam Clayton – bass",
+   "Larry Mullen Jr. – drums"
+  ],
+  "artistKey": "U2",
+  "artist": "U2",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "CD",
+  "id": "CD0438",
+  "title": "Bullet the Blue Sky: Live in Detroit & Madison 1992",
+  "year": 1992,
+  "type": "Live",
+  "cdYear": "1992",
+  "acqLabel": "1990 - 2005",
+  "ct": [
+   "black_white"
+  ]
  }
 ]
