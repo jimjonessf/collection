@@ -169143,7 +169143,7 @@
    "Acoustic"
   ],
   "notes": "",
-  "cover": "",
+  "cover": "covers/CD0230.jpg",
   "tracks": [],
   "released": "",
   "wiki": "",
@@ -169153,7 +169153,10 @@
   "vinylColor": "",
   "medium": "CD",
   "cdYear": "",
-  "acqLabel": "2008"
+  "acqLabel": "2008",
+  "ct": [
+   "black_white"
+  ]
  },
  {
   "id": "CD0231",
