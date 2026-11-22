@@ -32804,12 +32804,6 @@
    }
   }
  },
- "Ngozi Family": {
-  "name": "Ngozi Family",
-  "wiki_url": null,
-  "summary": "Zambian rock group of the 1970s led by singer and guitarist Paul Ngozi, one of the first acts labelled Zamrock. Their fuzz-heavy records addressed everyday social issues and have been reissued internationally in recent years.",
-  "studio_albums": []
- },
  "Witch": {
   "name": "Witch",
   "wiki_url": "https://en.wikipedia.org/wiki/Witch_(Zamrock_band)",
@@ -50506,6 +50500,73 @@
     "shineon": 53254,
     "wintersong": 54373,
     "surfacing": 3468
+   }
+  }
+ },
+ "Paul Ngozi": {
+  "name": "Paul Ngozi",
+  "wiki_url": "https://en.wikipedia.org/wiki/Paul_Ngozi",
+  "summary": "Zambian singer, guitarist and bandleader (born Paul Dobson Nyirongo, 1949–1989) who led the Ngozi Family, one of the first bands to be called Zamrock. His fuzz-heavy records were sharp social commentary on everyday life in 1970s Zambia, and Now-Again Records has reissued them since 2014.",
+  "studio_albums": [
+   {
+    "year": 1976,
+    "title": "Day of Judgment"
+   },
+   {
+    "year": 1976,
+    "title": "Viva Ngozi"
+   },
+   {
+    "year": 1977,
+    "title": "45,000 Volts"
+   },
+   {
+    "year": 1977,
+    "title": "99% Confusion"
+   },
+   {
+    "year": 1977,
+    "title": "Bad Character"
+   },
+   {
+    "year": 1977,
+    "title": "Heavy = Metal"
+   },
+   {
+    "year": 1977,
+    "title": "The Ghetto"
+   },
+   {
+    "year": 1977,
+    "title": "Lightning and Thunder"
+   },
+   {
+    "year": 1978,
+    "title": "Happy Trip"
+   },
+   {
+    "year": 1978,
+    "title": "Heavy Connection"
+   },
+   {
+    "year": 1981,
+    "title": "Size 9"
+   },
+   {
+    "year": 1982,
+    "title": "Chitwansombo"
+   },
+   {
+    "year": 1983,
+    "title": "Thokozile"
+   }
+  ],
+  "bea": {
+   "id": 40715,
+   "r": {
+    "dayofjudgment": 42289,
+    "happytrip": 10000001,
+    "45000volts": 10000002
    }
   }
  }
