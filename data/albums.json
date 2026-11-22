@@ -212319,7 +212319,7 @@
    "Soundtrack"
   ],
   "notes": "6 CDs, newly remastered (Sony DSD): the original soundtracks of A New Hope (discs 1–2), The Empire Strikes Back (3–4) and Return of the Jedi (5–6), in three double jewel cases in a slipcase designed to match the DVD box set released the same day. Each set came with a 3D cover and a poster.",
-  "cover": "",
+  "cover": "covers/CD0443.jpg",
   "tracks": [
    {
     "p": "1-1",
@@ -212865,7 +212865,10 @@
   "title": "Star Wars Trilogy",
   "year": 2004,
   "type": "Soundtrack",
-  "cdYear": "2004"
+  "cdYear": "2004",
+  "ct": [
+   "black_white"
+  ]
  },
  {
   "label": "Tuff Gong / Island Records",
