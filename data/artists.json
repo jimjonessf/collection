@@ -19934,48 +19934,6 @@
    }
   }
  },
- "Paul McCartney & Wings": {
-  "name": "Paul McCartney & Wings",
-  "wiki_url": "https://en.wikipedia.org/wiki/Wings_(band)",
-  "summary": "Wings was the band Paul McCartney formed in 1971 with his wife Linda and guitarist Denny Laine, and several releases were credited to Paul McCartney and Wings. The group had numerous hits through the 1970s before disbanding in 1981.",
-  "studio_albums": [
-   {
-    "year": 1971,
-    "title": "Wild Life"
-   },
-   {
-    "year": 1973,
-    "title": "Red Rose Speedway"
-   },
-   {
-    "year": 1973,
-    "title": "Band on the Run"
-   },
-   {
-    "year": 1975,
-    "title": "Venus and Mars"
-   },
-   {
-    "year": 1976,
-    "title": "Wings at the Speed of Sound"
-   },
-   {
-    "year": 1978,
-    "title": "London Town"
-   },
-   {
-    "year": 1979,
-    "title": "Back to the Egg"
-   }
-  ],
-  "bea": {
-   "id": 1981,
-   "r": {
-    "bandontherun": 270,
-    "redrosespeedway": 4788
-   }
-  }
- },
  "Breakestra": {
   "name": "Breakestra",
   "wiki_url": "https://en.wikipedia.org/wiki/Breakestra",
@@ -50567,6 +50525,149 @@
     "dayofjudgment": 42289,
     "happytrip": 10000001,
     "45000volts": 10000002
+   }
+  }
+ },
+ "Paul McCartney": {
+  "name": "Paul McCartney",
+  "wiki_url": "https://en.wikipedia.org/wiki/Paul_McCartney",
+  "summary": "English singer, songwriter and bassist who co-led the Beatles, then formed Wings with his wife Linda in 1971 before going solo again in 1980. Band on the Run, Ram and McCartney are among the most celebrated albums of his post-Beatles career.",
+  "studio_albums": [
+   {
+    "year": 1970,
+    "title": "McCartney"
+   },
+   {
+    "year": 1971,
+    "title": "Ram"
+   },
+   {
+    "year": 1971,
+    "title": "Wild Life"
+   },
+   {
+    "year": 1973,
+    "title": "Red Rose Speedway"
+   },
+   {
+    "year": 1973,
+    "title": "Band on the Run"
+   },
+   {
+    "year": 1975,
+    "title": "Venus and Mars"
+   },
+   {
+    "year": 1976,
+    "title": "Wings at the Speed of Sound"
+   },
+   {
+    "year": 1978,
+    "title": "London Town"
+   },
+   {
+    "year": 1979,
+    "title": "Back to the Egg"
+   },
+   {
+    "year": 1980,
+    "title": "McCartney II"
+   },
+   {
+    "year": 1982,
+    "title": "Tug of War"
+   },
+   {
+    "year": 1983,
+    "title": "Pipes of Peace"
+   },
+   {
+    "year": 1984,
+    "title": "Give My Regards to Broad Street"
+   },
+   {
+    "year": 1986,
+    "title": "Press to Play"
+   },
+   {
+    "year": 1988,
+    "title": "Choba B CCCP"
+   },
+   {
+    "year": 1989,
+    "title": "Flowers in the Dirt"
+   },
+   {
+    "year": 1993,
+    "title": "Off the Ground"
+   },
+   {
+    "year": 1997,
+    "title": "Flaming Pie"
+   },
+   {
+    "year": 1999,
+    "title": "Run Devil Run"
+   },
+   {
+    "year": 2001,
+    "title": "Driving Rain"
+   },
+   {
+    "year": 2005,
+    "title": "Chaos and Creation in the Backyard"
+   },
+   {
+    "year": 2007,
+    "title": "Memory Almost Full"
+   },
+   {
+    "year": 2012,
+    "title": "Kisses on the Bottom"
+   },
+   {
+    "year": 2013,
+    "title": "New"
+   },
+   {
+    "year": 2018,
+    "title": "Egypt Station"
+   },
+   {
+    "year": 2020,
+    "title": "McCartney III"
+   },
+   {
+    "year": 2026,
+    "title": "The Boys of Dungeon Lane"
+   }
+  ],
+  "bea": {
+   "id": 1759,
+   "r": {
+    "bandontherun": 270,
+    "ram": 343,
+    "mccartney": 1602,
+    "chaosandcreationinthebackyard": 1768,
+    "tugofwar": 2132,
+    "venusandmars": 2400,
+    "flamingpie": 2643,
+    "mccartneyii": 3066,
+    "new": 3286,
+    "flowersinthedirt": 3942,
+    "wingsatthespeedofsound": 4433,
+    "egyptstation": 4435,
+    "mccartneyiii": 4532,
+    "redrosespeedway": 4792,
+    "londontown": 4809,
+    "boysofdungeonlane": 5137,
+    "memoryalmostfull": 5891,
+    "pipesofpeace": 5982,
+    "backtotheegg": 6628,
+    "drivingrain": 6975,
+    "offtheground": 8079,
+    "rundevilrun": 10271,
+    "wildlife": 11090
    }
   }
  }
