@@ -211038,12 +211038,12 @@
   "id": "CD0439",
   "artist": "U2",
   "title": "The Joshua Tree - 20th Anniversary Edition",
-  "year": 1987,
+  "year": 2007,
   "label": "Island Records",
   "catno": "B0010286-02",
-  "edition": "Reissue",
-  "reissue": 2007,
-  "type": "5th Studio Album",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Anniversary Edition",
   "personnel": [
    "Bono (Paul David Hewson) – lead vocals, harmonica, guitars",
    "The Edge (David Howell Evans) – guitars, backing vocals, piano",
@@ -211239,7 +211239,7 @@
     "src": "Discogs"
    }
   ],
-  "released": "1987-03-09",
+  "released": "2007-11-20",
   "wiki": "https://en.wikipedia.org/wiki/The_Joshua_Tree",
   "about": "Fifth album by the Irish rock band U2, produced by Brian Eno and Daniel Lanois and shaped by the group's fascination with America. It topped charts worldwide, included With or Without You, and won the Grammy for Album of the Year.",
   "artistKey": "U2",
@@ -211268,7 +211268,7 @@
    "Alternative Rock"
   ],
   "notes": "Special Edition, hardcover book with a 52-page booklet. Disc 1 is the 18-song CD; disc 2 is a DVD, Vertigo//05 Live From Milan (San Siro, July 2005).",
-  "cover": "",
+  "cover": "covers/CD0440.jpg",
   "tracks": [
    {
     "p": "1-1",
