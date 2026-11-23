@@ -44,6 +44,7 @@ class Spotify:
     def __init__(self):
         self.id, self.secret = os.environ.get("SPOTIFY_CLIENT_ID", ""), os.environ.get("SPOTIFY_CLIENT_SECRET", "")
         self.token, self.used, self.stop = None, 0, None
+        self.renewed, self.bad_run, self.last_error = False, 0, ""
 
     def get(self, path, params):
         if self.used >= PER_RUN:
@@ -59,16 +60,36 @@ class Spotify:
         req = urllib.request.Request("https://api.spotify.com/v1" + path + "?" + urllib.parse.urlencode(params),
                                      headers={"Authorization": "Bearer " + self.token})
         try:
-            return json.load(urllib.request.urlopen(req, timeout=30))
+            d = json.load(urllib.request.urlopen(req, timeout=30))
+            self.bad_run = 0
+            return d
         except urllib.error.HTTPError as e:
             wait = int(e.headers.get("Retry-After") or 0)
+            try:
+                msg = json.loads(e.read().decode()).get("error", {}).get("message", "")
+            except Exception:
+                msg = ""
             if e.code == 429 and wait <= 60:
                 time.sleep(wait + 1)
                 return self.get(path, params)
             if e.code == 429:
                 self.stop = f"Spotify asked for a break of {wait // 60} minutes"
-            elif e.code in (400, 401):
-                self.stop = f"Spotify refused the request ({e.code}); check the SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET secrets"
+            elif e.code == 401 and not self.renewed:
+                self.token, self.renewed = None, True          # the sign-in ran out: get a fresh one once
+                return self.get(path, params)
+            elif e.code == 400:
+                # Spotify didn't like this one search (not the secrets: the sign-in worked). Try it without the
+                # country, then skip it; stop only if many searches in a row are refused.
+                self.last_error = f"400 {msg}".strip()
+                if "market" in params:
+                    return self.get(path, {k: v for k, v in params.items() if k != "market"})
+                self.bad_run += 1
+                if self.bad_run >= 5:
+                    self.stop = f"Spotify refused 5 searches in a row (400 {msg})".strip()
+                    return None
+                return {"albums": {"items": []}}
+            else:
+                self.stop = f"Spotify refused the request ({e.code} {msg}); check the SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET secrets"
             return None
 
     def find(self, artist, title):
@@ -157,7 +178,9 @@ def main():
     data["updated"] = TODAY.isoformat()
     data["left"] = max(0, len(todo) - found - gone)
     data["last"] = {"date": TODAY.isoformat(), "requests": s.used, "found": found, "not_on_spotify": gone,
-                    "stopped": s.stop or "finished the list"}
+                    "stopped": s.stop or ("this night's limit reached" if s.used >= PER_RUN else "finished the list")}
+    if s.last_error:
+        data["last"]["spotify_said"] = s.last_error
     with open(OUT + ".tmp", "w") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
     os.replace(OUT + ".tmp", OUT)
