@@ -15,6 +15,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "weekly", "spotify_links.json")
 PER_RUN = 900        # Spotify requests per night (raised from 300 on Nov 21 as a test; "last" in the JSON shows how it went)
 GAP = 1.6            # seconds between requests
+START = time.time()
 RETRY_DAYS = 60
 TODAY = dt.date.today()
 
@@ -44,9 +45,12 @@ class Spotify:
     def __init__(self):
         self.id, self.secret = os.environ.get("SPOTIFY_CLIENT_ID", ""), os.environ.get("SPOTIFY_CLIENT_SECRET", "")
         self.token, self.used, self.stop = None, 0, None
-        self.renewed, self.bad_run, self.last_error = False, 0, ""
+        self.renewed, self.bad_run, self.last_error, self.waited = False, 0, "", 0
 
     def get(self, path, params):
+        if time.time() - START > 38 * 60:                 # GitHub stops the job at 45 minutes
+            self.stop = self.stop or "out of time for tonight"
+            return None
         if self.used >= PER_RUN:
             self.stop = self.stop or "this night's limit reached"
             return None
@@ -69,7 +73,9 @@ class Spotify:
                 msg = json.loads(e.read().decode()).get("error", {}).get("message", "")
             except Exception:
                 msg = ""
-            if e.code == 429 and wait <= 60:
+            if e.code == 429 and wait <= 600 and self.waited + wait <= 900 and time.time() - START + wait < 30 * 60:
+                print(f"  Spotify asked for a {wait}-second break; waiting...")
+                self.waited += wait + 1                     # short breaks (up to 10 minutes, 15 in all) are waited out
                 time.sleep(wait + 1)
                 return self.get(path, params)
             if e.code == 429:
@@ -181,6 +187,8 @@ def main():
                     "stopped": s.stop or ("this night's limit reached" if s.used >= PER_RUN else "finished the list")}
     if s.last_error:
         data["last"]["spotify_said"] = s.last_error
+    if s.waited:
+        data["last"]["waited_seconds"] = s.waited
     with open(OUT + ".tmp", "w") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
     os.replace(OUT + ".tmp", OUT)
