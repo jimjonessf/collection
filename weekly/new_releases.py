@@ -207,7 +207,7 @@ def discogs_reissues(name, years, master_year):
             mid = r.get("master_id") or 0
             if not title or not mid or dg_name(art) != want:
                 continue                                   # another artist, or a release with no album page on Discogs
-            if not ({"reissue", "repress"} & set(fmts)) or "lp" not in fmts or {"compilation", "single", "ep", "promo"} & set(fmts):
+            if not ({"reissue", "repress"} & set(fmts)) or "lp" not in fmts or {"compilation", "single", "ep", "promo", "unofficial release"} & set(fmts):
                 continue                                   # reissued LPs only
             if str(mid) not in master_year:
                 m = dg(f"masters/{mid}")
