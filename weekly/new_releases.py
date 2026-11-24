@@ -164,6 +164,7 @@ def reissues_of(mbid):
 
 # ---- Discogs: vinyl reissues (needs the DISCOGS_TOKEN secret) ----
 DG_TOKEN = os.environ.get("DISCOGS_TOKEN", "").strip()
+JOB_START = time.time()     # GitHub stops the whole job at 2 hours: everything below keeps well inside that
 _dg_last = [0.0]
 
 
@@ -295,7 +296,7 @@ def main():
         order = sorted((k for k in artists if k and not SKIP.search(k) and k not in classical), key=lambda k: (dg_state["checked"].get(k, ""), k))
         print(f"Checking {len(order)} artists on Discogs for vinyl reissues ({', '.join(map(str, dg_years))})...")
         for j, key in enumerate(order, 1):
-            if time.time() - dg_started > 25 * 60:
+            if time.time() - dg_started > 20 * 60:
                 print("  (Discogs: stopping for this week; the rest go first next week)"); break
             got = discogs_reissues(artists[key].get("name") or key, dg_years, dg_state["master_year"])
             if got is None:
@@ -322,6 +323,9 @@ def main():
     print(f"Checking {len(names)} artists on MusicBrainz (albums from {FIRST_YEAR} on)...")
     new_count = 0
     for i, key in enumerate(names, 1):
+        if time.time() - JOB_START > 100 * 60:
+            print(f"  (stopping at {i - 1}/{len(names)} to finish inside GitHub's 2 hours; the rest keep last week's lists and go first next week)")
+            break
         info = found_ids.get(key, {})
         tracked, ri_before = bool(info.get("mbid")), bool(info.get("ri"))   # an artist checked for the first time reports nothing (it's all old news)
         if not info.get("mbid"):
@@ -376,7 +380,7 @@ def main():
             albums.pop(key, None)
         # vinyl reissues (the longest part: every official release of the artist); skipped if the run is getting long,
         # in which case last week's reissues stay and the next run carries on
-        if time.time() - started < (70 if DG_TOKEN else 95) * 60:          # GitHub stops the job at 2 hours (Discogs takes up to 25 minutes first)
+        if time.time() - JOB_START < 80 * 60:          # reissues stop at 80 minutes into the job (GitHub stops it at 2 hours)
             ri, on_vinyl = reissues_of(info["mbid"])
             for a in albums.get(key, []):
                 if a["mb"] in on_vinyl:
