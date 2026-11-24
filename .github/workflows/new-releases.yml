@@ -26,6 +26,7 @@ jobs:
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
         run: python3 weekly/new_releases.py
       - name: Save the results
         run: |
@@ -46,7 +47,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           for n in $(gh issue list --state open --search "in:title New albums this week" --json number -q '.[].number'); do gh issue close "$n"; done
-          gh issue create --title "New albums this week ($(date +'%b %-d, %Y'))" --body-file weekly/this_week.md --assignee "${{ github.repository_owner }}"
+          gh issue create --title "New albums this week ($(date +'%b %-d, %Y'))" --body-file weekly/this_week.md
       - name: Ask GitHub Pages to refresh the site
         continue-on-error: true
         env:
