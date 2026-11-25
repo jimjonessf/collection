@@ -13,7 +13,7 @@ import base64, datetime as dt, difflib, json, os, re, sys, time, unicodedata, ur
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "weekly", "spotify_links.json")
-PER_RUN = 900        # Spotify requests per night (raised from 300 on Nov 21 as a test; "last" in the JSON shows how it went)
+PER_RUN = 300        # Spotify requests per night (900 from Nov 21 brought on long Spotify rate-limit breaks, so back to 300 on Nov 25)
 GAP = 1.6            # seconds between requests
 START = time.time()
 RETRY_DAYS = 60

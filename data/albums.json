@@ -977,6 +977,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Folk Rock"
   ],
   "notes": "",
@@ -4108,135 +4109,6 @@
    "plant",
    "green"
   ],
-  "acqLabel": "1990 - 2005"
- },
- {
-  "id": "CD0005",
-  "artist": "The Cure",
-  "title": "Mixed Up",
-  "year": 1990,
-  "label": "Elektra",
-  "catno": "60978-2",
-  "edition": "CD",
-  "reissue": "",
-  "type": "Remix Album",
-  "personnel": [
-   "Robert Smith – vocals, guitar, six-string bass, keyboards",
-   "Simon Gallup – bass",
-   "Porl Thompson – guitar, six-string bass",
-   "Boris Williams – drums",
-   "Roger O'Donnell – keyboards",
-   "Andy Anderson – drums",
-   "Lol Tolhurst – drums",
-   "Robert Smith – producer"
-  ],
-  "discs": "",
-  "acquired": "1990-01-01",
-  "discogs": "https://www.discogs.com/release/14046682-The-Cure-Mixed-Up",
-  "genres": [
-   "Electronic",
-   "Rock"
-  ],
-  "styles": [
-   "Progressive House",
-   "Alternative Rock",
-   "Dub",
-   "Synth-pop",
-   "Tech House",
-   "House",
-   "New Wave",
-   "Post-Punk"
-  ],
-  "notes": "",
-  "cover": "covers/CD0005.jpg",
-  "tracks": [
-   {
-    "p": "1",
-    "t": "Lullaby (Extended Mix)",
-    "d": "7:45",
-    "sp": "0sPlPljjJkWQ0U5FBpMapY",
-    "src": "Discogs"
-   },
-   {
-    "p": "2",
-    "t": "Close To Me (Closer Mix)",
-    "d": "5:46",
-    "sp": "2JtJruenT9hgZE4cnMtBnt",
-    "src": "Discogs"
-   },
-   {
-    "p": "3",
-    "t": "Fascination Street (Extended Mix)",
-    "d": "8:48",
-    "sp": "2zyXxyPnEMp8sFDIBV49RT",
-    "src": "Discogs"
-   },
-   {
-    "p": "4",
-    "t": "The Walk (Everything Mix)",
-    "d": "5:27",
-    "sp": "5HXXxdPW9OybWdAQ6LCbgV",
-    "src": "Discogs"
-   },
-   {
-    "p": "5",
-    "t": "Lovesong (Extended Mix)",
-    "d": "6:20",
-    "sp": "6BcnFPbYP63PjedyBMWiQD",
-    "src": "Discogs"
-   },
-   {
-    "p": "6",
-    "t": "A Forest (Tree Mix)",
-    "d": "6:56",
-    "sp": "5udEkTJchQ5pF8B0FiUAG0",
-    "src": "Discogs"
-   },
-   {
-    "p": "7",
-    "t": "Pictures Of You (Extended Dub Mix)",
-    "d": "6:52",
-    "sp": "5rH1BVdc6bajjw5b2YN9pq",
-    "src": "Discogs"
-   },
-   {
-    "p": "8",
-    "t": "Hot Hot Hot!!! (Extended Mix)",
-    "d": "7:01",
-    "sp": "3VTV4DViAcMC9yZcpCGpk7",
-    "src": "Discogs"
-   },
-   {
-    "p": "9",
-    "t": "The Caterpillar (Flicker Mix)",
-    "d": "5:41",
-    "sp": "1KajuEci1IUjHl7t15rfPn",
-    "src": "Discogs"
-   },
-   {
-    "p": "10",
-    "t": "In Between Days (Shiver Mix)",
-    "d": "6:24",
-    "sp": "19A1UU9VLuNrr6omqto92Q",
-    "src": "Discogs"
-   },
-   {
-    "p": "11",
-    "t": "Never Enough (Big Mix)",
-    "d": "6:07",
-    "sp": "7mMRFDHJRFjkvEoEx5u6jK",
-    "src": "Discogs"
-   }
-  ],
-  "released": "1990-11-20",
-  "wiki": "https://en.wikipedia.org/wiki/Mixed_Up_(The_Cure_album)",
-  "about": "The Cure reworked several of their earlier singles here and added one new song, Never Enough. Robert Smith was among the producers. The album went to number 8 in the UK and number 14 in the US, went platinum in America, and was followed in 2018 by a deluxe reissue and a sequel, Torn Down.",
-  "artistKey": "The Cure",
-  "spAlbum": "7atCFN41kB5N0zivS2Pwtd",
-  "vinylColor": "",
-  "medium": "CD",
-  "persSrc": "Wikipedia",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/2c/71/db2c7167-b8ac-94f2-1cc7-f3dcf2ed93ad/603497858095.jpg/1400x1400bb.jpg",
   "acqLabel": "1990 - 2005"
  },
  {
@@ -20662,6 +20534,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Country",
    "Folk",
    "Acoustic"
@@ -45900,6 +45773,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Folk Rock",
    "Country Rock",
    "Alternative Rock"
@@ -60583,6 +60457,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Folk Rock"
   ],
   "notes": "",
@@ -66781,6 +66656,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Folk Rock",
    "Acoustic",
    "Country Rock",
@@ -81430,9 +81306,13 @@
   "artistKey": "The Cure",
   "spAlbum": "5bTDNDi8bt5A7VdCkDCzbe",
   "vinylColor": "",
-  "medium": "Vinyl",
+  "medium": "Vinyl & CD",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/2c/71/db2c7167-b8ac-94f2-1cc7-f3dcf2ed93ad/603497858095.jpg/1400x1400bb.jpg",
-  "rpm": "33"
+  "rpm": "33",
+  "cdId": "CD0005",
+  "alsoIds": [
+   "CD0005"
+  ]
  },
  {
   "id": "ALB0668",
@@ -84381,6 +84261,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Alternative Rock",
    "Indie Rock",
    "Southern Rock"
@@ -89376,6 +89257,7 @@
    "Blues"
   ],
   "styles": [
+   "Americana",
    "Southern Rock",
    "Alternative Rock",
    "Rhythm & Blues",
@@ -100152,6 +100034,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Alternative Rock",
    "Country Rock",
    "Indie Rock"
@@ -131347,7 +131230,9 @@
   "genres": [
    "Folk, World, & Country"
   ],
-  "styles": [],
+  "styles": [
+   "Americana"
+  ],
   "notes": "",
   "cover": "covers/ALB1089.jpg",
   "tracks": [
@@ -132326,6 +132211,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Country Rock",
    "Blues Rock",
    "Southern Rock",
@@ -148718,6 +148604,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Folk Rock",
    "Indie Rock"
   ],
@@ -149171,6 +149058,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Country Rock",
    "Acoustic"
   ],
@@ -149315,6 +149203,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Country Blues",
    "Country Rock",
    "Acoustic"
@@ -154632,6 +154521,7 @@
    "Pop"
   ],
   "styles": [
+   "Americana",
    "Blues Rock",
    "Pop Rock"
   ],
@@ -154751,6 +154641,7 @@
    "Blues"
   ],
   "styles": [
+   "Americana",
    "Blues Rock"
   ],
   "notes": "",
@@ -156860,6 +156751,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Country",
    "Ballad",
    "Vocal"
@@ -157310,6 +157202,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Folk Rock",
    "Acoustic"
   ],
@@ -158128,6 +158021,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Alternative Rock",
    "Country Rock",
    "Folk Rock",
@@ -159739,6 +159633,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Country",
    "Contemporary Jazz"
   ],
@@ -169711,6 +169606,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Folk",
    "Folk Rock",
    "Acoustic"
@@ -174739,6 +174635,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Alternative Rock",
    "Country Rock"
   ],
@@ -179257,6 +179154,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Folk Rock"
   ],
   "notes": "",
@@ -189162,6 +189060,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Folk Rock",
    "Acoustic",
    "Alternative Rock"
@@ -196773,6 +196672,7 @@
    "Folk, World, & Country"
   ],
   "styles": [
+   "Americana",
    "Folk Rock",
    "Country",
    "Honky Tonk",
@@ -202937,6 +202837,7 @@
    "Rock"
   ],
   "styles": [
+   "Americana",
    "Alternative Rock",
    "Acoustic",
    "Country Rock"
