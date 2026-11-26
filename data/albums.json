@@ -8402,158 +8402,6 @@
   "rpm": "33"
  },
  {
-  "id": "ALB0041",
-  "artist": "Blur",
-  "title": "The Magic Whip",
-  "year": 2015,
-  "label": "Parlophone",
-  "catno": "0825646141715",
-  "edition": "Original",
-  "reissue": "",
-  "type": "8th Studio Album",
-  "personnel": [
-   "Damon Albarn – vocals, keyboards, synthesizers, iPad, acoustic guitar",
-   "Graham Coxon – electric guitar, vocals",
-   "Alex James – bass guitar",
-   "Dave Rowntree – drums, percussion, backing vocals"
-  ],
-  "discs": "",
-  "acquired": "2021-05-28",
-  "discogs": "https://www.discogs.com/release/25563430-Blur-The-Magic-Whip",
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "styles": [
-   "Indie Rock",
-   "Alternative Rock",
-   "Britpop"
-  ],
-  "notes": "",
-  "cover": "covers/ALB0041.jpg",
-  "tracks": [
-   {
-    "p": "A1",
-    "t": "Lonesome Street",
-    "d": "4:23",
-    "sp": "2BSDAVUzzQP7wpvcDybmsP",
-    "src": "Spotify"
-   },
-   {
-    "p": "A2",
-    "t": "New World Towers",
-    "d": "4:04",
-    "sp": "0VNLvVaS0Njds7K6kD1iss",
-    "src": "Spotify"
-   },
-   {
-    "p": "A3",
-    "t": "Go Out",
-    "d": "4:40",
-    "sp": "5b8FvZT5IGWi2ilQZxXkZR",
-    "src": "Spotify"
-   },
-   {
-    "p": "B1",
-    "t": "Ice Cream Man",
-    "d": "3:25",
-    "sp": "3nFmJyWPkhZuweqj1WkTCm",
-    "src": "Spotify"
-   },
-   {
-    "p": "B2",
-    "t": "Thought I Was A Spaceman",
-    "d": "6:16",
-    "sp": "1YXGC7MQQCuPcyAfnSbK2p",
-    "src": "Spotify"
-   },
-   {
-    "p": "B3",
-    "t": "I Broadcast",
-    "d": "2:52",
-    "sp": "3ALyID6n3ZmzxchhiYA4o2",
-    "src": "Spotify"
-   },
-   {
-    "p": "C1",
-    "t": "My Terracotta Heart",
-    "d": "4:05",
-    "sp": "5Z5noK2zThdqltHpmTyxSH",
-    "src": "Spotify"
-   },
-   {
-    "p": "C2",
-    "t": "There Are Too Many Of Us",
-    "d": "4:25",
-    "sp": "44PQEofvkk0Ul7M6ZDsOGS",
-    "src": "Spotify"
-   },
-   {
-    "p": "C3",
-    "t": "Ghost Ship",
-    "d": "4:59",
-    "sp": "61JDaStnXY3vbaEjliB5WA",
-    "src": "Spotify"
-   },
-   {
-    "p": "D1",
-    "t": "Pyongyang",
-    "d": "5:47",
-    "sp": "1IJvO4FVyfi7SenbjCwJ26",
-    "src": "Spotify"
-   },
-   {
-    "p": "D2",
-    "t": "Ong Ong",
-    "d": "3:09",
-    "sp": "0lWu1wRAegvbC6Wb0jYKfA",
-    "src": "Spotify"
-   },
-   {
-    "p": "D3",
-    "t": "Mirrorball",
-    "d": "3:48",
-    "sp": "0pvCNOtn1OEQjHYwo0d7PY",
-    "src": "Spotify"
-   }
-  ],
-  "released": "2015-04-27",
-  "wiki": "https://en.wikipedia.org/wiki/The_Magic_Whip",
-  "about": "Blur's eighth studio album and their first in twelve years, rooted in sessions the band held in Hong Kong in 2013 after a Japanese festival date fell through. Produced with Stephen Street, it was the first album by the original four-piece since 13. It entered the UK chart at number one.",
-  "artistKey": "Blur",
-  "spAlbum": "0nSzBICzQHea8grwfqa5Gb",
-  "vinylColor": "",
-  "medium": "Vinyl",
-  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/97/2c/26/972c2611-d141-f970-43b3-bb93be4a5dee/825646132881.jpg/1400x1400bb.jpg",
-  "versions": [
-   {
-    "id": "ALB0041",
-    "catno": "0825646141715",
-    "discogs": "https://www.discogs.com/release/25563430-Blur-The-Magic-Whip",
-    "acquired": "2021-05-28",
-    "label": "Parlophone",
-    "edition": "Original",
-    "reissue": ""
-   },
-   {
-    "id": "ALB1123",
-    "catno": "5021732544568",
-    "discogs": "https://www.discogs.com/release/33805638-Blur-The-Magic-Whip",
-    "acquired": "2025-08-11",
-    "label": "Parlophone",
-    "edition": "Reissue",
-    "reissue": 2025
-   }
-  ],
-  "alsoIds": [
-   "ALB1123"
-  ],
-  "rpm": "33",
-  "ct": [
-   "food"
-  ]
- },
- {
   "id": "ALB0042",
   "artist": "Depeche Mode",
   "title": "Violator",
@@ -132175,10 +132023,35 @@
   "medium": "Vinyl",
   "persSrc": "Wikipedia",
   "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bc/fd/23/bcfd234d-657d-3e51-b92d-762fb4301b6d/886444593021.jpg/1400x1400bb.jpg",
-  "rpm": "45",
+  "rpm": "33 & 45",
   "ct": [
    "animal",
    "black_white"
+  ],
+  "versions": [
+   {
+    "id": "ALB1098",
+    "catno": "MFSL 2-45012",
+    "discogs": "https://www.discogs.com/release/34011519-Santana-Santana",
+    "acquired": "2025-03-19",
+    "label": "Mobile Fidelity Sound Lab",
+    "edition": "Reissue",
+    "reissue": 2023,
+    "color": ""
+   },
+   {
+    "id": "ALB1272",
+    "catno": "CS 9781",
+    "discogs": "https://www.discogs.com/release/737224-Santana-Santana",
+    "acquired": "2026-11-26",
+    "label": "Columbia",
+    "edition": "Original",
+    "reissue": "",
+    "color": ""
+   }
+  ],
+  "alsoIds": [
+   "ALB1272"
   ]
  },
  {
@@ -211433,7 +211306,10 @@
   "year": 2006,
   "type": "Compilation",
   "cdYear": "2006",
-  "acqLabel": "2006"
+  "acqLabel": "2006",
+  "ct": [
+   "faces"
+  ]
  },
  {
   "label": "Echo Industry Co., Ltd.",
@@ -211851,7 +211727,10 @@
   "year": null,
   "type": "Compilation",
   "cdYear": "",
-  "acqLabel": "1990 - 2005"
+  "acqLabel": "1990 - 2005",
+  "ct": [
+   "words"
+  ]
  },
  {
   "label": "Verve Records",
@@ -214037,6 +213916,1528 @@
   "year": 1993,
   "type": "Compilation",
   "cdYear": "1993",
-  "acqLabel": "1990 - 2005"
+  "acqLabel": "1990 - 2005",
+  "ct": [
+   "faces"
+  ]
+ },
+ {
+  "id": "CD0446",
+  "artist": "The Psychedelic Furs",
+  "title": "Midnight To Midnight",
+  "year": 1987,
+  "label": "Columbia",
+  "catno": "CK 40466",
+  "edition": "CD",
+  "reissue": "",
+  "type": "5th Studio Album",
+  "personnel": [
+   "Chris Kimsey – producer",
+   "Frank Simms – backing vocals",
+   "Pete Hewlett – backing vocals",
+   "Richard Butler – vocals",
+   "John Ashton – guitar",
+   "Marty Williamson – guitar",
+   "Tim Butler – bass",
+   "Paul Garisto – drums",
+   "Ed Buller – keyboards",
+   "Mars Williams – horns, saxophone",
+   "Steve Scales – percussion"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/844006-Psychedelic-Furs-Midnight-To-Midnight",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "New Wave"
+  ],
+  "notes": "",
+  "cover": "covers/CD0446.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Heartbreak Beat",
+    "d": "5:10",
+    "sp": "0MRxky7qNUioEsQe7U1O6E",
+    "src": "Discogs"
+   },
+   {
+    "p": "2",
+    "t": "Shock",
+    "d": "5:04",
+    "sp": "1MDwLO0OQvTkZq3dHhz81p",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "Shadow In My Heart",
+    "d": "4:06",
+    "sp": "4olNEHmfYZuI4gppIiWjWD",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "Angels Don't Cry",
+    "d": "5:06",
+    "sp": "09joQuKJkVOAl9ut4Ggd4z",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "Midnight To Midnight",
+    "d": "4:28",
+    "sp": "6i7LTS94BNMSnCAKsiy7IA",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "One More Word",
+    "d": "5:16",
+    "sp": "1iuuFqyZwtSxQawJrcJ7WL",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "All Of The Law",
+    "d": "4:46",
+    "sp": "5PVM18mpT8cTC9UszCQgK0",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "Torture",
+    "d": "3:51",
+    "sp": "5jw40umXaDMNfKYKO8FPo6",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "No Release",
+    "d": "4:53",
+    "sp": "2KjgH070FiqIzfE9MCjqqx",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1987-02-18",
+  "wiki": "",
+  "about": "",
+  "artistKey": "The Psychedelic Furs",
+  "spAlbum": "0cN3miv8YpOjpf8f2B20ld",
+  "vinylColor": "",
+  "medium": "CD",
+  "ct": [
+   "black_white"
+  ]
+ },
+ {
+  "id": "CD0447",
+  "artist": "David Byrne",
+  "title": "Uh-Oh",
+  "year": 1992,
+  "label": "Luaka Bop",
+  "catno": "9 26799-2",
+  "edition": "CD",
+  "reissue": "",
+  "type": "Studio Album",
+  "personnel": [
+   "Nick Launay – producer",
+   "David Byrne – vocals, acoustic guitar, electric guitar, effects, whistle",
+   "George Porter, Jr. – bass",
+   "Oscar Salas – drums, timbales, cowbell, surdo, bells, shaker, wood block",
+   "Ashley Cadell – synthesizer, clavinet, vibraphone",
+   "Café – bongos, percussion, bells, agogô, tamborim, surdo",
+   "Hector Rosado – congas, maracas, triangle, percussion"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/1578899-David-Byrne-Uh-Oh",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "styles": [
+   "Alternative Rock"
+  ],
+  "notes": "",
+  "cover": "covers/CD0447.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Now I'm Your Mom",
+    "d": "4:43",
+    "sp": "63PFGLwfK3AMCiqp7H0SV1",
+    "src": "Discogs"
+   },
+   {
+    "p": "2",
+    "t": "Girls On My Mind",
+    "d": "3:52",
+    "sp": "6qgiYx4deHv657qWpGwlo6",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "Something Ain't Right",
+    "d": "3:37",
+    "sp": "2TQupRkkkDWUPEpGE7M0Qe",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "She's Mad",
+    "d": "5:20",
+    "sp": "19vYBYsl3w95b9Fq3NidFh",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "Hanging Upside Down",
+    "d": "4:31",
+    "sp": "3OyUVpCUc4V9dkhj6gX7O5",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "A Walk In The Dark",
+    "d": "4:21",
+    "sp": "4lgGViiNHbK4R2CAaSi1sY",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "Twistin' In The Wind",
+    "d": "4:14",
+    "sp": "2S6ezyyIG6vkpYPhZrfw4C",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "The Cowboy Mambo (Hey Lookit Me Now)",
+    "d": "3:37",
+    "sp": "0NTJNqnTYI45Gmj01F3jcG",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "Monkey Man",
+    "d": "4:07",
+    "sp": "0F7hVkZfBydwkJTBUpT4j7",
+    "src": "Discogs"
+   },
+   {
+    "p": "10",
+    "t": "A Million Miles Away",
+    "d": "4:24",
+    "sp": "50L5ddhoEOPcUjeqVkq1ub",
+    "src": "Discogs"
+   },
+   {
+    "p": "11",
+    "t": "Tiny Town",
+    "d": "5:03",
+    "sp": "31t7oY7gytsH9OBHyZSnW2",
+    "src": "Discogs"
+   },
+   {
+    "p": "12",
+    "t": "Somebody",
+    "d": "4:59",
+    "sp": "5s9CzmjjER9gyWJfmKIs8M",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1992",
+  "wiki": "",
+  "about": "",
+  "artistKey": "David Byrne",
+  "spAlbum": "6haW3z5RoXNQCRqHuIhu6C",
+  "vinylColor": "",
+  "medium": "CD",
+  "ct": [
+   "animal"
+  ]
+ },
+ {
+  "id": "CD0448",
+  "artist": "R.E.M.",
+  "title": "Green",
+  "year": 1988,
+  "label": "Warner Bros. Records",
+  "catno": "9 25795-2",
+  "edition": "CD",
+  "reissue": "",
+  "type": "6th Studio Album",
+  "personnel": [
+   "R.E.M. – producer",
+   "Scott Litt – producer"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/642551-REM-Green",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Alternative Rock",
+   "AOR"
+  ],
+  "notes": "",
+  "cover": "covers/CD0448.jpg",
+  "tracks": [
+   {
+    "p": "1",
+    "t": "Pop Song 89",
+    "d": "3:03",
+    "sp": "0pxpo14jvnN33Ej7xHV8TK",
+    "src": "Discogs"
+   },
+   {
+    "p": "2",
+    "t": "Get Up",
+    "d": "2:35",
+    "sp": "4XFYYi6pd05OhYkkDiEmZv",
+    "src": "Discogs"
+   },
+   {
+    "p": "3",
+    "t": "You Are The Everything",
+    "d": "3:45",
+    "sp": "3Hjq2D8zxEmwqhsBB6uIzQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "4",
+    "t": "Stand",
+    "d": "3:10",
+    "sp": "22UhQSbYimuCnvI0Y07gFX",
+    "src": "Discogs"
+   },
+   {
+    "p": "5",
+    "t": "World Leader Pretend",
+    "d": "4:15",
+    "sp": "60ZtAossxFnTXZ4E5lZhfC",
+    "src": "Discogs"
+   },
+   {
+    "p": "6",
+    "t": "The Wrong Child",
+    "d": "3:35",
+    "sp": "0iUfm46sMRas6TeNuMx8kh",
+    "src": "Discogs"
+   },
+   {
+    "p": "7",
+    "t": "Orange Crush",
+    "d": "3:50",
+    "sp": "7sNhXWrg9eW3qRqeuePaIC",
+    "src": "Discogs"
+   },
+   {
+    "p": "8",
+    "t": "Turn You Inside-Out",
+    "d": "4:15",
+    "sp": "4u6oRWXDNXywbVn380ftwe",
+    "src": "Discogs"
+   },
+   {
+    "p": "9",
+    "t": "Hairshirt",
+    "d": "3:55",
+    "sp": "4YgoX8kbTjoCXBTGvaS23M",
+    "src": "Discogs"
+   },
+   {
+    "p": "10",
+    "t": "I Remember California",
+    "d": "5:05",
+    "sp": "6CuAN4xaJKH7fYdBVWH4UI",
+    "src": "Discogs"
+   },
+   {
+    "p": "11",
+    "t": "Untitled",
+    "d": "3:15",
+    "sp": "4iBiLhJOdaKEuznkAry9uk",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1988-11-08",
+  "wiki": "",
+  "about": "",
+  "artistKey": "R.E.M.",
+  "spAlbum": "7rfKAiPs9ToZP9zEJDBqBH",
+  "vinylColor": "",
+  "medium": "CD",
+  "ct": [
+   "words",
+   "orange"
+  ]
+ },
+ {
+  "id": "ALB1263",
+  "artist": "Blur",
+  "title": "The Magic Whip",
+  "year": 2015,
+  "label": "Parlophone",
+  "catno": "5021732494863",
+  "edition": "Reissue",
+  "reissue": 2025,
+  "type": "8th Studio Album",
+  "personnel": [
+   "Damon Albarn – vocals, keyboards, synthesizers, iPad, acoustic guitar",
+   "Graham Coxon – electric guitar, vocals",
+   "Alex James – bass guitar",
+   "Dave Rowntree – drums, percussion, backing vocals"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/33673725-Blur-The-Magic-Whip",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "styles": [
+   "Alternative Rock",
+   "Indie Rock",
+   "Art Rock",
+   "Britpop"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1263.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Lonesome Street",
+    "d": "",
+    "sp": "2BSDAVUzzQP7wpvcDybmsP",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "New World Towers",
+    "d": "",
+    "sp": "0VNLvVaS0Njds7K6kD1iss",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Go Out",
+    "d": "",
+    "sp": "5b8FvZT5IGWi2ilQZxXkZR",
+    "src": "not found"
+   },
+   {
+    "p": "A4",
+    "t": "Ice Cream Man",
+    "d": "",
+    "sp": "3nFmJyWPkhZuweqj1WkTCm",
+    "src": "not found"
+   },
+   {
+    "p": "A5",
+    "t": "Thought I Was A Spaceman",
+    "d": "",
+    "sp": "1YXGC7MQQCuPcyAfnSbK2p",
+    "src": "not found"
+   },
+   {
+    "p": "A6",
+    "t": "I Broadcast",
+    "d": "",
+    "sp": "3ALyID6n3ZmzxchhiYA4o2",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "My Terracotta Heart",
+    "d": "",
+    "sp": "5Z5noK2zThdqltHpmTyxSH",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "There Are Too Many Of Us",
+    "d": "",
+    "sp": "44PQEofvkk0Ul7M6ZDsOGS",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "Ghost Ship",
+    "d": "",
+    "sp": "61JDaStnXY3vbaEjliB5WA",
+    "src": "not found"
+   },
+   {
+    "p": "B4",
+    "t": "Pyongyang",
+    "d": "",
+    "sp": "1IJvO4FVyfi7SenbjCwJ26",
+    "src": "not found"
+   },
+   {
+    "p": "B5",
+    "t": "Ong Ong",
+    "d": "",
+    "sp": "0lWu1wRAegvbC6Wb0jYKfA",
+    "src": "not found"
+   },
+   {
+    "p": "B6",
+    "t": "Mirrorball",
+    "d": "",
+    "sp": "0pvCNOtn1OEQjHYwo0d7PY",
+    "src": "not found"
+   }
+  ],
+  "released": "2015-04-27",
+  "wiki": "https://en.wikipedia.org/wiki/The_Magic_Whip",
+  "about": "Blur's eighth studio album and their first in twelve years, rooted in sessions the band held in Hong Kong in 2013 after a Japanese festival date fell through. Produced with Stephen Street, it was the first album by the original four-piece since 13. It entered the UK chart at number one.",
+  "artistKey": "Blur",
+  "spAlbum": "0nSzBICzQHea8grwfqa5Gb",
+  "vinylColor": "Zoetrope, 10th Anniversary / Picture Disc",
+  "medium": "Vinyl",
+  "versions": [
+   {
+    "id": "ALB1263",
+    "catno": "5021732494863",
+    "discogs": "https://www.discogs.com/release/33673725-Blur-The-Magic-Whip",
+    "acquired": "2026-11-26",
+    "label": "Parlophone",
+    "edition": "Reissue",
+    "reissue": 2025,
+    "color": "Zoetrope, 10th Anniversary / Picture Disc"
+   },
+   {
+    "id": "ALB0041",
+    "catno": "0825646141715",
+    "discogs": "https://www.discogs.com/release/25563430-Blur-The-Magic-Whip",
+    "acquired": "2021-05-28",
+    "label": "Parlophone",
+    "edition": "Original",
+    "reissue": ""
+   },
+   {
+    "id": "ALB1123",
+    "catno": "5021732544568",
+    "discogs": "https://www.discogs.com/release/33805638-Blur-The-Magic-Whip",
+    "acquired": "2025-08-11",
+    "label": "Parlophone",
+    "edition": "Reissue",
+    "reissue": 2025
+   }
+  ],
+  "alsoIds": [
+   "ALB0041",
+   "ALB1123"
+  ],
+  "coverHi": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/97/2c/26/972c2611-d141-f970-43b3-bb93be4a5dee/825646132881.jpg/1400x1400bb.jpg",
+  "rpm": "33",
+  "ct": [
+   "food"
+  ]
+ },
+ {
+  "id": "ALB1264",
+  "artist": "The Cure",
+  "title": "Kiss Me Kiss Me Kiss Me",
+  "year": 1987,
+  "label": "Elektra",
+  "catno": "9 60737-1",
+  "edition": "Original",
+  "reissue": "",
+  "type": "7th Studio Album",
+  "personnel": [
+   "Dave Allen – producer",
+   "Robert Smith – producer, vocals, guitar, keyboards, words by",
+   "Sean Burrows – producer",
+   "Michel Diercks – producer",
+   "Jacques Hermet – producer",
+   "Porl Thompson – guitar, keyboards, saxophone",
+   "Simon Gallup – bass",
+   "Boris Williams – drums, percussion",
+   "Laurence Tolhurst – keyboards"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/8382316-The-Cure-Kiss-Me-Kiss-Me-Kiss-Me",
+  "genres": [
+   "Rock",
+   "Pop",
+   "Electronic"
+  ],
+  "styles": [
+   "Alternative Rock",
+   "Synth-pop",
+   "New Wave",
+   "Psychedelic Rock",
+   "Pop Rock"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1264.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "The Kiss",
+    "d": "",
+    "sp": "6zOG4AHxsqxxp8i3VPYJoX",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "Catch",
+    "d": "",
+    "sp": "2aJ6PwdTLJRhOMX7KIySvv",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Torture",
+    "d": "",
+    "sp": "7xxVdktnSKqkTnP7va3SEF",
+    "src": "not found"
+   },
+   {
+    "p": "A4",
+    "t": "If Only Tonight We Could Sleep",
+    "d": "",
+    "sp": "7DliLn6kCQtXa5fYkcZnsV",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "Why Can't I Be You?",
+    "d": "",
+    "sp": "3RcrFgETR1QGjzV6ZzIRBy",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "How Beautiful You Are...",
+    "d": "",
+    "sp": "71hwFyoEMXJn26V8H1kfYi",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "The Snake Pit",
+    "d": "",
+    "sp": "1mbqic2Ov1o2OEJC1W4eEp",
+    "src": "not found"
+   },
+   {
+    "p": "B4",
+    "t": "Hey You !!!",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "C1",
+    "t": "Just Like Heaven",
+    "d": "",
+    "sp": "76GlO5H5RT6g7y0gev86Nk",
+    "src": "not found"
+   },
+   {
+    "p": "C2",
+    "t": "All I Want",
+    "d": "",
+    "sp": "6i4z7A4oVuTRqTq26oJFER",
+    "src": "not found"
+   },
+   {
+    "p": "C3",
+    "t": "Hot Hot Hot !!!",
+    "d": "",
+    "sp": "353wphmegOFAiIMrxSJzWD",
+    "src": "not found"
+   },
+   {
+    "p": "C4",
+    "t": "One More Time",
+    "d": "",
+    "sp": "0xmUuuOUgAWamupKYU41Qv",
+    "src": "not found"
+   },
+   {
+    "p": "C5",
+    "t": "Like Cockatoos",
+    "d": "",
+    "sp": "5pcFI0Yij9ln2YB7kkuH4j",
+    "src": "not found"
+   },
+   {
+    "p": "D1",
+    "t": "Icing Sugar",
+    "d": "",
+    "sp": "5gKI4dWWBIoiAb3cXzygar",
+    "src": "not found"
+   },
+   {
+    "p": "D2",
+    "t": "The Perfect Girl",
+    "d": "",
+    "sp": "7kOc8ZyNRLJcwzFlv7szaT",
+    "src": "not found"
+   },
+   {
+    "p": "D3",
+    "t": "A Thousand Hours",
+    "d": "",
+    "sp": "33Hrqs5NVn2HZrlRRZiRlA",
+    "src": "not found"
+   },
+   {
+    "p": "D4",
+    "t": "Shiver And Shake",
+    "d": "",
+    "sp": "6ytbHHEJ1y6k5WgC3JaTX8",
+    "src": "not found"
+   },
+   {
+    "p": "D5",
+    "t": "Fight",
+    "d": "",
+    "sp": "7vypCqkHV9xo4hSVLSTaL3",
+    "src": "not found"
+   }
+  ],
+  "released": "1987",
+  "wiki": "",
+  "about": "",
+  "artistKey": "The Cure",
+  "spAlbum": "37Q22g0n9PzBLX6lNddrIa",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "33",
+  "ct": [
+   "red"
+  ]
+ },
+ {
+  "id": "ALB1265",
+  "artist": "Florence + The Machine",
+  "title": "High As Hope",
+  "year": 2018,
+  "label": "Virgin EMI Records",
+  "catno": "V 3204",
+  "edition": "Original",
+  "reissue": "",
+  "type": "4th Studio Album",
+  "personnel": [],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/12198220-Florence-The-Machine-High-As-Hope",
+  "genres": [
+   "Pop"
+  ],
+  "styles": [
+   "Indie Pop"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1265.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "June",
+    "d": "3:41",
+    "sp": "2yoaXLItTfWNpdFFpdF3Ti",
+    "src": "Discogs"
+   },
+   {
+    "p": "A2",
+    "t": "Hunger",
+    "d": "3:34",
+    "sp": "6Ju28M6P8Y8sLjBgWjyUUD",
+    "src": "Discogs"
+   },
+   {
+    "p": "A3",
+    "t": "South London Forever",
+    "d": "4:22",
+    "sp": "3MZ7TxuXNnwYXm2KZGap5g",
+    "src": "Discogs"
+   },
+   {
+    "p": "A4",
+    "t": "Big God",
+    "d": "4:01",
+    "sp": "1NcXkWB3UwXfMt8izByICb",
+    "src": "Discogs"
+   },
+   {
+    "p": "A5",
+    "t": "Sky Full Of Song",
+    "d": "3:45",
+    "sp": "64fzn2ewOdSH57wrxTPGov",
+    "src": "Discogs"
+   },
+   {
+    "p": "B1",
+    "t": "Grace",
+    "d": "4:48",
+    "sp": "51oY1LQDglBFja1LJnqZqT",
+    "src": "Discogs"
+   },
+   {
+    "p": "B2",
+    "t": "Patricia",
+    "d": "3:37",
+    "sp": "6nmr64Mo4RD3R1pLshvmoG",
+    "src": "Discogs"
+   },
+   {
+    "p": "B3",
+    "t": "100 Years",
+    "d": "4:58",
+    "sp": "4MuoE4t1lp2Nkg7b2218Dr",
+    "src": "Discogs"
+   },
+   {
+    "p": "B4",
+    "t": "The End Of Love",
+    "d": "4:41",
+    "sp": "1tpkN6z0Zd3wphAd3DASDX",
+    "src": "Discogs"
+   },
+   {
+    "p": "B5",
+    "t": "No Choir",
+    "d": "2:29",
+    "sp": "47a7Hn4fFE4mHgVJF19CO1",
+    "src": "Discogs"
+   }
+  ],
+  "released": "2018-06-29",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Florence + The Machine",
+  "spAlbum": "0pKZJj9GzcKPCS8r4IaksA",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "33",
+  "ct": [
+   "plant"
+  ]
+ },
+ {
+  "id": "ALB1266",
+  "artist": "Betty Davis",
+  "title": "Nasty Gal",
+  "year": 1975,
+  "label": "Light In The Attic",
+  "catno": "LITA 046",
+  "edition": "Reissue",
+  "reissue": 2024,
+  "type": "3rd Studio Album",
+  "personnel": [
+   "Betty Davis – producer, vocals",
+   "Matt Sullivan – reissue producer",
+   "Kate Peterson – reissue producer",
+   "Carlos Morales – guitar",
+   "Larry Johnson – bass",
+   "Semmie (Nickey) Neal Jr. – drums",
+   "Fred Mills – keyboards"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/29549380-Betty-Davis-Nasty-Gal",
+  "genres": [
+   "Funk / Soul",
+   "Rock"
+  ],
+  "styles": [
+   "Soul",
+   "Funk",
+   "Blues Rock",
+   "Soul-Jazz"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1266.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Nasty Gal",
+    "d": "4:37",
+    "sp": "6nfqyVSVIL4YnIh5S7fG8Y",
+    "src": "Discogs"
+   },
+   {
+    "p": "A2",
+    "t": "Talkin Trash",
+    "d": "4:43",
+    "sp": "5QeJmpiy6wdWSg2dh3TIVt",
+    "src": "Discogs"
+   },
+   {
+    "p": "A3",
+    "t": "Dedicated To The Press",
+    "d": "3:42",
+    "sp": "0KPmnnY7ctOP9vs9SLjU2M",
+    "src": "Discogs"
+   },
+   {
+    "p": "A4",
+    "t": "You And I",
+    "d": "2:45",
+    "sp": "2GQkZDUOaWvd5jBPKWTMZq",
+    "src": "Discogs"
+   },
+   {
+    "p": "A5",
+    "t": "Feelins",
+    "d": "2:45",
+    "sp": "043fT3jPhwEkdDaHo4IaIf",
+    "src": "Discogs"
+   },
+   {
+    "p": "B1",
+    "t": "F.U.N.K.",
+    "d": "4:21",
+    "sp": "7ekJAyKFK6sadtehv55cJl",
+    "src": "Discogs"
+   },
+   {
+    "p": "B2",
+    "t": "Gettin Kicked Off, Havin Fun",
+    "d": "3:09",
+    "sp": "4kOAxi6l5CON6yXNQ56032",
+    "src": "Discogs"
+   },
+   {
+    "p": "B3",
+    "t": "Shut Off The Light",
+    "d": "3:54",
+    "sp": "4KY9hSL26pytaoTy7fZcs1",
+    "src": "Discogs"
+   },
+   {
+    "p": "B4",
+    "t": "This Is It!",
+    "d": "3:28",
+    "sp": "07P4Qr9C6aIvDx17Dd8lk1",
+    "src": "Discogs"
+   },
+   {
+    "p": "B5",
+    "t": "The Lone Ranger",
+    "d": "6:13",
+    "sp": "3xI3RyYG6a3t0ldDflVALR",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1975",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Betty Davis",
+  "spAlbum": "1tVW3AZd75H4nszId8Nukg",
+  "vinylColor": "Clear with Pink & Yellow Splatter",
+  "medium": "Vinyl",
+  "rpm": "33"
+ },
+ {
+  "id": "ALB1267",
+  "artist": "Kate Bush",
+  "title": "The Kick Inside",
+  "year": 1978,
+  "label": "Parlophone",
+  "catno": "0190295593919",
+  "edition": "Reissue",
+  "reissue": 2024,
+  "type": "1st Studio Album",
+  "personnel": [
+   "Andrew Powell – producer",
+   "Kate Bush – lead vocals, backing vocals, piano, sleeve"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/19463596-Kate-Bush-The-Kick-Inside",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "styles": [
+   "Folk Rock",
+   "Art Rock",
+   "Prog Rock",
+   "Pop Rock"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1267.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Moving",
+    "d": "",
+    "sp": "6egShQABjQ53QOIBIfegUx",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "The Saxophone Song",
+    "d": "",
+    "sp": "3z7i9A609zfXm39kdubYLV",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Strange Phenomena",
+    "d": "",
+    "sp": "6qbpcPKMAskt9vxatIXiQP",
+    "src": "not found"
+   },
+   {
+    "p": "A4",
+    "t": "Kite",
+    "d": "",
+    "sp": "3dB0YlVsRh1Or7YgWfkEWN",
+    "src": "not found"
+   },
+   {
+    "p": "A5",
+    "t": "The Man With The Child In His Eyes",
+    "d": "",
+    "sp": "5vtaZT3EUPp8wB1N0jAlWs",
+    "src": "not found"
+   },
+   {
+    "p": "A6",
+    "t": "Wuthering Heights",
+    "d": "",
+    "sp": "2VyjK8wf0S6J8FgAgoqOkw",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "James And The Cold Gun",
+    "d": "",
+    "sp": "7y2DwVaSyLUBEjcAYgq9ws",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "Feel It",
+    "d": "",
+    "sp": "5NeqS6m1hrbx4RCQmc28Em",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "Oh To Be In Love",
+    "d": "",
+    "sp": "7FcnFSwGquIEDhJ18tHWd4",
+    "src": "not found"
+   },
+   {
+    "p": "B4",
+    "t": "L'Amour Looks Something Like You",
+    "d": "",
+    "sp": "2WNKe5vU2HsS40l34nGXeE",
+    "src": "not found"
+   },
+   {
+    "p": "B5",
+    "t": "Them Heavy People",
+    "d": "",
+    "sp": "3SmYS9PgiidYQTgNXHur2b",
+    "src": "not found"
+   },
+   {
+    "p": "B6",
+    "t": "Room For The Life",
+    "d": "",
+    "sp": "2tMkcOAiAVo7Tk6zbYMinj",
+    "src": "not found"
+   },
+   {
+    "p": "B7",
+    "t": "The Kick Inside",
+    "d": "",
+    "sp": "6rO0vbLQOtPm6uUVNr3sPT",
+    "src": "not found"
+   }
+  ],
+  "released": "1978-02-17",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Kate Bush",
+  "spAlbum": "6LPR2A12So7G9V2WoZgTwd",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "33"
+ },
+ {
+  "id": "ALB1268",
+  "artist": "INXS",
+  "title": "Kick",
+  "year": 1987,
+  "label": "Rhino Records",
+  "catno": "R1 81796",
+  "edition": "Reissue",
+  "reissue": 2020,
+  "type": "6th Studio Album",
+  "personnel": [],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/16172652-INXS-Kick",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "styles": [
+   "New Wave",
+   "Pop Rock"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1268.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Guns In The Sky",
+    "d": "",
+    "sp": "7mJleZtzRum3xTsCPpbcJy",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "New Sensation",
+    "d": "",
+    "sp": "2bxY1baYlyXNzmjOkFvqId",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Devil Inside",
+    "d": "",
+    "sp": "3m4OWJ3Ovl0pXwT79bw94N",
+    "src": "not found"
+   },
+   {
+    "p": "A4",
+    "t": "Need You Tonight",
+    "d": "",
+    "sp": "5eU8qMd0TpaLqTGDZJaLDs",
+    "src": "not found"
+   },
+   {
+    "p": "A5",
+    "t": "Mediate",
+    "d": "",
+    "sp": "5jYhfdlKyyVIGB87PzrWcW",
+    "src": "not found"
+   },
+   {
+    "p": "A6",
+    "t": "The Loved One",
+    "d": "",
+    "sp": "3rmrOiPcBb1UIHgDTB5UC5",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "Wild Life",
+    "d": "",
+    "sp": "7pj1CPdJvJ8wqsuWTzssDC",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "Never Tear Us Apart",
+    "d": "",
+    "sp": "1qQSRy9DjrGh3jtsSCU6B1",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "Mystify",
+    "d": "",
+    "sp": "7LV9R3L1YfTSoefglhUyPD",
+    "src": "not found"
+   },
+   {
+    "p": "B4",
+    "t": "Kick",
+    "d": "",
+    "sp": "2UrT22JLkQE3WidR4Vl8EZ",
+    "src": "not found"
+   },
+   {
+    "p": "B5",
+    "t": "Calling All Nations",
+    "d": "",
+    "sp": "52chwymGJ7YVhJurPc3buB",
+    "src": "not found"
+   },
+   {
+    "p": "B6",
+    "t": "Tiny Daggers",
+    "d": "",
+    "sp": "7i1ZS9dBUgK9Dll2q3FtMx",
+    "src": "not found"
+   }
+  ],
+  "released": "1987-10-19",
+  "wiki": "",
+  "about": "",
+  "artistKey": "INXS",
+  "spAlbum": "7cuwWzS0oiApEt2fpKafkX",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "33",
+  "ct": [
+   "faces"
+  ]
+ },
+ {
+  "id": "ALB1269",
+  "artist": "INXS",
+  "title": "Listen Like Thieves",
+  "year": 1985,
+  "label": "Mercury",
+  "catno": "0602537778959",
+  "edition": "Reissue",
+  "reissue": 2014,
+  "type": "5th Studio Album",
+  "personnel": [],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/11256614-INXS-Listen-Like-Thieves",
+  "genres": [
+   "Electronic",
+   "Rock",
+   "Pop"
+  ],
+  "styles": [
+   "New Wave",
+   "Pop Rock",
+   "Synth-pop"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1269.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "What You Need",
+    "d": "",
+    "sp": "04EnF5C2HvYZfGu64Bng7I",
+    "src": "not found"
+   },
+   {
+    "p": "A2",
+    "t": "Listen Like Thieves",
+    "d": "",
+    "sp": "4CXPPtJaJf5uZRmFLEarAK",
+    "src": "not found"
+   },
+   {
+    "p": "A3",
+    "t": "Kiss The Dirt (Falling Down The Mountain)",
+    "d": "",
+    "sp": "6FRugAcwKEgQ3r2MkWC5Mm",
+    "src": "not found"
+   },
+   {
+    "p": "A4",
+    "t": "Shine Like It Does",
+    "d": "",
+    "sp": "2bKGOwVSkUC9qJXfJAfj3U",
+    "src": "not found"
+   },
+   {
+    "p": "A5",
+    "t": "Good And Bad Times",
+    "d": "",
+    "sp": "",
+    "src": "not found"
+   },
+   {
+    "p": "B1",
+    "t": "Biting Bullets",
+    "d": "",
+    "sp": "33M8QlFZKylzKOF7m4i2Bg",
+    "src": "not found"
+   },
+   {
+    "p": "B2",
+    "t": "This Time",
+    "d": "",
+    "sp": "4EsEfzagJPOdu15YRmptIi",
+    "src": "not found"
+   },
+   {
+    "p": "B3",
+    "t": "Three Sisters",
+    "d": "",
+    "sp": "7evqydIxzyNNS7FFDtnzpe",
+    "src": "not found"
+   },
+   {
+    "p": "B4",
+    "t": "Same Direction",
+    "d": "",
+    "sp": "0iYtFQVeuyhaQFjBnf8OCN",
+    "src": "not found"
+   },
+   {
+    "p": "B5",
+    "t": "One X One",
+    "d": "",
+    "sp": "7MNRqcvpme55iJG9kfgV8O",
+    "src": "not found"
+   },
+   {
+    "p": "B6",
+    "t": "Red Red Sun",
+    "d": "",
+    "sp": "3F5GjTlmPysCEieao3Qahz",
+    "src": "not found"
+   }
+  ],
+  "released": "1985-10-14",
+  "wiki": "",
+  "about": "",
+  "artistKey": "INXS",
+  "spAlbum": "1U6tgUieq2uuKip6DVxM31",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "33"
+ },
+ {
+  "id": "ALB1270",
+  "artist": "The Smiths",
+  "title": "Meat Is Murder",
+  "year": 1985,
+  "label": "Rhino Records",
+  "catno": "2564665878",
+  "edition": "Reissue",
+  "reissue": 2012,
+  "type": "2nd Studio Album",
+  "personnel": [
+   "The Smiths – producer",
+   "Andy Rourke – bass guitar",
+   "Johnny Marr – guitar, piano",
+   "Mike Joyce – drums"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/4266995-The-Smiths-Meat-Is-Murder",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "styles": [
+   "Alternative Rock",
+   "Indie Rock",
+   "Alt-Pop"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1270.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "The Headmaster Ritual",
+    "d": "4:52",
+    "sp": "4tFGNFIIZ9ANSewxGZyiDD",
+    "src": "Discogs"
+   },
+   {
+    "p": "A2",
+    "t": "Rusholme Ruffians",
+    "d": "4:19",
+    "sp": "6rZ4Q8YW88xCERDq0AEbmt",
+    "src": "Discogs"
+   },
+   {
+    "p": "A3",
+    "t": "I Want The One I Can't Have",
+    "d": "3:13",
+    "sp": "4Bs7pbzxezGyNQO6DjqmC8",
+    "src": "Discogs"
+   },
+   {
+    "p": "A4",
+    "t": "What She Said",
+    "d": "2:40",
+    "sp": "1KmBbKdNCsMlpbbopYBvGH",
+    "src": "Discogs"
+   },
+   {
+    "p": "A5",
+    "t": "That Joke Isn't Funny Anymore",
+    "d": "4:57",
+    "sp": "48veRDsAEBOJJnVnnabV99",
+    "src": "Discogs"
+   },
+   {
+    "p": "B1",
+    "t": "Nowhere Fast",
+    "d": "2:35",
+    "sp": "3aI6N8o4ZlkPdq479tqKze",
+    "src": "Discogs"
+   },
+   {
+    "p": "B2",
+    "t": "Well I Wonder",
+    "d": "4:00",
+    "sp": "3OS4XXm4S42pnESQmtN9MG",
+    "src": "Discogs"
+   },
+   {
+    "p": "B3",
+    "t": "Barbarism Begins At Home",
+    "d": "7:00",
+    "sp": "35WDTZhAwkoBF65jGTzF2O",
+    "src": "Discogs"
+   },
+   {
+    "p": "B4",
+    "t": "Meat Is Murder",
+    "d": "6:05",
+    "sp": "1vAvRteHbPcnq7fTTROnNB",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1985-02-11",
+  "wiki": "",
+  "about": "",
+  "artistKey": "The Smiths",
+  "spAlbum": "5DM1qCdgGt2zbknnsVn1Ca",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "33",
+  "ct": [
+   "food"
+  ]
+ },
+ {
+  "id": "ALB1271",
+  "artist": "Can",
+  "title": "Horrortrip In The Paperhouse",
+  "year": 1972,
+  "label": "Blue Sea Recordings",
+  "catno": "RN43",
+  "edition": "Original",
+  "reissue": "",
+  "type": "Live Album",
+  "personnel": [],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/4233397-Can-Horrortrip-In-The-Paperhouse",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [
+   "Psychedelic Rock",
+   "Krautrock",
+   "Avantgarde"
+  ],
+  "notes": "Recorded live in Cologne, February 1972. Unofficial release (Blue Sea Recordings, Milan) with a hand-screened cover.",
+  "cover": "covers/ALB1271.jpg",
+  "tracks": [
+   {
+    "p": "A1",
+    "t": "Halleluwah",
+    "d": "9:43",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "A2",
+    "t": "Love Me Tonight",
+    "d": "6:37",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "A3",
+    "t": "Paperhouse",
+    "d": "8:46",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "B1",
+    "t": "Spoon",
+    "d": "11:51",
+    "sp": "",
+    "src": "Discogs"
+   },
+   {
+    "p": "B2",
+    "t": "Bring Me Coffee Or Tea",
+    "d": "10:04",
+    "sp": "",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1972",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Can",
+  "spAlbum": "",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "33",
+  "ct": [
+   "words"
+  ]
+ },
+ {
+  "id": "ALB1273",
+  "artist": "Chaka Khan",
+  "title": "I Feel For You",
+  "year": 1984,
+  "label": "Warner Bros. Records",
+  "catno": "0-20249",
+  "edition": "Original",
+  "reissue": "",
+  "type": "Single (12-inch, 45 rpm)",
+  "personnel": [
+   "Arif Mardin – producer"
+  ],
+  "discs": "",
+  "acquired": "2026-11-26",
+  "discogs": "https://www.discogs.com/release/47185-Chaka-Khan-I-Feel-For-You",
+  "genres": [
+   "Funk / Soul",
+   "Pop",
+   "Electronic"
+  ],
+  "styles": [
+   "Disco",
+   "Funk",
+   "Soul",
+   "Contemporary R&B"
+  ],
+  "notes": "",
+  "cover": "covers/ALB1273.jpg",
+  "tracks": [
+   {
+    "p": "A",
+    "t": "I Feel For You (Remix)",
+    "d": "7:12",
+    "sp": "01vXDvd3FzplTfEOsjTKJQ",
+    "src": "Discogs"
+   },
+   {
+    "p": "B",
+    "t": "Chinatown (LP Version)",
+    "d": "4:33",
+    "sp": "6XZHTbtOo2nhsTSJHvvSxF",
+    "src": "Discogs"
+   }
+  ],
+  "released": "1984",
+  "wiki": "",
+  "about": "",
+  "artistKey": "Chaka Khan",
+  "spAlbum": "48Bj8fFgjVfw0eqLoHt9RO",
+  "vinylColor": "",
+  "medium": "Vinyl",
+  "rpm": "45"
  }
 ]

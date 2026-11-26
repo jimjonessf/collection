@@ -50611,5 +50611,119 @@
     "wildlife": 11090
    }
   }
+ },
+ "The Psychedelic Furs": {
+  "name": "The Psychedelic Furs",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_Psychedelic_Furs",
+  "summary": "English rock band formed in London in 1977 by brothers Richard Butler (vocals) and Tim Butler (bass). Starting in post-punk and moving toward new wave, they are best known for \"Pretty in Pink\", \"Love My Way\" and \"Heartbreak Beat\".",
+  "studio_albums": [
+   {
+    "year": 1980,
+    "title": "The Psychedelic Furs"
+   },
+   {
+    "year": 1981,
+    "title": "Talk Talk Talk"
+   },
+   {
+    "year": 1982,
+    "title": "Forever Now"
+   },
+   {
+    "year": 1984,
+    "title": "Mirror Moves"
+   },
+   {
+    "year": 1987,
+    "title": "Midnight to Midnight"
+   },
+   {
+    "year": 1989,
+    "title": "Book of Days"
+   },
+   {
+    "year": 1991,
+    "title": "World Outside"
+   },
+   {
+    "year": 2020,
+    "title": "Made of Rain"
+   }
+  ],
+  "bea": {
+   "id": 2089,
+   "r": {
+    "talktalktalk": 1791,
+    "psychedelicfurs": 2757,
+    "forevernow": 3673,
+    "mirrormoves": 3937,
+    "madeofrain": 8423,
+    "worldoutside": 17074,
+    "bookofdays": 23184,
+    "midnighttomidnight": 30112
+   }
+  }
+ },
+ "Can": {
+  "name": "Can",
+  "wiki_url": "https://en.wikipedia.org/wiki/Can_(band)",
+  "summary": "German experimental rock band formed in Cologne in 1968 by Holger Czukay, Irmin Schmidt, Michael Karoli and Jaki Liebezeit, with singers Malcolm Mooney and later Damo Suzuki. Pioneers of krautrock, known for long improvised grooves on albums like Tago Mago and Ege Bamyasi.",
+  "studio_albums": [
+   {
+    "year": 1969,
+    "title": "Monster Movie"
+   },
+   {
+    "year": 1971,
+    "title": "Tago Mago"
+   },
+   {
+    "year": 1972,
+    "title": "Ege Bamyasi"
+   },
+   {
+    "year": 1973,
+    "title": "Future Days"
+   },
+   {
+    "year": 1974,
+    "title": "Soon Over Babaluma"
+   },
+   {
+    "year": 1975,
+    "title": "Landed"
+   },
+   {
+    "year": 1976,
+    "title": "Flow Motion"
+   },
+   {
+    "year": 1977,
+    "title": "Saw Delight"
+   },
+   {
+    "year": 1978,
+    "title": "Out of Reach"
+   },
+   {
+    "year": 1979,
+    "title": "Can"
+   },
+   {
+    "year": 1989,
+    "title": "Rite Time"
+   }
+  ],
+  "bea": {
+   "id": 938,
+   "r": {
+    "tagomago": 162,
+    "egebamyasi": 325,
+    "futuredays": 357,
+    "monstermovie": 1304,
+    "soonoverbabaluma": 5175,
+    "flowmotion": 16482
+   }
+  }
  }
 }
