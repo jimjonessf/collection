@@ -1,12 +1,12 @@
 """Weekly check for new albums by the artists in The Collection.
 
 Runs on GitHub (see .github/workflows/new-releases.yml), once a week. For every artist in data/artists.json it asks
-MusicBrainz (a free, open music database) for studio and live albums released in the last 12 years, and for vinyl reissues, and saves them to
+MusicBrainz (a free, open music database) for studio and live albums released in the last 12 years, and saves them to
 weekly/new_releases.json. The site reads that file and adds any album it doesn't already list to the artist's
 Discography and to the New Releases lists.
 
-Vinyl reissues also come from Discogs when the repository has a DISCOGS_TOKEN secret (MusicBrainz lists few new vinyl
-pressings; Discogs marks each pressing as a reissue). Without it, reissues come from MusicBrainz only.
+(Reissues were dropped on Nov 28, 2026: the site no longer lists them and this no longer looks them up, on MusicBrainz or
+Discogs. A live album still counts only once it's out on vinyl, so artists with a new live album get one quick vinyl check.)
 
 Optional: if the repository has SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET secrets, new albums also get a Spotify
 link (so they get a play button). Without them everything else still works.
@@ -130,94 +130,24 @@ def albums_of(mbid):
             return out
 
 
-def reissues_of(mbid):
-    """Vinyl reissues from FIRST_YEAR on: an official vinyl release of a studio or live album first released in an earlier year.
-    One entry per album per year (the earliest such release that year)."""
-    found, vinyl, offset = {}, set(), 0
+def vinyl_albums(mbid):
+    """The albums (MusicBrainz release groups) by this artist that have an official vinyl release. None if MusicBrainz didn't answer."""
+    vinyl, offset = set(), 0
     while True:
         d = mb("release", {"artist": mbid, "type": "album", "status": "official", "inc": "release-groups+media", "limit": 100, "offset": offset})
         if not d:
-            return (None, vinyl) if offset == 0 else (sorted(found.values(), key=lambda e: e["date"]), vinyl)
+            return None if offset == 0 else vinyl
         rels = d.get("releases", [])
         for r in rels:
-            date, g = r.get("date") or "", r.get("release-group") or {}
-            first = g.get("first-release-date") or ""
+            g = r.get("release-group") or {}
             if g.get("id") and any("vinyl" in (m.get("format") or "").lower() for m in r.get("media") or []):
-                vinyl.add(g["id"])            # this album is (or was) out on vinyl
-            if not (date[:4].isdigit() and first[:4].isdigit()) or not kind_ok(g):
-                continue
-            year = int(date[:4])
-            if year < FIRST_YEAR or date > TODAY.isoformat() or int(first[:4]) > year - 3:
-                continue          # not a reissue (within 3 years of the original), too old, or not out yet
-            if not any("vinyl" in (m.get("format") or "").lower() for m in r.get("media") or []):
-                continue          # vinyl and colored vinyl only (no CD, cassette or digital reissues)
-            key = (g["id"], year)
-            if key not in found or date < found[key]["date"]:
-                e = {"title": g.get("title") or r.get("title"), "date": date, "year": year, "orig": int(first[:4]), "mb": g["id"]}
-                if "Live" in (g.get("secondary-types") or []):
-                    e["live"] = True
-                found[key] = e
+                vinyl.add(g["id"])
         offset += len(rels)
         if not rels or offset >= d.get("release-count", 0):
-            return sorted(found.values(), key=lambda e: e["date"]), vinyl
+            return vinyl
 
 
-# ---- Discogs: vinyl reissues (needs the DISCOGS_TOKEN secret) ----
-DG_TOKEN = os.environ.get("DISCOGS_TOKEN", "").strip()
 JOB_START = time.time()     # GitHub stops the whole job at 2 hours: everything below keeps well inside that
-_dg_last = [0.0]
-
-
-def dg(path, params=None):
-    """One Discogs request, at most one a second (their limit is 60 a minute), with a few retries."""
-    url = "https://api.discogs.com/" + path + ("?" + urllib.parse.urlencode(params) if params else "")
-    for attempt in range(4):
-        wait = 1.05 - (time.time() - _dg_last[0])
-        if wait > 0:
-            time.sleep(wait)
-        _dg_last[0] = time.time()
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Authorization": "Discogs token=" + DG_TOKEN})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                return json.load(r)
-        except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503):
-                time.sleep(10 * (attempt + 1)); continue
-            return None
-        except (urllib.error.URLError, TimeoutError):
-            time.sleep(5 * (attempt + 1))
-    return None
-
-
-def dg_name(s):
-    return fold(re.sub(r"\s*\(\d+\)$|\*$", "", s.strip()))
-
-
-def discogs_reissues(name, years, master_year):
-    """Vinyl LP reissues by this artist on Discogs in the given years: one entry per album (Discogs master) per year.
-    None if Discogs didn't answer."""
-    found, want = {}, dg_name(name)
-    for y in years:
-        d = dg("database/search", {"artist": name, "type": "release", "format": "Vinyl", "year": y, "per_page": 100})
-        if d is None:
-            return None
-        for r in d.get("results", []):
-            art, _, title = (r.get("title") or "").partition(" - ")
-            fmts = [f.lower() for f in r.get("format") or []]
-            mid = r.get("master_id") or 0
-            if not title or not mid or dg_name(art) != want:
-                continue                                   # another artist, or a release with no album page on Discogs
-            if not ({"reissue", "repress"} & set(fmts)) or "lp" not in fmts or {"compilation", "single", "ep", "promo", "unofficial release"} & set(fmts):
-                continue                                   # reissued LPs only
-            if str(mid) not in master_year:
-                m = dg(f"masters/{mid}")
-                master_year[str(mid)] = int((m or {}).get("year") or 0)
-            orig = master_year[str(mid)]
-            if not orig or orig > y - 3:
-                continue                                   # unknown original year, or too recent to be a reissue
-            title = re.sub(r"\s*\(\d+\)$", "", title).strip()
-            found.setdefault((mid, y), {"title": title, "date": str(y), "year": y, "orig": orig, "mb": f"dg{mid}", "dg": mid})
-    return sorted(found.values(), key=lambda e: (e["year"], e["title"]))
 
 
 def sp_base(s):
@@ -286,40 +216,12 @@ def main():
     state = json.load(open(OUT)) if had_state else {}
     v2 = state.get("version", 1) >= 2           # live albums and reissues are tracked from version 2 on
     recent = (TODAY - dt.timedelta(days=90)).isoformat()   # the weekly email lists only albums out in the last 3 months
-    report = {"new": [], "live": [], "reissue": []}
-    found_ids, albums, reissues = state.get("artists", {}), state.get("albums", {}), state.get("reissues", {})
-    reissues = {k: [e for e in v if not e.get("dg")] for k, v in reissues.items()}   # Discogs entries are added back below
-    reissues = {k: v for k, v in reissues.items() if v}
-    dg_state = state.get("discogs", {"checked": {}, "reissues": {}, "master_year": {}})
-    if DG_TOKEN:
-        dg_started, dg_years = time.time(), [TODAY.year] + ([TODAY.year - 1] if TODAY.month <= 2 else [])
-        order = sorted((k for k in artists if k and not SKIP.search(k) and k not in classical), key=lambda k: (dg_state["checked"].get(k, ""), k))
-        print(f"Checking {len(order)} artists on Discogs for vinyl reissues ({', '.join(map(str, dg_years))})...")
-        for j, key in enumerate(order, 1):
-            if time.time() - dg_started > 20 * 60:
-                print("  (Discogs: stopping for this week; the rest go first next week)"); break
-            got = discogs_reissues(artists[key].get("name") or key, dg_years, dg_state["master_year"])
-            if got is None:
-                continue
-            before = {(e["dg"], e["year"]) for e in dg_state["reissues"].get(key, [])}
-            first_time = key not in dg_state["checked"]       # the first check reports nothing (it's all old news)
-            keep = [e for e in dg_state["reissues"].get(key, []) if e["year"] not in dg_years]
-            for e in got:
-                if archival_title(e["title"], e["year"]) or CLASSICAL.search(e["title"]):
-                    e["archival"] = True
-                elif not first_time and had_state and (e["dg"], e["year"]) not in before:
-                    report["reissue"].append((key, e))
-            if keep + got:
-                dg_state["reissues"][key] = keep + got
-            else:
-                dg_state["reissues"].pop(key, None)
-            dg_state["checked"][key] = TODAY.isoformat()
-            if j % 100 == 0:
-                print(f"  Discogs {j}/{len(order)}")
+    report = {"new": [], "live": []}
+    found_ids, albums = state.get("artists", {}), state.get("albums", {})
     started = time.time()
     sp = Spotify()
-    # artists whose reissues were checked longest ago go first, so a run that runs out of time is finished by the next one
-    names = sorted((k for k in artists if k and not SKIP.search(k)), key=lambda k: (found_ids.get(k, {}).get("ri", ""), k))
+    # artists checked longest ago go first, so a run that runs out of time is finished by the next one
+    names = sorted((k for k in artists if k and not SKIP.search(k)), key=lambda k: (found_ids.get(k, {}).get("chk") or found_ids.get(k, {}).get("ri", ""), k))
     print(f"Checking {len(names)} artists on MusicBrainz (albums from {FIRST_YEAR} on)...")
     new_count = 0
     for i, key in enumerate(names, 1):
@@ -327,7 +229,7 @@ def main():
             print(f"  (stopping at {i - 1}/{len(names)} to finish inside GitHub's 2 hours; the rest keep last week's lists and go first next week)")
             break
         info = found_ids.get(key, {})
-        tracked, ri_before = bool(info.get("mbid")), bool(info.get("ri"))   # an artist checked for the first time reports nothing (it's all old news)
+        tracked = bool(info.get("mbid"))   # an artist checked for the first time reports nothing (it's all old news)
         if not info.get("mbid"):
             tried = info.get("tried", "")
             if tried and (TODAY - dt.date.fromisoformat(tried)).days < RECHECK_MISSING_DAYS and key not in SEARCH_AS:
@@ -340,7 +242,7 @@ def main():
         if "end" not in info:          # artists matched before this was tracked: look up once when they stopped
             info["end"] = end_year(mb("artist/" + info["mbid"], {}))
         if key in classical:
-            albums.pop(key, None); reissues.pop(key, None)
+            albums.pop(key, None)
             continue                      # classical composers and orchestras: not part of New Releases
         got = albums_of(info["mbid"])
         if got is None:
@@ -378,52 +280,34 @@ def main():
                     a["archival"] = True
         else:
             albums.pop(key, None)
-        # vinyl reissues (the longest part: every official release of the artist); skipped if the run is getting long,
-        # in which case last week's reissues stay and the next run carries on
-        if time.time() - JOB_START < 80 * 60:          # reissues stop at 80 minutes into the job (GitHub stops it at 2 hours)
-            ri, on_vinyl = reissues_of(info["mbid"])
-            for a in albums.get(key, []):
-                if a["mb"] in on_vinyl:
-                    a["vinyl"] = True
-            if ri is not None:
-                info["ri"] = TODAY.isoformat()
+        # live albums count only once they're out on vinyl: one look through the artist's releases, only when a recent
+        # live album isn't known to be on vinyl yet (this used to come with the reissue check)
+        if any(a.get("live") and not a.get("vinyl") and not a.get("archival") for a in albums.get(key, [])) and time.time() - JOB_START < 90 * 60:
+            on_vinyl = vinyl_albums(info["mbid"])
+            if on_vinyl is not None:
                 for a in albums.get(key, []):
-                    if a.get("live") and (a["mb"] not in on_vinyl or CONCERT.search(a["title"])):
+                    if a["mb"] in on_vinyl:
+                        a["vinyl"] = True
+                    elif a.get("live") and not a.get("archival"):
                         a["archival"] = True          # live albums count only when they come out on vinyl
-                seen = {(e["mb"], e["year"]) for e in reissues.get(key, [])}
-                for e in ri:
-                    if archival_title(e["title"], e["year"]) or CLASSICAL.search(e["title"]):
-                        e["archival"] = True
-                    elif info.get("end") and e["orig"] > info["end"]:
-                        e["archival"] = True          # first put out after the artist was gone: archival, then reissued
-                    elif ri_before and v2 and (e["mb"], e["year"]) not in seen and e["date"] >= recent:
-                        report["reissue"].append((key, e))
-                if ri:
-                    reissues[key] = ri
-                else:
-                    reissues.pop(key, None)
+                for a in albums.get(key, []):
+                    if a.get("live") and CONCERT.search(a["title"]):
+                        a["archival"] = True
+        info["chk"] = TODAY.isoformat()
         report["live"] += [(key, a) for a in new_live if a.get("vinyl") and not a.get("archival")]
         if i % 50 == 0:
             print(f"  {i}/{len(names)}")
-    # Discogs reissues join MusicBrainz's (the same album and year counted once); MusicBrainz's version of an album wins
-    for key, lst in dg_state["reissues"].items():
-        have = {(bare(e["title"]), e["year"]) for e in reissues.get(key, [])}
-        add = [e for e in lst if (bare(e["title"]), e["year"]) not in have]
-        if add:
-            reissues[key] = sorted(reissues.get(key, []) + add, key=lambda e: e["date"])
-    mb_ri = {(k, bare(e["title"]), e["year"]) for k, e in report["reissue"] if not e.get("dg")}
-    report["reissue"] = [(k, e) for k, e in report["reissue"] if not e.get("dg") or (k, bare(e["title"]), e["year"]) not in mb_ri]
     write_email(report, artists)
-    out = {"version": 2, "updated": TODAY.isoformat(), "first_year": FIRST_YEAR, "artists": found_ids, "albums": albums, "reissues": reissues, "discogs": dg_state}
+    out = {"version": 2, "updated": TODAY.isoformat(), "first_year": FIRST_YEAR, "artists": found_ids, "albums": albums}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump(out, open(OUT, "w"), indent=0, ensure_ascii=False, sort_keys=True)
     total = sum(len(v) for v in albums.values())
     print(f"Done: {total} albums from {FIRST_YEAR} on for {len(albums)} artists ({new_count} new since last week); "
-          f"{sum(len(v) for v in reissues.values())} vinyl reissues for {len(reissues)} artists.")
+          "(reissues are no longer checked).")
 
 
 def write_email(report, artists):
-    """weekly/this_week.md: this week's finds in three sections; GitHub posts it as an issue, which it emails to you."""
+    """weekly/this_week.md: this week's finds in two sections (New Releases, New Live Albums); GitHub posts it as an issue, which it emails to you."""
     path = os.path.join(ROOT, "weekly", "this_week.md")
     if os.path.exists(path):
         os.remove(path)
@@ -433,13 +317,12 @@ def write_email(report, artists):
     nice = lambda d: dt.date.fromisoformat(d).strftime("%b %-d, %Y") if len(d) == 10 else d
     def line(key, a, extra=""):
         name = artists.get(key, {}).get("name") or key
-        links = [f"[Discogs](https://www.discogs.com/master/{a['dg']})" if a.get("dg") else f"[MusicBrainz](https://musicbrainz.org/release-group/{a['mb']})"]
+        links = [f"[MusicBrainz](https://musicbrainz.org/release-group/{a['mb']})"]
         if a.get("sp"):
             links.insert(0, f"[Spotify](https://open.spotify.com/album/{a['sp']})")
         return f"- **{name}** · {a['title']}{extra} · {nice(a['date'])} · " + " · ".join(links)
     out = [f"Albums by artists in The Collection found this week ({TODAY.strftime('%b %-d, %Y')}).", ""]
     sections = [("New Releases", "new", lambda a: " (on vinyl)" if a.get("vinyl") else ""),
-                ("New Reissues (vinyl)", "reissue", lambda a: f" (Reissue of {a['orig']} Album)"),
                 ("New Live Albums", "live", lambda a: " (on vinyl)" if a.get("vinyl") else "")]
     for title, k, extra in sections:
         best = {}   # one line per album, even when it's listed under several names ("Willie Nelson" / "Willie Nelson & Family")
@@ -451,7 +334,7 @@ def write_email(report, artists):
         out += [f"## {title}", ""] + ([line(key, a, extra(a)) for key, a in items] or ["None this week."]) + [""]
     out += ["See every year's lists on [The Collection](https://mrjonessf.com/music) under New Releases."]
     open(path, "w").write("\n".join(out) + "\n")
-    print(f"Weekly email: {len(report['new'])} new, {len(report['reissue'])} reissues, {len(report['live'])} live.")
+    print(f"Weekly email: {len(report['new'])} new, {len(report['live'])} live.")
 
 
 if __name__ == "__main__":

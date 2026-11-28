@@ -1,7 +1,7 @@
 """Daily Spotify links for albums that aren't in The Collection.
 
 Runs on GitHub every night (see .github/workflows/spotify-links.yml). It finds the Spotify album for albums the site
-lists but you don't own: New Releases, Reissues, the Best Of lists, and every artist's Discography. Found albums get
+lists but you don't own: New Releases, the Best Of lists, and every artist's Discography. Found albums get
 a play button. Results go to weekly/spotify_links.json, which the site reads.
 
 Spotify gives small apps long breaks if they ask too much, so each run makes at most PER_RUN requests, slowly, and
@@ -148,10 +148,6 @@ def targets():
     for k, rows in (newrel.get("albums") or {}).items():
         for r in sorted(rows, key=lambda r: -int(r.get("year") or 0)):
             if not r.get("sp") and not r.get("archival") and (not r.get("live") or (r.get("vinyl") and not CONCERT.search(r["title"]))):
-                add(name(k), r["title"])
-    for k, rows in (newrel.get("reissues") or {}).items():
-        for r in sorted(rows, key=lambda r: -int(r.get("year") or 0)):
-            if not r.get("sp") and not r.get("archival") and int(r.get("orig") or 9999) <= int(r.get("year") or 0) - 3:
                 add(name(k), r["title"])
     for lst, rows in bestof.items():
         if not lst.startswith("_") and isinstance(rows, list):

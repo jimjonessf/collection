@@ -2,7 +2,7 @@
 
 Runs on GitHub every Sunday (see .github/workflows/pitchfork.yml); "Run workflow" on the Actions tab runs it right away.
 For every album it finds Pitchfork's review (any version of the album: the original review, a reissue review or a
-Sunday Review), with its score and the year it was published, and saves them to weekly/pitchfork.json. The album
+Sunday Review; any review Pitchfork wrote of the album is kept and shown with that album), with its score and the year it was published, and saves them to weekly/pitchfork.json. The album
 page shows an orange PITCHFORK button that links to the review.
 
 Where it looks:
@@ -181,14 +181,25 @@ def pick_score(fits, several, r, wscore):
     return r[0] if r and not several else None
 
 
-def guess(artist, title):
-    """Pitchfork's usual review address for an album, if the page there is that album."""
-    for t in dict.fromkeys([title, re.sub(r"\s*[\(\[].*?[\)\]]", "", title)]):
+REISSUE_SLUGS = ["deluxe-edition", "reissue", "remastered", "expanded-edition", "anniversary-edition"]
+
+
+def guess(artist, title, reissues=False):
+    """Pitchfork's usual review address for an album, if the page there is that album.
+    reissues=True also tries the usual addresses of a reissue review (artist-title-deluxe-edition/ and so on):
+    any Pitchfork review of the album counts, of the original release or of a reissue."""
+    plain = re.sub(r"\s*[\(\[].*?[\)\]]", "", title)
+    tries = list(dict.fromkeys([title, plain]))
+    if reissues:
+        tries += [f"{plain} {s.replace('-', ' ')}" for s in REISSUE_SLUGS]
+    for n, t in enumerate(tries):
         url = f"https://pitchfork.com/reviews/albums/{slug(artist)}-{slug(t)}/"
+        if n:
+            time.sleep(0.5)
         r = read_review(url)
         if r and r[0] is not None:
             page = set(words(r[2]))
-            if set(words(t)) <= page and set(words(artist)[:2]) <= page:
+            if set(words(plain)) <= page and set(words(artist)[:2]) <= page:
                 return r[3], r
     return None
 
@@ -232,29 +243,18 @@ def nr_targets(albums):
     return out
 
 
-REISSUE_WORDS = re.compile(r"\s*[\(\[][^)\]]*(edition|anniversary|remaster|reissue|deluxe|expanded|mono|stereo|mix|version|vinyl|bonus)[^)\]]*[\)\]]|\s+-\s+.*$", re.I)
+EDITION_SQ = re.compile(r"\d+(st|nd|rd|th)(?!e)|\d+|the|super|deluxe|expanded|edition|anniversary|remaster(ed)?|reissue|boxset|box|set")
 
 
-def ri_targets(albums):
-    """(artist, title, key, plain title) of every Reissues album the site shows (all years) that isn't in the collection, newest first."""
-    artists = json.load(open(os.path.join(ROOT, "data", "artists.json")))
-    try:
-        newrel = json.load(open(os.path.join(ROOT, "weekly", "new_releases.json")))
-    except Exception:
-        newrel = {}
-    name = lambda k: (artists.get(k) or {}).get("name") or k
-    owned = {(key(a.get("artist")), key(a["title"])) for a in albums} | {(key(name(a.get("artistKey", ""))), key(a["title"])) for a in albums}
-    rows = []
-    for k, lst in (newrel.get("reissues") or {}).items():
-        for r in lst:
-            if not r.get("archival") and int(r.get("orig") or 9999) <= int(r.get("year") or 0) - 3:
-                rows.append((int(r.get("year") or 0), name(k), r["title"]))
-    out, seen = [], set()
-    for y, artist, title in sorted(rows, reverse=True):
-        k = key(artist) + "|" + key(title)
-        if k not in seen and (key(artist), key(title)) not in owned and "various" not in artist.lower():
-            seen.add(k); out.append((artist, title, k, REISSUE_WORDS.sub("", title).strip() or title))
-    return out
+def review_names(k, url):
+    """Does this review's address name the album k (artist|title, as key())? Some earlier reissue matches were other albums."""
+    if re.search(r"best-of|greatest-hits", url):
+        return False
+    artist, title = k.split("|", 1)
+    rest = key(urllib.parse.unquote(url.rstrip("/").rsplit("/", 1)[-1]).replace("-", " ")).replace(artist, "", 1)
+    if title != artist:
+        return title in rest
+    return EDITION_SQ.sub("", rest) == ""   # a self-titled album: nothing but edition words left
 
 
 def main():
@@ -273,6 +273,7 @@ def main():
     for k in [k for k, v in found.items() if not real_score(v.get("s"))]:   # a wrong number was read as the score (first run): look again
         del found[k]; tried.pop(k, None)
     old = (TODAY - dt.timedelta(days=RETRY_DAYS)).isoformat()
+    rv_tried = data.setdefault("rv_tried", {})   # albums already checked at the usual reissue-review addresses
     todo = [a for a in albums if a["id"] not in found and tried.get(a["id"], "") <= old]
     print(f"{len(albums)} albums, {len(found)} reviews already found, {len(todo)} to look up.")
     n_new = 0
@@ -294,7 +295,8 @@ def main():
             if fits and real_score(score):
                 hit = {"u": r[3] if r else url, "s": float(score), "y": year}
         if not hit and "various" not in artist.lower():
-            g = guess(artist, title)
+            g = guess(artist, title, reissues=a["id"] not in rv_tried)   # reissue-review addresses: the first time only
+            rv_tried[a["id"]] = 1
             time.sleep(1)
             if g:
                 hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
@@ -334,7 +336,8 @@ def main():
                     hit = {"u": r[3] if r else url, "s": float(score), "y": (r[1] if r and r[1] else None) or wyear}
                 break
         if not hit:
-            g = guess(artist, title)
+            g = guess(artist, title, reissues=k not in rv_tried)
+            rv_tried[k] = 1
             time.sleep(1)
             if g and real_score(g[1][0]):
                 hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
@@ -345,44 +348,23 @@ def main():
             print(f"  NR [{i}/{len(todo_nr)}] {artist} - {title}: {hit['s']} ({hit['y']})")
         nr_tried[k] = TODAY.isoformat()
     print(f"New Releases: found {n_nr} new reviews; {len(nr)} in all.")
-    # Reissues (every year on the site): Pitchfork's review of the reissue if it has one, otherwise its review of the original album
-    ri, ri_tried = data.setdefault("ri", {}), data.setdefault("ri_tried", {})
-    for k in [k for k, v in ri.items() if not real_score(v.get("s"))]:
-        del ri[k]; ri_tried.pop(k, None)
-    todo_ri = [t for t in ri_targets(albums) if t[2] not in ri and ri_tried.get(t[2], "") <= old]
-    print(f"Reissues: {len(ri)} reviews already found, {len(todo_ri)} to look up.")
-    n_ri = 0
-    for i, (artist, title, k, plain) in enumerate(todo_ri, 1):
-        if time.time() - START > MAX_MINUTES * 60:
-            print("Out of time for this run; the next run carries on."); break
-        hit = None
-        g = guess(artist, title)   # a review of the reissue itself, e.g. /reviews/albums/radiohead-ok-computer-oknotok-1997-2017/
-        time.sleep(1)
-        if g and real_score(g[1][0]):
-            hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
-        if not hit:
-            for w in wiki_candidates(artist, plain):   # the original album's Wikipedia article and the Pitchfork review it cites
-                time.sleep(0.5)
-                got = from_wikipedia(w, artist)
-                if got:
-                    url, wscore, wyear = got
-                    r = read_review(url)
-                    time.sleep(1)
-                    fits, several = review_fits(r, url, artist, plain)
-                    score = pick_score(fits, several, r, wscore)
-                    if fits and real_score(score):
-                        hit = {"u": r[3] if r else url, "s": float(score), "y": (r[1] if r and r[1] else None) or wyear}
-                    break
-        if not hit and plain != title:
-            g = guess(artist, plain)
-            time.sleep(1)
-            if g and real_score(g[1][0]):
-                hit = {"u": g[0], "s": g[1][0], "y": g[1][1]}
-        if hit:
-            ri[k] = hit; n_ri += 1
-            print(f"  RI [{i}/{len(todo_ri)}] {artist} - {title}: {hit['s']} ({hit['y']})")
-        ri_tried[k] = TODAY.isoformat()
-    print(f"Reissues: found {n_ri} new reviews; {len(ri)} in all.")
+    # Nov 28, 2026: the Reissues lists are gone, but their reviews are kept: any Pitchfork review of an album (original
+    # release or reissue) goes with that album wherever the site shows it (album page, Discography row, New Releases)
+    for k, v in (data.pop("ri", None) or {}).items():
+        if "|" in k and real_score(v.get("s")) and review_names(k, v.get("u", "")):
+            nr.setdefault(k, v)
+    data.pop("ri_tried", None)
+    by_name = {}
+    for a in albums:
+        for t in dict.fromkeys([a.get("title", ""), re.sub(r"\s*[\(\[].*?[\)\]]", "", a.get("title", ""))]):
+            by_name.setdefault(key(a.get("artist")) + "|" + key(t), a["id"])
+    n_att = 0
+    for k, v in nr.items():   # a review found for the album under its name (New Releases, Discography, a reissue) also goes on your copy's page
+        aid = by_name.get(k)
+        if aid and aid not in found and real_score(v.get("s")):
+            found[aid] = v; n_att += 1
+    if n_att:
+        print(f"Added {n_att} reviews to albums you own from the reviews found by name.")
     data["updated"] = TODAY.isoformat()
     with open(OUT + ".tmp", "w") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
